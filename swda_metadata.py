@@ -3,6 +3,9 @@ from utilities import *
 # Initialise Spacy tokeniser
 tokeniser = nlp.data.SpacyTokenizer('en_core_web_sm')
 
+# If utterances are concatenated per speaker addional work should be done to produce correct label metadata.
+# Set to True only if you don't have concat_per_speaker = True to process_transcript.
+CREATE_LABEL_METADATA = False
 # Dictionary for metadata
 metadata = dict()
 
@@ -114,20 +117,23 @@ save_word_frequency_distributions(word_freq, metadata_dir, 'word_freq.txt')
 save_text_data(os.path.join(metadata_dir, 'vocabulary.txt'), vocabulary)
 
 # Count the label frequencies and generate labels
-labels, label_freq = get_label_frequency_distributions(data_dir, metadata_dir, label_index=2)
-metadata['label_freq'] = label_freq
-metadata['labels'] = labels
-metadata['num_labels'] = len(labels)
-print("Labels:")
-print(labels)
+if CREATE_LABEL_METADATA:
+    labels, label_freq = get_label_frequency_distributions(data_dir, metadata_dir, label_index=2)
+    metadata['label_freq'] = label_freq
+    metadata['labels'] = labels
+    metadata['num_labels'] = len(labels)
+    print("Labels:")
+    print(labels)
 
 # Create label frequency chart
-label_freq_chart = plot_label_distributions(label_freq, title='Swda Label Frequency Distributions', num_labels=15)
-label_freq_chart.savefig(os.path.join(metadata_dir, 'Swda Label Frequency Distributions.png'))
+if CREATE_LABEL_METADATA:
+    label_freq_chart = plot_label_distributions(label_freq, title='Swda Label Frequency Distributions', num_labels=15)
+    label_freq_chart.savefig(os.path.join(metadata_dir, 'Swda Label Frequency Distributions.png'))
 
 # Write labels and frequencies to file
-save_label_frequency_distributions(label_freq, metadata_dir, 'label_freq.txt', to_markdown=False)
-save_text_data(os.path.join(metadata_dir, 'labels.txt'), labels)
+if CREATE_LABEL_METADATA:
+    save_label_frequency_distributions(label_freq, metadata_dir, 'label_freq.txt', to_markdown=False)
+    save_text_data(os.path.join(metadata_dir, 'labels.txt'), labels)
 
 # Count speakers and save to list
 metadata['num_speakers'] = len(set(speakers))
@@ -137,7 +143,8 @@ print("Speakers:")
 print(speakers)
 
 # Create and print the metadata string
-metadata_str = ["- Total number of utterances: " + str(metadata['num_utterances']),
+if CREATE_LABEL_METADATA:
+    metadata_str = ["- Total number of utterances: " + str(metadata['num_utterances']),
                 "- Max utterance length: " + str(metadata['max_utterance_len']),
                 "- Mean utterance length: " + str(round(metadata['mean_utterance_len'], 2)),
                 "- Total Number of dialogues: " + str(metadata['num_dialogues']),
@@ -145,6 +152,16 @@ metadata_str = ["- Total number of utterances: " + str(metadata['num_utterances'
                 "- Mean dialogue length: " + str(round(metadata['mean_dialogue_len'], 2)),
                 "- Vocabulary size: " + str(metadata['vocabulary_size']),
                 "- Number of labels: " + str(metadata['num_labels']),
+                "- Number of speakers: " + str(metadata['num_speakers'])]
+else:
+    metadata_str = ["- Total number of utterances: " + str(metadata['num_utterances']),
+                "- Max utterance length: " + str(metadata['max_utterance_len']),
+                "- Mean utterance length: " + str(round(metadata['mean_utterance_len'], 2)),
+                "- Total Number of dialogues: " + str(metadata['num_dialogues']),
+                "- Max dialogue length: " + str(metadata['max_dialogue_len']),
+                "- Mean dialogue length: " + str(round(metadata['mean_dialogue_len'], 2)),
+                "- Vocabulary size: " + str(metadata['vocabulary_size']),
+                # "- Number of labels: " + str(metadata['num_labels']),
                 "- Number of speakers: " + str(metadata['num_speakers'])]
 
 for dataset_name in sets:
