@@ -65,6 +65,7 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None, conc
 
     # Concatenate utterances so there is only one per speaker
     if concat_per_speaker:
+      print("Concatenating per speaker..")
       utterances = concatenate_per_speaker(utterances)
 
     # Create Dialogue
@@ -76,6 +77,10 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None, conc
 def concatenate_per_speaker(utterances):
   prev_utt = None
   for utt in reversed(utterances):
+    # Skip empty utterances
+    if len(utt.text) < 1:
+        continue
+    
     # Initialize for the first uttr.
     if not prev_utt:
       prev_utt = utt
