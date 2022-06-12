@@ -50,7 +50,7 @@ with tempfile.TemporaryDirectory(dir=archive_dir) as tmp_dir:
     corpus = CorpusReader(tmp_dir)
 
     # Process each transcript
-    for transcript in corpus.iter_transcripts(display_progress=False):
+    for transcript in corpus.iter_transcripts(display_progress=True):
 
         # Process the utterances and create a dialogue object
         dialogue = process_transcript(transcript, excluded_tags, excluded_chars)
