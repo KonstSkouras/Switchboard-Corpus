@@ -26,6 +26,11 @@ train_split = load_text_data(os.path.join(metadata_dir, 'train_split.txt'))
 test_split = load_text_data(os.path.join(metadata_dir, 'test_split.txt'))
 val_split = load_text_data(os.path.join(metadata_dir, 'val_split.txt'))
 
+all_transcript_ids = train_split + test_split + val_split
+
+# Resplit the transcripts into train/val/test (80/10/10).
+train_split, val_split, test_split = split_sets(metadata_dir, all_transcript_ids, train_set_split=0.8)
+
 # Files for all the utterances in the corpus and data splits
 full_set_file = "full_set"
 train_set_file = "train_set"
