@@ -22,7 +22,7 @@ class Utterance:
         return str(self.speaker + " " + self.text + " " + self.da_label)
 
 
-def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
+def process_transcript(transcript, excluded_tags=None, excluded_chars=None, concat_per_speaker=True):
 
     # Process each utterance in the transcript and create list of Utterance objects
     utterances = []
@@ -62,8 +62,10 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
 
     # # Concatenate multi-utterance's with '+' label
     utterances = concatenate(utterances)
+
     # Concatenate utterances so there is only one per speaker
-    utterances = concatenate_per_speaker(utterances)
+    if concat_per_speaker:
+      utterances = concatenate_per_speaker(utterances)
 
     # Create Dialogue
     conversation_id = str(transcript.utterances[0].conversation_no)
