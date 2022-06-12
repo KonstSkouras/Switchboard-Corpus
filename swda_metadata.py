@@ -56,6 +56,7 @@ metadata['mean_utterance_len'] = mean_utterance_len / num_utterances
 # Count each sets number of dialogues, max/mean dialogue length and number of utterances
 max_dialogue_len = 0
 mean_dialogue_len = 0
+min_dialogue_len = 1000000 # already know that total number of utterances is quite less than 1m
 num_dialogues = 0
 sets = ['train', 'test', 'val']
 for dataset_name in sets:
@@ -70,7 +71,9 @@ for dataset_name in sets:
     # Count max number of utterances in sets dialogues
     set_max_dialogue_len = 0
     set_mean_dialogue_len = 0
+    set_min_dialogue_len = 1000000 # already know that total number of utterances is quite less than 1m
     set_num_utterances = 0
+
     for dialogue in set_list:
 
         # Load dialogues utterances
@@ -89,12 +92,22 @@ for dataset_name in sets:
         if set_max_dialogue_len > max_dialogue_len:
             max_dialogue_len = set_max_dialogue_len
 
+        # Check set and global maximum dialogue length
+        if len(utterances) < set_min_dialogue_len:
+            set_min_dialogue_len = len(utterances)
+
+        if set_min_dialogue_len < min_dialogue_len:
+            min_dialogue_len = set_min_dialogue_len
+
     metadata[dataset_name + '_max_dialogue_len'] = set_max_dialogue_len
     metadata[dataset_name + '_mean_dialogue_len'] = set_mean_dialogue_len / set_num_dialogues
+    metadata[dataset_name + '_min_dialogue_len'] = set_min_dialogue_len
+
     metadata[dataset_name + '_num_utterances'] = set_num_utterances
 
 metadata['num_dialogues'] = num_dialogues
 metadata['max_dialogue_len'] = max_dialogue_len
+metadata['min_dialogue_len'] = min_dialogue_len
 metadata['mean_dialogue_len'] = mean_dialogue_len / num_dialogues
 
 # Count the word frequencies and generate vocabulary
@@ -160,6 +173,7 @@ else:
                 "- Total Number of dialogues: " + str(metadata['num_dialogues']),
                 "- Max dialogue length: " + str(metadata['max_dialogue_len']),
                 "- Mean dialogue length: " + str(round(metadata['mean_dialogue_len'], 2)),
+                "- Min dialogue length: " + str(metadata['min_dialogue_len']),
                 "- Vocabulary size: " + str(metadata['vocabulary_size']),
                 # "- Number of labels: " + str(metadata['num_labels']),
                 "- Number of speakers: " + str(metadata['num_speakers'])]
@@ -169,6 +183,7 @@ for dataset_name in sets:
     metadata_str.append("- Number of dialogues: " + str(metadata[dataset_name + '_num_dialogues']))
     metadata_str.append("- Max dialogue length: " + str(metadata[dataset_name + '_max_dialogue_len']))
     metadata_str.append("- Mean dialogue length: " + str(round(metadata[dataset_name + '_mean_dialogue_len'], 2)))
+    metadata_str.append("- Min dialogue length: " + str(metadata[dataset_name + '_min_dialogue_len']))
     metadata_str.append("- Number of utterances: " + str(metadata[dataset_name + '_num_utterances']))
 
 for string in metadata_str:
