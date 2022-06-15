@@ -87,7 +87,7 @@ def concatenate_per_speaker(utterances):
     
     # Same speaker
     if utt.speaker == prev_utt.speaker:  
-      prev_utt.text = prev_utt.text + " " + utt.text 
+      prev_utt.text = prev_utt.text.strip() + " " + utt.text.strip() 
       prev_utt.da_label = prev_utt.da_label + " " + utt.da_label
       # Remove utt from the same speaker
       utterances.remove(utt)
