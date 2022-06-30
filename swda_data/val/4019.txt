@@ -1,0 +1,92 @@
+A|Okay, um, Chuck, do you have any pets there at your home?|qy
+B|Yeah, I do.|ny
+A|And what kind do you have?|qw
+B|I've got a male Siamese about a year old here. I live alone in an apartment, and, uh,  except for the cat.|sd sd
+A|Uh-huh. Uh-huh|b b
+B|How about you?|qo
+A|Well, we have a cat, um, he's probably, oh, a good two years old, big, old, fat and sassy tabby.|sd sd
+B|Uh-huh.|b
+A|Oh. Uh, how's the disposition of your Siamese cat?|qw
+B|Well, it's, uh, you know they're just, uh, aggressive by nature|sv
+A|Uh-huh.|b
+B|and, uh, he's been neutered and declawed, so  he's an indoor cat,|sd sd
+A|Uh-huh.|b
+B|so, uh, that kind of calms him down for the most part. How about yours?|sd qo
+A|Well, yeah, he's, uh, he has been really aggressive, uh, especially towards my little girl, for some reason.|fo_o_fw_"_by_bc sd
+B|Huh.|b
+A|He's, uh, been so mean to her|sd
+B|And, and you say you've had him how long?|qw^d
+A|We've had him for about two years|sd
+B|Two years.|b^m
+A|and he was so mean to her, um, right after we first got him. So we had him neutered, and, and declawed, and now he bites her. He can't scratch her any more,|sd sd sd sd
+B|Huh.|b
+A|he bites her.|sd
+B|Does he bite her enough to draw blood?|qy
+A|Yeah, yeah, he has a couple of times, so.|ny ny sd %
+B|Uh-huh.|b
+A|But he's a very possessive cat. He, he loves my son, it's his cat, and he's the only one that allows him to touch him or pet him or love him|sd sd sd sd
+B|Yeah.|b
+A|and he's so funny, he just follows my son around just like a dog.|sd sd
+B|Huh.|b
+A|He won't even let my son shower.|sd
+B|Yeah.|b
+A|He meows and wants to get in the bathroom and, while he showers, it's so hilarious. So he's quite a animal|sd sd sd
+B|Yeah, boy, I guess. Well as long as he doesn't get too aggressive. I guess with the daughter he's all right.|b ba sv sv
+A|Yeah.|b
+B|You wouldn't want him to carry her off or something.|sv
+A|Yeah, well, we, we did, uh, actually take him to the pound a couple of times, you know because we just couldn't have him being so aggressive towards the girl,|b sd
+B|Uh-huh. Sure.|b b
+A|but, uh, he seems to have mellowed out a little bit, and we do keep our daughter away from him. So.|sd sd %
+B|Yeah, yeah.|b b
+A|Were it not for my son, the cat would not be in this house|sd
+B|Is that the only pet that you have?|qy
+A|It is, uh-huh. We, we tried a dog about four years ago, and we ended up with, uh, oh, malamute and some other kind of mix. Anyway it was, it ended up being just a huge, huge dog that ate us out of house and home. So, we gave him up and tried.|na ny sd sd sd
+B|Well, do you live, you, you in a house, or a place where you, uh,|qy
+A|Yes, uh-huh, we're in a house, but we're in a subdivision where we really can't allow the dog,|ny ny sd sd
+B|I see.|bk
+A|we couldn't allow him to run free, so, he was just chained up all the time, and it was, it was  unfortunate.|sd sd sd
+B|Sure.|b
+A|So have you tried any other pets?|qy
+B|No, no. I, I live alone in an apartment, and, uh, it's, it's not that big that, uh|nn nn sd sd
+A|Oh|b
+B|although I've heard rabbits are pretty good|sd
+A|Oh.|b
+B|you know, I saw something on C N N or on cable here a while ago that showed some people that had rabbits in apartments and in houses,|sd
+A|Uh-huh. Oh, my word.|b ba
+B|and they apparently, uh, especially when they're young when they bring them in|sd sd
+A|Oh, my word.|ba
+B|uh,|%
+A|And do they, they just paper train it or something?|qy
+B|I guess. I guess, yeah, and I would imagine that they don't have many more than one to start with, either.|na na % sd
+A|Yeah. Well, rabbits are darling. That would be fun if you could get them trained. Otherwise they're pretty smelly|b sv sv sv
+B|Yep, that's right.|aa aa
+A|Oh.|%
+B|Did you see the, the C N N, the, the dog show, uh,|qy
+A|Huh-uh, we don't have C, we don't have cable.|nn sd
+B|I see. Well they have, uh, uh, a they call it the Westminster Dog Show, uh, I think it's in New York City at the, at the Gardens there once a year live|bk sd sd sd
+A|Oh.|%
+B|and they had that on last week, and that's really kind of something  to watch, uh,|sd sv
+A|Oh.|%
+B|it's on, I think, two or three nights for maybe an hour or two|sd
+A|Is that right?|bh
+B|and some of the weirdest animals you ever want to see in there.|sv
+A|Oh|%
+B|Some of them are really beautiful, too.|sv
+A|Uh-huh.|b
+B|So.|%
+A|Well, I'd be, interesting to watch.|sd
+B|So you live in Utah do you?|qy
+A|Yes, uh-huh. Elton.|ny ny sd
+B|Goodness.|ba
+A|We live out here by, it's by Ogden. It's north of Salt Lake City, Utah|sd sd
+B|Uh-huh.|b
+A|and we really love it out here. It's, uh, kind of country. We're, we're only about ten minutes from Ogden.|sd sd sd
+B|Uh-huh.|b
+A|So, we're kind of country but not too.|sd
+B|Well do you all work for T I, or for,|qy
+A|No, huh-uh. Do you?|nn nn qy
+B|Yeah, yeah, yeah.|ny ny ny
+A|Oh, well, see, I'm getting so many calls to Texas.|sd
+B|This is the very first one I've, I've talked to.|sd
+A|Oh, well, great. Yeah, I've been doing it for about two weeks and, uh, no my, No my,|ba b sd %
+B|Uh-huh.|b

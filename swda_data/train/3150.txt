@@ -1,0 +1,66 @@
+B|So, how do you feel about capital punishment?|qo
+A|Well, it's, I am pretty much against it|% sd
+B|Really?|qy
+A|Yeah. How about you?|ny qo
+B|Oh, I'm pretty much for it.|sd
+A|Oh, good we can have a debate.|ba sv
+B|We'll have some interesting discussion, I guess.|sv
+A|Well, like, um, I don't know, I think that I, one of the reasons that I'm against it is that, uh, um, I'm afraid of someone losing their life, for um, wrongly,|h % sd
+B|Wrongfully. Yeah.|^2 b
+A|Right|aa
+B|Yeah.|b
+A|and, uh, another reason, one of the arguments, that really, I really actually have been kind of ambivalent about it, but one of the arguments that really, uh, made me feel kind of strongly against it, is that, uh, you know, someone said to me once, well, imagine if the person you love most in the world, like your mother or something, if someone killed her, wouldn't you want to see them killed for the punishment? But then I thought about it and I thought, well, the loss that I would feel at losing my mother   someone else would feel that about that person no matter how rotten they were, somebody loves them|sd sd sd sd
+B|Yeah, it would never be equal, Right. Right. Yeah.|b ^2 b b b
+A|How about you?|qo
+B|Well, I guess, you know, I, I guess I can see it from several different perspectives, but, you know when I hear about things like, you know, what they've, what they've been reporting about in Milwaukee, you know I, I, to me I don't see any way of rehabilitating the guy. You know, maybe there is, I don't know.|h sd h
+A|Yeah, that's true.|b ba
+B|But, you know, and, you know, he's never going to be, to me, a functioning part of society. He's already been either paroled, or whatever, for child molestation.|sv sv
+A|Uh-hum.|b
+B|I mean, I don't know, I just, I really have a hard time with that because he really sounds like a real sicko. And, you know, for the things he's done, I don't know, I guess it's either, you know, put him in jail for the rest of his life, you know, or or capital punishment I guess. You know|h sv sd h sd
+A|Right. Well you know  that's true, because um a lot of um these conversations I've had on this program this these telephone conversations have revolved around um criminal you know justice.|b sd
+B|Oh, really.|b
+A|Uh-huh. Uh-huh. Or whatever and most of the time I hear myself saying well you know we don't have enough room left in the jails and people crime is still climbing and we need to have different punishments you know.|b b sd sd sd sv
+B|Right.|b
+A|but I just am scared of capital punishment, I guess.|sd
+B|I I mean you know there there is always that chance but you know I guess to some people it'd almost be better to die to them than to spend life in prison or whatever I don't I mean I don't know but uh, you know, but that would be a situation where if somebody you know was gonna be, you know you you you really throw a lot on the courts, hopefully that they won't do that you know for any for any situation really. But, uh, you know, when I, you find somebody just like that situation, I mean, it was disgusting when I read about it today. And, and when you find someone like that, that you know is guilty, he confessed already to killing eleven I, I'd, you know, I guess I have a hard time feeling merciful toward him,|sv sv sv sv sv sv
+A|Uh-huh.|b
+B|and|%
+A|Right. Especially when it's so far removed. If it's no one that I know then you have to think about the taxpayers paying the shelter and feed and clothe them for the rest of their life.|b ^2 sv
+B|Right. Right. And trying to rehabilitate him, too, and, you know,|b b sv %
+A|Letting him out again|^2
+B|Right, exactly. And, uh, you know, nobody wants that.|b aa sv
+A|Uh-huh.|b
+B|You know, everybody would be just as scared to death, you know. We, we've had a real problem here in Texas with, uh, prison overcrowding and they've been releasing people left and right and, you know, they've committed murders and rapes and everything else, and, you know, you just think, you know, where's the justice here.|sv sd sd sd sv
+A|Uh-huh.|b
+B|I mean, you know, they're not even having to serve out what they should be serving.|sv
+A|That's true. You know, I just recently moved to Massachusetts. I'm not sure what their policy is on capital punishment and that was one of the questions but, uh, I do know that they are notorious for paroling people.|ba sd sd sd sd
+B|Oh, really?|bh
+A|Yeah, when they're, when, and then having them reconvicted for violent crimes.|ny % sd
+B|Uh-huh. Yeah.|b b
+A|And, I guess, they said, you know, do you think it should be restricted? I guess, if it were, if, if, because a lot of states do still practice capital punishment|sd % sv
+B|Uh-huh.|b
+A|I guess violent crimes would be the crimes where I can see it making the most sense.|sv
+B|Yeah.|b
+A|You know, violent crimes with no, uh, with just malicious intent.|sv
+B|Right, exactly. Yeah. Well, you know, that's exactly, I mean, I'm, I'm not saying I, I think capital murder or capital punishment is the perfect solution in every case, you know, especially because there are some cases when you just don't know and I, I think there's a, a shadow of a doubt, you know, like with this, this guy in, in Milwaukee. I mean, it, he pretty much confessed to it. I mean, they, you know, just everything, I mean, cannibalism and everything else, uh,|b aa b sv sv % sd % sd
+A|Yeah. Hang?|b ^2
+B|Because, I mean, that's just awful.|sv
+A|And what is he going to do prison to the other people|bh
+B|Right. Well, I have a I have a hunch that, you know, the other prisoners aren't going to be too happy with him anyway. Either, I mean, you know they, I don't know, from, from what I hear about jail life is not any way to live.|b sv % h sd
+A|Right.|b
+B|But, uh, I don't know. It's just,|%
+A|Well, I was, I saw on a human interest story, or whatever today, there was a woman who was just being paroled and trying to make it back, she was off drugs and everything,|sd sd
+B|Uh-huh.|b
+A|but she said, uh, you know, in prison you can get anything. You can any drugs you want. There's, it, it's just like being outside. You know, people  find ways around.|sd sd % sd sd
+B|Really.|b
+A|And there's a power structure that you have bow to and, and, it really isn't, for some people who have been there for over, and over, and over, it really isn't, uh, as bad. I mean, there's, it's not that bad of a life as it should be for the punishment aspect.|sd sd % sv
+B|Yeah. Yeah.|b b
+A|But the society is turned against punishment and more towards rehabilitation and  maybe that's why, one of the reasons why crime has gone up, because it's not so scary anymore.|sv sv
+B|Yeah. That, Yeah. Well, you know, especially like repeat offenders. It, it just appalls me that they can be out, you know, they even get a ten year sentence and be out in, in two, or three, or four years. You know, that's, that's scary because, you know, I'm not sure, I think we're paroling them without even knowing if they're, you know, going to be committing any more violent acts or not.|b % b sd sd sd
+A|Right. And what they're going to be doing when they get out|b ^2
+B|Right. And, it, it's, it's really scary I you know, I, I don't know what the perfect solution to that is but I know that especially with violent crimes where, you know, you're nearly a hundred percent convinced that they're guilty and without much repentance or anything else, you know, then, I don't know, I, I guess, I, I just really don't see much use for this guy in Milwaukee, you know. For instance, I mean, that's just, I could see capital punishment in a case like that. And, you know, for, for other people, too, that do things, like that. But, uh, when, uh, my wife and I are both participating in this survey and she picked up the phone and when she heard the topic, she said, capital punishment, so she was, uh,|b sv % h sv % sv % sv sd sd %
+A|Handed it to you?|qy^d
+B|Yeah, well luckily it was for me. Because they want, they coordinate the times so it can, only be one or the other.|ny sd
+A|Oh, oh, I see.|b
+B|So, she tried to enter her number and it wouldn't work so she said, whew, it's for you. So, but, uh, you know, I don't know, I, I struggle with it, but I, I really think that in, in terms of like this, I'd, I think that it, it might not be such a bad thing. Because, I don't know that anybody, I don't know that anybody would feel good, you know, like if you let someone like that loose in your community. You know, I, I, I'm you'd have to be scared to death|sd sd sd h sd sv % sv
+A|Well, maybe if they could, uh, if they had more money or more, more resources to work more on rehabilitation, I mean, deep down I think every, every human|sv sv sv

@@ -1,0 +1,92 @@
+A|All right. Well, on this subject, I really hadn't had to deal with putting someone in there yet, but my mother's always been administrator of a nursing home|fo_o_fw_"_by_bc sd sd
+B|Uh-huh.|b
+A|so I've always been involved, you know, in one.|sd
+B|How do you feel about them, I mean, since you've kind of been close to that.|qo
+A|Well, I've Well, I can kind of see both sides, you know, I really can. Uh, nursing homes to me, I would personally be the last resort you know, I you know if I had to put someone in there.|sd sd % sd
+B|Uh-huh. Well, I've had a touch of experience. My, um, dad had emphysema and got to the point where mother couldn't take care of him|b sd sd
+A|Yeah, if it's a have to thing, yeah, I, yeah.|aa sv aa % aa
+B|and, uh, she put him in, but he wasn't there very long before he died|sd sd
+A|Uh-huh.|b
+B|but, um, I guess, um, the one time that I saw him there, you know, as far as the surroundings, that seemed okay.|sd
+A|Uh-huh.|b
+B|But, um, we kind of thought that maybe they just wanted to give him some medication to sort of, you know keep him real out of it all the time|sd
+A|Yeah. Yeah.|b b
+B|and that's always kind of bothered me.|sd
+A|Yeah.|aa
+B|Uh-huh.|b
+A|that's like everything else, though.|sv
+B|I have a sister-in-law who runs a nursing home, but I've never actually been there|sd sd
+A|Uh-huh.|b
+B|and I know that she's the kind of person who wouldn't allow, you know, a lot of the horror things to take place that you hear about.|sd
+A|Yeah. Yeah, but,|b arp_nd %
+B|But still I'm sure there are, you know, aspects to it that aren't really desirable.|sv
+A|Yeah. Yeah. Yeah, I know, I've always, well, my sister's involved in one also, and I really think they really do a wonderful job. But still there's those little things that happens, you know|b b aa sv % sd sv sv
+B|Yeah.|b
+A|there really is, which I think, it's a wonderful place, you know, if it comes to that, you know, if you just can't take care of them any more.|sv sv
+B|Well, sometimes you don't have any other alternative|sv
+A|Uh-huh, that's it.|b aa
+B|family and friends are usually, well family's tied up with their own lives and things, and usually working|sv
+A|Uh-huh. Other things.|b ^2
+B|and it's hard to,|%
+A|Yeah, yeah, yeah but I think when the time comes, I, I hope to have the time to really look around, you know and pick one that I really think my mother would be happy at.|aa aa aa sd
+B|Yes. Uh-huh, I think that's important, too, in fact there's a,|aa b aa %
+A|I do too. Outside's awful deceiving sometimes you know.|aa sv
+B|Yes. There's one close to where my mother is, but in order to get in, you have to be able to, um, walk in on your own, in other words, you can't be in, you know, too bad a shape to start out with.|aa sd sd sd
+A|Yeah. Yeah.|b b
+B|But then if you deteriorate, um, they have a separate section for those who need care you know, all the time.|sd
+A|yeah. Yeah.|b b
+B|But it's always, well, and they have a long waiting list, too. So there's always this feeling of, well, golly gee, you know, you've got to be able to walk in the door, so you can't wait until you're too bad off|% sd sd sd
+A|Off, yeah.|b^m b
+B|but then, you don't want to go do that when you don't have to because like, uh, you have to give up your automobile or whatever.|sv
+A|To, no. Uh-huh, and everything you worked so hard for all your life|b^m aa b sd
+B|Yeah|b
+A|yeah.|%
+B|and if you're still capable of driving and doing those things, then you feel like, well, gee, I'm, you know, I'm isolating myself here for no reason at the moment.|sv
+A|Uh-huh. Uh-huh.|b b
+B|So it's kind of a, that's a hard one, but it is a very nice nursing home.|sv sd
+A|Now there is some really nice ones. There's also, you know, some private ones, you know|ba sd
+B|Uh-huh.|b
+A|but of course, I would never be able to afford to put my parents in something like that, you know,|sd
+B|Yeah, that's the problem|aa sv
+A|that's way out of my reach.|sd
+B|the expense of it all is, and, uh, what I, another thing I hate to see is when someone has a small amount of money, and they go into one of these places and they just eat it all up immediately.|% sv
+A|Oh, yeah.|b
+B|But those who don't have money can go in and get the same care. You know|sv
+A|Uh-huh the very same, yeah.|b aa aa
+B|So I don't like that aspect.|sd
+A|No, but I, there's, I think there's ways around it, though, that, you know, like, they could put it in one of their children's names or something you know.|aa sv sv
+B|Yeah.|b
+A|But still, a lot of them doesn't feel comfortable doing that. You know, it's their money.|sd sv
+B|That's right.|aa
+A|You know, that's how I feel about it, anyway.|sd
+B|Well, yeah, I've talked to my mother about that several times lately, and I, I said, I want you to have control of your own business.|b sd sd
+A|Yes.|b
+B|But, you know, what if.|qh
+A|Yeah, my mother's seventy now, so naturally she's retired, but she's still on her own, I mean.|b sd sd sd
+B|Yeah, yeah, my mother's, uh, seventy-five and still has her own home and everything.|b b sd
+A|I think that's wonderful, I really do, just as long as they can, and then on the other hand, I've seen some people go into the nursing home and just so happy you know.|ba ba sv sd
+B|Yeah. That's true. They have a lot of people around to do things with.|b aa sv
+A|Uh-huh, they're not lonely.|b sv
+B|Some of those places have wonderful activities and things, you know, lots of stuff going on.|sd
+A|Oh, yes, uh-huh.|aa b
+B|And they'll take them places|sd
+A|Yeah.|b
+B|so. I don't know, it's not all bad|h sv
+A|No.|aa
+B|but I guess once you get ill, then, you know, you really have some problems if you can't get around and do things.|sv
+A|Around, yeah. But I really don't know what the other solution would be you know,|aa aa sd
+B|No.|b
+A|I really don't. But no, when the time comes I'm really, hopefully we'll really look around before I decide on one for my parents|sd % sd
+B|Uh-huh.|b
+A|really do, because I have been raised in one, you know, so there's lot of things I know to look for.|% sd sd
+B|Yeah.|b
+A|And I don't think they'd want to go where they used to work, either you know|sd
+B|Yeah.|b
+A|I really don't.|sd
+B|That might be kind of tough, huh.|sv
+A|It really would, yes, yes, and like I said, my sister's still in it, and I really don't think my mother'd want to be there, either. Oh. Well, it's been nice talking to you.|aa aa aa sd sd b fc
+B|Well, you too.|fc
+A|And I guess we'd better get back to work, huh.|fc
+B|Okay.|fc
+A|All right. Bye-bye.|fc fc
+B|Bye.|fc

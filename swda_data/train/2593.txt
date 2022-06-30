@@ -1,0 +1,57 @@
+A|So, the, the topic is hobbies|sd
+B|In your spare time.|^2
+A|Yeah. Who has spare time Um, I don't really, don't really do any handicraft things like that. I used to. I used to do, like salt ornaments and things.|b qh sd sd
+B|Uh-huh.|b
+A|But that was, oh, good many, many years ago and I have, I really, my spare time|sd %
+B|Yeah.|b
+A|I usually go do aerobics and read, and that's,  about it|sd sd
+B|Yeah. Yeah. I understood that. I'm, you know, I work full time and I have two kids so my spare time usually involves something with the kids.|b b sd sd sd sd
+A|Yeah.|b
+B|You know, hobbies, we, I, I can't really say that we have hobbies. It's more like maybe projects or something on the weekend. You know, we like to go out  go out,|% sd sd sd
+A|Yeah, family. Well, well, that's what I meant by salt that we, we did that like as a family, little ornaments and, things like that, and just kind of really got into it. Like during the Christmas season, making them up for other people and things like that.|b % sd
+B|Oh. Uh-huh. Right.|b b b
+A|But as far as,|%
+B|Uh-huh.|b
+A|I've just never been very skilled at,  far, you know, needle, work|sd
+B|Uh-huh.|b
+A|And the things I've tried to do just don't look very good and,|sd %
+B|I, I guess mostly as far as, as crafts go, I've done, um, some needlepoint. I've done mostly cross stitching. I used to, uh, do like, um, one that I did for both kids are like, oh, they're plaques with, you know, different kind of animals and then you have their birth date on them,|sd sd sd sd sd sd
+A|Yeah.|b
+B|and then you have a little picture of them and you frame them and stuff,|sd sd
+A|Uh-huh.|b
+B|but nothing steady. Just when I get some spare time here and there I'll work on it, but, you know, it's nothing that I, can really,|sd sd sd
+A|It's not, like you sit and knit every night|bf
+B|No. Not at all.|aa aa
+A|Yeah. I don't even know how to knit and my mother used to knit, you know,  all the time|b sd sd
+B|Uh-huh.|b
+A|and, and I don't even know how to knit I'm like, that's a lost art from this family|sd sd
+B|Yeah.|b
+A|So, um, but, it's not a very good topic it feels like,  if, you know,|% sv h
+B|No.|aa
+A|not when you're neither one of us are really, I, I have seen things I really like, you know, that were done, especially like needlepoint.|% sd sd
+B|Uh-huh.|b
+A|Needlepoint, cushions and things.|sd
+B|Yeah.|b
+A|But, it just seems like there'd be so much time involved in it, you know, and, and that the petty point and things like that.|sv
+B|Yeah.|b
+A|It's like, God, it, it seems like it's easier just to go out and buy it already made|sv
+B|I don't know what, what, is, it's like there, but here a lot of the country stuff is in, you know, a lot of the woodwork, a lot of, uh, stenciling.|sd sd sd
+A|Yeah.|b
+B|And, you know, you can go to any, like a flea market and stuff and there's just tons of stuff everywhere and,  you know, people just do it in their garage|sd sd sd
+A|Yeah.|b
+B|and then on weekends they go out and sell it and during the week they go back and do some more.|sd sd
+A|And see, they do that as their job. Whereas,  you know, for us it,|bf
+B|Right|aa
+A|and they make it cheaper for us to buy|sd
+B|Yeah Definitely.|aa aa
+A|So, but, and, I mean, I'm sure it must be relaxing to do things like that because I can remember when I used to do, you know, those little salt, those figurines and things. It was, it was relaxing, you know, creative, you felt very creative.|% sv sd sv sv
+B|Uh-huh.|b
+A|But, it just was so time, time,  involved, you know, so much time involved and the different steps and things.|sd
+B|Yeah. Uh-huh.|b b
+A|So, and,|% %
+B|Okay Well, I think, I think we're okay. I think we did five minutes, so we don't have to keep talking about nothing anymore|b sv sv sd
+A|Yeah. So,|b %
+B|Okay. Well, thank you.|b ft
+A|Okay. I hope you have a good rest of your weekend.|bd sd
+B|Thanks. Bye-bye.|ft fc
+A|Okay. Bye-bye.|fc fc

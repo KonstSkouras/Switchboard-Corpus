@@ -1,0 +1,162 @@
+A|Now. I'm sorry,|% fa
+B|Ready to go. Okay.|sd %
+A|excuse me. And, uh, I do that, we recycle, uh, newspapers. We take, you know, the DALLAS MORNING NEWS daily, and the Plano paper daily|sd sd sd
+B|Right.|b
+A|and, you know, after a month of that you got a ton, of newspapers.|sd
+B|Oh, I know it builds up really fast.|b sd
+A|It really does,|aa
+B|Yeah.|b
+A|I do recycle, newspapers and, uh, glass.|sd
+B|Yeah. Uh-huh.|b b
+A|We don't really have enough plastic to mess with, we don't, you know, like we don't drink milk and we don't have children so we don't have, you know, six thousand plastic milk jugs,  a month, you know.|sd sd sd sd
+B|Yeah, we do, With two, a two year old and a, three year old|b sd sd
+A|Yeah.|b
+B|and, so it really builds up with us.|sd
+A|Right. But there is, you know there is a place you can take those also you know at the same place just put them in a different, uh, container.|b sd
+B|Yeah.|b
+A|And, uh, Plano has plans I believe it's tentatively scheduled for sometime in May of this year, the city is going to leave, uh, receptacles at people's home.|sd sd sd
+B|Oh, yeah,|b
+A|and they|%
+B|That would be much more convenient.|sv
+A|It, certainly would|aa
+B|Yeah.|b
+A|and they can separate it and then the, you know, trash guys will pick it up. Which would really be handy, you know, for people like shut ins, or, people who can't or don't drive, you know,|sd sd
+B|Yeah. Yeah. Or it just builds up so often,|b b bf
+A|they can't get to the these centers.|sd
+B|Yeah.|aa
+A|And I'm sure rather than try to, uh, ask someone to take them for them they probably just pitch them, you know?|sv
+B|Yeah, yeah.|b b
+A|But I think that's probably a good idea.|sv
+B|They used to have several places, um, that were a little ways out in the community that did the paper and all,|sd
+A|Uh-huh.|b
+B|and they stopped doing it because they said it wasn't profitable.|sd
+A|Right.|b
+B|So finally, um, they, the people put so much pressure on the city,|sd
+A|Uh-huh.|b
+B|they did a survey of everybody,|sd
+A|Uh-huh.|b
+B|and they took a big huge bin that has paper and plastic, um, and put it in front of the Wal-Mart store in town,|sd
+A|Uh-huh.|b
+B|and they, it just really, every time you went by there it was just over flowing,|sd sd
+A|That's right.|aa
+B|and so Wal-Mart complained|sd
+A|Uh-huh, yes.|b b
+B|so they moved it behind the store and nobody knew where it was,|sd sd
+A|Yeah.|b
+B|and so people kept piling stuff in the same place, where it used to be.|sd
+A|Uh-huh. Great|b ba
+B|Oh, it was just like a dump there,|sd
+A|I bet it was.|ba
+B|and so finally, you know, I called and they said, you know, it was behind there and I started taking my things behind there.|sd sd sd
+A|Uh-huh.|b
+B|So we do that with, because we have milk cartons, you know, constantly, with two little kids, and the paper,|sd
+A|Uh-huh. Sure.|b b
+B|but it just builds up,|sd
+A|Uh-huh.|b
+B|it would be so nice if they had it, you know at your home, where you could just turn it in so they, they final had enough of a response that they decided to try a small target area in one neighborhood,|sd
+A|Uh-huh. Uh-huh. Right.|b b b
+B|and they have pickup there, it's, uh, I think once or twice a week.|sd sd
+A|Uh-huh.|b
+B|And the first couple weeks they did it nobody got their stuff out so they had not much participation, and they were going to cancel it,|sd sd sd
+A|Uh-huh.|b
+B|but then finally people started getting the message.|sd
+A|Yeah. It's just a matter of education, I think.|b sv
+B|Yeah, and I think that, you know, if they can get enough going, they'll continue it, you know, throughout the rest of the city|aa sd
+A|Uh-huh.|b
+B|but it's not, I think originally people thought it would be profitable for cities to do this,|% sv
+A|Uh-huh.|b
+B|and it's not going to be,|sv
+A|Yeah,|b
+B|I don't think|sv
+A|yeah, that's right.|aa aa
+B|Yeah.|b
+A|I think basically it's a good idea, you know, I hope it works.|sv sd
+B|Yeah, I do to because it's amazing, how much, you know, trash,  we can generate,|aa sv
+A|Absolutely. absolutely.|aa aa
+B|I know this year we took our Christmas tree they had a place, in the park where you could go have your tree shredded|sd sd
+A|Right.|b
+B|and they gave you a little, um, seedling to plant, you know|sd
+A|Uh-huh. Right.|b b
+B|you could take the, the mulch home with you, you know, and take buckets of that home,|sd
+A|Uh-huh.|b
+B|so that was really good idea,|sv
+A|Sure.|b
+B|I thought.|sd
+A|Absolutely. And there's just, you know, the two of us my wife and I and it's amazing how much stuff just the two of us generate,|aa sd sd
+B|Yeah|b
+A|you know, I can imagine a family of, you know, four or five.|sd
+B|Oh, yeah it's really, it adds up so fast.|aa % sv
+A|It really does.|aa
+B|Yeah.|b
+A|As far as new stuff to recycle, you know, I don't really, I don't really know, I really hadn't thought about it to tell you the truth.|sd sd
+B|Yeah. Well, they're working on diapers, which would be great,|b sd
+A|That's right, I was, Uh-huh.|aa % b
+B|I've read so many different things about diapers and now their saying that originally they thought the disposables were just awful,|sd sd
+A|Uh-huh.|b
+B|but now their saying that they're, really not that much in comparison to the others because you don't have to use the water to wash them, and, you know, all different kinds of things too,|sd
+A|That's right.|aa
+B|so the diaper service, trucks apparently the fuel that they use and the fumes that they produce to deliver, and drop those off|sd sd
+A|Uh-huh. Yeah.|b b
+B|So I don't know what's the, you know, right thing to do but I really would hope that they would come up. I know there was a brand just briefly on the market that was recyclable|sd sd sd
+A|Uh-huh.|b
+B|but the landfill have to do something special, you know, for those,|sd
+A|I see.|b
+B|but that just generates a tremendous of volume of trash too, so,|sd %
+A|Oh, I'm sure it must. Yes, you know I'm not personally involved because I don't, you know, I don't have any children that wear diapers,|aa % sd
+B|Yeah.|b
+A|but I'm sure it creates a large amount of, you know,  uh, refuse.|sd
+B|It does, and you just feel guilty if you don't do, something with them, you know,|aa sv
+A|That's right . That's right.|aa aa
+B|because you hate to contribute to the problem,|sv
+A|Absolutely.|aa
+B|but on the on the other hand the alternatives aren't to great either|sv
+A|That's right, absolutely, absolutely.|aa aa aa
+B|Yeah, I don't know what else they could recycle more of. I guess we don't really use that many tin cans. I guess there's some places where you can recycle aluminum but I don't know about like cans that you keep vegetables and stuff, in,|b sd sd sd sd
+A|Uh-huh.|b
+B|I don't know if those are recyclable or,|sd %
+A|I think they're made out of aluminum,|sd
+B|Um.|%
+A|Yes. There are, there is a receptacle, you know, at the centers also for aluminum,|aa sd
+B|Yeah.|b
+A|but again we don't, we don't generate that much so,|sd %
+B|Yeah,|b
+A|we don't,|sd
+B|we don't either,|sd
+A|Yeah.|b
+B|we usually use frozen vegetables and things so we don't really have, much of that.|sd sd
+A|That's right. that, ninety-nine percent of ours is newspaper and, uh, you know, uh, glass.|aa b^m sd
+B|Yeah. Well, now when we lived out in California they actually had places where you could recycle if you change the oil in your car, or for aerosol cans and things, like that because they say it's not safe to put those things, in the regular trash|b sd
+A|Uh-huh. Uh-huh. That's right. Car batteries.|b b aa sd
+B|Yeah|b
+A|Uh-huh.|b
+B|Yeah.|b
+A|I don't, you know I don't change my own oil, so I don't, I don't, uh, don't have that problem.|sd sd
+B|Yeah. Yeah, well other than that I'm not really sure,|b b sd
+A|Yeah.|b
+B|we, we try to recycle old clothes|sd
+A|Uh-huh. Yeah, well we do to as a matter of fact. *typo too|b b sd
+B|Our church has a place,  where you can take them|sd
+A|Right.|b
+B|and they, you know, pass them on to, other families,|sd
+A|Yeah.|b
+B|so.|%
+A|Yes we have one of those in town. Uh-huh.|b sd %
+B|Yeah, yeah.|b b
+A|You know, our church each year has a, one of their major fund raisers is, you know, a garage sale.|sd sd
+B|Oh.|b
+A|And there's a ton of clothes always, you know left over and I take those down to the, uh, it's called the Clothes Closet,|sd sd sd
+B|Uh-huh.|b
+A|that's what it's called here in Plano. Right. Uh-huh.|sd aa aa
+B|Yeah.|b
+A|And they distribute them to the people, that need them.|sd
+B|Yeah. Yeah. Yeah that's, that's real helpful, too.|b b b sv
+A|Uh-huh. Yeah.|b b
+B|Well, I'm not sure I can't really think of anything else that we could recycle.|sd
+A|No, I can't either|aa sd
+B|Yeah.|b
+A|I really can't, um, no, I, I really can't either.|sd % sd
+B|Okay.|b
+A|Okay, well, it was nice talking to you.|b fc
+B|You to. Take, care.|fc fc
+A|Okay. All right. Bye-bye.|fc fc fc
+B|Bye-bye.|fc

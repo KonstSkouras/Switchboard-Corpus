@@ -1,0 +1,67 @@
+A|Okay, Ellen what kind of a car do you think you're going to buy? and background|fo_o_fw_"_by_bc qw
+B|Well, as a matter of fact, I was thinking about that the other day, and, uh, I really don't know the answer, uh, I would sort of like to, uh, think about something in the way of, uh, uh, sort of a sporty car but not any, not, you know, a luxury type sporty one.|sd sd sd
+A|Yeah.|b
+B|But, um, something that still has a lots of amenities and, you know, gadgets and things.|sd
+A|Oh, you do want a lot of that stuff?|qy^d
+B|Yeah, well, yeah I like, I like some of those things. They come in really handy sounds in|ny ny sd sd
+A|What kind of, uh, things are you going to consider, you know, what, uh, you said something about the, about the, well, what do you call them, you said amenities, that they have,|qw sd t1 sd
+B|Amenities.|b^m
+A|but what about, um, their reputation of the company or the price.|qw
+B|Yeah, well, of course, I guess, uh, price is always the big consideration, but,|b sv %
+A|It is for me, other people, don't seem to have the same problem|sd sv
+B|yeah. Well, that's, that's a big one in my book,|b sd
+A|Yeah.|b
+B|but, uh, um, I have preferences for, uh, for some, uh, makers over others, um, and I would sort of like to buy American,|sd sd
+A|Yeah.|b
+B|but, you know, I'm not so totally hung up on that, that I wouldn't buy something else, how about you?|sd qo
+A|Well, um, the last car we bought was American because of, because of that reason, but have not been entirely happy with, uh, several things about the car, it doesn't seem like the quality is quite as high as I expected it to be.|sd sd sd
+B|Oh, really?|bh
+A|Because several things, minor things sort of, but still they cost us money, um, that we didn't feel like we should have had to pay, on a car that, that was that new, you know,|sd sd
+B|Uh-huh.|b
+A|we bought the car new and after, um, well, well, well under two years we had to replace the clutch.|sd % sd
+B|Oh.|b
+A|And, they just said, well, you know, clutches are disposable , and I said, since when?|sd sd
+B|Yeah.|b
+A|Brake pads are disposable , you know,|sd
+B|Yeah.|b
+A|we know that, but I never thought a clutch was disposable.|sd sd
+B|Yeah, I wouldn't have thought so either.|aa sd
+A|Yeah, so that was, that was kind of a shock|aa sd
+B|Oh. Yeah, I, I guess there's a lot to, to think about when you're trying to make that decision.|b b sv
+A|Yeah, you know, the less actually, the less you spend on a car it seems like luxury cars, they're called luxury cars even though they're much more expensive like, like, uh, uh, a Mercedes Benz, they don't have the history of breaking down or things like that, that would go wrong would definitely not be considered disposable.|aa sv sd sd
+B|Right.|b
+A|You would never think of having to replace the clutch in a Mercedes, especially not after two years.|sv
+B|No but then, No, but on the other hand, I guess, too, uh, whenever you do have to have some major work done on one of those it costs a fortune.|aa % aa sd
+A|Really? Oh I don't know.|bh h
+B|Yeah, I've, uh, worked with a couple of people who have owned, uh, various years, uh, Mercedes|b sd
+A|Uh-huh.|b
+B|and, even though they do a lot of the work themself then just buying the parts and everything is, is pretty expensive. But for them it's, it's sort of a hobby, too, to own them .|sd sd
+A|Yeah. What kind of, what brand of car are you thinking about buying or like what things are you looking at?|b qw qw qw
+B|Well, I haven't really gotten that far with it, um, I've always sort of liked General Motors, a little bit better than some of the others|sd sd
+A|Uh-huh.|b
+B|but, uh, oh, I guess, I really don't know.|h
+A|How come I've been kind of, um, I guess the commercials are getting to me, the Toyota commercials,|% sd sd
+B|Yeah.|b
+A|and I know that a lot of people I've, I've known that have had Toyotas have been just extremely happy with them, that hardly had any problems at all.|sd
+B|Yeah, that, I think that's,|b % %
+A|I think they have a really good, uh, quality.|sv
+B|Uh-huh. My, uh, daughter has owned two different ones, and, uh, you know, we've had some work done on them but it's not too bad, and the reason, one of the reasons we, um, bought the first one was because a friend of ours had a Toyota that he just really drove for years and years and years and he lived way out in the country so he put a lot of miles on it,|aa sd sd sd % sd sd sd
+A|Uh-huh.|b
+B|and, you knew it had, had been through a whole lot,|sd
+A|Uh-huh.|b
+B|and yet, you know, it, it held up pretty doggone good, so, I thought they would|sd sd
+A|Yeah. They seem to be really durable.|b sv
+B|Yeah.|b
+A|So, I don't know, I'm, I'm not ready to buy a new car yet, but I don't know, if, if the next time I'm going to try to, to stay with buying something American or if I'm going to go for a little more, what I would consider to be a long-term investment|h sd sd
+B|Yeah. Well, and I guess, you know, you always have to think about things like, your gas mileage and stuff like that, you know, you ...|b % sv %
+A|Oh, it's easy to get gas mileage in this car,|sd
+B|Yeah|b
+A|it gets excellent gas mileage.|sd
+B|Yeah, that's one of the big throwing cards for, some of the foreign ones like one music|aa sd
+A|Uh-huh.|b
+B|Well, we talked long enough|ad
+A|I think so.|aa
+B|Okay, well, enjoyed it.|b fc
+A|All righty, thanks and background|fc ft
+B|Bye-bye.|fc
+A|Bye-bye.|fc

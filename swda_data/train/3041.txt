@@ -1,0 +1,135 @@
+A|So what movies have you seen lately?|qw
+B|Well, I saw, um, lately I've seen SOAP DISH.|sd
+A|Oh.|bk
+B|Which was a, and that was a lot of fun. It was kind of a silly little film about soap operas and things.|% sd sd
+A|Well, see that's something I want to see,|sd
+B|Yeah.|%
+A|that's on my list to see.|sd
+B|Yeah, it was, it was okay. It was not, um, not a wonderful film but it was, I mean it was, it was cute but not the biggest laugh I've seen.|b sd sd sd
+A|Oh, okay.|b
+B|I saw THELMA AND LOUISE. A couple of days ago, and really liked that.|sd
+A|Oh, did you?|bh
+B|Actually I saw it twice because I liked it so much.|sd
+A|Oh. See that's also on my list.|b sd
+B|And it's very, it's really disturbing but a good movie.|sd
+A|A disturbing movie, how do you mean?|b^m qo
+B|Well, it was, um, let's see. The, um, it's, it's different, it's kind of, it's an action adventure kind of, you know, shoot 'em up kind of film.|% ^h % sd sd
+A|Right.|b
+B|But it's with women in it instead of men so that's kind of a that's kind of a twist on the normal thing.|sd sv
+A|A switcheroo, huh?|bh
+B|And it made me think a lot about, you know, you would applaud Bruce Willis in DIE HARD if he was doing this but you might not be so you know, so encouraging, of Susan Sarandon and then Gena Davis when they do it.|sd sv sv
+A|Right. When the shoe is on the other foot and see how it,|b sv
+B|So, that was kind of interesting. I've, but I really enjoyed it.|sd % sd
+A|Oh.|b
+B|So, I|%
+A|Because that, that just reminds me of, you know, like back in school and, you know, the girlfriends just taking off for a day or something. Just getting in trouble and probably not that much trouble|sd sd
+B|Yeah, that's kind of what it was.|aa aa
+A|but,|%
+B|Right.|b
+A|um, yeah.|b
+B|They had started out with that, then they got into lots of trouble.|sd sd
+A|Before we found the shopping malls that's what we did.|sd
+B|Uh-huh.|b
+A|Yeah, well, I'll have to put that, I'll have to keep that on my list then.|b sd
+B|Yeah. I also saw that Madonna movie.|b sd
+A|Oh.|b
+B|It's TRUTH OR DARE and that was pretty scandalous.|sd sd
+A|Scandalous?|b^m
+B|Yeah, it was kind of, yeah, Madonna she's pretty trashy.|ny sd % sv
+A|I can imagine.|ba
+B|And so it was, it was interesting|sd
+A|I guess she does it for the social value of showing you what trash is, huh?|sv
+B|well, I think she kept saying that, uh, they talked about her, it, it was a film of her concert, um, tour she had taken through all, all around the world. And they were all to her at the Vatican city and wouldn't let her perform in Rome, and she, kept saying that her show was not garbage.|sd sd sd sd sd
+A|Huh.|b
+B|It had a social message to it and,|sd %
+A|You just had to find it. You had to wade through it and find it|sv sv
+B|Right. We never quite believed that, so.|aa sd %
+A|You never quite got to,|sv
+B|I thought that was pushing it a little bit but, she ,|sv %
+A|All I know about that woman is that she's an incredible marketeer|sv
+B|She is. She's rich|aa sv
+A|Yeah, and she's rich and she, yeah, so.|aa aa % % %
+B|she's smart at what she does. She knows how to do that.|sv sv
+A|She knows how to twist this around, huh?|qy
+B|Yeah. What did you think about DANCES WITH WOLVES when you saw it?|ny qo
+A|Well, okay, see, we're getting back to last year. That's probably the last movie I saw. Um, DANCES WITH WOLVES, I just adored it.|b sd sd sd
+B|Really?|bh
+A|How can I tell you. Um, a couple years ago, I guess, well, maybe ten years ago I, I had read BURY MY HEART AT WOUNDED KNEE and, so, you know, just the general theme of the whole movie was, um, pretty,|^h sd sd
+B|Uh-huh.|b
+A|I mean I really liked it a lot.|sd
+B|Right.|b
+A|I mean it was a real consciousness raiser, I guess. Um, and I only bring up WOUNDED KNEE because that was what ten years ago you read and, and understood, you know, about the American pop, Indian population,|sv sv
+B|Right.|b
+A|and then everything went away for a couple years,|sv
+B|Uh-huh.|b
+A|and now it's back again. And, you know, it's sort of a popular view of, um, what happened way back then.|sv sv
+B|Right.|b
+A|Of course, no one will ever know. Really I don't|sv h
+B|I know, I was, I wondered if, uh, the tribes that they represented the tribe that was the, the evil tribe, if they were really as bad as it made them to be.|aa % qh
+A|Well, who knows. I mean it, it, it sort of showed like two different types of tribes like one was a warring tribe, and the other one was, uh, vegetarian kind of, you know, feel good tribe. You know, sort of thing,|no sd sd sd
+B|Right|b
+A|so there possibly were because you know you always have conflict in the world.|sv
+B|Uh-huh.|b
+A|Nobody can get along peacefully|sv
+B|Yeah, but I wonder I thought because they made a big deal about how this, this film was such a big leap for the, the people who, who were the ancestors of the, this Indian tribe and that, you know, that was so wonderful that they done that and they, uh, uh, I wonder how the ancestors of this warlike tribe if they were offended by the film,|aa % % sv sv qh
+A|Oh, I see.|b
+B|if it, you know, you didn't, hear any press about that.|% sv
+A|Yeah. Huh.|b b
+B|I thought it was a very interesting movie.|sv
+A|Well, I think so. I, um, I have come to respect a little bit more the, uh, you know, what went on here,|aa sd
+B|Right.|b
+A|but, but who knows how it's supposed to all end|qh
+B|Uh-huh Right.|aa aa
+A|You know on the, on the broad scope I mean, um, like if, uh, it, it, it had a much bigger thing I meaning to me I think about, you know, just the meaning of, um, the freedom of this country and, and what that really meant.|sv % sv
+B|Right.|b
+A|And that was taking over somebody else's freedoms. And sort of trampling that|sv
+B|Uh-huh.|b
+A|and, uh, so you know it, it meant something bigger I think. But still it was a I loved the buffalo scene. And I thought Kevin Costner was just, I got a little sick of his mug on the screen every, three minutes,|sv sv sd sv sv
+B|I know the|aa
+A|but he's the director, you know. Um, but, yeah, I, I just thought it was a really interesting, intense film.|sd % sv
+B|Well, that's good.|ba
+A|Intense I think is the word for it because three hours went by really fast.|sv
+B|That was, that was, it was, it was good. I looked at my watch only a few times, which is a good thing.|ba sd
+A|Yeah. Ate a lot of popcorn.|b sd
+B|But it put me in a really, it put me in a really bad mood, I don't know why.|sd sd
+A|Did it really?|bh
+B|Yeah, we there were three of us who went. We were just all really grouchy when it was over.|ny % sd sd
+A|Huh.|b
+B|So we decided that may be the mark of a good film. It made us think. And so,|sd sd %
+A|It made you think.|bf
+B|we were grouchy. We felt guilty for being,|sd sd
+A|Maybe well, maybe that was, um, but there are no answers, you know.|sv sv
+B|I know and we, we had nothing to do with it.|aa sd
+A|That, that can make you crabby, yes.|sv
+B|We were not responsible, but we still felt the thick blame for, what had gone on.|sd sd
+A|Really, that's true.|aa aa
+B|We could have,|%
+A|But it, it's, they sort of candy coated the western story for many years,|% sv
+B|Right.|b
+A|and, um, you know, when the truth, oh, well, it always balances out one way or the other once you get the whole story|sv sv
+B|Uh-huh.|b
+A|but,|%
+B|Yeah. Well, I do. I'm just out of school so I've seen, a lot of|b % aa sd sd
+A|Oh, okay.|bk
+B|don't have a job so I shouldn't go see movies all the time.|sd sd
+A|Oh, there you go|ba
+B|Um, I rented a good movie, um, called CINEMA PARADESO which is an Italian movie which is probably the best movie I've seen ever.|sd
+A|Oh. Oh.|b b
+B|It was just, wonderful.|sd
+A|Really?|bh
+B|It's, uh, story about a little boy in a Italian, a little Italian village, and he, um, owns a, um, or he works in a, a movie theater and it it helps the projectionist. There's a little, oh, an old man who's the projectionist and he befriends this old man, and then it just tells about their friendship that lasts through all these years.|sd sd sd sd sd sd
+A|Oh.|b
+B|And it's just, I mean, if you don't mind reading subtitles, I thought I had to kind of get beyond that. Those little, you know, reading the little words at the bottom of the screen but, um, oh, I just laughed and cried and, I really loved it.|% sd sd sd sd sd sd
+A|Oh, I'll have to write that down.|sd
+B|That was a, a great one.|sd
+A|Wow.|ba
+B|And other than that I,|%
+A|I'll have to write that, have you, have, did you see TEXASVILLE? Are you into, Larry McMurtry?|sd qy qy
+B|No, I I hadn't. I had read, um, THE LAST PICTURE SHOW and but that's out on video now and I haven't seen it. But I was interested in reading TEXASVILLE before I saw the movie.|ng sd sd sd sd
+A|Yeah.|b
+B|Did you like it?|qy
+A|Um, I, I read a lot of Larry McMurtry books|sd
+B|Right.|b
+A|and TEXASVILLE is just like that. It's like very peculiar circumstances and very peculiar things that people do with each other|sd sd
+B|Uh-huh.|b
+A|it's, it's, you know, and it's just sort of a,|% %

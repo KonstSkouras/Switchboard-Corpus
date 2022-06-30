@@ -1,0 +1,81 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|All right, well, I'm not a big exerciser, but I kind of had to start after I had my baby because I wanted to lose that extra weight.|b sd sd
+A|Uh-huh.|b
+B|And so basically at this point I'm, I'm a real walker.|sd
+A|I am, too.|sd
+B|Are you?|bh
+A|Yes.|ny
+B|I don't do that, oh, I guess I'll call it that fancy type walking where they kind of move their hips, you know, and keep their arms up.|sd
+A|Uh-huh.|b
+B|I don't do that. I mostly just take a, a walk around the block or with my baby or, you know, and I have to do that at least once a day. If it, If it's going to make any effect on, since I have to eat the same as I did before.|sd sd sd
+A|Oh, that's good.|ba
+B|I can't neglect that because of the baby either.|sd
+A|And how old is your baby?|qw
+B|She just, uh, well, she was premature, so she's about nine months now, though. times goes fast.|sd sd sv
+A|Yes. Well, I walk two and a half to three miles every night.|aa sd
+B|Oh, that's great.|ba
+A|My husband and I were on Nutrisystem about eighteen months ago|sd
+B|Uh-huh.|b
+A|and he lost sixty-two pounds and I lost twenty-one.|sd sd
+B|Oh, my goodness.|ba
+A|So we've decided to maintain our weight, that we will do this exercise walking program and we walk our dog every night and go up around the elementary school.|sd sd
+B|Uh-huh.|b
+A|We have a little path that we do. And, uh, except if it's raining or real cold which it hasn't been|sd
+B|Uh-huh. Yeah. Exactly.|b b b
+A|we try to get out, uh, every, every night.|sd
+B|Uh-huh.|b
+A|And he plays racquetball twice a week, but I'm not into that, so I think the walking is enough to help us stay in shape and toned.|sd sd sv
+B|Well, I think that is just wonderful. Now, as far as I'm concerned, I have several other children and so, uh, I think at this point to fit it into, to other things, it's kind of a task.|sv sd sv
+A|Yes.|aa
+B|You know. Uh, it's not to where I'm just so freed up that I, I just go, oh, this is wonderful, let's go|sd ^q
+A|Right that's right. I know my kids are into sports and a lot of times, tonight we won't finish with the football game till around nine thirty so we will just go out after that.|aa aa sd sd sd
+B|Uh-huh.|b
+A|So, my kids, luckily, are old enough I can leave them at home alone while I go out and walk.|sd
+B|Yeah. Now, does your husband usually go with you, then?|b qy
+A|Yes.|ny
+B|Oh, see, now that's really nice.|ba
+A|Yes.|aa
+B|Because mine's at meetings sometimes and, and he's not really into it so I have to,|sd sd %
+A|No my husband never was either until he lost the weight.|% sd
+B|Uh-huh.|b
+A|That was his decision. He had arthritis in his hips and his doctor said he needed to lose weight and exercise.|sd sd sd
+B|I think that is so wonderful.|sv
+A|So once he got motivated, now he's ready to walk every night. And our dog has lost a little weight. He walks every night, too So, he gets excited when he sees us put on our, our shoes, our walking shoes.|sd sd sd sd
+B|I bet. I think that's really, really good. And, and, you know, I think this, after you've done it a certain amount of time, it kind of does get to be a routine.|ba sv sv
+A|Yes.|aa
+B|It's not, like when I first started, it, you know, that was the hardest thing was to get ready and get out there.|% sd
+A|Making time for it.|^2
+B|But now if I haven't done it in a day or two or something, I really notice that I haven't done it in a ...|sd
+A|Yes.|b
+B|You know. And I like the time because my kids, sometimes they come with me and sometimes they don't. And when they don't, I, I really notice, you know, how fun it can be when they come. So, uh, I like to have somebody come with me.|sd sd sd sd
+A|I know, I do, too.|aa sd
+B|Uh, I know most of, enough of the people that if anything ever happened I could go to a home around this block area.|sd
+A|Right.|b
+B|So it, it's not real dangerous, but still, I don't like to go alone.|sd sd
+A|No.|aa
+B|So|%
+A|I never do either. Even if I have my dog with me.|sd
+B|Yeah.|b
+A|You know, it's nice to have another person there, but ...|aa %
+B|Yeah. You know,|aa %
+A|Mostly, it's my husband and sometimes it's my kids.|sd sd
+B|Well, I think that's great. I, and, well, sometimes when I, I take my kids to the playground that's the only other exercise I, I really think I do. I was on an exercise program before where it was more like an aerobics type thing.|sv sd sd
+A|Uh-huh.|b
+B|Uh, I found real quick that wasn't for me.|sd
+A|Me, too. I did the dance step when I lived up in Michigan|sd sd
+B|Uh-huh|b
+A|and it just wore me out. I would leave totally exhausted. I never lost any weight, and I got to the point I dreaded going in.|sd sd sd sd
+B|Yeah, yeah.|b b
+A|So walking seems to be a good solution for me and it doesn't cost anything|sd sd
+B|Right right. And it gives me time to think. So I think, not only does it help my body, but I think it helps my mind too.|aa aa sd sd sd
+A|Yes.|aa
+B|So I like that.|sd
+A|That's the one time in the day my husband and I can get away and talk without having the kids jump in and ...|sd
+B|Uh-huh. Yeah, need something and,|b aa ^2 %
+A|Yep.|aa
+B|They can wait until you get back home.|sv
+A|Yep.|aa
+B|Well, I think that's great Well, that's what I do for|sv sd
+A|Yep, that's all I do, too.|b sd
+B|Okay.|b
+A|Okay.|b^m

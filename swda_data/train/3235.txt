@@ -1,0 +1,56 @@
+A|What, what do you feel is the, the major change that's been going on?|qw
+B|That's a tough question. We are now able to work full eight hours a day and still do our housework. Right Don't ask me.|sv sv ad
+A|I think that has been the major change, is that, women feel they need to go out and do this, they, they no longer feel it's, uh, it's no big deal to, to stay home and raise your family any more.|sv sv
+B|Well it has no credibility any more.|sv
+A|I know it, and I, I think, I think that's really sad, because I think there's going to be a generation of kids that are going to grow up raised by somebody else.|ba sv
+B|Well, I'm a school teacher, and I'm in charge of raising them, so I can appreciate it.|sd sd sd
+A|You don't, well I'm, I'm still home with, with my last one, and I wouldn't trade, change a minute of it for anything|% sd sd
+B|Oh, good for you, good for you.|ba ba
+A|But, I, I can't, I can't help but think that eventually the pendulum's going to swing back the other way again.|sv
+B|Well, you know, it's interesting, because when I heard the topic, I was thinking, uh, this summer Oprah had a T V show about wives that refused to go to work, and how their husbands thought they were terrible,|sv sd
+A|Uh-huh.|b
+B|and one woman had four children, and her husband said she wasn't pulling her own weight in the family|sd sd
+A|Oh, yeah, that's,|b %
+B|that's frightening|sv
+A|Yeah, it, it's sad,|b ba
+B|and, it, you know, it was almost from the audience participation it was almost a social issue, you know|sd
+A|Uh-huh.|b
+B|people were siding with the husband, saying, You've got to go to work, if you have these four children, you've got to support them, and nobody would give her credit for being home and raising them.|sd sd
+A|Uh-huh. Yeah, I, I think too many people feel they need to live a more extravagant life-style than necessary|b b sv
+B|That's true.|ba
+A|uh, you know, to, I, I don't think, you know, the kids don't benefit from the bigger house and the fancier cars, and, and, and this type of thing. I think that they would from the, you know, attention or whatever|% sv sv
+B|That's true.|ba
+A|uh, but, it, I, uh, I, I don't know, I, I see it as a major problem and I think it's going to have to swing back the other way, because I think we're going to have an awful lot of kids who are going to have major problems from all this.|% h sv sv
+B|Yeah, well, you know, I, as I said, I teach school|b sd
+A|Uh-huh.|b
+B|and, gosh, I'm trying to think, I don't know, I have one woman, one mother that I know is home, but she also has ten children.|^h h sd sd
+A|What, what grade do you teach?|qw
+B|Six, seven and eight.|sd
+A|Six, seven and eight. I've got a uh, where do you live? Are you out,|b^m % qw qy
+B|In Richardson.|sd
+A|In Richardson, we're in Plano here.|b^m sd
+B|Oh, okay.|bk
+A|I have a daughter in middle school, and, uh, I know there aren't very many, she has a few friends that have moms who are still at home, but do you see, um, you know, do you ever, do you ever see problems, you know, that you feel you know, that the kids are left alone too much,|sd sd sd qy
+B|Oh, yeah.|ny
+A|and,|%
+B|I've got one child, um, that stays with me every day until five, because his mother doesn't come home until seven, and he doesn't want to be home from three thirty until seven by himself.|sd sd
+A|He stays at school?|qy
+B|Uh-huh.|ny
+A|And the school allows that?|qy
+B|Well, he stays with me|na
+A|Uh-huh.|b
+B|and I have a tendency to work late. I work until six|sd sd
+A|Uh-huh.|b
+B|so he stays with me until five thirty and then goes home|sd
+A|Oh, my,|ba
+B|and, you know, I have lots of kids, because they know I'm there late|sd
+A|Uh-huh.|b
+B|I'm a slow mover to say the least, but, um, they'll come in and say, Can I stay with you because I don't want to go home to an empty house. And that's frightening, because, you know, the, when I said I, I'm, I'm raising them, I am, because we're talking about boy friends and we're talking about what the girl said in class, and, you know, what's right because there's no mother at home|sd sd sv sd sd sd sd
+A|Uh-huh. No mother to talk to.|b ^2
+B|and, um, it makes a difference, I, and just the social values,|sv % sd
+A|Well, I've just, do you, do you feel it will swing back the other way, or do you feel there's just going to be a big push to, uh you know, for, for more, more and more day care type situations?|% qy qrr
+B|I, I don't know. I, I have a feeling we're going to go more and more, I've got a twenty-one year old female, and I've got twenty-two year old male child, children, and I listen to my daughter, and she's going to work, and she's going to buy her house, and she's going to get her car, and then she's going to have her children, and then when, you know, they go on one salary, will they be able to sustain what their life-style is.|no sv sd sd sd sd sd sd sd sd
+A|Uh-huh.|b
+B|And they're back to work, and, you know, I agree with you, I was raised in a generation we didn't need all those things|sd sd sd
+A|Yeah.|b
+B|and we lived without them, we did fine,|sv sv

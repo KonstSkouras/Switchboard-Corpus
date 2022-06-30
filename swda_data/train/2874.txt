@@ -1,0 +1,84 @@
+B|So you like to fish, huh?|qy
+A|Yeah, I like to, I don't have a boat, but I like to fish and there's a lot of lakes around here. Uh, are there many lakes up there?|ny sd sd sd sd qy
+B|Yeah, actually there are quite a bit of lakes around me. We uh, we have the, those little, the, the, the Great Lakes, you know, uh, Lake Ontario is right near here.|ny sd sd sd
+A|Uh-huh.|b
+B|Plus, we're in what's called the Finger Lake Region of New York where there're lots of small lakes everywhere and these are, uh, real good, uh, for, like, you know, bass fishing and so forth.|sd sd sd
+A|They have mostly small mouth in them or,|qy^d %
+B|No, we have a, actually quite a lot of variety. There's, uh, there's, we have large mouth, small mouth, uh, sort of musky, pike, stuff like that.|nn sd % sd
+A|Uh-huh.|b
+B|You know, all sorts of fun stuff like that. Uh, we have a pretty large bass masters tournament actually takes place right on Lake Ontario every year.|sd sd
+A|Oh, yeah, that's right, uh-huh.|b ba b
+B|So it's, it's, that's, a lot of fun.|sd
+A|Uh-huh.|b
+B|How about you? Do you like, what do you like to go for?|qo qw
+A|Oh, it's, it's, uh, I fish for bass, but I hardly ever catch one, but, uh, uh, they have a tail race over in Lake Lavon|% sd sd sd
+B|Yeah.|b
+A|and, uh, you know, they wash, when they open up the dam and let out water, they wash down the fish and, uh, you catch that white bass and crappie out of there.|sd sd
+B|Um.|b
+A|Every once in a while there'll be striped bass.|sd
+B|We have, uh, some friends who live on the lake|sd
+A|Uh-huh.|b
+B|and, it, the lake it just seems, is, is completely filled with bass to the point where, you know, normally you go, go fishing for bass, you get a lot of sunfish, or, or cat or whatever, and some other strange stuff. *listen But in this particular lake, we went out with some friends, once and we just, every time you tossed the line in, you pull up a five, six, seven inch minimum bass and usually you pull up, you know, thirteen to fourteen inch bass.|sv sd sd sd
+A|Wow.|ba
+B|Yeah, it's a real, it's a real enjoyable experience to go fishing there because we just, we pull up, you know, bass after bass|aa sd
+A|Uh-huh.|b
+B|probably during, during perch season the perch will run in very large schools, so what they'll do is you'll, you'll be sort of boating around, these people own a little row boat, and they'll be boating around and they'll hit a, they'll hit a school of perches in the middle|sd sd sd sd sd sd
+A|Uh-huh.|b
+B|and when they do, you can just drop the lines in and just pull them in one at, they, they just drop it in. They can't pull it in fast enough.|sd sd sd
+A|What do you, what do you catch perch on?|qw
+B|Uh, I, they actually, they, according to them, you can catch, when the perch are running, you can catch them on just about anything.|% sd
+A|Huh.|b
+B|They tend to use, I guess worms or some kind of lures sometimes, but, you know, I've, she told me that they will sometimes use corn or anything, you know.|sd sd sd
+A|Uh-huh.|b
+B|They'll, corn or salami or bread or anything, they'll, they'll, they'll hit because they're just sort of surrounded, these large schools.|% sd sd
+A|Yeah, it's, sometimes I use corn, but, uh, uh, some fish steal it off the hook sometimes.|b % sd sd
+B|Yeah, it's a big problem.|aa sv
+A|Yeah, uh, the other day I was fishing with bread, uh, there's a college across the street|aa sd sd
+B|Yeah.|b
+A|and they, it's, it's full of carp and, uh, I caught a carp on a, about, what size is that, uh, I think it was a number two treble hook,|% sd
+B|Um.|b
+A|and it's huge, its, its mouth was full of hooks.|sd sd
+B|Wow.|ba
+A|So he was in a bad way. But, uh, it's, he was fast. He,|sd % sd %
+B|A big one?|qy
+A|Yeah. Well, it's, uh, it was sixteen inches long.|ny sd
+B|Wow, that's, that's, that's a nice size carp.|ba
+A|Yeah, I think it was about a pound and a half, you know, but all they're good for is the fight. Boy they they really don't want to come out of the water they, they zip through the water, you know, you're, how your line goes, you know|ny sd sv sv sd sd
+B|Uh-huh.|b
+A|and I thought, you know, that, uh, I wasn't going to be able to get it in, because, uh, the one I hooked just about ten minutes before, when I tried to raise it out of the water, it fell off, so it wasn't hooked very well. But, you know, I got it that far, I figured that, uh,|sd sd sd %
+B|That, that, that counts.|bf
+A|Yeah, that's what I said. That's what I told the guy. The guy was standing there and he laughed when it fell off and I said, that's a quick release, right there.|aa sd sd sd sd sd
+B|Do you, do you, do you actually like the taste of do you, like, eat the fish that you catch or are you more of a sport fisherman?|qy qy qy
+A|Uh, catfish, yeah. But, uh, I haven't eaten anything else, you know. Uh, there's some, uh, my dad has a farm and there's, he has two ponds up there and my uncle has a, a pond upstream and there's a lot of crappie in there now. But, uh, I think he's the only one that's, that's caught enough crappie or, a big enough crappie to eat. But the catfish, there's, you know, there's hundreds of them from like two to six pounds and, that, yeah.|sd sd % sd % sd sd sd sd sd ny
+B|Right, so you can just, oh, because I don't actually like fish. It's sort of, so when I fish, it's more for sport than anything else.|b % sd % sd
+A|Yeah, and if, you know, when you, when you have to look in their eyes and, you know, hit them in the head or whatever, that's what you do with a catfish you know, because you have to sever their spinal cord.|b % sv
+B|Right. And, and, and, and, and be careful you don't get stung.|aa sv
+A|Yeah, yeah.|b b
+B|Yeah, I know it. Have you ever tried, uh, deep sea fishing?|aa sd qy
+A|Uh, not yet. My brother went off the coast of Maine, uh, when the, I don't know, what they, mackerel|ng sd % h % %
+B|Yeah.|b
+A|that school up there? *listen--is there overlap? It's he, he said that it was just like that. They were throwing like, uh, uh, hell benders or, uh, uh, some other kind of treble hook lure and, and, uh, each time they bring them in they'd have at least one, sometimes they've had two on, you know, one on every hook.|qy % sd sd sd sd
+B|Yeah, we, I was out in Florida with a friend a while ago and we would go and just, uh, drop two, you know, a, a two or three rig, two or three hooked rig as well down off a boat. We just dropped it down there and, the captain had, you know, some kind of sonar in the boat|b sd sd sd sd
+A|Uh-huh.|b
+B|so he'd maneuver us into a school of fish and you just drop it in and and it just, you, you get one or two at a shot, you know and, It's a good deal, too.|sd sd sd sv
+A|Yeah.|b
+B|It was, it was a, like twenty dollars for six hours of fishing on some big charter boat.|sd
+A|Wow.|ba
+B|You know, and, and, and they'll clean your fish on a tip basis for you if you want.|sd
+A|Yeah, down here it's like two hundred dollars a day.|b sd
+B|Well, this is, yeah, this, this, this was for a, you know, large, there were maybe thirty of us on the boat.|% % sd sd
+A|A group party.|bf
+B|We, we weren't all related, just, you know, thirty people off the shop in the boat there.|sd
+A|Yeah.|b
+B|If you want to go on a boat alone, it's like two hundred dollars a day.|sd
+A|Yeah.|b
+B|But this is great, because it was, I think it was nineteen dollars for five hours and twenty dollars for six hours or something.|sd
+A|Uh-huh.|b
+B|You know, so you'd get to go out there for, for, for six hours and get a nice suntan and bring along some lunch and, and fish all day. It's really nice It's real enjoyable.|% sd sv sv
+A|Yeah. Well, I, I don't know if it's been five minutes yet or not.|b sd
+B|I think we're probably close, though.|sv
+A|Yeah. It's nice talking to you.|aa fc
+B|Nice talking to you, too. Good luck with fishing this season.|fc fc
+A|Good luck.|fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

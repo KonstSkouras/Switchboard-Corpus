@@ -1,0 +1,122 @@
+B|Uh, so what do you do to exercise?|qw
+A|Uh, I, uh, weight train, uh, three days on and one day off.|% sd
+B|Uh-huh.|bk
+A|I, uh, ride bicycles, uh, fifteen, twenty miles, I don't know, maybe three times, maybe four times a week. I play basketball, uh, couple times a week. I play softball one night a week. Uh, that's what I do.|sd sd sd sd
+B|Um.|%
+A|What about yourself?|qo
+B|That's pretty impressive. Uh, I guess I bicycle. Uh, the amount varies as much as a hundred and fifty miles a week.|sv sd sd sd
+A|Uh-huh.|bk
+B|Uh, I guess a play softball one night a week. And I backpack a lot over the summer.|sd sd
+A|Oh, really?|bh
+B|Yeah, that's, that's about the extent of it. I mean, I don't do any of those things particularly, you know, for exercise. But, uh, I guess the bicycling is the one thing I'll sort of, like, do if I feel like I need to go exercise Uh, but I do it mostly for fun.|ny sd sd sd sd
+A|Yeah, uh, what do you ride, uh, like, a bunch of hills or pretty flat?|b qy
+B|It, it, it varies. Uh, out near my house is pretty hilly. Uh, but sometimes I bike to work which is about, uh, a fifteen mile trip each way. And that's mostly flat.|sd sd sd sd
+A|How long does that take you to get to work?|qw
+B|Uh, about forty-five, fifty minutes.|sd
+A|How how does that work, work out with, uh, storing your bike and showering and all that?|qw
+B|Yeah, it can be a pain. Uh, basically, uh, I work on a campus so I can store my bike in my office and walk across the, uh, campus to the, uh, gym, use the shower there|b sd sd sd
+A|Uh-huh.|b
+B|uh, but, it's, it's enough of a pain, that I did it consistently one year, I would commute every day, uh, but it just became such a pain. I mean we're talking, you know, forty-five, fifty minutes for biking, uh, and sometimes longer if you had adverse wind. And then another half an hour, you know to cool down and take a shower and all this kind of stuff.|sd sd sd sd
+A|Right.|b
+B|It was a big hunk, hunk of the day Uh, and then of course another hour to get back home. Uh, so I've been doing that less, and, and concentrating more on, you know, light biking when I get home on the evening and then, you know, some more on the weekends.|sd sd sd
+A|Yeah. Do you ride a lot of rallies or a lot of those around there?|b qy
+B|Not so much. Uh, I guess mostly I bike on my own. I've got a touring bike. Uh, though I haven't gone on any extended trips with it.|ng sd sd
+A|Uh-huh.|b
+B|How about you, what kind of biking do you do?|qo qw
+A|Uh, well, actually my wife just got me into it and I did an, did an internship at the Institute for Aerobics Research in Dallas, the Cooper Clinic,|^h sd
+B|Uh-huh.|b
+A|and I learned all the health benefits of, you know, I was a solid weight trainer,|sd sd
+B|Uh-huh.|b
+A|and all I did was weights and aerobic exercise and then my wife got me into the aerobic exercise and said you really need to do it, so, once I got into this, uh, internship, I learned all the physiological advantages to it,|sd sd sd
+B|Uh-huh.|b
+A|so I began a program couple, I don't know probably three or four weeks ago and I did my first bike rally this Saturday. I did, uh, forty, forty miles,|sd sd sd
+B|Um.|%
+A|and, uh, that's the longest I've ever ridden so far, I usually, you know, fifteen or twenty.|sd sd
+B|Uh-huh.|b
+A|And it was, it was kind of hilly and it was pretty tough, but, uh, I'm looking at, uh, doing a lot more of it because, you know, my wife is really into it,|sd sd sd
+B|Oh, I see.|b
+A|and I, I kind of held her back a little bit this, this weekend. She wanted to go, go, go, but, you know, she wanted to stay with me|sd sd sd
+B|Uh-huh. It's good to have a partner.|b sv
+A|Yeah it really is.|aa aa
+B|Are you think of doing any, like, centuries, or ...|qy
+A|Yeah, that would be cool sometime if I could, you know, work up to that.|ny sv
+B|Uh-huh. Yeah, I just wondered if you were going to do that mostly or more like, you know, uh, uh, touring like from Vermont or, you know, that kind of, thing.|b b qy
+A|Oh.|b
+B|I mean people seem to get into different aspects. One is more of a distance, and one's more, just, you know, they want to put some equipment on their bike and go for a tour.|sv sv sv sv
+A|I've never really looked into that. That, you know, that's, my wife would just love that.|sd % sd
+B|Uh-huh.|b
+A|And I may do that sometime. There again, I'm just kind of a fledgling into this.|sd sd
+B|Uh-huh.|b
+A|I've, it's kind of funny. I called this number and I was just reading through a bicycle magazine and going through all the different tours coming up.|sv sd sd
+B|Yeah, yeah.|b b
+A|I mean, around Texas, you, you got about five or six, if you live around the Dallas area, you got five or six every weekend to choose from. Because they're really into it.|sd sd
+B|Oh, that's nice. Um.|ba %
+A|Bicycling is really big here. I didn't know that, and, you know, until I came down here, and, kind of caught the fever.|sd sd
+B|Wow. Yeah.|ba b
+A|Because I lived in Indiana all my life and, you know, you may say see one or two guys on a bicycle that, or above the age of fifteen or something,|sd sd
+B|Uh-huh.|b
+A|but, other than that it's nothing up there like it is down here.|sd
+B|Yeah, I'm not sure why that is. I mean, generally in the Midwest it seems to be less, much less. I mean, maybe it's because of the winters. Uh, or maybe just because, you know, there's, there's a lot more flat lands, you know, out in the West.|b sd sv sv
+A|Probably. Yeah.|aa b
+B|So it makes biking a better alternative for transportation.|sv
+A|Yeah. It, there's a lot of bikers around here. It's, it's really neat.|b sd sv
+B|Uh-huh.|b
+A|There are a lot of, a lot of resources, a lot of magazines, and stuff, little TEXAS BICYCLIST, is like a little newspaper that comes out every month.|sd sd
+B|Um.|%
+A|It's free just go to the bike shock, bike shop and pick it up, and it's got all the rides coming up, so I guess I'm going to be busy about every Saturday this summer, going to a different ride.|sd ad sd sd
+B|Oh, that's terrific.|ba
+A|Yeah, see a little bit of Texas I've never seen before.|% sd
+B|Uh-huh.|b
+A|So, uh, how long have you been biking?|qw
+B|Oh, I guess as an adult for just about the past, uh, three years or so Uh, you know, I guess last time I did it before that was college, which was about ten years ago.|sd sd
+A|Yeah.|bk
+B|And, uh, yeah, I guess I just never really thought about it much for a while, uh, until I suddenly discovered all my friends were basically biking a lot. And so I thought I'd try it, too.|b sd sd
+A|Have you ever had a, uh, it's kind of slightly off the subject, but you ever had a, uh, a blood workup done recently or since you've been biking, to see if it,|qy
+B|No, I haven't, no.|nn sd nn
+A|because it really, from what I understand, it really improves your, uh, cholesterol|sv
+B|Um.|%
+A|and, you know, it, uh, it kind of knocks down two of the big risk categories for coronary artery disease which is, uh, uh, low cardiovascular fitness, and also, uh, you know, the cholesterol.|sd
+B|Uh-huh.|b
+A|It gives you increased H D Ls and decreases your L D Ls.|sd
+B|Oh, that's great.|ba
+A|Yeah, so ...|b %
+B|Yeah, I've, I've definitely noticed it's had a good effect on my pulse rate, my resting pulse.|b sd
+A|Yeah.|b
+B|You know, it gets it down to about forty.|sd
+A|Really?|bh
+B|Yeah.|ny
+A|That's good.|ba
+B|Yeah.|b
+A|You say you ride about a hundred, hundred fifty miles a week?|qy^d
+B|Yeah.|ny
+A|Man. That's, that's hard-core.|ba sv
+B|On average, yeah.|sd %
+A|When do you get to begin with the winters and all that? What time of the year do you usually embark on your, do you ride inside if you can't ride outside?|qw qw qy
+B|No, I'm not that hard-core. I mean there are some people, in fact a lot of people will ride outside in the snow. They've got a, uh, mountain bike, you know, with the big knobby tires.|nn sd sv sd sd
+A|Yeah.|b
+B|And, I don't do that. I basically, I, I pretty much lay off for the winter. Uh, I was thinking of getting rollers for the last winter, you know, because it will help your balance when you're indoor training.|sd sd sd
+A|Um.|%
+B|Uh, but I just, you know, more or less stocked, like an exercise bike and that kind of thing. uh, but, yeah, I mean winters are kind of a problem so, I'm more or less out of shape now that I've been biking, I guess, this year for just a couple of weeks.|sd % sv sd
+A|Uh-huh.|b
+B|Uh, but, you know, up here it's only stopped snowing since then.|sd
+A|Yeah.|b
+B|Uh, but, yeah, it's, it's, it's, it's pretty good. It's, uh, the main, the main thing, I guess, for me is just to enjoy it because once it starts seeming like, you know, exercise and a chore I'll lay off it more.|% sv % sd
+A|Right. So you, uh, change up your routes a lot, and keep a ...|b bf
+B|Oh, yeah, yeah. I try to go someplace pretty different, you know, every week. I rotate around, uh, about four different routes, uh, from my house or I'll sometimes come in the school. It's nice coming, it's, it's nice riding to school because it's all along a canal path uh, because it's just, it's along the Erie Canal up here.|aa aa sd sd sd sd sd sd
+A|So, what school is it?|qw
+B|Uh, University of Rochester.|sd
+A|Oh, okay. Yeah.|bk b
+B|So it's fairly picturesque.|sv
+A|Yeah.|b
+B|And, uh, so it's, it's, it's a good ride as long as you're not doing it every day, it's a good ride|sd sv
+A|Yeah. That's true. Sounds neat.|aa aa ba
+B|Yeah.|b
+A|It's kind of, I was wondering if I was going to talk with someone that never has exercised before and doesn't want to and everything else, but got a guy that rides a hundred and fifty miles a week. That's, uh, motivating.|% sd sd sv
+B|Yeah.|b
+A|That's really good. Well good talking to you|sv fc
+B|Oh, it was good talking to you.|fc
+A|and keep up the good work.|fc
+B|Okay, you, too.|fc fc
+A|All right. Take care.|fc fc
+B|Bye.|fc
+A|Bye.|fc

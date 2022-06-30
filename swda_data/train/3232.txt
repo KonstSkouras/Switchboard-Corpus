@@ -1,0 +1,103 @@
+A|Okay, I guess our topic is, um, advice about going to college.|fo_o_fw_"_by_bc sd
+B|Uh-huh.|b
+A|Do you have children of your own?|qy
+B|Oh, no, I don't have any children, but I'm still going to college.|nn sd sd
+A|Oh, are you?|qy
+B|Uh-huh.|ny
+A|What school are you going to?|qw
+B|N C State.|sd
+A|Oh. Are you enjoying it?|qy
+B|Um, well, it's a lot of work|sd
+A|Are you working on your, um Bachelor's degree?|qy
+B|My Bachelor's. Uh-huh.|^2 ny
+A|And what field of study are you in?|qw
+B|Um, it's actually in computer science|sd
+A|Uh-huh.|b
+B|and I have a special interest in Voice I O.|sd
+A|Oh, well, that's neat. Are you from North Carolina?|ba qy
+B|No, I'm actually from Amarillo, Texas, originally.|nn sd
+A|Oh, are you really?|bh
+B|Uh-huh.|ny
+A|Oh. Well, what took you to North Carolina?|qw
+B|Oh, um, the service.|sd
+A|Oh, I see.|bk
+B|Yeah.|b
+A|Well, that was one of the things I was thinking about in school, um, I went to Texas Tech out in Lubbock and, uh, I had a friend, my roommate went to Tech also,|sd sd
+B|Uh-huh.|b
+A|but she was from New Mexico|sd
+B|Uh-huh.|b
+A|and she had to pay out of state tuition|sd
+B|Ooh.|ba
+A|and I think that would have, uh, played a real big part of my decision|sd
+B|It would have played a major part in mine.|sd
+A|yeah, because, um, she was of course back then it was so much cheaper than it is now. It was like four dollars a semester hour|sd sd sd
+B|Uh-huh.|b
+A|and so I was going to school for, you know, just a few hundred dollars a semester, and she was paying forty dollars an hour|sd sd
+B|Golly,|ba
+A|so she paid ten times as much because she was out of state.|sd
+B|Yeah, luckily I've paid in state tuition the whole time.|b sd
+A|Oh, that's good. Yeah, so I think that would be one thing I would definitely consider try to find a school within the state that, um, I liked well enough to attend.|ba b sd
+B|Uh-huh, um, Uh-huh. The second thing is some colleges only offer the, uh, liberal arts and, uh, whereas like State, they offer engineering courses|b b sd
+A|Uh-huh. Right, yeah.|b b b
+B|so depending on what your major is, or medical, you might want to some, um, attend somewhere like Tech|sv
+A|Yeah, right.|b b
+B|and, um, aside from the, uh, well some schools may even give you financial aid, where another one won't.|% sd
+A|Yeah, that's true, that was something else I had, was, I had government aid, of course, but, uh, it was wonderful, because I got one of those grants that you don't have to repay|b ba sd sd
+B|Oh, really.|b
+A|and, yeah, it was so nice|% sd
+B|Um.|b
+A|it paid most of my tuition, and, um, a lot of the book costs and that kind of thing so.|sd %
+B|Wow, that's great.|ba
+A|Yeah, I really,|b b
+B|Was it a Pell grant?|qy
+A|I'm sorry, what did you say?|br
+B|What kind of grant was it?|qw
+A|Well, it was called a B E O G, a Basic Equal Opportunity Grant|sd
+B|Uh-huh.|b
+A|and it was from the government, and it was based, at first it was based on my parents' income. My parents had five children and really didn't make enough money to send any of us to school.|sd sd sd
+B|Uh-huh.|b
+A|And so, uh, because based on the number of children and the amount of money, uh, my father brought in, I got a small grant|sd
+B|Uh-huh.|b
+A|but then after that, I was on my own, working and, you know, trying to go to school on my own. So then I got a real big grant, because the amount of money I was making really didn't compare|sd sd
+B|Wow. Uh-huh.|ba b
+A|So, it was kind of nice.|sv
+B|Um.|%
+A|I don't know if those are still available or not, but,|sd %
+B|Uh, I'm not quite, there's, there's a lot of different organizations who, uh, who do give grants, but, uh, I'm not exactly sure which ones they are and how much, they, you know, they generally run.|% sd sd
+A|Yeah, yeah, this was great, it was just based on, you know, how much your tuition costs and everything, and generally it paid everything, so I went to school about three years of my four for almost nothing,|b b sd sd sd sd
+B|Uh-huh.|b
+A|so that was,|%
+B|Golly, that's great.|ba
+A|Yeah, it was really nice.|aa sv
+B|Oh, another thing. I've got a, I've got a degree from another college|fo_o_fw_"_by_bc sd
+A|Uh-huh.|b
+B|and, uh, something that might play a part is the size of the college.|sd
+A|Right.|b
+B|Uh, the smaller schools can give you a lot, uh, a lot more specialized instruction and attention than the larger schools|sv
+A|Uh-huh. Yeah.|b b
+B|in the larger schools you get caught up in the bureaucracy, and and they just give you a teacher's assistants, you know|sv sv
+A|Uh-huh. Uh-huh.|b b
+B|instead of a scholar you get a T A|sd
+A|That's right.|ba
+B|and, uh, you don't get near the, uh, quality of education and as well, the, uh, smaller schools often times don't cost as much.|sv sd
+A|Um, I didn't know that.|sd
+B|Oh, yeah.|b
+A|Um. Well, I guess the only comparison I had ever heard was between a, a Christian college, because I thought about attending Abilene Christian instead of Texas Tech|sd
+B|Uh-huh. Uh-huh.|b b
+A|and of course the price was just astronomical compared to Tech|sd
+B|Um.|%
+A|the Christian college was so much more expensive. But I guess some of the other smaller colleges might, might be a lot different.|sd sv
+B|Um Oh, I, at State, I think it's just a waste of somebody's money to go there|sv
+A|Really?|bh
+B|it's really a shame because of, you know, the instruction|sv
+A|Yeah.|b
+B|um, I'd rather go to any other college, you know, in the state, and I would definitely get my money's worth, uh, much better than State.|sd sv
+A|Yeah, huh.|b
+B|It's kind of unfortunate, because they've, they've just grown so big that they just don't care about the students any more.|sv
+A|Yeah, yeah, you're just a number.|b b sv
+B|Yeah, they're, they're bent on, uh, seeing how much land, how much more land they can get, and how much, uh, how much of the campus they can build up|b sd
+A|Right.|b
+B|and, uh|%
+A|Yeah.|b
+B|yeah, it's really a bad situation here.|% sv
+A|Oh, that's a shame. Well, I, I felt a little cheated at Tech, also. Once I got into my, I, um, majored in,|ba sd sd sd

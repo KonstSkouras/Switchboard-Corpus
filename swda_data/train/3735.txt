@@ -1,0 +1,119 @@
+A|Hello.|fp
+B|Hi.|fp
+A|Okay, I pressed one so I guess we're recording now.|b sd sd
+B|Okay.|b
+A|Okay, um.|b^m
+B|Um, as far as spare time, they talked about, I don't, I think, who has any spare time I've got a, a six year old and a, um, well, my baby's one today.|sd % qh sd sd
+A|Um.|b
+B|Today's his birthday.|sd
+A|Um.|b
+B|And I'm also, I'm expecting, and, so, I, I don't know, I haven't had much spare time lately but,|sd h sd %
+A|Okay, well, I've, I have had some because I was working for P I E, and they went bankrupt so I've got quite a bit of spare time right now.|b sd sd sd
+B|Oh, uh-huh.|b
+A|And I've been making dolls, cloth dolls.|sd
+B|Oh, have you?|bh
+A|Uh-huh.|ny
+B|Oh.|bk
+A|And, uh,|%
+B|You sew the bodies and everything?|qy
+A|Yeah, it's a, they're all cloth. It's not, uh, any porcelain at all.|ny sd sd
+B|So, so you just sew everything up, huh?|qy
+A|Yeah|ny
+B|Oh.|bk
+A|and I make the clothes for them.|sd
+B|Uh-huh. What kind|b qw
+A|And.|%
+B|do they have yarn hair or,|qy %
+A|Um, no, you can get the little curly hair at the craft shop.|nn sd
+B|Oh, uh-huh. Oh.|b bk
+A|I made some of them with that hair and then, uh, don't ask me what the other hair I made, it looked like, um, it looked, well, I made some of them with regular wigs.|sd ad sd sd
+B|Oh, did you?|bh
+A|I went to the flea markets and bought, you know, like the wigs for a dollar.|sd
+B|Oh, uh-huh.|b
+A|Then I cut a V shape out of the back of them and then sewed them on.|sd
+B|Oh, my goodness. It sounds like you're creative.|ba sv
+A|They looked really cute|sd
+B|Uh, do you sell them?|qy
+A|I have sold five of them, so far.|na
+B|Oh, have you?|bh
+A|Uh-huh. I just have to get a place where, you know, I can sell them actually.|ny sd
+B|Yeah, I bet. How long does it take you to make one?|b ba qw
+A|Uh, if I would just work all day long, making the clothes and everything, probably about two and a half days.|sd
+B|Oh, really?|bh
+A|Uh-huh.|ny
+B|Oh.|bk
+A|So.|%
+B|Do you enjoy it?|qy
+A|Yes|ny
+B|Yeah.|b
+A|I really do.|sd
+B|Uh-huh.|b
+A|And, then I also crochet and,|sd %
+B|I, I, I can crochet and knit. Um, actually, I started an afghan, but it's been a whole long time ago probably over a year ago|sd sd sd
+A|Yeah.|b
+B|and it's sitting in my closet half done right now, but, it's a knitting one. And,|sd sd %
+A|Yeah. I tried knitting first, but, I don't know, I, I didn't like it.|b sd h sd
+B|Oh, didn't you.|b
+A|So then I went to crocheting, but now I want to learn how to knit again.|sd sd
+B|Oh. I|b %
+A|You know.|b
+B|Yeah, I enjoy knitting. I, I kind of like that, but I just, like I say, haven't done it for a while.|b sd sd sd
+A|Uh-huh.|b
+B|And I do like sewing sometimes. I, I've made a few of the, you know, just the little valence curtains in my house, and things like that.|sd sd
+A|Uh-huh.|b
+B|But, it, it's just finding the time for these things that you you enjoy.|sv
+A|Yeah, yeah.|aa aa
+B|But,|%
+A|Yeah, I, in fact, I just bought a serger in December.|b sd
+B|oh, I would love one of these.|sd
+A|Yeah.|b
+B|Oh, that's neat.|ba
+A|I haven't done everything on it yet, you know, but just what little bit I have used it for, I really like it.|sd sd
+B|Oh, those are wonderful aren't they.|sv
+A|You know, especially making the seams and things like that you know, it's, it's got such a professional finish on them.|sv
+B|Oh, yeah, that, and that's what I hate doing is the finishing stuff.|aa sd
+A|Yeah.|b
+B|It'd be nice to have that.|sv
+A|So I like that.|sd
+B|Oh, that's neat.|ba
+A|And.|%
+B|Well, do you have, um, uh, I guess you're kind of young, I was going to say, do you have grand kids or anything to make dolls for.|qy sv qy
+A|Well, fifty-seven's not young, but no, my son's, has been married for almost ten years, but they don't have any children.|sv nn sd sd
+B|Oh, uh-huh.|b
+A|So, I just make clothes for my dolls.|sd
+B|Oh, well. Well, how did you get involved in that?|b qw
+A|Just, you know, just like sewing and stuff and decided to buy a pattern and try to make a doll.|sd
+B|So you did buy a pattern, and then started from there.|bf
+A|And they, they turned out really cute. Yeah, you got to have a pattern for the body you know.|sd aa sv
+B|Uh-huh. Uh-huh.|b b
+A|And, uh,|%
+B|have you ever seen those bunnies that they dress?|qy
+A|Yes. Yes.|ny ny
+B|Yeah, I, I did make some clothes for one of those dress one of those.|b sd
+A|Aren't they cute?|qy
+B|Yeah, I have quite a few of them actually in my house, I, and most of them I have bought, um, already clothed, but I did  I did make the dress on one,|ny sd sd sd
+A|Uh-huh.|b
+B|and I kind of made the pattern up. It's not, it's probably not the best but|sd sd %
+A|No, I, I bought a bunny pattern one time, but when I sewed it up, the face of it looked like a mouse.|ar sd sd
+B|Oh, it did?|bh
+A|Uh-huh.|ny
+B|Oh.|bk
+A|See, it was too pointed.|sd
+B|Oh.|bk
+A|So I tore it back apart again, and I haven't tried another one.|sd sd
+B|You haven't sewn it back up, huh?|qy
+A|No, but I bought a little lamb pattern and the material and everything to make it out of, but I haven't made it yet.|nn sd sd
+B|Uh-huh. Uh, do you do any kind of painting or anything?|b qy
+A|No, I don't paint, except I stenciled my wall.|nn sd
+B|Uh-huh. Oh, uh-huh. I I tried that, I did, I, I ended up just stenciling a, um, a blind, like a, just a roller shade.|b b sd sd
+A|Uh-huh.|b
+B|But, I, I can, I had a hard time stenciling. For some reason I just couldn't do it.|sd sd
+A|Oh, really?|bh
+B|And people have told me it's very easy.|sd
+A|Oh, yeah, I, my neighbor did it first and I seen her house and I saw how beautiful it looked, so then I decided well, I was going to do it, and  uh, it turned out really, really good.|b sd sd sd sd sd
+B|Well. What design did you use?|b qw
+A|Uh, mostly flowers you know.|sd
+B|Oh, uh-huh. And, what room?|b qw
+A|I've done it in the all, uh, all my rooms.|sd
+B|Have you?|bh
+A|I put it in the bedrooms and the bathroom,|sd

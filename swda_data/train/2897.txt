@@ -1,0 +1,58 @@
+A|like in a room filled with What do you think about the benefits in jobs?|qo
+B|Um, I'm, I'm relatively satisfied with the benefits I have. I think that, um, our health insurance is terribly expensive.|sd sd
+A|Uh-huh.|b
+B|I'd rather that we got a bit more coverage for a lot less money. But, um, you know, that's, that's my major complaints, I guess. What about you?|sd sd qo
+A|Yeah, and a lot of times they turn down your claims so that leaves you paying for all of it.|ny sd sd
+B|Uh-huh. Or, or maybe that it's not understood what should be covered and what isn't.|b sv
+A|Uh-huh. Yeah. Right the  health insurance I have is Met Life,|b aa aa sd
+B|Yeah,|b
+A|and, if, it's the type that if you go to a certain doctor then, uh, you just pay ten dollars and then, uh, the insurance pays the rest of the bill. Or if you go outside you get, uh, seventy thirty.|% sd sd sd
+B|Now we, I have just the regular insurance so that any doctor is covered but what I found recently is what they've been doing is they, they poll somehow the area, and then they have what they consider a justifiable price for the area where your doctor is located based on zip code.|% sd sd sd
+A|Uh-huh.|b
+B|And so recently, when, when we had a claim, um, they didn't pay the eighty-five percent they paid much lower and when I called they said, Oh well, that's because your doctor is charging much more than the norm for the area. And I was really surprised because either there aren't that many of that type of doctor within that zip code, so that, you know, two doctors could balance each other out, or their, you know, their statistics aren't very accurate. *listen|sd sd sd
+A|Right. And, and they're probably doing it to their benefit, anyway. So,|b sv %
+B|Yeah, I would assume that you know, whatever doctors are willing to do the paperwork and send it in.|b sv
+A|Uh-huh.|b
+B|But it's, it's difficult. What about other, other benefits? Are there others that you're dissatisfied with?|sv qo qo
+A|Well, I work for Sears, and, and, um, that's about the, the only real benefit you have, is health insurance.|sd sd
+B|Well, you have vacation, I|qy^d
+A|Yeah, yeah, but everybody gets vacation. I mean, like, uh, T I and some other places, you know, they have recreational facilities, and they have a driving range and weight room and, you know, I think they even have a swimming pool|ny ny ar sd sd sv
+B|Huh.|b
+A|and I don't know if they have any tennis courts or anything like that.|sd
+B|Yeah, I'm not familiar with that sort of thing, but you know, to me vacation is, is an issue, and I mean, different places have different amounts of vacation, I would assume.|b sd sd sv
+A|Right.|b
+B|And, um, you know, the leniency with which they let you take leave without pay, perhaps or, um, I don't know, I suppose, um, sick days. Some places count the number of hours and some places just sort of believe you.|sd sv sv
+A|Uh-huh.|b
+B|Um, ours is based on number of days, and, you know, people try to build them up in case they really do get seriously ill.|sd sd
+A|Right.|b
+B|Right. But, um, otherwise, I'm not aware of any problems with the benefits around here So maybe that covers the topic then.|b sd sv
+A|Yeah. Well, I don't know, the the working conditions, you know, if you could include that in benefits. Some places aren't very safe to work.|b sv sv
+B|Uh-huh.|b
+A|And, and some places don't compensate you for the hazards that you, that you have to work under.|sv
+B|Uh-huh. Or maybe a uh, not really a benefit, either, but would be the allowing you to use the telephone for personal calls.|b sv
+A|Right, uh-huh.|b b
+B|Um, but, you know I suppose some places are, are more stringent about that than others.|sv
+A|Yeah, I think so.|aa sv
+B|And, and, maybe arriving late or something like that, you know, how, how they enforce the rules.|sv sv
+A|Uh-huh|b
+B|But other than that I don't have much feeling for, for the benefits, since, like I said, um, I don't have a big problem with, with them.|sd sd
+A|Um, workmen's comp is a big thing now in, in Texas because, um, um, how much it costs the employers|sd
+B|Uh-huh.|b
+A|and a, a lot of them are going to their own insurance now. And it reduces some of the length of the benefits, and, uh, and I don't know besides that. But I, I noticed right off that was a year less than what the state was allowing.|sd sd sd
+B|Oh I, I didn't know that somebody could avoid workmen's compensation.|sd
+A|Well, well, they still have to pay it but they buy their own instead of going through the state.|sd sd
+B|Oh, I see.|bk
+A|So apparently it costs less that way.|sd
+B|Uh-huh, uh-huh. I suppose that whenever companies can avoid, um, benefits, it's to the, to, to the benefit of the company|b b sv
+A|Uh-huh.|b
+B|and at least, you know, financially in the short run, but I would think they would get a much greater turnover and that people would be dissatisfied|sv sv sv
+A|Yeah. That's what I, what I think they should be able, they should be able to judge their benefits on how happy their employees are and how much profit they're making instead of trying to cut everything down *listen and then have everybody be unhappy and, and have a constant turnover of people.|aa sd sv sv sv sv
+B|I mean, sure, the payroll is lower that way, but I would assume that the productivity is way down, also.|sv sv
+A|Yeah, the productivity and the training costs, if they have to train the same employee, a new employee every six months, then I don't see how they can save money.|aa sv sv
+B|Uh-huh, uh-huh.|b b
+A|You know, and once they once they get somebody good, they ought to hang onto them.|sv
+B|That's right. No, I agree.|aa aa aa
+A|Okay, it was nice talking to you.|fo_o_fw_"_by_bc fc
+B|Well thank you for calling. Bye-bye.|fc fc
+A|Yeah. Bye-bye|fc fc
+B|Bye-bye.|fc

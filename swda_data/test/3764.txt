@@ -1,0 +1,66 @@
+A|I guess you heard our our topic for today was clothing?|qy
+B|Yes, I certainly did.|ny sd
+A|How you dress for work and season to season and everything.|sd
+B|Uh-huh.|b
+A|How do you dress for work?|qw
+B|Well, uh, uh about the same I dress for school. I, uh, I am a graduate student so, I don't have to worry too much about, uh, what I wear too much of the time. Which is nice.|sd sd sd
+A|Sure.|b
+B|Uh Uh, uh, although I do, uh, a lot of,|sd
+A|You bet.|ba
+B|I am a speech pathology major and so I do a lot of clinical work and when I do clinic work then I have to, uh, uh, look my best.|sd sd sd
+A|Look professional|sv
+B|Yeah. Unfortunately.|b sv
+A|Yeah, I understand. I am a, I own my company. I am in the, I am, uh, manufactures rep sales organization and my office is a small office and I am very casual and wear slacks and sports shirt and things like that|b ba sd sd sd sd sd
+B|Uh-huh.|b
+A|but then when I travel it is a little different situation.|sd
+B|Yeah, sure. Uh-huh. Yeah. Yeah. Uh, uh, do you find that, uh, on the average do people give uh, more credibility or less credibility to a professional, uh, to professionally dressed individual.|b b b b b qy
+A|Yeah, I think in today's society, uh, there is more credibility to be quite honest|b sv
+B|Uh-huh.|b
+A|I will always remember, I will tell this real quick story when I graduated from college, my first job years ago, uh, thirty years ago, twenty-nine years ago, in fact, was selling agricultural fertilizer.|sd sd sd
+B|Uh-huh.|b
+A|I worked for the, uh, Smith Douglas Division of Borden Chemical and I sold uh, you know, manure.|sd sd
+B|Uh-huh.|b
+A|And, uh, I would go out and call on farmers and I would always try to look my best wearing sport coats and things like that, but I was calling on guys that wore bib overalls.|sd sd sd
+B|Uh-huh.|b
+A|And so, one day I got up and thought well I will just go casual and you know that I called on a guy wearing exactly that, bib overalls, and he sort of told me that he expected me to be professional|sd sd
+B|Uh-huh.|b
+A|and he sort of expected me to dress as a professional|sd
+B|Oh, really?|bh
+A|so, uh, it was sort of,|sd
+B|Even the farmers.|qy^d
+A|You bet even back then|na
+B|Oh, wow.|bk
+A|so I sort, uh, been aware of my dress ever since then and try to look my best,|sd
+B|Uh-huh.|b
+A|but here again I dress casual quite a bit so,|sd %
+B|Uh-huh. Yeah, certainly.|b b ba
+A|It gives you confidence. In my business if I call on the the J C Penney company here in Dallas or say someone say Sears and Roebuck in Chicago, then I wear coat and tie. If I call on just, uh, a normal little dealer of mine, I might be casual.|sd sd sd
+B|Uh-huh.|b
+A|I call on Oshman's sporting goods, again, it may be casual or it may be coat and tie. So it depends.|sd sd
+B|Yeah, it depends. Sure. Uh, so you don't, uh, if you had the choice would you wear a tie or not?|b b^m b % qy
+A|Uh, probably no.|nn
+B|Uh-huh. Uh-huh.|b b
+A|but then it depends on who you are calling on. Who you're, you like your minister standing up in front of you with no tie, you just, uh, he would be missing something.|sd % sv
+B|Uh-huh.|b
+A|Although, he shouldn't be evaluated on that.|sv
+B|Right, right.|b b
+A|So, it's its' just different.|sd
+B|Uh-huh. Yeah, that, uh, if if you wanted to, uh, uh, really get into a hot issue, uh well at least in some in some beliefs, uh, how people dress when they go to church is, uh, is uh, sometimes a pretty, pretty hot topic.|b b % ad sv
+A|Yes, it is. I am, uh, like a Catholic and the people that go to my Church, you know Catholics dress very casual a lot of the times. People in jeans and in whatever, but yet the way I was raised, I am a converted Catholic, the way I was raised, I was raised a Baptist and like as a youngster I use to always dress up all the time. I guess that has changed also.|aa sv sd sd sd sd sd sd sd sd sd sv
+B|Uh-huh Uh, yeah. I'm, I am, uh, I go to the Church of Christ. I have been raised in the Church of Christ and, uh, but, uh, I, uh, too many times you hear you hear a lot about what what you're, uh, supposed you're supposed to look your Sunday best uh, uh, and dress and proper attire|b b sd sd sd
+A|Right.|b
+B|and, uh, and sometimes that really disappoints me, uh, in, uh, when I see in other economic areas like in Kentucky.|sd
+A|Sure.|b
+B|You know, people just don't have that and they are afraid to go to church or afraid to go simply because  they don't have the clothes to wear.|sd sd
+A|But . That is a very good point. I am from West Virginia so I understand what you are saying there|% ba sd sd
+B|Uh-huh.|b
+A|and it's it's a very good point.|ba
+B|Yeah.|b
+A|But you shouldn't, what's the old saying, you shouldn't judge a book by its cover.|sv
+B|Certainly.|ba
+A|And, uh, evaluation of an individual. Course, all of it depends on the type of job responsibility you have. I think you have to dress sort of accordingly.|sv sv
+B|Uh-huh.|b
+A|But, uh, you certainly should not judge a book by its cover and, uh, or evaluate a person by that.|sv
+B|Uh-huh.|b
+A|What about season to season. Does, I guess your dress changes.|qo % qy^d
+B|Uh, yeah a little bit. Uh, uh of course in the summer if I can get away with it, I wear, uh, uh, a pair of shorts and that's it. Run around barefoot, no shirt or anything But, uh,|ny sd sd sd sd %

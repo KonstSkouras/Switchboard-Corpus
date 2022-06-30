@@ -1,0 +1,40 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|All right.|fo_o_fw_"_by_bc
+A|Capital punishment.|sd
+B|Okay, what's your views on it?|% qo
+A|Um, for myself, I'm personally against it, but we seem to have a duality of, in this country where most states in theory have it, but, but, but do not use it.|sd sv
+B|Correct. Okay, well, I'm for it. I think there are certain crimes that definitely, uh, call for it. I, I feel like that child molestation and murder I don't see any sense in someone living that does things like that. I, I don't feel like they're a benefit to society in any way, and of course Texas has it, but they very seldom, you know, put it into effect. So instead all of our prisons are full of people on, you know a lot of people on death row.|aa % sd sv sv sv sv sd sv
+A|Okay, well, Uh, Texas uses it as, about as much as any other state.|b sv
+B|Well, uh, yeah|b
+A|Texas is a big state,|sd
+B|which is not very often. Right.|sv b
+A|Um, here in Maryland to the capital punishment law, people are sometimes sentenced to capital punishment, but no one, no one has, actually has the sentence carried out. Uh, I'd certainly,|% sd %
+B|What do they do, just keep them on death row for the rest of their life.|qy
+A|Uh-huh. I think so.|ny sd
+B|Uh-huh.|b
+A|I, uh, or affair number|% %
+B|Uh-huh.|b
+A|uh, in fact, I think that, it, it affected the sentence though capital punishment is available, the sentence of life without possibility of parole, uh, has become a common one, and is being, being used much more.|sv sv
+B|Do you have the overcrowding in your prisons that we are facing down here?|qy
+A|Uh, I don't know the exact numbers, but, but yes, prisons are overcrowded.|sd ny sd
+B|I know that we have, you know, really in fact they're, they're releasing people, uh, that are in there for, you know, not major crimes, but, uh robberies and assault and things like that, and, because they don't have room, which then they're coming back on the streets and of course, doing it again, and um, you know, so we're having problems in, in that way, and I know that there are some cases that, uh, you know, capital punishment does not fit the crime, and there are extenuating circumstances on certain types, um, but I have to say that I'm honestly for it|sd sv sv sv sv sv
+A|Um.|%
+B|uh, almost that eye for an eye and a tooth for a tooth.|sv
+A|Okay, you're, you're certainly in the majority uh, at least in this country.|b sd
+B|Yes.|b
+A|Uh, we are, I guess, the only one of the major Western nations currently with capital punishment.|sv
+B|I know they use it very, um, they do not have it in Europe, as I understand.|% sv
+A|No, at least not in Western Europe. Probably not in Eastern Europe these days either. Um, there are many reasons for it, but they, they certainly have lower crime rates and lower murder rates.|ar sd sv sv sv
+B|Yes, you wonder what their, you know, how they manage to do that.|b sv
+A|Well, in part it's, uh, it's the nature of societies, perhaps more homogenous society, in many cases, uh, arguably, if arguably is because of, of, uh, of, uh, welfare state benefits. Though I tend to be, we tend to be skeptical.|sv % sv sv
+B|Well, England has, uh, don't they have a large, fairly large welfare?|qy
+A|Yes, oh there's no question that, that they, that, uh, you know, they have, you know, all kinds of cradle to grave, uh, programs, welfare programs providing for everyone some way. I, I, I, however the question is is that making the difference.|ny sv % qy
+B|Oh, I, I don't know. But we have a lot of welfare programs and|no sv %
+A|Oh.|b
+B|if both do and they tend to have less crime, you wonder if that has anything to do with it then, you know, or is it, in our society, people are brought up over here thinking that, you know, everybody owes them something.|sv % sv
+A|Um, I think, I think that idea is even, even more common in Western Europe.|sv
+B|Oh, do you?|qy
+A|Uh-huh.|ny
+B|Well, that's interesting. I would not have, I would not have said that. I would have said that it was more prevalent here in the United States. That's an interesting theory. I'm not that familiar, you know, I've only been over there a couple of times and I'm not that familiar with, that,|ba sd sv sv sd sd sd
+A|Me, too.|sd
+B|all I know is that, for instance we were in Germany in, uh,|sd

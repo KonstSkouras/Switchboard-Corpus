@@ -1,0 +1,85 @@
+A|Okay, Gene So, it's nice to talk with you and, um, food is a very intriguing thing. Our lives are, are built around foods that we like and, nutritionally good for us.|fo_o_fw_"_by_bc sd fp sv sv
+B|Yes, sir.|ba
+A|What kind of dining out do you like?|qw
+B|Well, there is two kinds. One I guess I'd say is with my wife where we enjoy, uh oh, I guess we usually enjoy a good seafood restaurant.|sd sd
+A|Oh.|b
+B|Uh, you know, something nice.|sd
+A|Yeah.|b
+B|And the other is with my whole family whom we, uh, go somewhere that the kids will enjoy Uh, recently we have been hitting Pancho's up. It's a local Mexican restaurant.|sd sd sd
+A|Uh-huh.|b
+B|because they have got a good rate on, you know, good prices and everything.|sd
+A|Pancho's, that's,  a new one.|qy^d
+B|Yeah. Yeah,|b ny
+A|Uh-huh.|b
+B|it's, it's a chain down uh, it goes up into Colorado and down here. I don't know where else it is. What about you?|sd sd sd qo
+A|We have one called Chi Chi's in in our area.|sd
+B|Oh, yeah.|b
+A|And, uh, we had a restaurant called La Bamba but it's just, it closed recently. But Chi Chi's is a national restaurant, I think. Isn't it Mexican?|sd sd sv qy
+B|I think,  think it might be.|sv
+A|Do you have it there?|qy
+B|I've I think I've seen it around. Yes, sir.|sd ny
+A|Uh-huh.|b
+B|Yeah.|b
+A|Well, I love Mexican food myself.|sd
+B|Oh, do you? Yeah.|bh %
+A|But you go ahead now|ad
+B|Oh, we, we do too. We, uh, we enjoy Mexican food. I'm just not impressed with the quality of it. It's just primarily the price that's, uh, satisfying at this point. But the kids,  seem to enjoy it.|sd sd sd sd sv
+A|Is that right? Uh-huh.|qy b
+B|Uh, and, uh, let's see. We've, uh, just recently discovered a super restaurant down here but it's, uh, not part of a chain it's just an individually owned seafood restaurant. But the first one we've been to that, uh, I don't think there was anything on the menu, that, that any of us had that was, uh, not just really super. It's nice to find a place like that.|^h sd sd sd sd sd sv
+A|Oh, boy that is wonderful.|ba
+B|Yeah.|b
+A|Well, I, I agree with you on that. And I was really a seafood addict myself. I, I love crab meat in particular.|aa sd sd
+B|Um.|%
+A|I, uh, I can almost live on, on seafood and almost live on the crab meat if I had to.|sv
+B|Oh, boy. Have you ever been to, uh, what is it, Original Book Binders in Philadelphia?|ba qy
+A|I, uh, know the name but I haven't been there.|^h ng
+B|Uh, that's an old established, uh, restaurant. I used to go there when I was in college.|sd sd
+A|Uh-huh. Where did you go to college?|b qw
+B|Uh, I went to the Naval Academy.|sd
+A|Oh, the U S ,  Naval Academy?|br
+B|And we used to,  we use to go up there on, uh, for football games sometimes. And have some liberty.|sd
+A|Uh-huh.|b
+B|And, yeah, we would go over there to, uh, pretty sure it was original, Original Book Binders I think it was, yes.|% % sd sd h aa
+A|I'll be darn.|ba
+B|I haven't been back there in years.|sd
+A|Well, we're, we're supposed to be talking about dinning out, but I'll just make one comment that, uh, I just retired from Penn State, and, uh, all my work has been in research for the Navy|sd sd sd
+B|Okay. What area?|b qw
+A|Underwater acoustics.|sd
+B|Is that right? Did you have any dealings with the, uh, underwater sound reference laboratory in Orlando, Florida?|bh qy
+A|I have dealt with nearly all of the, all of the research laboratories that the country has.|no
+B|Yes, sir. My dad worked there for years, and years.|ba sd
+A|Uh-huh.|b
+B|That's that's, uh, that's where I grew up was down in Orlando. So,|sd %
+A|Oh, you grew up in Orlando. Uh-huh.|qy^d %
+B|That's, uh, that's interesting, Well, I was in submarines. Uh,|sd
+A|Well, that's what I worked on.|sd
+B|Okay, yeah, must have had some interesting, uh, assignments for you there. when did you retire?|b % sv qw
+A|The end of last month.|sd
+B|Well, great. I'm sure you've seen some interesting developments in acoustics.|ba qy^d
+A|I certainly have|na
+B|Yeah.|b
+A|So, I hate to, uh, I wish I could talk to you about that, uh, but, uh, I guess we should continue on, uh,|sd sd sv
+B|Okay.|aa
+A|Okay.|b^m
+B|Right. Where's,|b qw
+A|How do you like Chinese food?|qw
+B|Oh, we, we do enjoy that. Yes, sir. Uh, I don't know if we are particularly adventurous, we find something we like, uh, like cashew shrimp or something that's got a good, uh, at a particular restaurant and then we usually stick by it. But do you,  What about you?|sd % sv sd sd qo
+A|Uh-huh. Well, I, uh, enjoy the Szechuan type of, uh, Chinese food.|b sd
+B|Hot?|br
+A|Yes.|ny
+B|Uh-huh.|b
+A|Yep, uh, it's, uh, I, I do a lot of Chinese cooking myself. I have in the past. I haven't done recently, but, uh, it's in the sweet and sour porks and things like are just really delicious meals.|b % sd sd sd sv
+B|Um. Where did you learn how to do Chinese cooking?|qw
+A|Uh, just at home.|sd
+B|Uh-huh.|b
+A|I, I enjoyed the food and I bought a lot of, uh, good cookbooks, and I've been following through on that. When you find the right cookbook, why it works out.|sd sd sd sv
+B|Uh-huh. What's a good reference cookbook for Chinese food?|b qw
+A|Okay, well, that one's a good question. Here it's right under my nose if I can find it Oh, boy.|b ^h sd ba
+B|I guess one of the things we've, uh, started avoiding is the, uh, run of the mill chop suey and things like that.|sd
+A|Yeah, right.|b b
+B|But we enjoy trying, uh, different kinds of chicken or, uh, you know, even, uh, shrimp, uh, dishes that are fixed in a Chinese restaurant.|sd
+A|One of this book I have is called CHINESE COOKING MADE EASY. Uh, it's a paperback and I think it's by someone named Chang. Yeah, Isabelle Chang.|sd sd sd aa sd
+B|Okay, thanks for that, uh, reference.|bk ft
+A|Yeah, yeah. I think you will enjoy that.|bd bd sv
+B|Okay, good. Yeah.|b ba %
+A|Well, it certainly is nice talking with you Gene. And, uh, what is your phone at home?|fc qw

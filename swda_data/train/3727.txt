@@ -1,0 +1,82 @@
+B|Do you have kids?|qy
+A|Oh yeah. I got three. How about yourself?|ny sd qo
+B|Uh, we have two and another one on the way.|sd
+A|Oh, you have got, uh, young children then.|qy^d
+B|Well, yeah, uh, we do, we have, uh, a six year old. He is oldest and then, uh, our baby will be a year on Monday.|ny sd sd sd sd
+A|Oh my goodness. That is great.|ba ba
+B|Yeah.|b
+A|What kind of mix do you have? A boy and a girl?|qw qy
+B|Two boys.|ng
+A|Two boys.|b^m
+B|Two boys Yeah.|sd %
+A|Do you know what is on the way yet? Are you|qy %
+B|No. I am just about three months, and, uh, I don't think we really even want to find out.|nn sd sd
+A|I do not blame you|ba
+B|We like surprises. So We will take either.|sd sd
+A|Well, we have got two boys and a girl also. Well, we have got two boys and a girl|sd sd
+B|And, uh, does it, are the two boys first?|% qy
+A|Yes.|ny
+B|Oh.|bk
+A|Maybe, maybe you will get lucky and get a girl this time.|sv
+B|Maybe, huh. We, we kind of like our boys though too, so|aa sd %
+A|Well, our boys, one, is, uh, he is in graduate school at A and M, uh, he is in the Navy. He is a lieutenant in the Navy and the Navy is sending him for his Masters in Ocean Engineering|sd sd sd sd
+B|Oh my goodness.|ba
+A|and we have got another boy that is, us, out in Maryland. He is a wildlife biologist, uh, and our girl is thirteen. She is in the seventh grade. So, we have got, still, all sorts of good activities since,|sd sd sd sd sd
+B|Oh yeah. You kind of got, uh, a span there, huh? Oh, well what do you do with your seventh grader?|aa qy qw
+A|Well, she is into a little bit of everything. She is, uh, loves riding horses so she goes out riding as much as she can.|sd sd sd
+B|Do you have horses?|qy
+A|No|nn
+B|She, just, she knows people that does, huh?|qy
+A|Well, that, yeah but maybe that riding place that is North of town that she goes to. She rides English, and does jumping, takes lesson and all that kind of stuff.|% ny sd sd
+B|Oh, does she? Oh. She must really like them.|bh bk qy^d
+A|Yeah, she is into, uh, well she plays the flute in the band, and, the piccolo, and she is into this, uh, odyssey of the mind thing, which is, uh, takes a lot of time, for, uh, it a what they call peace group. I don't know if you have gotten into that with your kids, but that is where the, kind of, well it is a program for Advanced kids.|ny % sd sd % % sd qy^d sd sd
+B|Advanced. Yeah. Yeah. I have heard about it. Our little boy is in the first grade and I, I taught school for six years.|^2 b b sd sd sd
+A|Oh, okay.|b
+B|So, I do know about that program and|sd %
+A|Well, my wife is involved and she kind of heads that up for these kids, and last year they, they, got, uh, the state level. They did not win that, but they, uh, got one local and, uh, one region, and they got a new mix of kids this time. So, it keeps them busy.|sd sd sd sd sd sd sd
+B|Oh, uh-huh.|b
+A|It keeps them busy.|sd
+B|Oh, yeah I bet. Huh, well so does she go actually out into a different classroom with, with, uh, other kids that are involved in this?|aa ba qy
+A|Well, uh, yes, but they, well they have, well you probably know a peace group that, uh, that they are advanced type. That they are special, well, uh, classes for peace classes. I think that, uh this happens to be, uh, uh,|ny % sd %
+B|Yeah.|b
+A|history is what their peace class is this year. But, uh, so.|sd %
+B|Oh. Uh-huh.|b
+A|They, uh, she enjoys that kind of stuff and, uh, does well with it.|sd
+B|Oh, how neat.|ba
+A|So yeah.|%
+B|Challenging, huh?|qy
+A|Yeah.|ny
+B|Oh.|bk
+A|Always something to do|sd
+B|Well, uh, as far as our activities, we are kind of on a different level here. But, my|sd %
+A|Well, you will get to different levels. I guarantee it.|sv sv
+B|Yeah, yeah. My husband is going to take our six year old to the monster truck show tonight.|aa aa sd
+A|Uh, okay.|b
+B|They like to, uh|sd
+A|That will be fun.|ba
+B|both boy things|sv
+A|Oh, yeah, yeah.|aa aa
+B|Yeah, but we, we, do not have any real, uh, like we don't really ski. We have not taken our kids skiing or anything. Of course, the baby is young, but|b^m sd sd sd sd %
+A|Got to wait a couple years.|ad
+B|Yeah, Yeah.|aa aa
+A|Sledding, that is what you have got to do. Tobogganing.|ad ad
+B|The what?|br
+A|You have got to go tobogganing and sledding with them.|ad
+B|Oh, well yeah, we, we have done that. He, in fact, he just goes right out here. We have got quite a bit of snow, uh, last week we got a lot.|aa sd sd sd sd
+A|Well you are welcome to keep that|sd
+B|Yeah You would like that, huh?|b qy
+A|Well, I grew up in Wisconsin, I, I had plenty of snow, and when I was a kid,|arp_nd sd sd
+B|Oh.|bk
+A|and we have lived here about seventeen years, but we use to take all of the kids tobogganing and ice skating, and all of that kind of stuff|sd sd
+B|Yeah.|b
+A|it is fun really.|sv
+B|It is fun.|aa
+A|As long as you do not have to drive in it.|sv
+B|Yeah. I, no, I do not like that. I, really, it makes me nervous. Yeah|aa % aa sd % sd %
+A|I had plenty of snow to last me forever. I, I don't care if I ever see any, well, I don't care if I ever see it, but keep it off of here|sd sd sd sd
+B|Yeah, yeah Well, uh, I don't mind it, but, uh, uh, the winter gets long.|aa aa sd sv
+A|Yes.|aa
+B|You know, I get ready, that, come about this time of year I am kind of ready for it to start getting spring, and, it is too early yet.|% sd sd
+A|Well, you have got, You have got five months before you will see that|sd
+B|Yeah, we do, we do. We have had a few early springs though in the last few years. They have not been too bad. Come about March, it gets, you know, a lot nicer.|aa aa sd sd sd
+A|Oh yeah. Out oldest son. When, uh,|aa sd

@@ -1,0 +1,71 @@
+A|What vacations have you been on that you like?|qo
+B|Um, well I really enjoyed, um, I went to Mackinaw Island a few years back.|sd sd
+A|Right.|b
+B|It's in the middle of Michigan and so that was nice.|sd sv
+A|Uh-huh.|b
+B|I like, um, driving to different cities because of the scenery, so that was nice.|sd sv
+A|So you, most of yours is kind of driving and,|% bf %
+B|Yeah, we've, I've been all over the states except for pretty much east. Um, it's very pretty driving like, um, up north in Wisconsin too.|aa sd sd
+A|Um, how, how far do you usually end, end up driving just,|qw
+B|Um, the furthest I drove was probably Texas, and then I've taken a train before to California.|sd sd
+A|Now where, you're from where? *slash error Oh, Wisconsin.|qw
+B|Kenosha, Wisconsin. Uh-huh.|sd aa
+A|Okay. Yeah, I have a brother in Minnesota that used to live in Wisconsin.|bk b sd
+B|Oh.|b
+A|So, yeah, that's quite a ways.|b bf
+B|Yeah, it is|aa sd
+A|I've, uh, we went to California this last year and, uh, liked it,|% sd
+B|Uh-huh.|b
+A|but it was too crowded|sv
+B|Um.|b
+A|Walt Disney World, and other places, it's just the wrong time of the year to go.|sv
+B|Oh, yeah.|b
+A|And, uh, course, uh, you get in any of those tourist traps and everything's, uh, outrageously priced,|sv
+B|Uh-huh.|b
+A|and, uh, kind of, you wonder if they're, it's really worth it to pay, uh, thirty-five dollars or forty dollars just to get in.|% sv
+B|Yeah|aa
+A|But, There's lots of fun places to see. Um,|sd
+B|that's true.|aa
+A|I think the scenery kind of, that's something do to, you like to get up in mountains *two utts or,|sv qy %
+B|Oh, yeah, uh-huh.|ny ny
+A|Do you have any mountains nearby?|qy
+B|No|nn
+A|Pretty flat, isn't it?|qy
+B|Yeah, yeah.|ny ny
+A|Um, I think, uh, the biggest limitation is a lot, just time and money, isn't it.|sv
+B|Oh, yeah. Yeah.|b b
+A|What vacation have you enjoyed the most?|qw
+B|Uh, um. Probably, uh, when we go to Wisconsin . Um, it's pretty fun. There's a lot to do up there. It's pretty busy, though, you have to like crowds, you know.|sd sd sd sd sv
+A|What is it?|qw
+B|Um, oh, it's a, like a huge amusement park um, they have water slides|sd
+A|Okay. Uh-huh.|bk b
+B|and it's just a big, big tourist attraction. The downtown is all like little shops and candy shops and, it's, it's really neat. I don't think, uh, hardly anybody lives there, because it's just kind of like, you know, tourists.|sd sd sv sd sd
+A|Probably a city in itself, kind of like, huh?|qy
+B|Yeah, it's mostly a, a summer, summer place.|ny sd
+A|Summer place. How far away is it?|b^m qw
+B|Um, from Kenosha, it's about three hours.|sd
+A|Huh.|b
+B|It's about a hour away from Madison.|sd
+A|Okay, sure.|bk ba
+B|Yeah, so that's nice.|b sd
+A|Sure.|ba
+B|It's, it's a pretty ride up there, too. I really like the city Wausau in Wisconsin. It's really pretty. It's nice out there. Oh, I like all the nature things there are to look at, you know.|sd sd sd sd sd
+A|Right, well, and you can probably, you're in a climate that's kind of humid, so you have probably a lot of green, and lot of real pretty things. Our, our climate's real dry|b % sd sv sd
+B|Where is that?|qw
+A|and you have to kind of get up into the mountains to get much of the greenery. Most of, most, most of the land's pretty brown. You don't have as much of the greenery like you have.|sd sd sv
+B|Oh, where's that?|b qw
+A|Uh, Idaho, is where I live, and, uh Yes.|sd % ny
+B|Okay|bk
+A|It's by, uh, I have a little baby thinks he needs to cry now that I'm on the phone. It's by, um, Boise. You ever heard of Boise?|sd sd sd qy
+B|Oh, yeah, yeah.|ny ny
+A|And, uh, it's fine, it's nice. It's, uh, lot different kind of. I lived in Indiana for a while, and it's a real different, uh, land and scenery than there. It's kind of fun to have a little bit diversity, and things like that.|sd sd sv sd sd sv
+B|Yeah.|b
+A|I think, uh, there's a lot of places uh, oh, down, even in southern Utah, the canyons, canyon lands and Bryce Canyon and, oh, boy, they're gorgeous|sd sv
+B|yeah.|b
+A|Those are kind of fun places. We usually go over to Bear Lake in the summer, which is kind of on the border of Idaho and Utah, and the lake goes on forever, and that's real pretty over there too.|sd sd sd sd
+B|Oh.|b
+A|But I think I'm kind of a summer vacationer.|sd
+B|Oh, yeah, me too, uh, me too. Unless I'm going somewhere warm for the winter|aa sd sd sd
+A|Right. Right.|b b
+B|Yeah, that'd be nice.|aa sv
+A|Where'd you,|qw

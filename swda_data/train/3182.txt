@@ -1,0 +1,54 @@
+A|Do you have any hobbies?|qy
+B|Yes, I do.|ny sd
+A|What are yours?|qw
+B|China painting and ceramics.|sd
+A|Ooh, how great.|ba
+B|I enjoy it. Uh-huh|sd b
+A|Oh, uh, ceramic painting.|fo_o_fw_"_by_bc
+B|I enjoy the china more.|sd
+A|The china more.|b^m
+B|And now that I have my eyes, corrected to the point that I can see the delicate part of china painting, I do enjoy it.|sd
+A|How did you ever get into that? That sounds so interesting.|qw sv
+B|My husband kept begging me, and he's been dead now for twenty years, so you understand that this was a long time ago. But he finally brought me the china, the book, the brushes and he said I have made arrangements for your lessons.|sd sd sd sd
+A|How I,|ba %
+B|And I said I'll do it for three months and if I don't like it, that's it. Well, I painted an awful lot until his death, which was several years. And it has just been the most relaxing, enjoyable self-satisfying thing I've had. I,|sd sd sd sd %
+A|Now, do you do it just for yourself, or do you do it to give as gifts, or do you actually sell it?|qy qrr qrr
+B|I have sold quite a bit. I give a lot to our two daughters that are grown and have their home and then I just have the rest of my house with lot of hand painting in it. Uh-huh.|sd sd sd b
+A|Oh, that sounds now, do you work outside of the home?|ba qy
+B|I have just retired.|sd
+A|You've just retired.|bf
+B|Yes.|aa
+A|Oh, oh, what a great hobby|sv
+B|No, it's not,|arp_nd sd
+A|I,|%
+B|It's a great hobby, but don't retire|sd ad
+A|Don't retire.|b^m
+B|Oh,|b
+A|Well, see, I don't, I never, uh, returned to work for the I have stayed home for about the last nine years.|sd sd sd
+B|Oh, have, well,|%
+A|We've transferred around, and our last area was in a rural section right on the lake, uh, on Lake Erie. So the lake life appealed to me, and my husband's working and he left it up to me if I worked or not.|sd sd sd sd sd
+B|Wow.|ba
+A|So, in my spare time, I love to sew. There aren't too many people around anymore that really enjoy sewing, but I do make all my own clothes and we recently purchased a new home, so I enjoy doing my, uh, toppers for my window applications and things like that.|sd sd sd sd sd
+B|Oh, uh-huh.|b
+A|But, uh, just when I thought I really enjoyed my hobby, yours sounds great|sd
+B|Well, my sister is the seamstress of the two of us. And, but she doesn't china paint so we both have our expertise side.|sd sd sd
+A|That is excellent.|ba
+B|What part of Ohio are you in?|qw
+A|We're in the I'm in the suburb of Cleveland and I'm about, uh, fifteen miles, probably, from downtown Cleveland, something like that. And Cleveland is located right on Lake Erie and prior to this, we were fifty miles west from here. So we were right on the lake. And Cleveland isn't all as bad as what you've heard|sd sd sd sd sd sd
+B|Oh, what's that,|%
+A|And you do find people, uh, into the crafts and the things that, uh, various things for spare time, but, I have never heard and I have actually never run into anyone into the china painting and I'm just intrigued with it.|sd sd sd
+B|If you ever start, be sure and start with a large piece that you can, I mean a large flat plate. Um, that way you can get the feel of, you're not cramped on these smaller objects.|sd sd sd
+A|Right, where you're getting into the delicate work.|b sd
+B|That's right.|ba
+A|Now, do you, where did you first get your lessons from?|qw
+B|In Abilene, Texas.|sd
+A|Through a, uh, an adult ed, or strictly a china type,|qy^d
+B|She just taught china painting. Uh-huh, and,|sd b %
+A|Oh, how marvelous.|ba
+B|Then, then we had so much fun there, I had a friend from Albany, which is about thirty-six miles away, and we would meet every Thursday morning at our instructor's home, because she did our firing for us, and she would help us and we bought lots of equipment from her, supplies and it was just such a delightful time. And then after I,|sd sd sd sd sd sd %
+A|Oh, and it's so nice,|ba
+B|Beg pardon?|br
+A|It must be so nice for you, now that you're retired.|sv
+B|I have been a little bit negligent about it because I was so tired when I had to go to work after my husband's death. So I have put it aside for a little while, but I'm, I have just found me an instructor to get started again, uh-huh.|sd sd sd b
+A|Oh, isn't that great. And you'll probably really, uh, regain your enthusiasm for it once you get into a, a class again.|ba sd
+B|Uh-huh. Of course, I just have one beautiful with peonies, uh, umbrella stand, and I have two daughters and they're both,|b sd sd %

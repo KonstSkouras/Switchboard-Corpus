@@ -1,0 +1,75 @@
+A|What do you think about capital punishment?|qo
+B|Well, I'm kind of in favor of it for certain crimes.|sd
+A|Yeah. Which crimes do you feel that?|b qw
+B|Well, I think first degree murder, uh, probably warrants it.|sv
+A|Yeah. Because of, so many times it's so brutal and just recurrent|aa % sd
+B|Right.|aa
+A|selling, I think should also.|sv
+B|Exactly. Recurrent crimes like serial rapists or serial murderers or whatever.|aa sv
+A|Yeah|b
+B|I come from a state that has, well I originally come from the state that has, uh, the death penalty. I come from Florida.|sd sd
+A|Uh-huh.|b
+B|And, uh, they're pretty liberal on it. They tend to, like, fry people left and right.  which,|sd sd
+A|Yeah that's,|b %
+B|go ahead.|ad
+A|Go ahead. Texas is too. Texas, I saw on T V the other night, is the, has had forty-six in like the past several years.|ad sd sd
+B|Yeah.|b
+A|So they're pretty hip on it too, I guess. They do it by lethal injection, at Huntsville.|sd sd
+B|Yeah, okay. I think Florida still uses electric chair.|b b sd
+A|Yeah|aa
+B|Uh, I don't, I don't know. In some ways I don't like it because it's like they're playing God.|h sv
+A|Yeah.|b
+B|And that's not, I don't think that's right. But on the other hand, there's a lot of advantages to it.|sv sd sv
+A|Yeah.|b
+B|I think crime rates deterred a little bit by using it and, of course, you have some savings in terms of taxpayer money keeping people in jail or not. Um,|sv sd
+A|Yeah.|b
+B|with Florida that's a big problem because there's so many people in jail that they have to let them out every year. They,|sd %
+A|Yeah. That's what's happening here. There is, like, uh, that's, in fact, a big gubernatorial issue is the the turnover rates of, uh, uh, repeat offenders being let out and doing it again.|b sd % % sd
+B|Uh-huh. Sure. And it's like, you know, that's a big problem but there's not a whole lot you can do about it because there's only so many jails you can build|b b sv sv
+A|Uh-huh.|b
+B|and it's really, you know, it's, it gets to be a a big problem.|sv
+A|Yeah.|b
+B|Uh, go ahead.|ad
+A|I wish if they were going to do it, they would be a little more consistent in dealing with who gets lethal injection and who doesn't.|sv
+B|Right.|b
+A|Be a little more, you know, not being able to put it off for fifteen years.|% sv
+B|Uh-huh. Yeah. Because a lot of these guys, you know, they get in and they, they get off for good behavior and, I don't know, up in Minnesota where I am now, they don't have the death penalty. And you can almost sense that people are just laughing at the system, you know. Because they figure well, you know, sure I, I get thirty or forty years for maybe rape or something. Uh, but then for, if I, if I elicit good behavior I'm out in maybe five or ten.|b aa sd sv h sd sd % sd
+A|Oh, really?|bh
+B|Oh, sure, you know.|na
+A|Goodness.|ba
+B|I mean just because, like we said before, they don't have enough room in the jails uh, you know, there's a lot of incentive for them to be let out early.|sd
+A|Uh-huh. Yeah.|b b
+B|But if you've got the death penalty hanging over your head, uh, I don't know, I think that may solve a lot of that.|% h sv
+A|Yeah|b
+B|Maybe not solve it, but, I don't know, maybe ,|sv h %
+A|I, yeah I tend to think the repeal system for the death penalty is a little, little too lenient.|sv
+B|Yeah.|b
+A|Uh, kind of takes away from the significance of the death penalty.|sv
+B|Uh-huh. What do you do Georgeanne?|b qw
+A|I'm a graduate student at the University of Texas in Dallas.|sd
+B|Oh, okay. Great. What program you in?|bk ba qw
+A|Uh, audiology.|sd
+B|Okay. Fantastic. Uh|bk ba
+A|Yeah. What do you do?|b qw
+B|I'm a doctoral student at the University of Central Florida.|sd
+A|Oh, really.|bh
+B|Yeah, I'm doing an internship up at Honeywell.|ny sd
+A|Oh really?|bh
+B|Uh, yeah.|ny
+A|Neat.|ba
+B|But, uh, I don't know. It's, it's an interesting issue. There's, like you say, in Texas there's been quite a few and, and in Florida in the last few years, I think there's been a lot. I can't, I, you know, I can't give you figures but, uh,|h sv sd sd sd %
+A|Yeah. I just, this was in conjunction with the guy that was put in the gas chamber in California.|b % sd
+B|Uh-huh.|b
+A|So, I think it, the forty-sixth in the last twenty-five years I think is what|% sd
+B|Oh, is that right?|bh
+A|they gave a run down that Texas Texas tends to be a little more robust and disciplined area then .|sd
+B|Okay. Yeah, I, I kind of, yeah, I've heard things about that. I've heard that they don't mess around very much.|bk b % sd sd
+A|Yeah. Uh, they, they don't get repealed as easily as they do. Like the guy in California got you know, twice before he went to the gas chamber and then they said okay, no, you don't have to go. And then they took him back. I mean, it just seems,  Yeah, it just seemed a little inconsistent.|b sd sd sd ^q sd sv
+B|Jeez, that's a lot of repeals.|ba sv
+A|And then you have like two, you have these people who are serial killers that didn't even get the death sentence back when ever you know.|% sd
+B|Uh-huh. Yeah. I don't know. I, I'm trying to think about other crimes that would warrant it. Uh, I guess, what is it, what's the policy now with treason? Do they, uh, do they axe you for treason or is it a life sentence?|b b h ^h % qw qy
+A|No, I don't, I don't think, uh, the military doesn't execute anymore so.|nn sd %
+B|Yeah.|b
+A|Or death before the firing squad or whatever.|sd
+B|Yeah.|b
+A|So, I think about the only one is, uh, rape,|sv

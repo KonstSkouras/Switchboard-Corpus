@@ -1,0 +1,58 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|Okay.|fo_o_fw_"_by_bc
+A|I was trying to get my children quiet for a minute.|sd
+B|Okay. Yes,|b
+A|a deep Well, credit cards, boy, that's an easy topic, isn't it|sv qy
+B|it is It's one we all hold dear and near, I'm sure.|sv sv
+A|Oh, yes, yes. I guess I've had some good experience and some bad experience with them.|aa aa sd
+B|Yeah, most of mine's been pretty good, although I'm, I guess I'm like a lot of other people, now, I'm trying to, to pay off my credit cards and, and, uh, I've done pretty good at it. Yeah.|b sd sd sd %
+A|Uh-huh Well, I do fairly good until I go in the store and I see something I want You know not need, want.|b sd
+B|Yeah. Uh-huh, there is a big difference|b b sv
+A|There's a big difference there.|sv
+B|Yeah, yeah.|b b
+A|But most of mine that I use is strictly gasoline.|sd
+B|Yeah, oh yeah, I, I do that, I do that, but the rest, like I said, the rest of them I've been trying to, to pay off and, uh, get back on a cash basis, except for gas.|b b sd sd sd
+A|Uh-huh.|b
+B|It's too easy to, to run into the gas station.|sd
+A|Oh, it sure is especially when you work out of town and everything, that way|sd
+B|And, . Uh-huh.|% b
+A|At least that's for me.|sd
+B|Yeah, yeah.|b b
+A|Yeah.|b
+B|So.|%
+A|But yeah, I've, I've talked to some who's really had some bad experience and kind of knock on wood I haven't yet, not bad.|b sd sd
+B|Yeah, well that's,|b %
+A|You know, I just, I'm just shocked at the end of the month, to see what damage I have did, but I try to keep it pretty reasonable.|sd sd
+B|Yeah, yeah. Well, I've been pretty lucky in that respect. I don't charge, like I say, I've, I been trying to, to not charge except for emergencies.|b b sd sd
+A|Uh-huh.|b
+B|And, uh, so, but I haven't really had any bad problems with credit cards. There's, you know, they have, uh, wonderful features, they're there when you need them. You know, like in emergencies, or whatever.|sd % sv sv
+A|Yeah, yeah. And then they have bad drawbacks, too.  I mean high interest,|b b sv
+B|Yeah. It's, it's awfully easy.|aa sv
+A|it's like paying twice.|sd
+B|That's true, that's true,|ba ba
+A|Yes, so, .|b %
+B|I try to, I did switch to one, uh, sponsored by the credit union, though. That seems to be a pretty low interest. Yeah, compared to some of the other ones.|% sd
+A|Oh, uh-huh. Yeah, yeah.|b b b
+B|And you don't have an annual fee there, and that helps.|sd sd
+A|Oh, yes. Uh, we used to have, you know, like several, but right now, we're just more or less at American Express, you know,|aa sd sd
+B|Uh-huh.|b
+A|and that way we can go ahead and pay it off when it comes in.|sd
+B|Yeah, that's one way to do it, because that, that forces you to pay for it instead of saying, well, I'll just pay on it this month|b sd
+A|Yeah. Pay fifteen, yeah.|b ^2 b
+B|and|%
+A|Yes, I know, yeah.|aa sd b
+B|Yeah.|b
+A|And when you pay fifteen dollars a month it sure takes a long time.|sv
+B|Takes a long time, that's right.|b^m ba
+A|It sure does.|ba
+B|And now without the benefits of being able to deduct interest off, off your income tax that's, you know.|sv
+A|Uh-huh.|b
+B|Of course it's been going down for a number of years, but this is the last year you can take anything. So.|sd sd %
+A|Uh-huh, yeah.|b b
+B|So.|%
+A|Well, I've enjoyed talking to you.|fc
+B|Well, I've enjoyed talking to you.|fc
+A|And maybe we'll get to talk again.|fc
+B|Okay.|fc
+A|Okay, bye-bye.|fc fc
+B|Bye-bye.|fc

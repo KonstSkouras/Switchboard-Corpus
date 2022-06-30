@@ -1,0 +1,101 @@
+A|I guess we're supposed to talk about what's being done about recycling.|sd
+B|Yes.|aa
+A|Well, lots, right?|qy
+B|Right|na
+A|Finally.|fo_o_fw_"_by_bc
+B|Really, what, what do you do, now?|aa qw
+A|Well, we have saved our newspapers for years and years because the, uh, Boy Scouts our boys have been involved in have, uh, had a huge recycling bin, over at Resurrection Lutheran Church|sd
+B|Uh-huh. Uh-huh. Uh-huh.|b b b
+A|and, uh, so we've done that for quite some time, but since the price of paper has gone down like it's about a fifth of what it used to be|sd sd sd
+B|Oh, really?|bh
+A|so the Boy Scout troop quit doing it when the City took it over.|sd
+B|Okay.|b
+A|So now we just put ours out for the City of Plano. Do you live in Plano?|sd qy
+B|Yes, I do.|ny sd
+A|Okay, yeah.|b b
+B|Yeah, and I'm so glad when they brought out those recycling bins.|b sd
+A|Right.|b
+B|Have you had yours now?|qy
+A|Yes.|ny
+B|Yeah.|b
+A|Although just, just about a week ago some of my volunteer mothers that, uh, work in the library for me said they hadn't gotten theirs.|sd
+B|Oh, that's why I asked you.|sd
+A|Yeah.|b
+B|and not everyone got theirs right away.|sd
+A|Yeah, yeah.|b b
+B|And I, I was so relieved because I've been making a real concerted effort, make, you know, recycling the aluminum and the newspapers and even got into plastic because Wal-Mart collected it.|sd
+A|Uh-huh. Right, yeah, we used to take ours there.|b b b sd
+B|And, uh my garage was just getting overwhelmed.|% sd
+A|I know.|aa
+B|And, of course, I didn't go weekly, so it became quite a big  thing,|sd sd
+A|Right.|b
+B|and, uh,|%
+A|Right, I'm really glad they do it. Uh, yeah, I do news, mostly newspapers and, uh, plastic two liter diet Coke bottles And aluminum cans some,|aa sd % sd
+B|Yes, yeah.|b b
+A|but I don't use as many of those.|sd
+B|Uh-huh.|b
+A|I guess the ones that are hard to convince yourself to do are the ones that you have to really, that are really dirty that you have to wash out|sv
+B|Yeah, well, I found out after washing out many a peanut butter jar that they're not a recycling number one or two.|aa sd
+A|Uh, ha.|ba
+B|Uh, ha,|b^m
+A|Wasting all your time and effort and,  Putting it in there.|bf
+B|Thinking I was safe in buying those jars as far as the environment was concerned.|sd
+A|Yeah, yeah.|b b
+B|But, uh, you know, but it, it's not that hard now that I've got this  system under control.|sd
+A|Got your routine down. Yeah.|^2 b
+B|Yeah.|b
+A|Well, I guess there are some places, uh, in the north, in particular that, uh, have a real definite way of encouraging you to recycle because they charge you, let's see, they charge you for your garbage pick up by the weight.|sd sd
+B|Uh, uh-huh.|b
+A|So if you recycle things, of course, then you don't have all that weight in there.|sd
+B|Yeah, I do find that I don't have as much to throw away because all the bulky things are, are being tossed in with the recycling.|b sd
+A|Right. That's right. Yeah. Yeah.|b aa b b
+B|And, uh, I don't know what they could do more of exactly around here right now other than, uh, what are some of the things they don't recycle. Oh, one thing I thought about the other day were batteries, just everyday regular batteries. Supposedly, you know, leak and, and contaminate the landfills|sd t1 sd sd
+A|Um. Right.|% b
+B|and, yet, what am I going to do when I have a couple double A batteries to toss out.|qh
+A|Yeah, right.|aa aa
+B|And they don't take,|sd
+A|Probably going to throw them in your trash|sv
+B|Yeah, that's what happens because,|aa sd %
+A|Well, there are places that take car batteries, but I wonder if they would take,|sd sd
+B|Yeah.|b
+A|I mean, not that it would kind of a pain to, you know, drive over somewhere special just for that, for two little tiny batteries but,|sd sd %
+B|Yeah, yeah, but I think the city one could possibly look into that or something.|aa aa sv
+A|Yeah, that's true.|aa aa
+B|Uh, if they've got these bins for all the other little items, I'm sure if people will have batteries, uh, you know, quite often to, to toss out.|sd sv
+A|Right, that's true. Uh, when I was home those few days around Thanksgiving and the, uh, the truck came by, well, we all ran out to watch it because, you know, we'd never really seen it pick up our stuff|aa aa sd
+B|Uh-huh.|b
+A|and one thing I thought was interesting was that the driver had something on his belt that he, uh, scanned across the little bar code on our bin as soon as he took the stuff|sd
+B|Oh. Oh, is that right?|b bh
+A|and he just pulled this thing kind of out of his pocket and just, you know, scanned it, so I don't know why, what that was reading it for|sd sd
+B|Huh.|%
+A|but, uh|%
+B|Registering our garbage|bf
+A|they must be trying to keep track of , you know, who is doing it, or what, I guess.|sd
+B|Yeah.|b
+A|I don't know. Another,|h %
+B|Wouldn't it be nice if you could get a credit back at the end of the year|qh
+A|Ooh, for those who are really cooperating.|bf
+B|Yeah.|b
+A|Now, that would encourage it.|sv
+B|Well, except I know it would just not be cost effective. They've already got all this money out on hiring, uh, getting the trucks and hiring people to work them. I'm sure they couldn't afford that.|sv sd sv
+A|Sure.|b
+B|But|%
+A|Sure.|b
+B|uh,|%
+A|But the garbage, uh, now there is just one garbage man that comes on the truck instead of two.|sd sd
+B|Yeah. Oh, yeah.|b b
+A|So that's interesting. Uh, also, slightly off the subject, but our, our big green garbage thing got stolen.|sv sd
+B|Oh, it did?|bh
+A|Uh-huh.|ny
+B|Gosh.|ba
+A|And we we called the City and, uh, they, they brought us a new one and they did not charge us. And they said that between three and four hundred have been stolen.|sd sd sd sd
+B|Oh, my goodness.|ba
+A|Isn't that sad? You know.|qy
+B|It is sad.|na
+A|And just,|%
+B|You know, they paid for those things anyway.|% sd
+A|Oh, and they must be, Yeah, really expensive.|sv
+B|Or, our taxes do.|sd
+A|I mean, of course, we were hoping we weren't, we weren't going to have to pay for it, you know|sd
+B|Uh-huh.|b
+A|but, I mean, what would somebody do with them.|qh

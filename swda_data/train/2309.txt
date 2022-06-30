@@ -1,0 +1,89 @@
+A|Okay, have you ever served as a juror?|fo_o_fw_"_by_bc qy
+B|Never. I've never been served on the jury, never been called up in a jury, although some of my friends have been jurors.|ng sd
+A|Uh-huh. I never have either.|b sd
+B|You haven't, huh. If you were, uh, what do you think about the whole concept of a trial by your peers?|% qo
+A|Well, I think it's a good idea. I think our justice system needs a major overhaul, and I'm not sure what needs to be done to fix it. But I think they've got a lot of problems.|sv sv sd sv
+B|I think the major thing they need to correct is how long it takes something to get to jury, and to get to trial.|sv
+A|True.|aa
+B|And I don't know if that's just a pure volumes number or, or what, but, uh. Sometimes I think the jury is ignorant in the facts of law and how things should be determined, and they're too easily swayed by their emotion.|sd sv sv
+A|Yeah, I think that's true.|aa aa
+B|Hence is possible error as you can see in all the IRONSIDES, T V shows.|sv
+A|Yeah. Do, would you prefer all trials by a judge?|b qy
+B|No, I think there are certain things that, uh, the jury can determine as far as, uh, guilty or not guilty, but as far as the affixing of punishment and fines and things of that nature, I don't know if that is best left up to the jury to to award, you know. Two point two million dollar kind of settlement versus a judge knowing, you know, it's true that, you know, this may be sad and all that thing, but, uh, the jury I think is best, in most cases, suited for determination of guilt and innocence, but not the award of, of penalties and fines and punishment.|nn sv sv sv sv
+A|Yeah, I would agree with that. I think you're I think they sometimes get carried away by the circumstances and make huge settlements thinking well it's only going to cost the insurance company, and,|aa aa sv sv %
+B|Uh-huh, that's true. But, uh, I do like the idea of the jury being the, the people who decide in the matter of, uh, if it's a jail term versus life and death you know, the death penalty and such.|aa aa sv
+A|Uh-huh. If they give them all the information. I don't know, when it comes to sentencing phase, I guess they tell them if a guy, if the person has a previous record and stuff.|b sv h sv
+B|Uh-huh.|b
+A|Sometimes it seems like during the trial part, the jury's not, you know, misses some of the best evidence because they make them leave, and the judge decides whether or not they should hear it.|sv sd
+B|Right. Yeah. Uh, it, it, it's kind of difficult, and I guess the whole system is set up to rather let, uh, some guilty people go free than to put an innocent person in, in jail although you still hear about those occasionally.|b b sv sv
+A|Right. Yeah. Do you think the verdict should be completely unanimous by the jury?|b b qy
+B|Um, I don't know. I, you know, I heard a very interesting, and maybe it's just the T V show or movie I was watching, they were going through a trial, and I think it was like on one of the, the documentary T V shows where they ask for the, the verdict by the jury|no sd h sd sv
+A|Uh-huh.|b
+B|and they went by each one, saying guilty or innocent, guilty or innocent.|sd
+A|Uh-huh.|b
+B|And they took it more as just like a majority.|sd
+A|Oh.|b
+B|So I, I,|%
+A|Some of them disagree, I mean, some of them said one way and some the other.|bf bf
+B|Exactly, but they took, you know, whatever the majority was. So I didn't know if that was just something for drama or that's truly the way it is. I always thought it had to be unanimous.|aa sd sd sv
+A|I think it does have to be unanimous.|sv
+B|But, uh. Rather interesting.|sv
+A|I know they can poll a jury, make sure everybody agrees with what they said the verdict was, but I thought that they all had to agree or else they, it was a hung jury.|sd sv sd
+B|Uh-huh.|b
+A|And,|%
+B|I did, I did also.|sd
+A|Yeah, I I don't know how I feel about that. I think maybe, uh, majority might be sufficient.|b sd sv
+B|Uh-huh.|b
+A|It's hard to say though.|h
+B|What about in international trials. Do you think they should have a jury there?|qy^d qy
+A|Oh.|^h
+B|I think that would be kind of interesting.|sv
+A|Yeah, I hadn't thought about international trials at all.|b sd
+B|I guess the, the problem with that is there's no true authority in any kind of international verdicts like, you know, the old day with the rack.|sv
+A|Right.|b
+B|We, they're going to say, Okay, you're guilty and you have to pay Kuwait four million dollars. Well, whose going to really make them.|sd qh
+A|Yeah.|b
+B|Nobody.|sd
+A|Yeah,|b
+B|So. But I think it would be kind of interesting to incorporate that concept of, you know, people from different countries, uh, in as international law also.|sv
+A|Yeah, I think maybe they'd need to be more knowledgeable though than just your average Joe off the street for something like that because of the cultural differences. Things like that.|b sv
+B|Uh-huh. Right. I don't know how, what it would take to be, come up with a true perfect system, or if one exists. But,|b b sd %
+A|Yeah.|b
+B|Uh, is that the crime and it's already, some chart and determine the punishment, or.|qy qy^d %
+A|Yeah, like if you're convicted of a certain crime you automatically get so many years. It's not a discretionary thing.|ny sd sd
+B|Uh-huh. I think there should be a core minimum that they get|b sv
+A|Uh-huh.|b
+B|but, uh, I guess there should be some flexibility because every situation may be unique, that the judge can either increase that or keep it just at its minimum, things of that nature. But,|sv %
+A|Yeah. I wish that when they sentence someone, if they're going to sentence him to five years, then make him serve five years.|b sv
+B|Yeah, that serves a kind of if they're, I guess, uh, if you sentence someone to life, life is only forty-nine years, something like that.|aa sv sd
+A|Yeah, I,|b %
+B|And I guess you're eligible after twenty-seven for parole, even though you're in for life.|sv
+A|Yeah, and sometimes those people are, are young enough, they can still get out and cause a lot of trouble.|b sv
+B|Yeah, although I guess it's, you, you want them to rehabilitate and become better rather than sitting in there and being a drain all the time.|b sv
+A|Yeah, I don't believe that very often happens.|b sv
+B|No. Because uh, inside the jail there, I don't think there's no real rehabilitation.|aa sv
+A|I don't think so either. In fact, I think they end up worse, because the conditions are so bad.|aa sv
+B|Yeah, it's another war zone.|b bf
+A|Yeah.|aa
+B|But, who knows.|qh
+A|I think, I think maybe they ought to just be punished with some, some kind of real punishment, like hard labor for a shorter length of time, you know.|sv
+B|I agree, get them out there,|aa sv
+A|Actually make them do something that's not pleasant and do it and get it over with and get back in the, you know, world and not spend so much time sitting around, letting the bad influences of the other ones rub off on them, and,|sv %
+B|Sure, they should have them go out and doing stuff. Cleaning up, or picking up dirt, or weeds, or who knows what. Something for the, for the state,|aa sv
+A|Yeah.|b
+B|since the state is paying for them, they should get some kind of, kind of work out of them.|sv
+A|Yeah. Something besides license plates and tiddlywinks.|b sd
+B|Exactly.|aa
+A|Yeah.|b
+B|Trading their lives for cigarettes those kinds of things.|sd
+A|Yeah.|b
+B|Well good.|%
+A|Well, I think that covers it.|fc
+B|I think so.|fc
+A|Nice talking to you.|fc
+B|Nice talking to you also.|fc
+A|Bye.|fc
+B|Have a wonderful Easter.|fc
+A|You, too.|fc
+B|Bye.|fc
+A|Bye.|fc

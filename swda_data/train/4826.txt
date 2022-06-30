@@ -1,0 +1,76 @@
+A|Okay, I'm here. How do you feel about public schools?|fo_o_fw_"_by_bc sd qo
+B|Well, our public schools are, are really poor, I feel.|sv
+A|Uh-huh.|b
+B|Uh, I'm not sure where Georgia ranks in the nation but, uh, we're toward the bottom.|sd sd
+A|Yeah.|b
+B|And, uh, there's a lot of things that I see that are so obviously wrong. That you would think it would be easy to correct.|sv
+A|Uh-huh. Right.|b b
+B|But the system doesn't allow for the corrections|sv
+A|Uh-huh.|b
+B|How about you?|qo
+A|Well, that's interesting. I have a sister who used to live in Kennesaw, Georgia.|sv sd
+B|Oh, yes.|bk
+A|And, uh, she has a young boy. Actually has two boys now but only had one when she was there. And she complained quite a bit about their school system there.|sd sd
+B|Yes.|b
+A|And,|%
+B|And Cobb County is better than the county I'm in.|sd
+A|Right.|b
+B|She was in Cobb County.|sd
+A|Right. I'm, I can't really say much about the schools up here. I really don't come from here|aa % sd sd
+B|Uh-huh.|b
+A|I'm only up here temporarily on an internship but  uh, I live in Orlando, Florida usually.|sd sd
+B|Okay.|b
+A|And the schools down there, from what I know, are not bad. They're pretty good.|sd sd
+B|Well, that's great.|ba
+A|But I know that in some, I know in a lot of rural areas they're not that good.|sd
+B|Uh-huh.|b
+A|For example, I have a brother in North Carolina and he says the schools there are, are incredibly bad. Uh, just terrible.|sd sd
+B|Well, I feel that we're way behind. Uh, I have a son that is in the fourth grade|sv sd
+A|Huh.|b
+B|and, uh, they have just now taken up division.|sd
+A|Wow.|ba
+B|Yeah And|aa %
+A|That is slow.|sd
+B|uh, my husband and I go to the store and we buy these math books and fractions and multiplication, division things and I feel like, uh, there are several areas that we're just really, really slow in.|% sd sd sd
+A|Uh-huh.|b
+B|And, uh, I don't blame the teachers as much as I blame the system. It is,|sd %
+A|What do you think's wrong to cause that?|qo
+B|Well, well, for one thing there's not enough money in the school system. And the money they do have, they're not, they do not use it wisely.|sv sv
+A|Yeah.|b
+B|Uh, she, my son's teacher has twenty-seven students.|sd
+A|Uh-huh.|b
+B|And that's certainly is a lot of students for one person to deal  with on an every day basis. Uh|sv
+A|Yeah. Perhaps.|b aap_am
+B|but more than that, I don't think that they have the authority to command the attention of the children.|sv
+A|Yeah.|b
+B|And when you have two kids in that class that constantly keeps the class in an uproar and you're not at liberty to do something about it, other than give them on campus isolation or send them to the principal's office. It  it, you know, it can, it can really be bad.|sv
+A|Yeah. Yeah, that's, that's one thing I worry about .|b aa sd
+B|Uh, also I think, we have a lot of, uh, Hispanics|sv
+A|There you go, uh-huh.|aa b
+B|and we have a lot of, uh, the county I am, I'm in, the minorities are mostly Hispanic.|% sd
+A|Yeah. Probably quite a few black people up there and and,|b sv %
+B|No We're from a county, we're from the county they marched in. We're in Forsyth county|ar sd sd
+A|Oh, is that right?|bh
+B|yes, and we, and there's very, very few blacks.|ny % sd
+A|Oh, okay.|bk
+B|Uh, so, so that's, uh, I, I hate to say, uh, it's not a problem, uh, because I hate to feel like they are a problem, although they are.|% sd sv
+A|Yeah but, you know, it, it's, you don't want to seem racist or prejudice or whatever, but then again.|aa % sv sv
+B|But it is a problem  Uh, especially in the inner schools, inner city.|sv
+A|Yeah, there is no denying that, that, Sure, you know. Teachers, you have to admit that teachers have to slow things down for people who don't understand, especially if there's not a very well developed special education program at the school.|aa aa ba sv
+B|Well, and you can't put all the children in special education.|arp_nd sv
+A|That's right, you can't do that.|aa sv
+B|Uh, and if the parents do not care enough to take an interest in whether the homework is done you know.|sv
+A|Right. See, I grew up in Nebraska|b sd
+B|Uh-huh.|b
+A|and the school that I went to there was fantastic. It, I, I really consider myself very, very lucky. Uh, we had a school that had classes probably about the same size you're talking, twenty-seven, thirty kids to to a class.|sd % sd sd
+B|Yeah.|b
+A|But,|%
+B|But your teacher had control.|bf
+A|Yeah. We zipped right along, you know. I, I was, I was doing mathematics, fractions and division and multiplication by the third grade, easily.|aa sd sd
+B|Uh-huh. Yeah. I, I  believe I was too.|b aa sd
+A|Uh, Uh-huh. But, you're right, you know. With all this, don't hurt the kids and don't abuse their rights, you've also taken  something away from the discipline, I think.|% b aa sv
+B|Uh-huh Uh, well, it, it really is a concern of mine because if we could afford it, my son would be in private school.|b sd
+A|Yeah.|b
+B|We just cannot afford it.|sd
+A|Right. I was going to ask you if there, if that was an option.|b qy^d
+B|Uh, if,|%

@@ -1,0 +1,109 @@
+A|Well, what were you saying?|br
+B|Okay. I, I think we're started now.|b sd
+A|Oh, okay.|b
+B|Uh, do you want to go ahead and start?|ad
+A|Uh, well, I haven't really been up to date on a lot of music. I've been in school and I haven't really gone out, and bought any or listened to much on the, on the radio except for classical and, uh,|sv sd sd %
+B|Well, you like classical music?|qy
+A|Yes.|ny
+B|Uh, I like classical music. I like rock and roll.|sd sd
+A|Uh-huh.|b
+B|I like country and western|sd
+A|Okay.|b
+B|Uh, I, I like all kinds I like, I like different things about each one of them.|sd sd
+A|Well, I like most of them except for country music.|sd
+B|Oh you don't like country?|qy^d
+A|No. I think I, I might like dancing to it but I don't like listening to it.|nn sv sd
+B|The, the kind of country I like is kind of the older country music. Not the, not the kind like Kenny Rodgers and stuff like that.|sd
+A|Oh.|b
+B|That's, uh, that's a little bit to, uh, they're trying to make it too much of a crossover thing, you know what I mean?|sv sv qy
+A|Uh-huh. what's the old country music like?|ny qw
+B|Oh, like, like Hank Williams. Like the old Hank Williams. Even, even Hank  Williams, Junior is real good stuff.|sd sd sv
+A|Uh-huh.|b
+B|The kind that|%
+A|Oh, okay.|bk
+B|uh, this stuff, makes you cry it sounds so sad I mean you|sv %
+A|That's the kind you like you mean?|qy
+B|Yeah. sometimes I do. I mean, not all the time.|ny sd sd
+A|Oh. Oh, okay. Well, I guess I, I like the blues a lot and I guess you could say it's similar as far as  the kind of the way they do it.|b bk sd sv
+B|Yes. And I  I, I do too. I also like jazz.|aa sd sd
+A|Yeah. Me too, too. I guess I like except heavy metal and, uh, most rap I don't like. Yeah.|aa aa sd sd sd %
+B|Yeah. You're, you're about like I am I, I can't, watch M T V anymore. I used to love M T V.|b^m sv sd sd
+A|Oh, okay.|b
+B|And I can, I can barely watch anymore because, uh, they have this heavy metal stuff on there and, and I can't even, you know, I can't like that.|sd sd
+A|Yeah.|b
+B|And, and I liked, uh, Aerosmith and Led Zepplin and, uh you know, and, uh, jeez who else is there. Van Halen.|sd
+A|Uh-huh. Okay. Okay. Yeah.|b b b b
+B|Now I like, I like groups like that. But when you get, uh, I, I even like Guns and Roses, some of their stuff.|sd % sd
+A|Uh-huh.|b
+B|But, uh, some of these groups now like Slaughter|sd
+A|Oh, I, I really haven't listened to that|sd
+B|Some of them are just really rough. So, so you went to school then in, I'm surprised you didn't go to, to any parties or anything where they were playing a lot of music or stuff or,|sv qy^d sv %
+A|Well, uh, I used to a long time ago but since I've started back into school now, I haven't really done that much. I've been pretty busy. Uh|sd sd sd
+B|Okay.|b
+A|but, uh, so no I haven't. I, you know, I used to go out and dance a lot but I don't do that anymore either So.|% fo_o_fw_"_by_bc sd sd sd %
+B|Oh, I see. Are you married at all?|b qy
+A|No|nn
+B|Okay|bk
+A|I've just been real busy with, with lots of other things.|sd
+B|Well, how old are you?|qw
+A|Twenty-eight.|sd
+B|Okay. So, you, you were out of you went to school for awhile and quit. Then went back.|bk bf
+A|Well, no. I, I went to school and got a degree and then I worked for awhile. And then I just started, I started back a year and a half ago. Changed directions.|nn sd sd sd sd
+B|Oh, okay.|bk
+A|Yeah. How old are you?|b qw
+B|Oh, I'm, uh, twenty-eight I was born in sixty-three I guess we're  the same age then.|sd sd sd
+A|Oh, okay All right. Yeah. And, uh, I didn't really start getting into music until I went to college because, uh, my parents didn't really have music in the house. Put it that way.|bk b b sd h
+B|Oh, Were they religious?|b qy
+A|Yes.|ny
+B|uh, I see. I,|b %
+A|So, I'm always behind. I'm, I'm not, I'm never really up to date on all that stuff. But I know what I like when it's, uh, when I like a sound. A certain kind of sound, yeah.|sd sd sd %
+B|My parents were very musical. My mother had a piano in the, in the house.|sd sd
+A|Uh, Uh-huh.|% b
+B|My father likes, uh, country western music.|sd
+A|Okay.|b
+B|He's from, uh, West Virginia. So that's what he grew up listening to.|sd sd
+A|Uh-huh.|b
+B|And he's always liked it and, and, you know, he's probably about fifty-three years old now, so he grew up like in the late fifties and you know, when they had that, the Elvis Presley music and stuff like that.  And that kind of rock and roll|sd sd sd sd
+A|Huh. Yeah, yeah.|b b b
+B|so he likes that. And my mom always liked that kind of stuff. My mom likes like, uh, Doris Day, you know.|sd sd sd
+A|Oh, really.|b
+B|She always had those, these old Doris Day records and stuff like that, though.|sd
+A|Oh, well.|b
+B|So, you know, I grew up listening to that stuff.|sd
+A|Yeah.|b
+B|But, uh, I could see why you went, uh, you know, I could see why you were kind of sheltered  I guess from, from music.|sv
+A|Yeah. Well, I, I do play the piano, you know|b sd
+B|Oh, okay.|b
+A|But, uh, I, I like the, uh, early seventies, late sixties rock. Kind of stuff, the old stuff.|sd
+B|Oh, okay.|b
+A|And, uh,|%
+B|Yeah, so do I.|aa aa
+A|Uh,|%
+B|Do you like, uh, like Van Halen or anything like that? Or how about Brian Adams?|qy qrr
+A|what kind of music is, does what  songs does he play?|qw
+B|It, it, THIS LOVE CUTS LIKE A KNIFE. Uh, SUMMER OF SIXTY-NINE.|% sd
+A|Uh-huh. I think I've heard SUMMER OF SIXTY-NINE.|b sd
+B|Yeah. He sings that.|b sd
+A|Yeah.|b
+B|He's, he's from Canada.|sd
+A|Okay. I'm not, I'm not very good at remembering the, uh titles,|b sd
+B|The titles and artists.|^2
+A|yeah, but I can remember this, the song. Yeah.|aa sd b
+B|Well, do do you watch music television, M T V at all? Or V H One?|qy
+A|Yeah No, I don't watch T V much at all.|b nn sd
+B|Okay.|bk
+A|So.|%
+B|do, do you get cable?|qy
+A|No.|nn
+B|Oh, okay. That's, that's|b bk %
+A|No.|nn
+B|you have to get cable to get those stations anyhow.|sd
+A|Yeah. So.|b %
+B|But, uh, yeah. I like to watch rock and roll videos and any kind of videos.|b sd
+A|Uh-huh.|b
+B|I like watching that kind of thing. It's,|sd %
+A|Do you like, uh, like someone recent? Like Enya? Have you ever head of her. She's not rock but she, she's from Ireland.|qy qy sd sd
+B|No, I haven't heard her. Oh, okay.|nn sd b
+A|And, uh, she's gotten some, uh, she's been on like the top ten, I guess, or whatever.|sd
+B|Oh, really.|b
+A|She, she did|sd

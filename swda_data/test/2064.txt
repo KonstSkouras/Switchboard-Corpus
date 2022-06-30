@@ -1,0 +1,112 @@
+A|Well, I am new to Texas, so I don't even know what the law is, in the state,|sd sd
+B|Uh-huh?|bh
+A|do you?|bh
+B|Well, yes, of course, we do have capital punishment. And we've, you know, done away with our, quote, fair share number.|ny sd sd
+A|Oh, that's right, I think now, that I recall, reading about it in the paper.|ba sd
+B|Yes.|b
+A|Um, you know, different things, is it restricted to certain crimes? Or just,|% qy %
+B|Yes, it's certain crimes, uh, capital crimes, murder, of course, uh, rape, this sort of thing.|ny sd
+A|Uh-huh. Um. Well.|b %
+B|It seems to be a disproportionate number of blacks, you know, that get into the system.|sv
+A|Yes, I know, the one thing that I think is really sad about it, as I recall, from the articles that I've read, is that if, if people who have been there, are going to be killed. Um, there's people that come to the prisons and they're very violent and, they want, I mean they're anxious for someone to be killed|b sv sv % sv
+B|Uh-huh. Yes.|b b
+A|I just, I can't see that.|% sd
+B|That happens on occasion, it sure does, maybe it just depends on, you know, how closely the crime, you know, has affected you personally.|sv sv sv
+A|Uh-huh.|b
+B|You know, I don't know, or a person personally.|h sv
+A|No.|ar
+B|I think I would be, you know, I guess, really if I had to say yes or no, I guess I would say, you know, that I am in certain cases, in favor of the death penalty, I don't know that it's a big deterrent really. I don't know that it is. I don't know how we'd ever find out, you know, really whether it is or not.|sv sd sv sv sv
+A|Well, there is so many chances for appeal, that it|sv
+B|Oh, yeah, oh, absolutely, yeah, it goes on for years and years, and costs hundreds of thousands of dollars, taxpayer money.|aa aa aa sv
+A|it's really sad.|sv
+B|Yeah.|b
+A|I don't know, I just think, um, somehow I hoped that as a people we could be better than, than, um, expecting, the feeling that it|sd sv sd
+B|Yes.|b
+A|with, someone is calling for someone else to be killed, you know. Is really kind of bad|% sv sv
+B|Yes it is. It's a tough, tough question. It really is. I suspect I would be, uh, you know, a lot more favor of it if, you know, one of my children were, you know, brutally killed, or something like that. Like I say, I think it depends on how personally affected, you know, you might be by it.|aa sv sv sv sv sv
+A|and there really are criminals that are hard-core and, repeat, and never have any chance for,|sv
+B|Oh, absolutely. that's right.|aa ba
+A|Oh, I don't know, is it, do you feel at all like, it's a religious issue?|h % qy
+B|Not with me personally. It is with a lot of other people.|ng sv
+A|Uh-huh.|b
+B|It's not, not to me personally, no.|sd ny
+A|Um.|%
+B|No.|ny
+A|I don't know, sometimes I feel, I mean I do go to church and things. I don't know how I would feel about it. But like you say, if it hit you personally, closer at home you would feel, feel differently.|h % sd sd sv
+B|Uh-huh. Yes. That's a, it's a tough, tough question, it really is.|b b sv sv
+A|Do you think most states have that or?|qy %
+B|Yes, I think most states do have capital punishment. Yes. But, I think the U S is one of the few countries that still do.|ny sd ny sv
+A|That still does it, that's right.|bf ba
+B|Yes, they're only, I was reading something about it the other day, I think there was only like six or eight countries in the world, that have capital punishment still.|aa % sd sv
+A|Uh-huh.|b
+B|A lot of them had to have elected not to do so. Now I don't know, what they do in place of it. You know, maybe it's life in prisonment or, you know, something, I I don't know how they handle it I was surprised to learn that so few countries have capital punishment.|sv sd sv sd sd
+A|Have that. Well, and it doesn't seem like very many people, uh, are really, I mean, there's a lot of people that are on death row. But there's not very many people that actually, um. do get killed.|bf sv sv
+B|Oh, yes. Yes, a lot of them do get their sentences commuted to something else.|b aa sv
+A|Uh-huh. So, it seems like a of people live there, and then through appeals.|b sv sv
+B|Yes.|b
+A|Because I know they do frequently, I mean they cover, cover it pretty heavily on television and the newspaper.|sv sd
+B|Uh-huh. Yes.|b b
+A|If it finally gets to that point.|sd
+B|Right, the first appeal is automatic, so that delays it for a few years just right off the bat.|b sv sv
+A|Yeah.|b
+B|There's, there's a lot of, you know, last minute, uh, things that happen cause a person not to, have to go through the whole thing.|sv
+A|Uh-huh. Uh-huh. So is it, uh, are we doing lethal injection now?|b b % qy
+B|Yes, uh-huh. That's, that's fairly recent, I don't know, how recent, but fairly recent, in the state of Texas. Before that, it was, uh, death by electrocution.|ny ny sd sd
+A|Uh-huh, which seems so awful.|b sv
+B|Yes, it certainly does.|aa sd
+A|So, it's a little bit more humane, I guess, it is,|sv sv
+B|Yes, it would almost have to be, I suppose. If you, if you had to chose, I guess I would, I am sure I would take the lethal injection.|aa sv sv
+A|Yes, the other one just seems so terrible.|aa sv
+B|Yes, absolutely.|aa aa
+A|Um.|%
+B|It's a, it's a tough question. It really is. I guess, if I had to say yes or no, I would say, you know, yes. I, I would have to lean toward capital punishment, you know, for certain crimes.|sv sv sd sd
+A|Well, do you think that we do it because we want it to deter crime or, it's not because we don't want to pay for inmates to stay in prison?|qy qrr
+B|No, I don't think it's a monetary thing.|nn sv
+A|Uh-huh.|b
+B|I think, we hope that it will be, you know, some sort of deterrent or, you know, an eye for an eye type thing, or something like that.|% sv
+A|Um.|%
+B|Some of the crimes are just so brutal and so, you know, useless. This may seem to be the best way out. I don't know.|sv sv h
+A|Yes.|b
+B|Easiest way out maybe. No, I don't think it's a monetary thing.|bf nn sv
+A|Um. Well, um, and I notice that the crime rate was up in the Dallas area It's, It's kind of been scary, to think about it|sd sv
+B|Yes, especially the murder rate, its just gone crazy. Yes.|b sd b
+A|and, And you're hoping there is something that will cut down on that.|sd
+B|Absolutely. Yes, I wish I had the answer for that, everybody does.|aa aa sd sv
+A|You hate to have the dubious honor of being, you know, so high in the, in statistics,|sv
+B|Yes, it's nothing to be proud of, certainly not.|aa sv sv
+A|But I, you know, we have been really fortunate our family, hasn't had any crime.|% sd sd
+B|Yes. Yes, so have we been very, very fortunate.|b b sd
+A|And, so we don't, it's harder to think about the poor people that have suffered that way.|% sv
+B|That's right. Absolutely.|ba aa
+A|And how they would expect, how they would hope,|sv
+B|Uh-huh.|b
+A|I mean you, you hear of people who have, um, committed crimes, and then they get out of jail and they go, and they do the same thing again.|sv
+B|Absolutely.|b
+A|And you wonder why they can't just stop it.|sv
+B|Uh-huh. That's right.|b ba
+A|So, maybe you would,|sv
+B|Uh-huh.|b
+A|but still I would hate to be on the jury that sentenced someone.|sd
+B|So would I, I fortunately, I have never been in that circumstance, I hope I never am, like, like everybody else.|aa sd sd
+A|No, I know when, um, we just, we moved here, uh, I from the, I got a summons, jury summons,|aa % sd
+B|Uh-huh.|b
+A|just like constantly, it seemed like,|sv
+B|Uh-huh.|b
+A|but fortunately I had small children and I didn't have to go.|sd sd
+B|Right.|b
+A|And it's not that, I mean, I think everyone should have to serve on the jury,|sv sv
+B|Uh-huh.|b
+A|it's just that, I didn't, I hate having to be in charge of someone else's life.|sd sd
+B|Sure, it's, it's a big responsibility, it really is.|aa sv sv
+A|And I would hate to have to hear any kind of case, involving a violent crime or anything.|sd
+B|Yes. So would I.|b sd
+A|That would be really awful.|ba
+B|Yes. Absolutely.|aa aa
+A|Well, anyway, I sure have enjoyed, uh, talking to you about this. Although it has been difficult but, uh.|sd %
+B|It is, it's a tough subject, it really is.|sv sv
+A|I'd hate to decide it, but I guess, uh, guess it's important, that we decide as a people what, what we're going to do.|sv
+B|Right. That's right.|b ba
+A|Anyway, well, you have a good day.|fc
+B|Well, thank you, it's nice talking to you.|fc fc
+A|Thank you, bye-bye.|fc fc
+B|Uh-huh. Bye-bye.|fc fc

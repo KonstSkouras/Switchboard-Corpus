@@ -1,0 +1,113 @@
+A|Okay, Jay, where do you live in Texas?|fo_o_fw_"_by_bc qw
+B|I live in Dallas,|sd
+A|In Dallas.|b^m
+B|uh, right at the intersection of the busiest highway in the state. And a, uh, it goes east and west, and a north south tollway.|sd
+A|What's that, the I Thirty and Central express?|qy
+B|It's, no, it's called Six Thirty-Five's the highway.|% nn sd
+A|Okay, yeah.|bk %
+B|It's the looper that goes around the city|sd
+A|Right.|b
+B|and then, uh, the tollway is called the Dallas North Tollway.|sd
+A|Yeah.|b
+B|Just moved here about, uh, oh, uh, one, about a month ago after twenty-one years, two miles to the east.|sd
+A|Oh, is that right? Oh, how about that?|bh bh
+B|So, it's a very different house from the typical Dallas, uh,  house.|sd
+A|It's a  new home?|qy
+B|It's about eight years old,|no
+A|About eight years.|b^m
+B|it's, uh, it's a duplex type thing. Uh, very modern and, uh, very open and airy light.|sd
+A|Oh. Uh-huh.|bk b
+B|So it's different than the, than the long Texas ramblers.|sd
+A|Right, uh-huh.|b b
+B|Uh-huh.|b^m
+A|Well we we live in a brick story and a half, uh,|sd
+B|What's your house like?|qw
+A|Cape Cod style, I guess you'd call it.|sd
+B|Oh, great, yeah.|ba %
+A|And, uh, have a big sun room on the back of it.|sd
+B|So it's got a lot of openness and light, also?|qy
+A|No,|nn
+B|Oh, it doesn't?|qy
+A|it doesn't have|ng
+B|Well, that's what my wife really wanted and so, uh,|sd %
+A|With openness and light?|qy
+B|Yeah that's,|ny %
+A|I understand that, I would love that too|ba sd
+B|Uh, our, our last house wasn't too bad, but it was just too traditional,|sd sd
+A|Uh-huh.|b
+B|and so, if, uh,|%
+A|Yeah, this is very traditional.|b sd
+B|the the next time, uh, probably a year and a half from now, we're going to try to build.|sd
+A|Oh, uh-huh.|b
+B|So make one really, uh, contemporary and, and very modern and very open and very light.|sd
+A|Uh-huh. Do you have children at home?|b qy
+B|No, I have three in college.|nn sd
+A|Three? Oh, boy.|bh ba
+B|They, they usually, get back for the, at least two of them for the summer, so, But,|sd %
+A|You still need space, plenty of space|qy^d
+B|Still need a little bit of space. We, we have a lot less than we had,  uh, recently.|na sd
+A|Uh-huh. Huh|b b
+B|Already cut back.|sd
+A|Uh-huh. Well,|b %
+B|How big is your place?|qw
+A|It's, uh, oh, about twenty-five thousand, twenty-five hundred square feet,  I guess.|sd
+B|Oh  that's good size.|ba
+A|It's four bedrooms and two baths and that,|sd
+B|Yeah. We,  we had,|b %
+A|It  has one wing built on that's a kitchen family room, and then the big room on the back. Uh,|sd
+B|Yeah, we had four bedrooms, two and a half baths, uh, in the place we just left.|b sd
+A|Uh-huh.|b
+B|So down, now we're down to, two and two.|sd
+A|Two and two, uh-huh.|b^m b
+B|Uh-huh. So it won't be terribly wonderful when the kids are home, but it won't be that long, because we, not for sure, you know, how long they're going to stay or whatever.|b^m sd sd
+A|Right, uh-huh.|b b
+B|So,|%
+A|I was just reading an article, uh, that there were nineteen thousand properties available in Texas, uh, for sale by the Resolution Trust Corporation?|qy
+B|Oh, yes.|ny
+A|Repossessed|sd
+B|Yes, and if you get in the, if, if you can find one in the right area you can really  pick up a steal.|ny sv
+A|I,  I guess so.|sd
+B|Uh, we, we really didn't go that route and didn't look. Uh, but, uh, the planning of them and the, the housing market probably still going to even go lower. There are many, many houses for sale just by the regular route.|sd % sv sv
+A|Uh-huh.|b
+B|So, uh,|%
+A|That's discouraging if you own property|sv
+B|Yeah. And we just decided, uh, uh, sell. And we got, we got a pretty good price, uh, for, for what we had. Uh, not as good as it would have been say three or four years ago.|aa sd sd sv
+A|Few years. Uh-huh.|^2 b
+B|But that, uh, that was just the timing.|sv
+A|Right. Well our daughter and son-in-law moved up, back up here. He's from Texas, but course she's from here, uh, about a year and a half ago,  and had their house on the market down there,|aa sd
+B|Uh-huh.|b
+A|and they never did sell it. So they stayed six months, and she got her job back, and he got a job down there.|sd sd sd
+B|Oh.|b
+A|Because,|%
+B|Yeah, they're not moving very well.|b qy^d
+A|Huh-uh.|nn
+B|For sure.|ba
+A|Nope.|nn
+B|And that's a good, uh, example of it.|sv
+A|They live in Rowlett.|sd
+B|Oh, yeah. I know where that is. I've been, we've been here for twenty-five years.|b sd sd
+A|Have you?|bh
+B|I'm from Missouri, and my wife's from Kansas, so I I teach at a college here.|sd sd sd
+A|Uh-huh.|b
+B|So it's, uh, it's sort of home now.|sd
+A|Uh-huh.|b
+B|So,|%
+A|What college are you teaching at?|qw
+B|I'm at, uh, one of the uh, it's called Brookhaven College. It's one of the community colleges.|sd sd
+A|Oh.|bk
+B|And it's just about two miles to the west of where I'm living.|sd
+A|Uh-huh.|b
+B|So it's very nice,  very convenient.|sd
+A|The only one I know  is Richardson|sd
+B|Yeah. Now Richland College is out, it serves Richardson and, uh, Garland.|b sd
+A|Garland, uh-huh.|b^m b
+B|And that's about nine miles to the east of here.|sd
+A|Yeah.|b
+B|So, uh, anyway, well, it's good to hear from you.|fc
+A|Well I enjoyed  talking to you.|fc
+B|And I hope we,  hope we did them some good, uh, on their little computer dealy.|fc
+A|I hope so Right.|fc b
+B|And, uh, have a good life, the rest of it.|fc
+A|Okay, thank you, same to you.|fc fc fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

@@ -1,0 +1,101 @@
+A|I don't believe that we're ,|fo_o_fw_"_by_bc
+B|So what do you think about, uh, recycling programs in Atlanta, Julie?|qo
+A|The recycling program here is just terrible. I mean it's hard to find places to go. I mean, Kroger does a couple things. They, I don't think they, do they do newspapers?|sd sd sd qy
+B|I don't know, there's, there's big bins out there, I don't know if they ever get I, I really don't know what the details are. There should be someplace where you could call and find out. As a matter of fact, I'm pretty sure there's a place you can call and find out the closest, you know, thing to you, but, I think there should be some kind of curbside service.|no sd sd sd sd sd sv
+A|Yeah.|b
+B|That's the only way I could really,|sd
+A|The one in Florida is so cool because they pick up everything. They pick up newspapers and, uh, you know, milk jugs and aluminum and tin cans, you know, like soup comes in and stuff.|sd sd
+B|Uh-huh.|sd
+A|They pick up everything.|sd
+B|During the summers, like the, around where I live the, uh, homeless people I mean, they all have like shopping carts and stuff|sd sd
+A|Uh-huh.|b
+B|and they're go around and collect cans and aluminum and stuff,|sd
+A|Uh-huh.|b
+B|and so we used to just save them up and then they'd come around and we'd give them to them.|sd sd sd
+A|Uh-huh.|b
+B|But, when, during the winter time I think they, they move south or something|% sd
+A|Yeah|b
+B|so, I don't do that anymore. And the, the recycling at Georgia Tech, like that, uh, outside the, uh, student center they never empty those things.|sd sd
+A|Uh-huh. I know it, I know it.|sd aa aa
+B|They just overflow.|sd
+A|It piles up.|sd
+B|So what's a guy to do?|qh
+A|I just don't know.|h
+B|I asked myself.|h
+A|I just don't know and now they have, like bins and stuff that are a little more convenient because, mean, until seven o'clock, you got to pay to park at the student center, you can't really unload all your stuff.|h sd sd
+B|Really? Huh, oh, yeah, that's true, hadn't thought about that. That is very inconvenient.|bh aa aa sd sv
+A|Uh-huh.|b
+B|Inconvenient, even|sv
+A|I know it, I know it.|aa aa
+B|But, uh, so, you do recycle, don't you?|% qy
+A|Oh, yeah.|ny
+B|Yeah, I'm kind of, I'm kind of bad about it.|b sd
+A|The ,|%
+B|If I, if see a, if I see a pile of cans or bottles or something I'll throw it in there|sd
+A|Uh-huh.|b
+B|but I don't really, I don't ever take anything.|sd
+A|Well, I mean, it's real, you ought to, because the, the, the farmer's market recycles absolutely everything.|% sv
+B|Uh-huh.|b
+A|And since we go there all the time, I mean|sd
+B|But wait|^h
+A|probably at all.|sd
+B|I've never seen you before Who are you?|sd qw
+A|Oh, by the way, may name's Julie.|sd
+B|Yeah, my name's Bill. Well,|b sd %
+A|Hi.|fp
+B|Hi.|fp
+A|I'm from Atlanta.|sd
+B|Me, too.|sd
+A|Neat.|ba
+B|Crazy. Uh, well, is there anything else you'd like to share me about your recycling philosophy, Julie?|ba qy
+A|I just think that everybody ought to do it.|sd
+B|Do they do like, what about, like, uh, what kind of plastic stuff can you recycle, do you know?|qy qo qw
+A|The only thing I know that you can recycle is milk jugs.|sd
+B|Really?|bh
+A|Yeah.|b
+B|What about like those grocery bags?|qw
+A|Oh, yeah, they have, uh, uh, what I, what I used to, uh, now that I don't go to the grocery store much, it's kind of moot, but I used to just save up the ones that I got one time and then go and hand them to them the next time and use them over and over.|b sd sd sd sd
+B|Uh-huh. Uh-huh.|b b
+A|but, also most places, like Big Star does and I'm not sure if Kroger does or not but,|sd sd %
+B|They'll ask you whether you want bags or paper or plastic.|sd
+A|Yeah, and they, they have like little, little boxes that you can put your old bags in.|aa sd
+B|uh.|b
+A|Can bring them in.|sd
+B|Those petroleum products are going to kill us.|sv
+A|I know it, I know it.|aa aa
+B|The hostile planet, I think, Julie.|sv
+A|It really is a small,  hostile planet|sv
+B|The petroleum pretty much, I mean, those petroleum products I think are the big, uh, you know the great Satan of the recycling.|sv
+A|Did you know that, No, really not. Did you know that, like, something like fifty percent of the world's landfills is like paper? Filled with paper.|qy ar sd qy
+B|Um. Paper just seems so innocuous.|% sv
+A|Huh?|br
+B|Paper doesn't seem threatening at all, you know.|sv
+A|Well, it is, it is, though.|sd
+B|It comes from trees. How can it be bad?|sd qw
+A|It is, because they,|sd
+B|They treat it with chemicals or something? Why can't trees break down? I don't get it.|qy^d qw sd
+A|Well, they do treat paper with chemicals like yellow paper, you know takes something like twenty times as long to decompose.|sd sd
+B|Yep. Oh|b b
+A|You know, you can bury a piece of yellow paper, it will still be there in a couple of weeks.|sd sd
+B|Really?|bh
+A|Yeah|aa
+B|Huh.|%
+A|it will be whole. You'll be able to read  off of it.|sd sd
+B|I'm going to switch  from those yellow legal pads, then.|oo_co_cc
+A|Yeah, um.|b
+B|I'm glad you told me that, because I use those at work, where I work and, uh, But I can just forget that from now on. I'm going I'm going to switch to the white ones.|sd sd oo_co_cc
+A|Well, white paper's bad too. They, they treat it, too.|sd sd
+B|Well, what about, uh, papyrus, you know, made out of you know, bamboo stuff, from the from the  banks of the Nile.|qo
+A|I'm sure that's fine. I'm sure. Maybe we ought to just start carving in stone again.|sd sd ad
+B|You think so?|bh
+A|Maybe.|no
+B|Tablets?|qy
+A|Yeah.|ny
+B|I think we should just abandon the, you know, the written word altogether, you know.|sv
+A|You think? I don't know, well, I mean, I think we've kind of, you know,|bh aap_am sv
+B|What do you think?|qo
+A|I mean, everybody, everybody everybody has a computer.|sv
+B|Kind of radical, I know but,|sv %
+A|We would no longer need paper at all.|sv
+B|That's true. Everyone had a two way wrist watch T V on their wrist, like, uh, Dick Tracy.|aa ad
+A|I would love that.|sd

@@ -1,0 +1,101 @@
+A|Okay, it's pressed. Are you still there?|fo_o_fw_"_by_bc sd qy
+B|I'm ready|na
+A|Okay So what's, uh, things that you look for when you go out to dinner?|bk qw
+B|Oh, I just like a nice, quiet, nice atmosphere and of course good food|sd
+A|Uh-huh.|b
+B|That's always, that's always a concern, but just a nice quiet easy place maybe candlelight something just to relax, you know because I don't really go out to dinner that much,|sd
+A|Huh.|b
+B|so.|%
+A|Uh-huh. Well, we don't go out to dinner that much either. We try to get out maybe like once every month and a half or something like that,|b sd sd
+B|Uh-huh.|b
+A|but I definitely want to go to a place that's nice and clean, you know.|sd
+B|Right.|b
+A|Um, I've been to some that's been terrible. You know, you see cockroaches crawling around and everything, you know.|sd sv
+B|Oh|b
+A|But I try to get one that's nice and clean and then I like to, you know, good food and good service.|sd sd
+B|Yeah.|b
+A|So.|%
+B|Yeah, where you don't feel rushed, you know|b sv
+A|Yeah, right.|b b
+B|and you can just relax, and stay as long as you want.|sv
+A|Right, right. So is there some nice places to go to eat in Plano?|b b qy
+B|Well, nearby. We're almost in Dallas. We're just north of Dallas.|na sd sd
+A|Uh-huh.|b
+B|So we have quite a bit between us and there. It's about ten miles|sd sd
+A|Uh-huh, uh-huh.|b b
+B|and there is all kinds of restaurants and, I had one that was a favorite for a long time, and then it changed hands and doubled the prices and then it finally went out of business.|sd sd sd sd
+A|Um.|b
+B|So, but it was really nice. It had a fireplace.|sd sd
+A|Um, that sounds beautiful.|ba
+B|Yeah, it was really nice. They had entertainment sometimes and you could just really relax there and enjoy it.|aa sv sd sd
+A|Uh-huh, uh-huh. Uh-huh, uh-huh. Well. This is only a little small city.|b b b b sd
+B|But it's gone|sd
+A|Uh, we have, uh, excuse me, I didn't think my coughing would come back. Anyhow, we have only like one, uh, restaurant that's kind of nice. You know, they have prime rib on, uh, weekends|% sd sd sd
+B|Uh-huh.|b
+A|and then they have about six miles from here is called, a little city called Wesley, and they have a Wesley Hotel there that they serve food, and the atmosphere there is really, really nice.|sd sd sd
+B|Oh, that's nice.|ba
+A|So, and then if we really want to, you know, something different we go to Modesto which is like twenty minutes away.|sd
+B|Uh-huh. Right.|b b
+A|But, uh, we don't have any fast foods here in this small city|sd
+B|That is probably very fortunate for you. Do you have kids?|sv qy
+A|Do I have kids?|br
+B|Yeah.|ny
+A|Well, I have a son, but he's grown up.|na sd
+B|Oh, because I have a twelve year old that would eat a happy meal every night, you know, and now's she's graduated to two cheeseburgers,|sd sd
+A|Uh-huh.|b
+B|so something's happened here, but, but, um, you know, McDonald's is definitely at the top of her list, and I hate these places.|sd sd sd
+A|Yeah. All the kids seem to love McDonald's don't they, you know.|b qy
+B|Uh-huh, they do, and I don't think there's an ounce of nutritional value in anything they have.|ny na sv
+A|No, no, I'm sure there isn't.|aa aa sd
+B|Well, we have all kinds of fast foods everywhere around|sd
+A|Uh-huh.|b
+B|and it's really, it's tempting when you come home from work and you're tired and, you know, you just are tempted to give in to that, and it costs a lot of money to do it too.|sv sv sv sv
+A|I know.|ba
+B|You know, it adds up and it's not healthy, and I really got into that habit for a while, but I got out of it again because I just felt like it was just too unhealthy.|sv sv sd sd
+A|Yeah. Yeah. Uh-huh.|b b b
+B|So.|%
+A|Well, let's see, what else can we talk about?|qw
+B|Well, how's California today?|qo
+A|Oh, it's foggy and cold here.|sd
+B|Is it? That's what I've heard, yeah.|bh sd
+A|Uh-huh, uh-huh. Yeah and it's.|b b b %
+B|Have you always lived there?|qy
+A|I came from Iowa when I was sixteen|na
+B|Oh.|bk
+A|so I've lived out in California for a long, long time.|sd
+B|And you like it?|qy^d
+A|Yeah, I like it real well.|ny sd
+B|Yeah, we've been.|b %
+A|We used to live in Oakland, so we used to have a lot more restaurants to go to there you know,|sd sd
+B|Oh, yeah.|b
+A|but, uh, then I quit work and everything and I bought a house. I had a condo in Oakland, so, right in Chinatown, so we went to lots of restaurants Chinese restaurants,|sd sd sd sd
+B|Oh, that would be fun.|ba
+A|and they were really good, I really miss them. You know.|sd sd
+B|Yeah. Do you miss living there?|b qy
+A|Uh, no, I really don't miss  living there.|nn sd
+B|No.|b^m
+A|I just like to go in there and have a nice Chinese dinner once in a while, you know.|sd
+B|Yeah. Yeah.|b b
+A|But, uh, as far as missing living there, no.|sd
+B|Um.|%
+A|It's close enough if I wanted to go there, to San Francisco for dinner or something, why, you know, an hour and fifteen minutes we could be there and you know, have dinner and then come on back.|sd
+B|Yeah.|b
+A|But, uh, have you ever been to California?|qy
+B|Oh, yeah, I go all the time.|ny sd
+A|Oh really?|bh
+B|Yeah, well I have a twenty-one year old daughter in college there|ny sd
+A|Um.|%
+B|and she, um, is a world champion twirler|sd
+A|Uh-huh.|b
+B|and her coach is in California. So she went there for six years.|sd sd
+A|Um.|%
+B|So I went out a lot with her.|sd
+A|Uh-huh, uh-huh.|b b
+B|And, uh, yeah, I know California pretty well.|ny sd
+A|Uh-huh.|b
+B|And I love it, and  we tug back and forth who's going to move, but I think he's going to move because I'm the person with more to lose here.|sd sd sd
+A|Uh-huh.|b
+B|I have my twelve year old in school|sd
+A|Uh-huh.|b
+B|and she's happy. She always lived here in the south, and I have my house, so I have too much to lose,|sd sd sd sd
+A|Uh-huh.|b

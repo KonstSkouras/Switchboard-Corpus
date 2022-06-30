@@ -1,0 +1,117 @@
+A|Now we're ready. Do you have a personal computer?|fo_o_fw_"_by_bc qy
+B|We have one.|na
+A|You do, in your home?|qy
+B|Yes, yes, ma'am.|ny ny
+A|I do not have one in my home. I use one all day at work, but I don't have one at home.|sd sd sd
+B|Do you wish you,|%
+A|Do you find you use it a lot?|qy
+B|I don't use it as much as my children and my husband do. My, actually my husband and I are taking a class at our local junior college called micro, micro computers one o one and we're just touching on data base, spreadsheets and word processing and just kind of, you know, different kinds of storage and we're just kind of touching on a basic computer.|ng sd sd sd
+A|Uh-huh, uh-huh. What kind do you have?|b b qw
+B|We have an I B M compatible. It's a Gateway brand that we bought mainly for our children to have educational programs.|sd sd
+A|Uh-huh. Uh-huh. Well, that sounds interesting.|b b ba
+B|Yeah. What kind of a computer do you use at work?|b qw
+A|I have a, a P S one I B M type.|sd
+B|Uh-huh.|b
+A|Uh, and I use it all day at work and I put all my personal stuff on it at work|sd sd
+B|Uh-huh.|b
+A|So I really don't, haven't had a need for one at home but probably if I didn't have access to one all the time at work, I'd want one at home.|sd sd
+B|Right. I worked on my airline Apollo Focal Point computer for about four years. Which was different|b sd
+A|Uh-huh. Yeah.|b b
+B|But I didn't,|%
+A|What is that tracing, tracking the flights and things?|qy
+B|Right, right.|na na
+A|Uh.|b
+B|How long are we supposed to talk on this?|qw
+A|They tell us when we're through.|sd
+B|Oh, okay, okay. This is, This is my very first time.|bk bk sd
+A|They come in and tell us. Have you just started doing this? Oh really?|sd qy bh
+B|Yes.|ny
+A|They'll come in and tell us that the switchboard is full now and it's time for you to wind up in the next thirty seconds or something like that.|sd sd
+B|Oh, okay.|bk
+A|It's not more than five|sd
+B|Uh-oh.|ba
+A|But, I'm going to ignore that. That's a call on my other line, so I'm just going to ignore it.|sd sd sd
+B|Oh, okay.|b
+A|But,|%
+B|Oh, okay. That, I have that, too.|b sd
+A|It's kind of a hassle when you have this, but other times it.|sv %
+B|where do you work?|qw
+A|I work at Texas Instruments.|sd
+B|Oh, you do?|bh
+A|Yes.|ny
+B|Oh, well, of course.|ba
+A|I sure do.|sd
+B|Of course. That's why you why you're making these calls, right?|ba qy
+A|Well, no, I'm doing this at home. I'm already home for the day.|nn sd sd
+B|Oh, I see. Well, this is a pretty good deal.|bk sv
+A|I do it, you know, I can't do it at work. I, I'm, I work in the legal department so I'm pretty busy.|sd sd sd
+B|Uh-huh.|b
+A|But I use my P C there mostly for creating legal documents. We use Word Perfect, Lotus.|sd sd
+B|Uh-huh.|b
+A|Uh,|b
+B|Oh, you do know Lotus, huh? Oh, that's great. That's something we want to learn.|qh ba sd
+A|Yeah, it's really, I love Lotus.|b % sd
+B|Oh.|b
+A|I think that's about my favorite.|sd
+B|I've heard that people that finally learn how to use it really like it.|sd
+A|Uh-huh.|b
+B|That's great.|ba
+A|It really is, and I know there's still a hundred things I don't know how to do on it.|aa sd
+B|Uh-huh.|b
+A|But, uh, you know, you learn something every time you use it.|sd
+B|I have a question. On this, this thing that I'm, this survey or whatever, you know, this I volunteered for.|sd sd
+A|Uh-huh.|b
+B|Do I start calling in myself or do I wait for people to call me?|qy qrr
+A|You can, did they give you a number to call?|na qy
+B|Right, and eight hundred number.|na sd
+A|You can start calling in whenever it's convenient for you but you can only make one call a day.|sd sd
+B|Oh, only one a day.|bk
+A|Yeah, if you've talked to someone, like you're talking to me now and I place the call, this counts as your call.|b sd
+B|Right. Oh,|b bk
+A|So you cannot make a call now until tomorrow.|sd
+B|Oh, I see. Okay, so then, do you get the five bucks or do I?|bk bk qy qrr
+A|No, we both do.|nn sd
+B|Oh, we both do. Well that's a,|bk %
+A|Didn't they ask you for your I D number when you answered?|qy
+B|Right, I had to put that in.|na sd
+A|Okay so you both do.|bk sd
+B|Well, that's a pretty good deal.|ba
+A|From what I understand.|aa
+B|So why, why are we doing this?|qy
+A|It's for research.|sd
+B|Actually, I'm doing this for somebody else but, you know, for a friend of mine.|sd
+A|It's a research type project on uh, voice activated electronics, you know.|sd
+B|Uh-huh. Oh.|b bk
+A|To, uh, it's, uh|% %
+B|It's almost like that, Like a voice command computer type thing, oh.|sd
+A|well they call it the speech lab that is setting this thing up. Uh-huh. Uh-huh. They're doing research for a lot of big companies from what I understand on this. Now I don't know, I don't know everything about it|sd b b sd sd
+B|Well, that's wonderful.|ba
+A|but they, uh, try to get as many people as they possibly can to contribute to this and that way they can check voice patterns.|sd sd
+B|I see, different kinds of voices and things.|bk bf
+A|Uh-huh, and get the computer where it recognizes voices.|aa sd
+B|Wonderful. See that's why I, it's interesting because you have I, I'm going to say you have an accent|ba sv
+A|Well, I probably do because I've,|aa
+B|And I, and I think that I don't. I mean to you but, you know.|sv % % %
+A|Well, I've been I was born and raised in Texas. Have lived here forever so I probably do.|sd sd aa
+B|And you're in what city?|qw
+A|I'm in Richardson. It's right outside of Dallas.|sd sd
+B|Okay, my sister, one of my sisters lives in Plano.|bk sd
+A|Uh-huh.|b
+B|And that's right outside of,|sd
+A|Well, Richardson's right between Dallas and Plano.|sd
+B|How about that. I probably went through Richardson, then.|ba sv
+A|You probably did.|aa
+B|And then I have a sister that lives in Austin.|sd
+A|Uh-huh.|b
+B|But,|%
+A|Well, what are you doing way in Washington?|qw
+B|Well, we're actually all from Nebraska. They just are recently moved there. My brother-in-law is director of Admissions at the University of Texas in Dallas.|sd sd sd
+A|Uh-huh. Well, that's interesting.|b ba
+B|Yeah, and then my sister works at the Air Force Base.|b sd
+A|Uh-huh. So I imagine they use personal computers.|b qy^d
+B|Actually, yes, they both have personal computers.|ny sd
+A|Do they do their correspondence on it?|qy
+B|Uh, I think they just send Christmas letters on it.|ng
+A|Uh-huh.|b
+B|As far as I, mostly my one sister uses hers for her children. You know, children's games.|% sd
+A|Uh-huh.|b

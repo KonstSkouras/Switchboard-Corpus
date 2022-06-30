@@ -1,0 +1,53 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|Well, if you're from Iowa, you must be very artsy crafty. Everyone I've ever known from the Midwest can do everything with their hands.|sv sd
+A|Oh, well, actually I'm from California and before then I was from Utah. So.|sd sd %
+B|I didn't know anyone ever moved from California to Iowa?|sd
+A|Well, I grew up in California, and then I went to school in Utah, and I got married there and we stayed there for a while, and then, now we're in Iowa|sd sd sd sd sd
+B|I'm teasing, only because I'm from Indiana.|sd
+A|Oh, really.|bh
+B|I really like, I like the Midwest.|sd
+A|Oh.|b
+B|But I married a Texan, and they have a way of dragging you back home. Anyway, we're supposed to be talking about crafts. Do you, um, do you have any hobbies that, that you do things with your hands like knitting or,|sd sv sd qy
+A|Um. Well, I crochet, and I do water color, and I, um, sew and I do fabric painting.|% na sd sd sd
+B|Oh, you do a lot then. Do you do needlepoint also and cross stitching?|bf qy
+A|Um, I've done some cross stitching. I haven't tried any needlepoint yet. How about you?|na sd qo
+B|Um, actually I, I'm pretty untalented|sd
+A|Oh, right.|b
+B|I used to do a lot of knitting and crocheting, um, but I, I don't know, somehow I don't have the time anymore. But I have all these friends that wherever you go, they, they sit down and the next thing you know, they pull out of their, uh, bags some, their most recent, uh, needle craft|sd h sd sd
+A|Oh, really.|b
+B|and in December everyone was doing stockings, you know these gorgeous, detailed minute, tiny stitch stockings.|sd
+A|Uh-huh. Oh, gosh. Oh, yeah, well those take a lot of time.|b ba b sv
+B|Yes.|aa
+A|I only can do things that are pretty fast, because we just, um, got our baby last year, and I just don't have the patience to just, you know, do something.|sd sd
+B|Is this your first baby?|qy
+A|Uh-huh.|ny
+B|Have you crocheted or knitted any baby clothes or baby blankets?|qy
+A|Um, I crocheted an afghan for our bed. That's the only thing, and, and I did a quilt, let's see, I've done a quilt for our baby and I've done a quilt for our bed, but I mean,|na sd sd sd sd %
+B|Did you embroidery the pattern and then quilt it yourself, or how did you make a quilt?|qy qw
+A|Um. Um, our baby's quilt, it was a pre, like the design, I just went around the design in the quilt.|% sd sd
+B|Uh-huh.|b
+A|I didn't piece it or anything like that but, uh,|sd %
+B|But you actually hand quilted it yourself?|qy
+A|Uh-huh, and,|ny %
+B|Did, did you need a loom, or were you was it small enough that you could just hold it?|qy qrr qy
+A|Um, I put it on the frame, the quilting frame. Have you, are you familiar with that?|sd qy
+B|Uh-huh.|ny
+A|Yeah, okay|b b
+B|But, um, my, again, my mother back in Indiana, we had a quilting frame in our basement, and she would, she would quilt whole quilts by herself.|sd sd sd
+A|Oh, my God.|ba
+B|Um, yes, which, I was always amazed. I have one of them. Um, but, uh, you know, to have the quilting frame and then to actually do that, it's a tremendous amount of work.|aa % sd sd sd
+A|Well, I haven't done tons of them But, um, I used to do more before, um, before I had, before we got our baby, but.|sd sd %
+B|Oh, you think, children, you can, um, use crafts to make wonderful things for children.|bf sv
+A|Uh-huh.|b
+B|I think when babies, I think afghans and, and the crocheted little sweaters, and, are, are wonderful. And, and they'll wear them|sv sv sd
+A|Yes, exactly.|aa aa
+B|Once they get old enough to talk then they no longer will wear them|sv
+A|Well, one thing that I like about this fabric painting thing is I can just make a T shirt and put a little ruffle around it and then, um, cut out a little pattern from the material, from some material, like flowers or something, and make, um, a design or, you know, a little arrangement or something on the shirt and, you know, fuse it on with Heat and Bond, or whatever and then paint around it. And I usually sew, sew around the flower, whatever first, and then I paint around it so you can't see the stitching as much. Does, does that make sense to you? So.|sd sd sd sd qy %
+B|Oh, yes, I think it's very clever. It's, uh, funny that you said. For Christmas, my daughter and I received matching sweat shirts that a friend had made for us. A beautiful Christmas design,|ny sv sv sd
+A|Oh.|b
+B|and they were matching and they were lovely, but when I washed them, although I took the precaution of turning them inside out I really didn't do anything else. And truly, everything fell off, or most of it.|sd sd sd
+A|Oh, sure. Uh-huh. Oh, really.|b b b
+B|So I had, I went and bought just some cloth glue and glued it all back and I bought the paint and redid most of the edges|sd sd
+A|Oh.|b
+B|and, and it was salvageable and I, but it's, so I'm familiar with that, but I think you're very clever to, um, sew around the edges. I think gluing alone, certainly if you wash it any amount of time, it tends to kind of come loose at the edges.|sd % % sd sv sv
+A|Well. Yeah, someone told me that, that it, that they had done it both ways, and I've always, after hearing that, I always sewed it on, even, even with the, uh, a loose zigzag even helps And, um,|% aa sd sd %

@@ -1,0 +1,54 @@
+A|Okay. We're talking about capital punishment.|fo_o_fw_"_by_bc sd
+B|Right.|b
+A|How do you feel about that Lenore ?|qo
+B|I am very much for capital punishment.|sd
+A|Well, wonderful. I am too, one hundred percent.|ba sd
+B|My Dad retired from the federal prison of bureaus.|sd
+A|Uh-huh.|b
+B|And I've been raised around prison prisons all my life.|sd
+A|All your life. Uh-huh.|^2 b
+B|And I believe if you don't have a punishment befitting the crime, there's not any deterrent|sv
+A|There's no deterrent. That's right. There's just no deterrent.|^2 aa sv
+B|That's right.|aa
+A|And so many of those kind of people, they got, they have a better life in prison than they have on the street anyway so, you know, unless they really make it rough on them that's not a, going to prison for a little while is not much of a deterrent I don't think.|sv sv
+B|Especially not a federal prison.|bf
+A|Right. Well, I don't know what Oklahoma's laws are but Texas's I don't know are, I don't know it's, it's no one's I mean it's not the judge's fault I don't think. It's just the way the law is down here. Man our our, uh, prisons are so crowded that, uh, they can commit some pretty serious crimes and be set free within a year to two.|aa sd h h % sv sv sv
+B|Well, see we were under, uh, the state's prisons were under a mandate to, uh, it was over crowded and the federal came in and said, hey, you know, you have either got to build more prisons or let people go.|sd sd sd
+A|Well, that's what ours did, same thing.|sd
+B|And finally our governor at the time which who is not in office now came in and said, okay, where we draw the line is no sex offenders will be let loose. Under early bail, you know or early, uh get out.|sd
+A|Uh-huh, uh-huh. Uh-huh. Uh-huh. Uh-huh.|b b b b b
+B|But, uh, we have, the death penalty is not given often.|% sd
+A|Huh-uh.|aa
+B|But there have been|%
+A|It's not here either really.|sd
+B|And you know, I, maybe it should be, uh, well, it should be given, you know, I, I won't say sparingly, but I do believe it should be befitting the crime.|% sv sv
+A|I do too and, and you know, but the way the courts are set up they've, they've got so many chances for appeal, but I think I think it needs to be expedited. You know if they've been convicted and given an appeal and they're still convicted of, of a crime that's deserving of, of a lethal injection, let's do it and not waste so many years to do it.|aa sv sv sv
+B|Right. Of course, you know, they're, they're entitled to a speedy trial.|b sv
+A|That's right.|aa
+B|But then they're, they're also entitled to drag it through the courts for years and years and years on appeals.|sv
+A|Uh-huh. Uh-huh.|b b
+B|So somehow, you know, it doesn't really balance out too much.|sv
+A|Yeah. That's right. Somehow it just doesn't, it works and then again it takes too long for it to work.|b aa sv bf
+B|And it seems even though, you know, that they got , the prisoner himself can come to the point that, hey, I'm tired. I just want out.|sv sd ^q
+A|Uh-huh.|b
+B|You know, I'm tired of fighting it.|^q
+A|Uh-huh.|b
+B|Then the system just keeps on.|sd
+A|Uh-huh, yeah. Yeah, it|aa aa aa %
+B|And at that point you know I, I really think there needs to be maybe a shorter appeal process.|sv
+A|I do too. I think that needs to, and I don't see why it couldn't be shortened considerably. But, you know|aa sv sv %
+B|Well, part of that is the overcrowding of the court system.|sd
+A|that's true. It is overcrowded because there's so much drug, uh, problem with the people on drugs because that they, with the drugs they're, they're robbing and killing and, uh, that's why it's filled the prisons up so much I think.|sv sv % sd sv
+B|Uh, it doesn't, it doesn't help them any at all|sv
+A|No, it doesn't.|aa sv
+B|and, of course, your court system when you get into the appeals, I don't believe criminal is in a court by itself. And the whole judicial system is backed up with a lot of junk that shouldn't be in there.|sd sv sv
+A|Yeah, that's true. With all these lawsuits and people suing people over ridiculous things but,|aa aa sd %
+B|We've gotten into a very litigious, uh, type of life.|sv
+A|Boy, haven't that we though. We really have. But anyway I'm glad to hear that you agree with me on the capital punishment.|aa sv sd
+B|Well, I just,|%
+A|I'm, I'm very muchly for it. Always have been, always will be.|sd sd sd
+B|I just feel like their crime and punishment and if, if you don't have the punishment, you double your crime. And the, you know, that is just personal feeling. It's not going on facts. I think the facts would probably back it up|sv sv sd h sv
+A|It could be supportive. It, it's it's supported with facts though.|^2 sv
+B|but, What?|% br
+A|It could very easily be supported with facts.|sv
+B|Well, yes. I,|aa %

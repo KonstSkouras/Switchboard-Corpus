@@ -1,0 +1,149 @@
+A|Okay, I guess we're going to discuss food and cooking.|fo_o_fw_"_by_bc sd
+B|Alright|aa
+A|Do you enjoy cooking?|qy
+B|Sometimes, not all the time|na
+A|I'm kind of that way, too. When I have, I, I enjoy cooking when I have time.|sd sd
+B|Right.|b
+A|I don't enjoy preparing three meals a day everyday|sd
+B|Yeah, that, that's about the same boat I'm in, too.|aa sd
+A|It gets kind of boring.|sv
+B|Yeah.|b
+A|How big is the family you cook for?|qw
+B|Uh, five.|sd
+A|Uh-huh. We have four, so, and two of them are teenage boys, so|b sd sd %
+B|Oh, well I'll be hitting that fairly soon because all of mine are boys, too. So,|sd %
+A|Are they?|bh
+B|And they get pretty particular sometimes in  what they want to have.|sd
+A|Yeah. Yeah. Yeah, we have that problem too.|b b b sd
+B|Huh.|%
+A|But also, now it's just the amount that they eat. It's just absolutely incredible|sd sd
+B|Oh yeah, well see, I, my oldest is nine and he already he already does that|aa sd sd
+A|Yeah. Does he?|b bh
+B|And I told him he's going to have to get a part-time job by the time he reaches teenage years  so he can eat.|sd
+A|. Yeah. That's true. Uh, do you have any favorite things that you serve when you are doing a special meal? Favorite recipes that you've come across or,|% b aa qy
+B|Um, My husband and I, our favorite meal is, uh, and we do it like for special stuff celebrations and, we have like steak|% sd sd sd
+A|Uh-huh.|b
+B|and he does the steak and then uh,|sd %
+A|Out on the grill?|qy
+B|Uh-huh.|ny
+A|Uh-huh.|b
+B|And he marinates it in his special stuff  that he does.|sd
+A|Ooh|ba
+B|And it's real good.|sd
+A|Uh-huh.|b
+B|And, uh,  I do sauteed mushrooms,|sd
+A|How,|%
+B|so|%
+A|Ooh, yeah.|ba
+B|and asparagus. And that's our favorite, dinner.|sd sd
+A|Ooh, that's sound good. I love that. My husband really likes seafood.|ba sd sd
+B|Yeah, so do we like a|aa sd
+A|Um, and, I think that no matter what I do, I don't serve enough of it, really, to, uh, to suit him. I didn't grow up eating that much seafood and, uh, so I don't know, it's just kind of not natural to me but I like it.|sd sd h sd sd
+B|Yeah.|b
+A|And, uh, I don't know, one of his favorite things is, uh, well it's called seafood stew and it's really, it's really like a soup that, that you serve over rice.|h sd sd sd
+B|Uh-huh.|b
+A|And, uh, it has oysters and shrimp and crab in it. And,|sd %
+B|It's not the one with all the shells and stuff in it, is it?|qy
+A|No, no. That's kind of Louisiana I think  if you do that.|nn nn sd
+B|I don't know what that,|sd
+A|Yeah,|%
+B|I don't see how you eat that, but|sd %
+A|I don't either But, uh, no this is just it is really good and, and one thing that's good is it makes the, a large amount. And so I've, usually we eat one and I freeze two containers of it.|sd % fo_o_fw_"_by_bc sd sd sd sd
+B|Oh.|b
+A|Then that's just real quick to get it out and serve it over rice. But neither of my kids will eat it. You know,|sd sd
+B|Yeah.|b
+A|so then  they eat a pizza or|sd
+B|So it, Yeah, it defeats the purpose.|% b bf
+A|Yeah, it really does. One thing I've run across, recently though, a friend gave me a recipe that I really like for chicken enchiladas.|aa sd sd sd
+B|Oh yeah.|ba
+A|Have you made them?|qy
+B|Yeah. My husband makes those.|ny sd
+A|Does he, ooh.|bh
+B|I'm not, I don't eat enchiladas.|sd
+A|Uh-huh.|b
+B|I, I don't like I don't like the I don't know, I guess it's the texture, or something. I don't like the taste of enchiladas.|sd h sd sd
+A|Yeah.|b
+B|But everyone else in my family does.|sd
+A|Well, are, these are done with a flour tortilla. Is that what he uses?|sd qy
+B|Yeah.|ny
+A|Yeah.|b
+B|I don't know, I, it's, I don't know what, I don't know. I, I don't know what it is about the enchiladas. I just, and I'm the only one including my Mom and Dad and my brother. I'm the only one that  doesn't eat it|h sd h sd % sd sd
+A|Isn't that something? Yeah.|bh b
+B|But, my kids love it.|sd
+A|I was going to say, my kids both eat it. I guess that's one thing that I particularly like, um. But I think it's good for, you know, for, for company, too, and I've made it a few times. Um, and you can make a lot at one time when I needed to make something to, uh, to give somebody. You know, like, you know, to take over to somebody's house   or something else.|sd sd sd sd sd
+B|Uh-huh. Yeah Yeah. Yeah, I've got a chicken casserole that's like that, that, that I've,|b b b aa sd
+A|It, it's nice when it makes, a lot because you can feed your own family and then,|sd %
+B|Yeah, because I, when I make this chicken casserole I, it, it makes a real big casserole and then another one that I freeze.|aa sd
+A|Uh-huh.|b
+B|So, or I give it to my Mom and Dad if I know we're not  going to eat,|sd
+A|What,   what does it have in it?|qw
+B|It's you can use chicken or turkey, because my Mom started making it like right after Thanksgiving and using the leftover turkey.|% sd sd
+A|Uh-huh. Sure. Uh-huh.|b b b
+B|And it's rice and, , when I do recipes I just throw stuff in. I don't, I'm not real good about measuring|sd sd sd
+A|Yeah.|b
+B|because I just, I do it to taste.|% sd
+A|Uh-huh. Sure.|b b
+B|And,|%
+A|Sometimes those are the best ones,|sv
+B|Well yeah, but it, it's like, it's just chicken, it, it's, as much as you want, you know torn up and, and rice and cream of chicken soup and some mayonnaise and lemon juice and celery|aa sd sd
+A|Uh-huh. Uh-huh. Uh-huh.|b b b
+B|and that's it, and some hard-boiled eggs.|sd
+A|Yeah. Ooh, that sounds good.|b ba
+B|And that's it. You just mix it all together and pop it in the oven just to, you know, heat it through.|sd sd
+A|Uh-huh.|b
+B|And you sprinkle, uh, that, those, uh, toasted onion rings.  On top of it for the crunchy.|sd
+A|Oh, yeah. Those are good aren't they? Uh-huh.|ba qy^d b
+B|And that's it, you know|sd
+A|Um.|%
+B|And it, it, it goes|sd
+A|That sounds good.|ba
+B|and it's filling because of the rice.|sd
+A|Right.|b
+B|So,|%
+A|You cook the rice before you put it in?|qy
+B|Uh-huh.|ny
+A|Yeah.|b
+B|Yeah.|b
+A|I bet the mayonnaise in there makes it really, kind of gives it a   tang that would be good.|sv
+B|Yeah, it gives it a, an extra   yeah, little tang.|aa sd
+A|I guess I would now use the, the new mayonnaise free.|qy^d
+B|Yeah, that cholesterol fat free?|ny qy
+A|Yeah. That's really wonderful that they're coming out with so many  new things like that because like I told my husband this summer, I love to eat, you know, chicken salad and tuna salad  and stuff like that|ny sv
+B|Uh-huh. Uh-huh.|b b
+A|and, and, you know, basically it certainly a low calorie, you know, good thing except then you put your mayonnaise in there and spoil the whole thing.|sv
+B|I know.|aa
+A|You know and now it's, it's, it's okay and you can even, I used to just put a tiny bit in. Well now, I'm just putting more and more in|sv sv sd sd
+B|I don't like tuna salad unless it's got lots of mayonnaise in it.|sd
+A|Yeah, and it's only, it used to be like a hundred calories per tablespoon and now it's like twelve.|aa sd sd
+B|Yeah.|b
+A|Oh!|ba
+B|I know.|fo_o_fw_"_by_bc
+A|I just think that's the best thing to have happened, I'm just so excited about that. Anyway  Yeah.|sv sd b
+B|Yeah, we did the low-cal stuff. Well with my kids I don't, they get enough sugar and stuff anyway. Mine are bouncing off the walls normally anyway.|b sd sd sd sd
+A|Yes|b
+B|And they don't need any added help.|sd
+A|Right.|b
+B|So, when we're here at home, you know, with sweets and stuff, they, they don't, we don't really do that much. I do a lot of fruits instead of the cakes and the candies and you know, stuff like that.|sd sd
+A|Uh-huh. Uh-huh.|b b
+B|And, and drink wise they have Kool-Aid, milk or water. Normally.|sd
+A|Yeah.|b
+B|Now when they go to their grandmother's house, which is every weekend. It's a, it's a different  a different story all around.|sd
+A|That's when they,  As our family would say, a pig out|bf
+B|Uh-huh.|aa
+A|That's good.|ba
+B|That's exactly what it is.|sd
+A|Oh, one of my boys that, that's, twelve, um, is, has high cholesterol.|sd
+B|Oh really?|bh
+A|Have you ever found out  about your kids.|qy
+B|No, not yet.|nn nn
+A|Um, and my other one does not.|sd
+B|Huh.|%
+A|So, oh, year or so ago he found out and he went on a fairly strict diet to try to get it down. And did! He was able to get it down. It's, I think it's mostly hereditary because we really have never eaten high  things in cholesterol.|sd sd sd sd
+B|Yeah.|b
+A|He's never eaten any eggs. He's never had anything but skim milk and you know, I've never bought butter and things like that.|sd sd sd
+B|Huh.|%
+A|But, um, oh, he just left for the doctor again and it's, it's kind of back up. Um, so he needs to be careful again.|sd sd sd
+B|Yeah.|b
+A|So we've really been talking about the foods, you know, for him to, to be sure to eat|sd
+B|The lower cholesterol foods and stuff|bf
+A|and, uh, so he's eating an apple a day for the last two days And all that kind of stuff does really help. Well, I think we've probably talked long enough and|sd sd sv %

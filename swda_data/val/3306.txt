@@ -1,0 +1,104 @@
+A|Supposed to talk about boats. Have you got a boat|ad qy
+B|No, I don't, do you?|nn sd qy
+A|No, I don't. I, I've had one for quite a few years, but I, I've not had one the last couple of years.|nn sd sd sd
+B|Oh, really?|bh
+A|But, it's something I've always enjoyed. Do you, do you like boating?|sd qy
+B|Yeah, I love them|ny sd
+A|Yeah, but, uh, my children all have been grown for a few years and we were using it less and less and less, so we decided to sell it. And,|% sd sd sd %
+B|Well, I heard, that's the second happiest day of your life|sd
+A|What's that?|br
+B|The day you sell your boat.|sd
+A|Oh, no, now I loved having a boat. I loved having it. No,|ar sd sd %
+B|No, I just heard that. That's just a joke, I guess.|b^m sd sd
+A|Oh, okay|bk
+B|First best day is the day you get and the day you get rid of it but, I'd like to have one.|sd sd
+A|Oh, yeah|b
+B|I just don't know if I'd have the time to use it.|sd
+A|Yeah, guy just you know, he needs his weekends free, or to be able to use it or a day during the week or something,|aa % sv
+B|Yeah.|b
+A|but, but, no I guess for the cost of them you don't really, it's hard to get, I don't know, I felt like I got my money's worth out of mine I had bought it used and kept it, uh, I don't know, ten years and got within, uh, three hundred dollars of what, when I sold it, of what I'd paid for it and had it all those years, you know.|% sv sv h sd sd
+B|Uh-huh.|b
+A|So they hold their, you take care of them they hold their value real well.|sd
+B|Really?|bh
+A|So, you know, you couldn't complain about that.|sv
+B|Did you go fishing?|qy
+A|No, no, it was a uh, big boat, big ski boat type thing.|nn nn sd
+B|Oh, okay.|bk
+A|I had a hundred, hundred sixty horse, uh, Murcruiser in it.|sd
+B|Oh, wow.|ba
+A|Inboard outboard. Oh, I did fish out of it occasionally, but I'm not too much of a fisherman.|sd sd sd
+B|Really?|bh
+A|And, uh, but I but I did enjoy owning a boat,|sd
+B|Yeah, I like to fish.|b sd
+A|would recommend it to anybody. And, uh, uh, but, uh, and now sailing, I've never been sailing. Have you been sailing?|sd sd qy
+B|Uh, yeah, I've sailed some. I just like, uh, fourteen foot Sunfish.|ny sd sd
+A|Uh-huh.|b
+B|Nothing big.|sd
+A|I've never tried. I've always thought, I bet that would be more fun. But I'd want to be with a skilled sailor|sd sd sd
+B|Yeah, really.|aa aa
+A|But it,|%
+B|Well, they offer classes out at, uh, Ray Hubbard.|sd
+A|Yeah, well, I, I've always thought I'd like to. I've never wanted to bad enough to make any effort to do it, you know.|b sd sd
+B|Yeah.|b
+A|And, at this stage of the game, I'm not that interested in it anymore.|sd
+B|Oh, okay.|bk
+A|We go out with friends on the, we go to the lake just about every weekend down at Mount Vernon and parents' next door neighbors have a big barge|sd sd sd
+B|Okay.|b
+A|and we go out and take them out on their barge. They're getting kind of old and they like us to take them out on their barge quite often, so we we get out on the water occasionally, you know.|sd sd sd sd
+B|Oh, that's nice. Yeah.|ba b
+A|But, uh, uh, anyway, it's it's, it's fun. I, I do enjoy the lake, but, uh, once the children were grown, and we'd go down there and I'd get the boat out on the, you know, Saturday, and we'd go for a ride and enjoy it so much. It's such a pretty lake down there. We'd enjoy it so much and, I'd say, well, I'm going to leave the boat out, because, uh, we'll probably do this again tomorrow It got to where the, tomorrow the boat was still sitting there and we never did go out again and I'd have to go load it up the next day. And,|sd sd sd sd sd sd sd sd sd sd sd sd %
+B|Where is that?|qw
+A|Uh, Mount Vernon.|sd
+B|Yeah.|b
+A|Cypress Springs, Cypress Creek Springs.|sd sd
+B|Okay, that's south of here?|bk qy^d
+A|Yeah, it's down at Mount Vernon.|ny sd
+B|Okay.|bk
+A|It's probably the prettiest lake in the state of Texas.|sv
+B|Really?|bh
+A|Yeah, it's just a hundred miles from here.|ny sd
+B|Huh. What do you take, I Thirty-five?|qy
+A|No, you go down I, uh, uh, you, uh, you go down, uh, yeah, thirty, thirty.|nn sd
+B|Thirty.|b^m
+A|It's east of here.|sd
+B|Oh, okay.|bk
+A|East of here. Hundred miles due east of here.|sd sd
+B|All right.|bk
+A|And, uh,|%
+B|Yeah, it just we just moved down here a couple years ago, so,|b sd %
+A|Did you? Where did you all move from?|bh qw
+B|Colorado Springs.|sd
+A|Oh, did you?|bh
+B|Yeah.|ny
+A|How are you liking it?|qw
+B|Oh, we love it up there|sd
+A|Well, good.|ba
+B|That's where I grew up|sd
+A|Yeah.|b
+B|So,|%
+A|Uh-huh.|b
+B|But, uh, we're, we like it down here pretty good.|sd
+A|Oh, I think you'll like it better, but, of course it's hard when you don't have any family around.|sv sv
+B|Yeah, we got two kids that are under two|aa sd
+A|Yeah.|b
+B|and it's kind of tough when my folks call and they want to see them|sd
+A|Uh-huh. Yes, it's hard on the your folks, too, I know. They're all, yours and your wife's folks still live in Colorado?|b aa sv sd sv qy^d
+B|Yeah.|ny
+A|Uh-huh.|b
+B|So,|%
+A|Uh, there are supposed to be, uh, some people moving down here from Colorado Springs for T I.|sd
+B|Oh, really?|bh
+A|Yeah, supposed to be.|ny sd
+B|Yeah, that's right. Uh,|aa aa
+A|Do you work at T I?|qy
+B|I don't, no.|ng nn
+A|Uh-huh.|b
+B|Uh, a friend of mine's dad is, was a program manager up there|sd
+A|Uh-huh.|b
+B|and he just moved down here to what do you, I guess it's, he's working in McKinney.|sd qw sd sd
+A|Uh-huh. Yeah, I don't either. My wife does|b b sd sd
+B|Okay.|b
+A|But, it's a good company. But, anyway, we're supposed to be talking about boats, so back to boats. So, tell me the last time you went for a boat ride.|sv sd ad ad
+B|Well, actually, I went, uh, canoeing down the Brazos this weekend.|sd
+A|Oh, my gosh, now that had to be, that's boating. That had to have been fun.|sv sv
+B|It was fun, it was fun.|sd sd

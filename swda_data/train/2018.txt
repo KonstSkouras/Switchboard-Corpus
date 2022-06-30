@@ -1,0 +1,111 @@
+B|Hello.|fp
+A|Hello,|fp
+B|Hi.|fp
+A|Hello this is Lois.|fp fp
+B|Hi, hi, this is Lisa.|fp fp fp
+A|And, uh, I called you know, from that, the, the T I Data Base Calling Instructions.|sd
+B|Uh-huh. Yeah, I got a call yesterday too. This is a different subject though.|b b sd sd
+A|Yeah, this is about changes in the women in the,|b sd
+B|Uh-huh.|b
+A|Uh, there's really a lot, isn't there.|qy
+B|Yeah|ny
+A|I think there really is.|sv
+B|It's kind of an easy thing to talk about.|sv
+A|Oh, I guess the work force would be the main, wouldn't it.|qy
+B|Yeah, uh, I think you have to push one and then we can start recording it.|ny ad ad
+A|Okay All right.|aa aa
+B|Okay.|b
+A|Are you ready now?|qy
+B|Yes.|ny
+A|Okay, like I said I guess it would be the work force, you know, as far as changes in the generations.|b sv
+B|Yes, I know because, I know when my mother was a, you know, going into the work force there wasn't very many opportunities for her, I guess, she's in her late forties. You were expected to stay home and take care of the kids and I've never faced that at all.|aa sd sd sd sd
+A|Uh, no, I think now, you go to work when they're six weeks old, you know,|aa sv
+B|Uh-huh.|b
+A|and you stay there. And I feel like the next generation, you'll probably just work right along with your husband, you know.|sv sv
+B|Yeah, uh-huh, I think it's definitely gotten better.|aa aa sv
+A|Oh, I do to, much. And it's just going to get better.|aa sv
+B|Uh-huh.|b
+A|It really is.|sv
+B|Because women are in every field now, I mean I can't think of a field that they're not involved in.|sd sd
+A|Oh, I can't either, not a one.|sd
+B|And I know at least in the medical field, it seems like they've come out with a lot further advances as far as female medications and things since women have gotten into the doctor field.|sd
+A|Uh-huh.|b
+B|I don't think that men really took the time to work on that sort of thing.|sv
+A|Yeah, even in Washington, you know, there seems to be a lot more women involved.|b sv
+B|Yeah. Hopefully, the next generation, it won't even be an issue, I mean people will just look at you as a person and not as a man or a woman,|b sv sv
+A|Yeah, yeah.|b b
+B|I think that would be the best goal.|sv
+A|Oh, I do too, just your qualifications and that would be it.|aa bf bf
+B|Uh-huh, exactly, not what color you are, how old you are, what your male or female. That would be wonderful, I guess it's kind of an ideal world though, huh|aa aa sv sv sv
+A|Yeah, I kind of think, maybe in time, that, you know, you'll go by social security numbers, you know,|aa sv
+B|Yeah.|b
+A|and that way they can't say well they picked a male over a female, female over a male, you know,|sv
+B|Exactly, or the way you look, or the way you, you know,|aa sv sv
+A|Yeah, yeah.|b b
+B|your age or anything. I think that would be a wonderful way to do it.|sv sv
+A|I do to just go by your social security number and then look at you qualifications that, you know, that you have.|aa sv
+B|Uh-huh, and then,|aa %
+A|And then if you get it, you know then,|sv
+B|Uh-huh, also, with, uh, women in the work force they've gotten a lot more options as far as, you know, what's it called, job sharing.|aa sd
+A|Uh-huh.|b
+B|Like if you and another lady were to share the same full time job, or,|sd
+A|Oh, yeah. As a matter of fact, that's what I'm doing.|b sd
+B|Is it.|bh
+A|Uh-huh, it sure is.|ny sd
+B|That would be great.|sv
+A|It sure is.|aa
+B|Or, a lot of women I know now and my, uh, one of my supervisors, when she went on L O A to have her baby, we hooked up, uh, uh, a terminal at her house and she, you know, we could send her messages, and, and she kept in touch like that, and basically, just worked out of her house.|sd sd sd
+A|Oh.|b
+B|I would just take her the actual paperwork once, uh, every week or two, and that worked out great too.|sd sd
+A|Yeah, yeah that is.|aa aa sv
+B|And that's a real attractive option, if you have the, the technology for it.|sv
+A|Uh-huh.|b
+B|All it was, was, you know, I mean, she just used a phone modem and she was like she was sitting in the office, so I think that's real nice too, to come up with different options. Do you like the job sharing?|sd sd sd sv qy
+A|Oh, I do,|na
+B|Do you?|bh
+A|I really do, I think it's great.|sd sd
+B|Do you work like half days, or half weeks or,|qy
+A|Uh, well like, one week she'll work three days and I'll work two and she'll work two,|sd sd
+B|Oh, oh that's great,|ba
+A|and we just share off like that.|sd
+B|Uh-huh. Do you get the full benefits?|b qy
+A|Uh-huh, yeah we get the full benefits.|ny ny sd
+B|Oh, that's wonderful.|ba
+A|But we've just really got a wonderful system that we're working under.|sd
+B|Yeah, especially with children, and so many things going on, that would be great.|aa sv
+A|Yeah. It really is, and that way we're not really missing any thing out, you know, of children,|b sd sd
+B|Either way,|^2
+A|uh-huh.|%
+B|yeah, you have your career and your home life, and that would be a nice way, especially if you have young children.|aa bf sv
+A|Oh, it is, it is, well both of ours is school age, but we don't want to miss any of those P T A and, you know, all of that.|sd sd sd sd
+B|Uh-huh, oh, no, I think, yeah. My son's just in day-care but even that they have extracurricular activities and the older they get the more that you're involved in that.|aa aa % % sd sd sd
+A|Uh-huh. I think it's great, I really,|b sv %
+B|Yeah,|b
+A|and I look for more of that in the next generation.|sd
+B|I do too, especially as women get up in management and, and can be in on those decision making, you know, when that subject comes up they can say yes, that would be wonderful.|sd sd sv
+A|Yes, oh, I do too.|aa sd
+B|Plus, I bet it cuts, cuts down on your absenteeism because you've got two days off that you can do everything, so you don't have to, you know, unless you're just really sick, or the child's sick.|sv sv
+A|Most of the time now, you know, it's just the weekend, or just forget it.|sd sd
+B|Uh-huh, oh yeah, I have to plan way in advance, because, or, what I've done is found like doctors' and dentists' office with extended hours.|b b sd sd
+A|Uh-huh.|b
+B|That's been real helpful too, like my doctor stays open til nine in the evening. So that's real helpful, so you don't, you know, have to do it during office hours, run out on your lunch hour. I don't know how many times I've done that to do something, post office or the bank or any kind of errand,|sd sd sd sd sd
+A|To do, yeah.|b^m b
+B|so.|%
+A|Uh-huh. Well I think we've really come a long way in that because,|aa sv
+B|Uh-huh, I guess I take it for granted, kind of, because, I just, it's always been that way.|aa sd sd
+A|Uh-huh.|b
+B|But I know,|%
+A|Yeah, but I can remember back growing up, my mother, I mean it was she always worked, but it wasn't that easy for her to just take off.|b sd % sd sd
+B|Oh no, I can remember my mother getting in trouble if, you know, one of was sick, and I know she probably didn't make hardly anything, you know, compared to the work that she did.|aa sd sd
+A|Oh yeah.|aa
+B|I think there is still some discrimination there where as, you know, men and women work in the same job, I think men get paid more,|sd sd
+A|Oh, I do too.|aa
+B|but I think that's improving. It's such a slow process it's frustrating, but, you can see that it's wrong|sv sv sv sv
+A|Yes, yes.|b b
+B|and you just want to make it right, but at least the wheels are moving forward.|sv sv
+A|They really are.|aa
+B|Yeah, I think it's getting better, not worse. Well, I should probably get back to my job|aa sv fc
+A|I know, I know the feeling.|fc fc
+B|Call again.|fc
+A|Okay, I sure will. Bye-bye.|fc fc fc
+B|Okay, bye-bye.|fc fc

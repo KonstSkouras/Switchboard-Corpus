@@ -1,0 +1,65 @@
+A|Okay, Miss Nancy, we should be in business now.|fo_o_fw_"_by_bc sd
+B|Good.|bk
+A|Did you hear the questions that the lady, uh, brought up?|qy
+B|Yes.|ny
+A|Such as how much time, well, I'll ask, how much time do you spend with your children, and how many do you have?|qy^d oo_co_cc qw qw
+B|We have two children, they're both grown and married and with, we have, uh, our daughter has three sons, so we see them at least once a week, and we see our son and his wife uh, about every other week and, uh we baby-sit quite frequently.|sd sd % sd sd sd sd
+A|Uh-huh.|b
+B|So we're a fairly close-knit family. We're together a lot on special days and, uh, and of course, with the holidays and everything.|sd sd sd
+A|Well, you're very fortunate. Uh, my my, uh, I have two girls and a son,|ba % sd
+B|Uh-huh.|b
+A|And my oldest daughter lives in Amsterdam, Holland.|sd
+B|Oh.|b
+A|She  Her husband builds pianos, so it's kind of hard for us to visit with them, as much as I'd like to.  Because we've, we, one thing we do have together is we're both musicians.|sd sd
+B|Oh, yes.|ba
+A|I play in several symphony orchestras and,  she is a, a, a concert, uh, harpsichordist. And travels around a good bit in Europe.|sd sd
+B|Uh-huh. Oh. Uh-huh.|b b b
+A|And, uh, her husband builds forte pianos, which are harpsichord size pianos.|sd sd
+B|Pianos, uh-huh.|b^m
+A|And, uh, that's why they're over there. And then I have a, a son who lives in, uh, Warrington, Pennsylvania.|sd sd
+B|Uh-huh.|b
+A|And I get to see him maybe once every three months. So I really, we've lost, you know, I'd like to have an everyday contact with children, uh, as well as you do, for that matter, and my young , my youngest daughter lives in New Jersey, and so they,   I don't hardly get to see any of them.|sd sd sd sd sd
+B|Oh, you don't get to see any of yours very often.|bf
+A|She works in these, um, Trump type casinos, she and her husband both do. They work,  uh, they're really both, um play, people who play on stage|sd sd sd
+B|Yes, uh-huh. Uh-huh.|b b b
+A|and, uh, they're running lights right now and audio and that thing for,  plays and things that go on.|sd
+B|Uh-huh.|b
+A|But anyhow uh, what do you, what activities do you do with your children when you are together?|% qw
+B|Oh, most the time, well, right now it's football season, and our daughter is a big Cowboy fan, as is our husband, so, my husband, so she watches that and I play with the grandchildren I enjoy the grandchildren. But, now, like last weekend, um, there's the Soviet space exhibit is here in Dallas, and it ends,  uh, in January,|% sd sd sd % sd sd sd sd sd
+A|Oh.|b
+B|so she and, and the three boys and my husband and I went over into Fort Worth to see the space exhibit and this Sunday,|sd %
+A|The Soviet space exhibit?|qy
+B|Uh-huh.|ny
+A|My goodness.|ba
+B|Yeah Oh, it's been here for quite, uh, some time.|aa
+A|I am surprised they would bring anything over here.|sv
+B|I think it came here in either September or October and,  it's very interesting, very interesting,|sd sv
+A|Uh-huh. I'll bet.|b ba
+B|and it's been very well done Uh, and this, uh, next Sunday they're coming over after the Cowboy game and, uh,  uh, we're going to go take the boys to see Christmas lights and go to a Santa's village.|sv sd sd
+A|Uh-huh.|b
+B|And, uh, then when our son's over, we have a pool, and he and his wife come and a lot of their friends, and we have cookouts on Sunday uh,|sd sd sd
+A|Well, that sounds like you have really,  wonderful activities that keep you together.|ba
+B|And, uh  we, we do a lot with with our kids, and we we always have.|sd sd
+A|Yeah. Uh-huh. *slash error, should be 'b'|b
+B|We've taken a lot of trips with our kids when they were younger. Uh, we're very family oriented. We, um,  we like being with our kids, and the kids seem to enjoy being with us, and their friends enjoy being with us. So which that keeps us very, very young, with all these young people passing in and out and eating,|sd sd sd sd sd sd
+A|Uh-huh.|b
+B|and seems like I've,|%
+A|The only problem is, it keeps you pretty busy, keeping everything going, doesn't it?|sv ^g
+B|Well, it does I'm worried about Christmas. Christmas Eve they all pass through, and then they all end up spending the night Christmas Eve night, so that,  we open our presents on Christmas day|na sd sd sd
+A|Uh-huh. Beautiful.|b ba
+B|and they go out to the other, you know, the in-laws in between some of this, but they're all,  with us,|sd sd
+A|Uh-huh.|b
+B|and, uh, then have Christmas dinner with us and then go to other in-laws and things, so we see a lot of them. But we enjoy Christmas Eve night, because they all start arriving by about eleven o'clock, and we open presents about five o'clock Christmas,  morning, and, you know, and, uh, then,  I go to the kitchen and cook,|sd sd sd sd sd
+A|Uh-huh.|b
+B|and my sister and, and her husband are coming down, so there's going to be eleven of us for Christmas.|sd sd
+A|That's great. There's a, the question now to ask, is it difficult to find time, and you seem to be making out all right.|ba % sd sv
+B|Yeah. Sometimes I'm a little exhausted|aa sd
+A|Well, tell me, what do you think of, uh, of the current trends of how other people spend time with their children and so forth?|ad qo
+B|Oh, I, I think the trends are going back to spending more time with families.|sv
+A|Uh-huh.|b
+B|I think parents are definitely, uh, spending more and more time. I don't think they're leaving them with baby-sitters, you know. I think, I think family quality time is becoming much more important than it was there  for about, uh, I don't know, eight or nine years.|sv sv sv
+A|Yes. Uh-huh.|b b
+B|Seems like it went through a spell there where families weren't that big a deal. Parents kind of went and did their thing, kids did their thing. Yes,|sv sv sv
+A|Well, that's no, that's exactly what I was going to say. Of, of course, I find now that I spend more time with my grandchildren in detail.|% aa aa sd
+B|uh-huh.|b
+A|I know more about them and watch their growth and how they improve and, and learn much more so than my own kids. When, when your own children are growing up, you just take them for granted and you go ahead and do your thing and,|sd sv sv %

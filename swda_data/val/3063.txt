@@ -1,0 +1,100 @@
+A|Uh, we are to discuss air pollution and, uh, what we think the causes are.|sd
+B|Uh-huh.|b
+A|And I probably would, uh, target, uh, industry as being number one polluter.|sd
+B|Yeah, that's probably a major one. I think, uh, individually, uh, just by the vast number of people there are, there's I think cars are also a major contributor to it.|aa sv sv
+A|Well, vehicles and, and, yes.|arp_nd % aa
+B|Yeah, vehicles|b b^m
+A|Right, because, uh, there's a lot of commercial vehicles out there, especially those, the big rigs like the busses and, um, the big, uh, eighteen wheelers and so forth.|aa sd
+B|Huh . Uh-huh, uh-huh.|b b b
+A|I think they would generate probably, uh, one of them would probably generate enough for three cars. But that's not, and I think it can be resolved if, uh, if they really let go with, the technology that they have at, uh, at their hand,|sv % sv
+B|and muffled, talking to Just a minute, I'm on the phone|t3
+A|and they haven't released it yet.|sv
+B|Uh-huh.|b
+A|I think there's a lot of hold back, uh, because, of, uh, oh, priorities that they have, you know,|sv
+B|Yeah.|b
+A|and, uh, it's,|%
+B|Well, it ,|%
+A|You have some children.|sd
+B|Yes I have, I have five in the kitchen at the moment. to You need to shut the door, please. Shut the door right now. We have the air conditioner running. What do you need? Hurry. I'm on the phone Yes, you may. And they keep turning the tape recorder up besides|aa sd t3 t3 t3 t3 t3 t3 t3 t3 sd
+A|Oh, okay Do you have, do you watch children or do you,|bk qy qrr
+B|Um, I have three of my own and I have, uh, two that I'm tending for the summer. Off and on,|sd sd
+A|Uh-huh.|b
+B|so,|%
+A|Well, that's interesting. Um, is there anything,|ba qy
+B|They cause more noise pollution than air pollution|sd
+A|Well, temporarily they do.|sv
+B|That's right, that's right.|aa aa
+A|Then we get out of that phase, soon enough.|sv
+B|Yeah. But, um, I think another, you can tell when you go around cities, you can smell specific things from, from, specific industries.|b sv sd
+A|Oh, yes.|sd
+B|I remember being, I, I grew up in New Jersey|sd sd
+A|Uh-huh.|b
+B|and, uh, I can remember the smell of Newark vividly|sd
+A|Uh-huh, sure.|b b
+B|And it's the type of industry, you know, which obviously if you can smell it, it's in the air.|sv
+A|Uh-huh. Well, I know, uh, uh, in Michigan, uh, the way they used to take care of the trash is they would incinerate it, and the fumes from the incineration was a terrible pollutant to the air.|b sd sd
+B|Yeah.|b
+A|And, um, of course, now,|%
+B|Well, people think you burn it, it's gone, but it's not gone.|sv sd
+A|No, and when they, and you bury it and it's not gone either, because it has untold ramifications.|aa % sd sv
+B|Uh-huh.|b
+A|And, uh, And it gets into, into people, you know, which is, uh, the, the most important, um, resource that we have is people,|sv
+B|Then it just gets into the soil and into the water Yeah.|sd b
+A|and they're, and they're destroying us, they, really are.|sv sv
+B|Yeah. We really have to do more,|b sv
+A|So I think the cockroach will evolve, uh, safely So they say|sv h
+B|I think we've got to do more with the recycling. That's, I'm, I'm really glad to see that there's more of that happening.|sv % sd
+A|Yes, but there's not enough.|aa sv
+B|Yeah.|b
+A|And we need expert cooperation.|sv
+B|Well, it's a, we're getting, at least they're starting, you know.|% % sv
+A|Yeah. Education of the, Education of the people is primary, I would think.|aa sv
+B|So at least they're moving that direction. Yeah.|sv b
+A|And, uh, and we're hard to teach.|sv
+B|Uh-huh. Well,|b %
+A|We are hard to teach.|sv
+B|it's going to, it's probably going to be a generation or two before, before it's really going, very well, because now the adults are more aware of it,|sv
+A|Absolutely, yeah. Uh-huh.|aa aa b
+B|and the children are being taught in the schools more, it'll be, you know, on down the road this is going to be passed on, which is good.|sv
+A|Absolutely, yes. Uh, of course, uh, we would like to see it accelerated because, uh, of the critical nature of it.|aa aa sv
+B|Uh-huh.|b
+A|The, the learning of it and the, just to, um, think that way, we have to be in that thought pattern and able to, um, motivate ourselves to, um, uh, do what is right for the atmosphere.|sv sv
+B|Uh-huh.|b
+A|Um, I think we're all contributors. I mean, every human being that lives is a contributor, to pollution,|sv sv
+B|Yeah.|b
+A|so, we just um.|%
+B|Yeah. I think you're right, education is a big thing you know,|b aa sv
+A|Uh-huh.|b
+B|and as we educate them individually what they can do, people become more aware of the things in industry too that, that are causing problems and, and I think that they'll they'll work towards solving those problems more too. Um,|sv sv
+A|Well, hopefully it can be resolved within a shorter time frame than we have seen it done in the past. That the time frame for cleaning up our air and our, and our, um, land, you know, which, uh, we get our nutrients from.|sv
+B|Uh-huh. Yeah.|b b
+A|You know, I mean, everything goes back to the land.|sv
+B|Just a minute and I'll turn it up. I'll turn it up in a minute, honey, when I'm done.|t3 t3
+A|So um, it's just, um, very critical, I think at this point to, uh, get that through to the people and get us educated.|sv
+B|Uh-huh Yeah. Well, I think science has come a long way to making it so that it's possible to find ways to solve the problem|b b sv
+A|Uh-huh.|b
+B|Um,|%
+A|I, I don't know if they offer classes in, uh, the, uh, in the grade school, uh, uh, subjecting.|sd
+B|I think they teach it a lot in science|sd
+A|In science, okay.|b^m bk
+B|Yeah. I would think that that's where it would come through.|b sd
+A|What grade level would that be? Would that be, um, perhaps, the first grade level, which would be,|qw qy
+B|I, I think they're kind of getting it in all different grades.|sd
+A|Well, I mean, are they starting, though, at, at, with the children that are so, their little minds are like sponges and they can really uh, relate to that.|qy sv sv
+B|Yeah. I think they are starting probably in the first grade. They're, you know, they're hearing somewhat about it. Um, I know, uh, Target has their program to make kids more aware of it and,|b sd sd sd %
+A|Target stores?|br
+B|Yeah.|aa
+A|Oh, okay.|bk
+B|They've got, if you go in the entrance, they've got, uh, stands usually where they have, um, little, uh, kind of a little newspaper thing that the kids can read|sd
+A|Okay.|b
+B|and and they can form a, a group to, um,|sd
+A|Oh, I see. Uh-huh, help fight the pollution.|bk b ^2
+B|Yeah, yeah.|aa aa
+A|Oh, that's wonderful.|ba
+B|So,|%
+A|Well, I'm sure that, uh, perhaps they're the leaders, you know, and other will, others will pick up on their example and carry it, uh, further.|sv sv
+B|Yeah.|b
+A|You know, because, uh, thoughts are,|sv
+B|Well, I, I know it's it's a hard problem to solve because you, you know, like McDonald's has changed back and forth between paper and foam and that kind of thing,|sv
+A|Uh-huh.|b
+B|and they do all these studies on which ones pollute more, and then there's the paper and plastic bag question.|sd sd

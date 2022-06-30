@@ -1,0 +1,87 @@
+A|Okay, what did you buy?|fo_o_fw_"_by_bc qw
+B|A Ford Explorer.|sd
+A|I'm sorry, what?|br
+B|A Ford Explorer.|sd
+A|Oh, really.|bh
+B|Yeah, one of the new ones.|ny sd
+A|Yeah.|b
+B|And, um, I'd, I'd probably buy another, this is the first American vehicle I've owned.|sd
+A|Uh-huh.|b
+B|So I would probably purchase another one, um, I would be more selective in the dealership that I purchased it from but as far as, uh, the quality seems to be there, um, it's quiet, it's, it handles well, um, but I believe I'd get that or a Porsche, one of the two.|sd sd sd
+A|Oh really?|bh
+B|No, not|nn nn
+A|Um, if I had the money, I think I would love to own a, a B M W.|sd
+B|And why would that be?|qw
+A|I don't know, I, from what, or either that or Mercedes, just because they're put together so well. It seems like they last forever.|no % sd sv
+B|What's wrong with the Volvo.|qw
+A|Oh, I don't know, they're, they're not as nice looking.|sv
+B|Oh.|b
+A|Uh, to me, I don't know, I'm sure there are some that are, but everyone I've seen is kind of plain, but.|% sv sd %
+B|What, what city are you calling from?|qw
+A|Sherman.|sd
+B|Oh.|b
+A|Where are you?|qw
+B|Up in Dallas.|sd
+A|Dallas.|b^m
+B|Um.|%
+A|Yeah.|b
+B|B M W or Mercedes, yeah, well that's a, that's a,|b^m %
+A|If I had, um, had the money, I mean that's just, I know I never would own one, but, uh, I don't know. I like, my actual favorite cars were, uh, like the Ford Thunderbirds of nineteen eighty-five.|sd sd h sd
+B|Uh-huh.|b
+A|I really like that body style, but I don't own one of those either|sd sd
+B|What do you presently drive?|qw
+A|Uh, Mercury Topaz.|sd
+B|Um, fun.|ba
+A|Cheap taste, cheap taste in cars, okay|sd
+B|Well there nothing wrong with those, uh. They're, they're nice they're nice vehicles, nothing wrong with those.|sv
+A|Yeah,|aa
+B|It, um, it's just everybody has their own taste, but man the Mercedes are expensive. My wife has a Volvo and it, it's nice, I mean, you know, it's okay an.|sd sv sd sd
+A|Sorry I roped on Volvos then|fa
+B|Huh?|br
+A|Sorry I roped on Volvos then.|fa
+B|Oh no, no, no, no, no, no, no it, it, I, I kind of wish we would have maybe gone for the G L rather than the D L|bd bd bd bd bd bd bd % % sd
+A|Oh, is it? See I don't much about them I guess.|bh sd
+B|Yeah, there just safe to just, that's the reason why we mainly got it. We got white and it's the safest four door, you know, it's good for, if you have a family, which we do.|b sd sd sd sd
+A|Yeah.|b
+B|We just, we just one out and so it's, it's, uh, um, you know, they're kind of low to the ground after driving the Explorer. You know, I presently, I used to have a two, eighty Z, and I'm a tall guy an, and, uh, they're hard to get around in traffic to see.|% % % sd sd sd sd sd
+A|Really.|b
+B|Because you can't see a car ahead of you, but they're fast as lightning and all that crap. But the Explorer, I mean, you're sitting up on top of everything and you can really see real well. And I just, it's so comfortable So, you're,|sd sd sd sd sd sd
+A|Uh-huh.|b
+B|what are your feelings about American versus European cars?|qo
+A|Um, I like anything besides Japanese. Of course everything has Japanese parts in them anymore. I don't like Japanese cars,|sd sd sd
+B|Why not.|qw
+A|But, uh, European, I don't have any, I mean, those are the kind I usually end up liking the most. American cars, a lot of people say they, they don't last long but I've never had any problem with, um, my Mercury, or, my my husband has a, uh, Cougar and he's never had any problem with it either, so, I don't know.|sd sd sd sd % % sd sd h
+B|That's the way it goes, I guess.|ba
+A|Well what are your, I guess this is your first time to buy American, so.|qw qy^d %
+B|Yeah, I was real hesitant but it was|ny sd %
+A|Yeah.|b
+B|I don't know, uh, I mean, I think European cars are great, course you've got to have metric wrenches and stuff and they're some, some of them are easy to work on. A Volvo, being a four cylinder is very easy to work on.|sd sv sv sd
+A|Really.|b
+B|Uh, excellent warranty, I mean, just, unbelievable warranty. And, and, uh, of course, Ford isn't too bad. I think Chrysler would probably make a good vehicle, uh, but all of it has to do, in my opinion with the service. and the attitude of the service, of the dealership.|sd sv sv sv
+A|Yeah. Yeah.|b b
+B|I wouldn't send my dog to buy a car from Middlekauff Ford.|sd
+A|Where?|br
+B|There's, Middlekauff Ford in Plano.|% sd
+A|Okay.|bk
+B|Their just, their attitude is just slimy. And, and, uh, I've written a, a letter to Middlekauff and I've told them that, matter of fact I got another letter last night from the Quality Ford Division, their still concerned about my attitude *spelling "their" should be "they're and it, it will never change about that place. And, uh, but, uh, anyway that's my own personal comment I guess, but.|% sd sd sd sv % sd %
+A|Yeah, this girl that works for me just bought a car down there and they, they had a problem with they, uh, took their Camaro in to get it traded and they, they hadn't signed any papers and they had all ready, uh, taken it in to paint it and everything and everything was stolen out of it and the people, um, wouldn't reimburse them for anything.|b sd % sd sd sd sd
+B|Middlekauff wouldn't? She needs to find herself a lawyer. She'd, she'd come out like a champ on that one.|qy sv sv
+A|Yeah, so, I've heard some stuff about them. But, um.|aa sd %
+B|So have you been using, well anyway.|qy
+A|What.|br
+B|That was, I was asking you some questions about the telephone and how long and how many have you been doing, but that's,|% sd %
+A|Oh.|b
+B|they, they don't want to hear that.|sd
+A|Oh, just about a week.|sd
+B|Is that all? A week.|qy b^m
+A|Yeah, yeah.|ny ny
+B|Good Lord, I think I started in January or February.|ba sd
+A|Really.|b
+B|Oh God, I've, I'm like twenty some phone calls.|ba sd
+A|Oh, wow.|ba
+B|That's why I, I wasn't sure if this was the second time around or what. Well look, I've enjoyed speaking with you.|sd fc
+A|Yeah, you too.|fc fc
+B|And keep smiling.|ad
+A|Okay, thanks.|aa ft
+B|Bye, bye.|fc
+A|Bye.|fc

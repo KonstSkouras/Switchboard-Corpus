@@ -1,0 +1,53 @@
+A|Well, how do you feel about trial by jury?|qo
+B|I feel very uncomfortable with trials by juries recently. Uh,|sd
+A|In what way?|qw
+B|In that it seems to me that they are swayed more by emotion than, uh, by evidence that's presented. I have, uh, very little regard for the law presently practiced.|sd sd
+A|Oh, do, do you feel they are swayed more toward, are you talking about with criminal or civil suits?|qy
+B|I was thinking primarily criminal cases.|sd
+A|So, do you think that, I mean the the stereotypical bleeding heart juries where they feel sorry.|qy
+B|Yes. Uh-huh. That's a concern of mine. Uh, I would feel more comfortable in many cases I think with judges. Uh, you know, doing the sentencing.|ny ny sd sd
+A|Uh-huh. The other thing, the only thing that really bothers me about that is I think you know, that a judge can be I, I like the idea of juries of your peers uh, in that you, you, you get more personally more than one person making the, making a decision.|b sv sd
+B|Uh-huh.|b
+A|And second of all, you get a wide variety of background so that,|sv %
+B|Yeah, my question I guess are they really your peers?|b qh
+A|Uh-huh. I'd  agree with that.|aa aa
+B|Uh  Uh, too often I think they are not|sv
+A|That's definitely a problem. Uh-huh.|aa b
+B|and, uh, when you, when you are selecting a jury and you are doing it partially if, if not entirely on the basis of which color representation you have you know that is a matter of concern to me too.|sd
+A|Uh-huh.|b
+B|Uh, I think that, uh, in such cases, uh, they are not really looking for unbiased people, but rather for biased.|sv
+A|Uh-huh.|b
+B|Uh, now I happen to know several judges and there is one that I would feel uncomfortable but has doing sentencing without the jury I would feel a little bit uneasy about|sd sd
+A|Uh-huh.|b
+B|but the other two I feel, uh, would give either you know, the plaintiff or for the defendant the the full benefit of the law.|sd
+A|Uh-huh.|b
+B|And I guess that's what I am concerned with.|sd
+A|Yeah, yeah. I, guess I, I definitely agree with you, but the well, what I don't like about, uh, sentence, the jury doing the sentencing in that I think it becomes a lot less,|aa aa aa % sv
+B|Uh-huh.|b
+A|the, the same crime gets unequal sentences.|sv
+B|This is very true.|aa
+A|I, uh, I think there is more of an ability of you know, you know for selecting a jury, two different juries that would most of the time come up with the same idea, uh, the same idea versus you know whether he is guilty or innocent|sv
+B|Uh-huh. Uh-huh.|b b
+A|but, I think, I think there would be a large variation in, in trying to gage the the severity of the crime and an appropriate punishment and have that that measure stick across the board.|sv
+B|Yeah and you do see such uneven sentencing you know, evidence of it in the newspapers and such, I mean where, uh, it would appear the crimes were very similar|aa sv
+A|Uh-huh. Uh-huh.|b b
+B|but one individual got twenty-five years and the other one was sentenced to life. So,|sv sv %
+A|Uh-huh.|b
+B|Uh,|b
+A|Of course a lot of that's also the ability of, of the defendant to, uh, get a good lawyer.|sv
+B|Isn't that the truth|aa
+A|Uh-huh.|b
+B|There are times when is it, uh, oh goodness, my mind has gone blank it's, uh, Othello. You know where he says kill all the lawyers Every now and then one is tempted to see what, what.|% sd qy^d sv
+A|Yeah, I agree|aa aa
+B|But, I, it's taken me a long time to understand that, uh, lawyers are concerned with the law and not with justice as we think of, you know, as, as novices tend to think that, uh, attorneys care about justice.|sv
+A|Uh-huh. Uh-huh Oh, yeah, I, I agree with it yeah. They will admit to you that they don't have the benefit of being able to you know, of, of, letting, allowing themselves to believe their clients that are guilty|b b aa aa aa sv
+B|Uh-huh.|b
+A|it's more of the game plan of how do they convince the judge or jury through argument.|sv
+B|And they are very effective too.|sv
+A|That the Uh-huh.|% b
+B|Uh, even, I have been involved, uh, just slightly in a case where I know the person is guilty|% sd
+A|Uh-huh.|b
+B|but, uh, his attorneys gotten him off.|sd
+A|Uh-huh.|b
+B|Uh, the city has dropped their charges against him because their, the attorney has presented enough evidence of doubt to convince the judge. So I don't know|sd h
+A|Yeah. Uh, this is a little bit of the subject, but one, one thing that I really dislike, uh, also that's, that's new is the, uh, is that I have heard that there are federal sentences,|b sv sd

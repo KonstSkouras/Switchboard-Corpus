@@ -1,0 +1,76 @@
+A|Uh, Robert what do you, uh, think, what substances do you think are the most, uh, likely causes of air pollution?|qw
+B|Um, gee, I don't, I mean, I, I guess it's the stuff that comes out of automobile exhaust, you know, they say in the paper nitrous oxides and ozone and all that.|ba sd sv sd
+A|Right.|b
+B|So, I believe them but I'm not a chemist.|sd h
+A|Do you, uh, do you think that those are bigger contributors than things like acid rain and some of the pollutants that come from, uh, industrial areas, factories and so on?|qy
+B|I don't really know, um, I grew up in Los Angeles and have felt like I was victimized by air pollution.|no sd
+A|I was going to say, and, and you, so you understand smog|sd qy^d
+B|I understand it very well and in fact I was a private pilot there,|na sd
+A|Uh-huh.|b
+B|and I can remember very etched, etched clearly in my mind, uh, flying and coming up above the smog layer at about three thousand feet and looking back down and, and really being unbelieving at, what looked like a, uh,|sd
+A|Wow.|ba
+B|it just looked liked peanut butter.|sv
+A|My word.|ba
+B|Thick and brown and so on.|sd
+A|And that was, a few years ago?|qy^d
+B|This was quite a few years ago. This was in the nineteen sixties.|na sd
+A|I, I wonder if it's any better now. Because they, uh, California has such strict rules, um, about emissions and so on.|qy^d
+B|People say that it is somewhat better. Right.|sd b
+A|Um, I, I don't know if you heard about the, uh, recent legislation in, uh, Colorado, uh, against a power company, uh, that's actually on Indian land, I believe, but, uh, it has been ruled against, uh, regarding air pollution because they think that it's causing terrible smog over the Grand Canyon. And, um, particularly in the winter months.|sd sd
+B|Um.|%
+A|So they, it was, uh, a landmark case because it's unusual to, um, I can, they, they were talking about shutting it down, or if it didn't comply and so on.|% sd % sd
+B|So did it burn coal?|qy
+A|I don't know that, the information is one of those wire services kind of news, pieces of news, you know, so it's hard, I never did see the full story, so I don't know.|no sd sv sd sd
+B|Yeah.|b
+A|But they said that, that it really caused so much smog over, uh, the Grand Canyon in the winter months that they couldn't do the, uh, piloting, uh, you know, the helicopter trips and that sort of thing. Which would be horrible, because the, there's nothing,|sd
+B|Um. Yeah.|% b
+A|I mean that's such a spectacle. It would be a shame to ruin it.|sv sv
+B|Yeah.|b
+A|Uh, what do you think individuals could do, or society could do to alleviate this problem.|qw
+B|Uh, I don't, uh, I don't know whether we could do a whole lot as individuals. Uh, maybe just take good care of our cars, and make sure we keep our pollution devices clean and all that sort of thing. Um,|sv
+A|Right.|b
+B|apart from that, I, I don't know what we can do as individuals. What do you think we can do?|sd qw
+A|Uh-huh, you think, it's more, more to society. Well I guess I kind of agree there. I, uh, on an individual basis there isn't a lot we can do about a lot of things but if we are concerned about it then we certainly can, uh, force, uh, government, uh, that we elect to deal more seriously with it.|b bf sd % sv sv
+B|Yeah.|b
+A|And I do think that we have a responsibility there. I must admit I'm not always real politically active but I do think that, um, Congress has backed down much too much on some of the air pollution standards.|sv sd sv
+B|Yeah.|b
+A|And it's brought the, they, uh, really listen to the, the, uh, lobbyist and, uh, the car manufacturing companies have, uh, you know, have really pushed, they , all those restrictions are really too hard, we can't, we can't quite make that go and they don't and then we still live with air pollution.|sv sv sv % ^q ^q % sd
+B|Yeah.|b
+A|Um, so I suspect that that's one thing that, that as individuals, we can do, make our voices known, perhaps to our legislators. But, um, as a society, I think we can do more and that's probably how we ought to do it. Uh, being individually responsible as, uh, in order to be group responsible.|sv sv sv
+B|Yeah, I guess I'm, I'm to the point where I'm cynical enough that I really don't believe anything will happen unless, unless there's something economically justifiable about it.|b sv
+A|Right.|b
+B|And in the case of air pollution, it simply might turn out at some point down the road, to be so costly to have to live with air pollution in terms of health problems, and everything else that we'll spend the money that's necessary to, uh, to get rid of the source of it.|sd
+A|Uh-huh. I suspect that the that there's going to have to be a lot of pressure, uh, come to bear on the companies that deal with it and probably the only way that can happen is for, um, governments to realize that they have to pay if companies don't.|b sv sv
+B|Yeah.|b
+A|And, uh, I don't know how long that, that will take.|sd
+B|People also have to realize they can't have their cake and eat it. So, if you don't want to burn coal for power, how about nuclear energy.|sv qh
+A|Sure.|b
+B|Well we don't want that either.|sv
+A|Exactly, yeah, right.|aa aa aa
+B|How about investing in the sun. Well nobody wants to pay twenty-five cents a kilowatt hour, I don't think.|qh sv
+A|Right.|b
+B|Uh, I probably wouldn't mind if it really came down to it.|sv
+A|Well it's just the same thing with the car, uh, uh, the gasoline, now is a wonderful time to smack a fifty cent a gallon tax on gasoline, so that we don't, uh, run into the kind of problems we recently had|sv sv
+B|Oh yes, yes, yes.|aa aa aa
+A|and yet the government is not going to do that because people are too dependent and they don't want, they don't want to pay for it. So instead, we spend billions of dollars going to war.|sv sv sv
+B|Yes.|aa
+A|Uh, you know, however, it might have had other causes. Certainly oil was a big factor.|% h sv
+B|Oh certainly, yes.|aa aa
+A|Um, and I think that's probably going to happen with, with such things as air pollution, when we, when we get serious about cleaning, about our motors in our automobiles then, uh, then maybe, you know, we'll have a little bit of help. Um, uh,|sv
+B|Yeah.|b
+A|do you have any air pollution in your area?|qy
+B|There's not really a lot here in Raleigh. Uh, once in a while we'll get some, uh, I think it kind of washes down from, uh, from your area Linda|ng sd sv
+A|Oh no.|ba
+B|That's what they, that's what they,|%
+A|You're talking about from, from the, uh, the middle, middle states, that, that have more factories and so on.|qy^d
+B|Yeah. Yeah, yeah, that's what they say but it's it's not, it's not very usual and certainly we don't have the eye stinging variety that you get in the big cities.|ny ny ny sd sd sd
+A|Yeah, we really don't have that either. Although I think I can tell a difference in, I lived in this area for about twenty-five years and I think I can tell a difference in the comfort level, uh, particularly in the summer. Uh, you know, when it gets hot, and you have, the, that kind of a pressure from the pockets of air, uh, usually they say caused by exhaust.|b sd sv
+B|Uh-huh, uh-huh. Yeah.|b b b
+A|It seems to me that I'm more uncomfortable and, you know, my eyes sting more and so on and so on. So I suspect that it's, it's an ever growing problem.|sv sd sv
+B|Yeah.|b
+A|Well I suspect that we've probably covered everything that we need to here.|sv
+B|Right, I think, we've given them about seven minutes according to my watch|aa sd
+A|It was nice talking to you.|fc
+B|and I enjoyed the conversation.|fc
+A|So did I. Bye, bye.|fc fc
+B|Bye.|fc

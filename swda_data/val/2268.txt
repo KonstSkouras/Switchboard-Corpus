@@ -1,0 +1,138 @@
+A|what kind of fishing do you enjoy?|qw
+B|Well, uh, normally I like to, to go out fishing in a boat, and, uh, rather than like bank fishing, and just like to try and catch anything that's swimming, because I've had such problems with trying to catch any type of fish, that, uh, I just really enjoy doing the boat type fishing.|sd
+A|So, you like fresh water.|qy^d
+B|Uh-huh. Uh-huh. I've never tried like with, deep, uh, sea water fishing because you get, I get sea sick|ny ny sd
+A|Uh-huh. Oh I see|b b
+B|Well, one of these days, I'm hoping they'll have some kind of medicine, so I can go out and go, uh, deep sea fishing. Now, that would be nice.|sd sd sv
+A|Well, I was raised on the Texas gulf coast, in the summers,|sd
+B|Uh-huh.|b
+A|and during the Christmas holidays we'd go down to our house on the coast|sd
+B|Uh-huh.|b
+A|and so, I thought fish came out of the ocean|sd
+B|Oh, my goodness.|ba
+A|and anything that was fresh water was muddy|sd
+B|Uh-huh.|b
+A|so I didn't learn to fish in a lake until I was well into my twenties so I had, I had always been a, a sea fisher type which is a lot of fun.|sd sd
+B|Uh-huh. Oh I bet it is.|b ba
+A|There's so many different ways to catch fish.|sv
+B|Uh-huh.|b
+A|You know, at night you can go walking in the shallows, and gig flounder and things like that. Which isn't technically fishing, but it's a lot of fun.|sd sd sv
+B|Uh-huh.|b
+A|So, I, I grew up fishing.|sd
+B|Uh-huh.|b
+A|What area of lakes do you like?|qw
+B|Well, uh, now, I haven't done much fishing here in Texas, uh, because I moved from Ohio,|^h
+A|Oh, I see.|b
+B|uh, but, uh, we did a lot of fishing when we were up there. But down here, I have a brother that likes to go over on the east, in East Texas, and do fishing. I can't remember what the name of the lake is, and he was just here this past weekend. I could have, I, I think he mentioned it again, but I couldn't remember what it was. Uh, I want to call it Salt Fork, or Lake Fork. I, I can't remember, but he said it's one of the best bass fishing places.|sd sd sd sd % sd sd sd sd sd
+A|Oh, oh, oh, uh, I think I know where, uh, Lake Caddo, or something like that.|sv
+B|I, you know, that may be it. That may be it.|% aa aa
+A|If it's supposed to be one of the best bass fishing places. They hold tournaments there, and everything.|sd
+B|Yeah. Yeah, yeah, and he said that he has never gone anywhere before, and he's fished all over the United States, in which they can catch the biggest bass that you've ever seen. So I would love to go over there. They were talking about going over there, and, and some time in the spring, and I was thinking it would be great to go over there to go fishing, and, uh, and catch some bass.|b b b sd sd sd sd sd
+A|I would love to do that, but they have snakes over there, and I'm not too welcome around, I don't, I really don't want to share a boat with a snake.|sd sd sd sd
+B|Uh-huh. Uh-huh.|b b
+A|I just, I, I, I don't see it.|sd
+B|Yeah.|b
+A|I just, I don't I think that I perhaps would let them have the boat or something, I'd make some quick arrangements|sd sd
+B|That's true.|aa
+A|and I've told so many stories about the snakes|sd
+B|Uh-huh.|b
+A|you know, when they pull in, there's a snake instead of a fish, and things like that|sd
+B|Yeah.|b
+A|I'm just,|%
+B|Oh.|b
+A|I don't know,|h
+B|Yeah.|b
+A|What's the largest fish you ever caught?|qw
+B|Uh, gosh, I think it was only like three and a half pounds, and for me that's big. That's why I'm saying I love to go fishing because I've never caught anything really, really big. Uh, so, because it's always been, you know, in the, on a lake, and, uh, I know they have bigger fish than that but, you know, three and a half pounds, and that was, huge for me,|ba sd sd sd sd sd sd
+A|Oh, on a lake, yeah. On a like that's not a bad size fish. *listen; transcript should probably read "lake" not "like"|bf b sv
+B|yeah, that's a good size fish|aa sv
+A|I would be impressed|sd
+B|Yeah, yeah. So, uh, but yeah, I'd love to go catch like the Marlins or whatever in the deep sea fishing.|b b % % sd
+A|I've never done that.|sd
+B|Uh-huh.|b
+A|I've, I've seen it, uh, and, and I have no problem going out in a boat, uh, it's just so dreadfully expensive, and there's just so many other ways live down there.|sd sd sv sv
+B|Yeah.|b
+A|It's not a treat|sv
+B|Uh-huh.|b
+A|it's what you do every day.|sd
+B|That's right.|aa
+A|You know.|%
+B|That's right.|aa
+A|Uh, one of my favorite things was, we were forever catching crab and steaming them you know, out on the, on the beach and you know, just, uh, pitching them out, on, uh, on, uh, what am I trying to say, newspaper and, and, breaking them up and sitting out there and eating them, and then digging a hole and pitching the whole thing in it you know|sd
+B|Yeah. Uh-huh. Uh-huh. Wow. Uh-huh.|b b b ba b
+A|and, and that's it.|sd
+B|Yeah.|b
+A|And, uh, but, the other little creatures would take care of what was left.|sd
+B|That's right,|aa
+A|So, going out on a boat, never did appeal to me simply because it, you know, there was so much else to do.|sd
+B|that's right. Right. Right. Well, do you live like along, uh, Houston, down there?|aa b b qy
+A|No, no. I live in Dallas. I lived in Dallas.|nn nn sd sd
+B|oh, okay. But you, uh,|bk sd
+A|We had a house in Port Aransas.|sd
+B|Oh okay.|b
+A|It's a little fishing village that is, Corpus.|sd
+B|That's close to, uh, South Padre.|^2
+A|Well, uh, South Padre is on down the bend|ar
+B|Oh Corpus. Okay. Okay. Okay.|b^m bk bk bk
+A|it's like if you drew a line from Austin straight down, it would be in that region.|sd
+B|Uh-huh. Uh-huh.|b b
+A|Small island.|sd
+B|Yeah.|b
+A|Uh,|%
+B|Yeah. I, I've been to Port Aransas but, it was when I was a child.|b sd sd
+A|Oh, okay.|b
+B|Yes, because I have relatives who live in Houston, so when would go, and we would go to Port Aransas or then, on down to Corpus or further, yeah, like what your talking about. Because I was just wondering, we went to Galveston this, this summer, even with all the oil spills and everything, I mean, I was, oh, it was horrible.|b sd sd aa sd sd sv
+A|Was it bad?|qy
+B|I well never, ever go back. I don't think. Uh,|sd h
+A|Oh, I hate to hear that.|ba
+B|and, yeah, and that, that's true, uh, uh, you know, the, the water was murky, and I would hate to think about catching fish or anything there|% aa sv sd sd
+A|Huh-uh.|b
+B|huh-uh, no I wouldn't want to eat them.|b^m aa sd
+A|No,|aa
+B|So,|%
+A|no, no.|aa aa
+B|Yeah.|b
+A|You went to Galveston. Uh, I have a favorite hotel that extends out over the water|sd sd
+B|Uh-huh.|b
+A|the, uh, what is it, the Flagship?|qy
+B|Yes. Uh-huh.|ny ny
+A|Is it still there?|qy
+B|It sure is.|na
+A|I like that place.|sd
+B|Yeah. Yeah. It most certainly is, so, uh, so that, it, it was, it was certain things that were enjoyable about it, but, uh, I don't, I think it's lost a lot of it's appeal since then, because of all the oil spills that they have had, and, uh, it always smelled the entire time we were there. It was,|b b sv sv sd %
+A|I didn't realize that had happened, for some reason.|sd
+B|Yeah. We went swimming one time, in the whole week that, we were there, and the rest of the time we stayed in the pool, because the water was so awful, and,|b sd sd %
+A|Well, of course, being raised on the water I'd never swim in it.|sd
+B|yeah.|b
+A|Huh-uh.|aa
+B|Yeah.|b
+A|Swimming is for swimming, pool.|sv
+B|Yeah.|b
+A|That's why they call them swimming pools|sv
+B|Uh-huh. Uh-huh.|b b
+A|That's where you swim. You do not swim in the ocean.|sv sv
+B|No. No.|aa aa
+A|No.|aa
+B|Not anymore.|sd
+A|I've seen what comes out of the ocean, and I have no desire to share, any space with anything like that. But, really, but huge sharks are down there.|sd sd sd
+B|Uh-huh.|b
+A|I mean incredibly large sharks.|sv
+B|Uh-huh.|b
+A|Uh, some of the young dread naughty boys in my family would fish for them all night|sd
+B|Uh-huh.|b
+A|it was incredible the size of them,|sd
+B|Wow.|ba
+A|the next morning they would have them strung up across the getties|sd
+B|Uh-huh.|b
+A|and it, you know, so, just strung up, their tails would still hang on the bottom of the getties yeah, just,|% sd sd % %
+B|Wow. Wow. Yeah. Now I never knew they were that, that big, huh,|ba ba % sd
+A|I won't have anything to do with.|sd
+B|Yeah. Yeah. Right. Well, it was nice talking to you.|b b b fc
+A|Well, it certainly was, uh, Maybe you can get, how many, have you had very many of these calls?|fc % % qy
+B|Uh, yeah, almost ever day.|ny sd
+A|How wonderful.|ba
+B|Yeah. Almost, almost ever single day from when they started it. Yeah.|aa sd %
+A|Maybe I'll just be so lucky. Okay, I enjoyed talking to you.|sd fc fc
+B|Okay.|fc
+A|Bye-bye.|fc
+B|Bye-bye|fc

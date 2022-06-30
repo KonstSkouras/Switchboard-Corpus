@@ -1,0 +1,59 @@
+A|Basically, uh, my husband and myself use the credit cards in regards to major purchases. We really don't get into small little purchases. If we're going to purchase something quite large we might put it on a credit card, but, other than that it's not something that we use a lot of. Uh, we may have only two or three versus, uh, I know a lot of people have up to a half a dozen or, uh, up to a dozen credit cards, but, uh, ours are just major credit cards that we have and, uh, use, uh, use only when when we feel it's necessary to make a big purchase.|sd sd sd sd sd sd
+B|Yeah, is that like Visa and and Mastercard.|b qy
+A|Yeah. Yeah.|ny ny
+B|Do you have department store credit cards too, or,|qy %
+A|Uh, yeah, one Sears.|ny sd
+B|Uh-huh.|b
+A|Sears is pretty major with us simply because we do, uh, Appliances and things like that|sd
+B|Appliances.|^2
+A|and they're real good with their appliance and stuff like that so,|sv %
+B|Yeah.|b
+A|But, uh, we try to avoid them with a passion because of the percent of interest rate. If you've got the cash to pay for something, it's better to do it that way than versus credit cards, unless it's a small enough sum that you can do it within a two, three month period, but if it's, uh, any large purchases, uh, you've got to kind of think about, uh, how much you're going to put down as far as, uh, payments on it so that you're not getting eighteen percent or twenty percent interest taken off,|sd sv sv
+B|Yeah. Right|b b
+A|so,|%
+B|My, my husband and I do basically the same thing, but we, we end up sneaking a few in there that surprise us.|sd sd
+A|Uh-huh.|b
+B|We still pay it off every month if it kills us|sd
+A|Yeah. Yeah, yeah.|b b b
+B|But, we do it mainly for, you know, the cash flow, what is that, oh, float. That's the word, float.|sd t1 sd
+A|Uh-huh. Sure, sure.|b b b
+B|And, I often will keep track of what I've charged and sometimes deduct it from my checkbook already.|sd
+A|Uh-huh. Sure, so you know.|b b %
+B|And sometimes just, and keep a list and make sure I|% sd
+A|Sure. Yeah. Exactly.|b b aa
+B|Oh.|b
+A|Exactly|aa
+B|If we go out to a restaurant, oh, just to float it, or, I don't know.|sd h
+A|Or, if it's a business transaction a lot of times that's important, too to keep a better receipt of it.|sv
+B|Yeah. Yes, my husband has a, a,|b b sd
+A|So, yeah.|%
+B|Or anytime like a plane ticket, or, you know|sd
+A|Uh-huh.|b
+B|Even if we have the, I'm sure we'd have the cash before we got it, but the float for more than a hundred dollars seems real nice for that. That thirty days or whatever.|sd sd sd
+A|Uh-huh. Sure. Oh, sure. For the month or whatever. Yeah. Exactly. So,|b b b ^2 b aa %
+B|We have a new one from A T AND T and we have, you know, haven't used that one too much|sd sd
+A|Uh-huh, yeah.|b b
+B|Be interesting, that's nice, because you can use it for a calling card also.|sv sv
+A|Exactly, sure.|aa b
+B|It's a Mastercard, too, so|sd %
+A|Sure, yeah.|b b
+B|It's kind of fun, uh, but you get a lot of junk mail about them.|sv sd
+A|Oh, yeah and you always get these preapproved, uh, credit card things coming through, uh, your credit is great, so let's send you another credit card or it's preapproved for,|aa sd ^q ^q sd
+B|Yeah, you're such a a wonderful person|b ^q
+A|That's, that's to entice you to get more credit cards.|sv
+B|We'll give you five thousand dollars up front|^q
+A|Yeah. And so, you know, we always laugh about that because it's quite a bit I mean, you know, you always constantly getting those preapproved stuff, so.|b sd sd %
+B|Right. Do you have, uh, an annual fee on yours or do you get yours through a bank or,|b qy qrr %
+A|Uh, ours is through a bank, yeah. *should they 'yeah' be a seperate slash unit?|sd
+B|Yeah.|b
+A|We had it a long time ago through a bank and it just a but,|sd % %
+B|Yeah. I, I can't see paying an annual fee for it. I mean I almost|b sv sd
+A|Oh, you're already paying them, uh, if you're, if you don't pay it off within that month, interest, anyway, so, yeah, that's exactly it so,|sv % sv %
+B|Yeah.|b
+A|Okay.|fc
+B|Well, it sounds like I'm being paged otherwise.|fc
+A|Okay.|fc
+B|So|fc
+A|All right, thanks a lot.|fc fc
+B|Good talking to you.|fc
+A|Bye now.|fc

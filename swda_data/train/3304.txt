@@ -1,0 +1,65 @@
+A|I guess we're recorded.|sv
+B|Okay.|b
+A|What, do you have any hobbies that you like to do?|% qy
+B|Oh, yes. Cycling, computers, uh, backpacking, just about everything.|ny sd
+A|Oh|%
+B|Oh, I generically have, you know, millions of hobbies.|sd
+A|All right, that's an interesting assortment. My husband is into cycling. In fact, he's out there right now before it gets dark trying to get in his miles for the, the time.|b sv sd sd
+B|Uh-huh. I'm not quite that bad. I'm just a weekend cyclist.|b sd sd
+A|Uh, do you have any, do you do any handicraft type things, I think was the question.|sd
+B|Handicraft type things.|b^m
+A|Yeah, whittling or|aa sd
+B|Yeah, just whittle away my life. Uh, no, no, I|aa sd ar ar %
+A|Nothing like that.|bf
+B|Uh, uh,|%
+A|I, I do some things. I've gotten into, uh, oh, I, I like to decorate things and I do sweatshirts and T-shirts and I've gotten to where I start, have started selling them at craft shows and things.|sd sd sd sd sd
+B|Oh, that's pretty good.|ba
+A|Uh, and I have, have done fairly well at them. I've had a, a few of my little hobby projects have totally bombed, but most of them have worked out pretty good|sd % sd sd
+B|Yeah, they, my only craft work is kind of like computers and, you know, go off to the little computer club meetings, and, it's kind of nice because I've made money at it, too. Considering I, I work for it a living, but I, you know, I, I've got a couple of articles published.|b % sd sd sd sd
+A|Oh!|ba
+B|It's kind of, kind of neat.|sd
+A|Yeah, what, what does a computer club do. I didn't know there were such things.|b qy sd
+B|Oh, yeah, just all over the place. They just get around and, and talk techy or, or else, uh, uh, you know, like half the members are really expert and the other half are like really not.|aa sd sd sd sd
+A|Uh-huh.|b
+B|And, uh, we kind of help out the people who are really not|sd
+A|You don't, uh, you're not into hacking or whatever|qy^d
+B|Oh, I, I think I'm, I think I'm a hacker, but I'm not, not kind, not the, uh, the, you know, dial around randomly trying to break into computers type hackers,|arp_nd sd
+A|Uh-huh.|b
+B|no, that's one of those sports I don't go for.|nn sd
+A|Well, that's kind of interesting hobby. What else, did you, you said you did cycling?|sv qw qy^d
+B|Yeah.|ny
+A|What was the other thing?|qw
+B|Backpacking.|sd
+A|Backpacking. We,|b^m %
+B|Yeah, I belong to a, a Boy Scout troop. It beats paying United Way. I just, you know donate a whole bunch of my time to the Boy Scouts and have fun.|aa sd sd sd
+A|Uh-huh. Well, that's, we have done that. Uh, our two older boys were in Boy Scouts and my daughter was in Girl Scouts until just about a year ago|b sd sd sd
+B|Uh-huh.|b
+A|so we've uh, done a fair amount of that in our spare time, also But, it, I, that's a great thing to do, you know, really. Have you been backpacking anyplace exciting?|sd % % sv qy
+B|Uh, well, just last weekend went to Davy Crockett forest which is kind of out in east Texas.|sd
+A|Oh. Uh-huh.|% b
+B|And we go to, uh, places out in, uh, uh, let's see what's that, what's that state north of us, that state|sd ^h t1 t1
+A|Oh, that one.|bf
+B|yeah. Yeah, that one. That one.|aa aa b^m b
+A|Okay|b
+B|Yeah, yeah. And,|b b %
+A|To the, uh, oh, by Fort Sill there?|% qy^d
+B|Uh, no, to another a, uh, old Indian fort that's out there. Trying to think of the name of it. Durn. Well, yeah, no, sorry, no memory.|nn sd ^h ba % % fa sd
+A|Uh-huh. Have you gone, like to Fillmont with the Boy Scouts?|b qy
+B|No, I missed out this last year. I wasn't able to get the time off, but maybe next year. It's a good possibility.|nn sd sd sd
+A|I've always thought that would be a real fun thing to do.|sd
+B|Oh, yeah, yeah. When I was a kid, uh, we'd do the equivalent thing in the High Sierras. That was loads of fun.|aa aa sd sd
+A|Uh-huh. Does, does your whole family like to do it, like you, you know, for a vacation you'd go backpacking?|b qy qy^d
+B|Uh, no, not quite because I'm not a whole family. I'm just me|nn sd sd
+A|Oh, okay. You just, oh, and, and you volunteer for the Boy Scouts, huh?|bk % qy
+B|Oh, yeah, I rent my kids|ny sd
+A|Uh-huh Well, sometimes, uh,|b %
+B|It's better than, you know, owning on them and making payments on them, and, you know, things like that.|sv
+A|Sometimes I think that might not be a bad idea Have, uh, you said you did it in the High Sierras. Uh, do you ever, you know, just vacation someplace where you strictly backpack?|sv % sd qy
+B|Oh, yeah, yeah. Uh, not recently because, you know, like the Boy Scouts makes it so that I go like once a month, you know. Someplace.|ny ny sd
+A|Uh-huh.|b
+B|But, uh, there's, uh, some, some stuff that I want to do with like Sierra Club and go down to Grand Canyon or something like that. So, you know, they have lots of tours where they get a bunch of people together and off you go.|sd sd
+A|Uh-huh.|b
+B|Which seems kind of reasonable because that means you don't have to take twenty thirteen year olds with you, which seems a, a, just a tad more relaxing|sv
+A|Well, I, probably, probably. That's, uh, well, my, my other things that I like to do in my spare time, I'm, I like swimming.|% aa aa % sd
+B|Uh-huh.|b
+A|Which is in now. I've done that and I, I also, when I like something, I usually try to figure out how to make money off of it.|sd sd % sd

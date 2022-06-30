@@ -1,0 +1,76 @@
+A|Well, what kind of music do you like?|qo
+B|Well, seeing as how I'm a musician I like all kinds of music.|sd
+A|Yeah.|b
+B|All very very kinds.|sd
+A|Me too. I mostly like classical and jazz.|sd sd
+B|Uh-huh. Well, I like everything from hard core country to you know Wagner, and Mahler and I like new age stuff. I, I basically have a wide range of musical likes. Do you, uh, are you musical, uh, are you a musician at all?|b sd sd sd qy qy
+A|Yeah I play the trumpet.|ny sd
+B|Do you|bh
+A|Uh-huh. Mostly the trumpet music uh, uh, uh, baroque and, uh, uh, uh  Romantic.|ny sd
+B|Jazz.|^2
+A|Baroque and romantic.|sd
+B|Uh-huh.|b
+A|Yeah, that is not, there is, uh, things written for Doc Severenson and, uh, a few other people. But, uh, they are just, uh, as far as solos and concertos are concerned, but the rest of them are just parts|b sd % % sd
+B|Right.|b
+A|And, uh,|%
+B|Well, I love baroque music, so, it is one of my favorite periods.|sd sd
+A|Yeah.|b
+B|In fact I I sing with a Texas baroque ensemble.|sd
+A|Uh-huh Who are the trumpet players?|b qw
+B|Well, we used to have, uh, Ralph Dutchen.|sd
+A|Uh-huh.|b
+B|But now he is in Massachusetts. He has come back a couple of times. Then there is a trumpet player at North Texas, the, the teacher, the main teacher. Yeah|sd sd sd
+A|Leonard .|^2
+B|And he has played. And the two of them have played natural trumpets And occasionally, when she can't get those people, we use you know, just uh, E flat trumpets, with valves and like Glen Bell plays.|sd sd sd sd
+A|Yeah.|b
+B|Uh, Rick, uh, Bogarts played too|sd
+A|Uh-huh.|b
+B|so but actually, I like trumpet and organ together. It is a nice combination.|sd sv
+A|Yeah. Richard Jung Julio recorded an album at the same time as , didn't he?|b qy ^g
+B|Yeah, I think he did.|ny sd
+A|Yeah.|b
+B|With Paul. Yeah He is wonderful. Both of them are.|sd % sv sv
+A|Uh-huh|b
+B|So do you like romantic music?|qy
+A|Well, that is what, that is mostly the rest of good trumpet marks are romantic music, Mahler and Ruckner and Strauss|no
+B|Uh-huh Do you like opera?|b qy
+A|Uh, I like, I am liking it more and more now.|na
+B|Uh-huh.|b
+A|Getting use to it They are mostly, uh, mostly Mozart.|sd sd
+B|Uh-huh.|b
+A|I mean there is not any kind of trumpet parts, but, uh, you know, the, I just like the melodies more and, uh, libretto.|sd sd
+B|Uh-huh. You don't like Puccini?|b qy^d
+A|Uh, yeah. I like Rossini better than Puccini.|qy sd
+B|Uh-huh.|b
+A|I like more comic licks.|sd
+B|Uh-huh. Are you going to go see the Elixir of Love?|b qy
+A|No.|nn
+B|Do you ever go to the Dallas Opera?|qy
+A|Uh, no I have never been to a Dallas Opera only the Fort Worth Opera|nn sd sd
+B|Uh-huh.|b
+A|And my trumpet teacher used to play in the Fort Worth Opera.|sd
+B|Who was your trumpet teacher?|qw
+A|John Nelson.|sd
+B|Uh-huh. I know him, I kind of know him.|b sd sd
+A|Uh-huh.|b
+B|Is he still around here?|qy
+A|Yeah, he plays in the Fort Worth Symphony and Fort Worth mostly.|ny sd
+B|Because I don't, I have not seen him playing anywhere lately, but maybe it is cause he is playing in Fort Worth|sd sv
+A|Yeah. Yeah.|aa aa
+B|Well, I am basically a Church musician. I do a Church in Plano.|sd sd
+A|Uh-huh.|b
+B|And we do all kinds of music at my Church and we hire lots of instrumentalists off and on for, uh, different things. So, I am always making music of one kind or another.|sd sd sd
+A|Uh-huh. Which Church is it?|b qw
+B|The Christ United Methodist Church in Plano|sd
+A|It seems like a lot of Churches are hiring more musicians now than they use to.|sv
+B|Yeah. Most Churches have the, well there are some of the few organizations that have the funds to, uh, you know, do like big big works Uh, but we hire, you know, we hire an orchestra at least twice a year and then different instrumentalists off and on through out the year. In fact, we have, do you know John Qumenato?|aa sv sv sd sd qy
+A|Yeah.|ny
+B|He plays at our Church a lot. In fact he is playing this Sunday at our Church. But he plays pretty regularly.|sd sd sd
+A|He is still teaching at Brookhaven, isn't he?|qy ^g
+B|Uh, I think so. He teaches a lot in Plano at high schools|na sd
+A|Uh, yeah.|b
+B|and, I think he teaches at Brookhaven.|sd
+A|Yeah, because I heard Glen Bell taught at Plano as well.|b sd
+B|Yeah, Glen teaches here too.|b sd
+A|Uh-huh.|b
+B|They are, the two of them are mainly pretty much the, they have cornered the market on trumpet.|sv

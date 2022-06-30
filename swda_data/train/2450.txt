@@ -1,0 +1,27 @@
+A|So what kind of weather have you had in Dallas?|qw
+B|Well, it's been very windy,|sv
+A|Really? Yeah see, I didn't, I don't, I thought, uh, I thought, I lived in Euless and I thought it was pretty normal, but anyway, but I guess you're right though it has been real hot, because it, um, I've had to use the air conditioner in March,|bh aa % sv sd sv sv % sd
+B|we've already had to use that,|sd
+A|my husband usually,|%
+B|and we've had like, I mean, this is probably typical though, uh, we, like tornado weather and tornado warnings, and, uh,|sd h sd %
+A|Uh-huh.|b
+B|so, uh, you know, I, I forget from year to year. I'm getting too old. But, the, uh, it, the wind's blowing very hard,|sd sd sv
+A|Yeah.|b
+B|but I guess, you know, we're just out of March, and, uh will bring the rain in, uh, April.|sd
+A|Yeah, I know, The trees are real pretty right now and everything. And, uh, I don't know. I know the pollen is real high,|b sd sv h sd
+B|Yes, it is. Seems very high. It hasn't bothered me, but I know that people that have allergies it seems to be pretty high.|ny sd sv sd sd
+A|I know. It's been bothering me a lot, but yeah, I think, I think the weather overall has been, um, probably like you said, probably a little bit warm and, Uh,|sd sd % % sv %
+B|A little bit warm and a little bit blowy, I think.|sv
+A|Anyway, so we basically live in the same area so it's real hard to,|% sd sv
+B|Really hard to make too big of different comparisons, right?|^2
+A|I know.|aa
+B|Yeah.|ny
+A|I just think it's been warm, and it's been hot, and I liked it, and it's beautiful, and all the trees are pretty, and I wish it would stay like this all the time|sv sv sd sv sv sv
+B|Yes, I could stand this all summer.|aa sd
+A|So yeah, I could too. And, uh, gah, I don't think we can say anything else really.|aa sd sv
+B|I don't think we can either, let's cut off.|aa ad
+A|Yeah, that sounds like a good deal. Well, you have a nice day.|aa sv fc
+B|You too.|fc
+A|And we'll talk to you later.|fc
+B|Bye-bye.|fc
+A|Bye.|fc

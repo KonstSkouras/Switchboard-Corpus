@@ -1,0 +1,114 @@
+A|Okay. And, I've pressed the button.|fo_o_fw_"_by_bc sd
+B|Okay. Let me tell you. I haven't been too many places|b oo_co_cc sd
+A|You haven't been to too many places.|b^m
+B|No, no. I haven't.|nn nn sd
+A|Well, okay. I have been to Hawaii.|b sd
+B|See now, that is where I want to go. That is where I have always wanted to go. I have never been there.|sd sd sd
+A|It is beautiful.|sd
+B|I know. Is it, is it, uh, I had an aunt that lived there and she couldn't stand it any more. She moved out because she said the whole island was, uh, you know being taken over by the Japanese.|ba % sd sd sd
+A|Well, there is, there is a lot of Japanese over there. And they are,|sd %
+B|Yeah, and she, uh, also told me that, well not her, uh, necessarily, other people that have been there have said that it is too commercialized.|b sd sd
+A|Uh-huh.|b
+B|Is it?|qy
+A|Uh, well, yeah. There is, it is commercialized.|ny % sd
+B|Yeah. Sure.|b b
+A|I don't think I have enough, Oahu naturally has got more people on it than the other islands.|% sd
+B|Uh-huh.|b
+A|But, it is still beautiful. You have got to see at least once.|sd ad
+B|Oh, well I will. You know, eventually|aa aa
+A|So,|%
+B|Well, what is the most, uh, you know the nicest island?|qw
+A|Uh, I like Maui.|sd
+B|Maui. I think that is what usually people, uh say they do, they like the best.|b^m sv
+A|Yeah. Well, I like it because the beach is nice and white and you know it is like Oahu, you can go over there and lay on the beach|b sd sd sd
+B|Uh-huh. Yeah.|b b
+A|But, uh, Kauai, I mean, the beaches are nice, but I don't know, just not nice as Maui.|sd sd sd
+B|Yeah.|b
+A|And then, uh, where, where have you been?|qw
+B|Well, I have been to California. I've been to San Francisco.|sd sd
+A|Oh you have?|bh
+B|I loved it. I absolutely loved it.|sd sd
+A|Oh.|b
+B|Yeah, and, uh,|b %
+A|How long ago?|qw
+B|Oh, uh, eighty-six.|sd
+A|Huh. Okay.|b b
+B|My sister lives out there My sister lives in Piedmont.|sd sd
+A|Oh, yeah.|b
+B|Yes. Uh-huh.|b b
+A|So.|%
+B|Oh, well that is right near Piedmont.|sd
+A|Yeah, right. Right.|b b b
+B|Yeah, that is like a suburb or something, whatever.|b qy^d
+A|Yes, uh-huh. Uh-huh.|ny ny ny
+B|Oh, yeah. Okay. Well she was in Berkley also and she|ba b sd %
+A|Uh-huh.|b
+B|lets see I went when she was, uh, was living, well when I went out there she was in, uh, now I can't, oh, Lafayette. She was living in Lafayette.|^h sd sd
+A|Oh yeah, right.|b b
+B|And then they moved to Piedmont.|sd
+A|Uh-huh.|b
+B|So I, uh, I haven't seen, uh, you know, her house in Piedmont but, but I loved San Francisco. I would like to go back.|sd sd sd
+A|Yeah. Did you go on the cable cars and everything?|b qy
+B|Oh yeah.|b
+A|Yeah. Isn't that fun?|b qy
+B|Went to Alcatraz. You know we did the whole bit. And then we went to the wine country.|sd sd sd
+A|Oh yeah. Up by Napa.|b sd
+B|Yeah.|b
+A|Yeah.|b
+B|Oh, beautiful.|sd
+A|Yeah.|b
+B|And we went to Carmel.|sd
+A|Uh-huh.|b
+B|And we took the eighteen mile drive.|sd
+A|Isn't that pretty. I love it down there.|qy^d sd
+B|Oh, it is beautiful. That is really beautiful.|sd sd
+A|Uh-huh.|b
+B|My girlfriend was down there a few months ago. First time she has been down there and they wanted to take that drive and they had closed the whole road because of, uh, uh, fog,|sd sd sd sd
+A|Oh, the weather.|^2
+B|Yeah. So they never got to do that.|b sd
+A|Huh. Well I have also been to the Carribean.|b sd
+B|Oh, I haven't been there either You name it, I haven't been there|sd sd
+A|Well I, uh, have been there a couple of times.|sd
+B|Uh-huh.|b
+A|I went on a cruise.|sd
+B|Oh, that is nice.|ba
+A|The last time I went, I went with my two sisters.|sd
+B|Uh-huh.|b
+A|And it was over Christmas time.|sd
+B|Yeah.|b
+A|And we really had a good time.|sd
+B|Uh-huh.|b
+A|Well they, they had this cruise director dress up like Santa Claus, and we went to the beach and they had put a Christmas tree on the beach decorated it up.|sd sd sd
+B|Uh-huh.|b
+A|It was, it was a lot of fun.|sd
+B|Well, that's nice.|ba
+A|So.|%
+B|Is, uh, a cruise nicer than, uh, if you just go, on a regular, uh, you know, to a hotel?|qy
+A|Oh, yeah.|ny
+B|It is. I have heard it is. Yeah.|bf sd %
+A|Yeah, because you don't have to worry about unpacking or anything like that you know. You put your clothes in your room,|b sd sd
+B|Uh-huh.|b
+A|Oh, you will have to go on one.|ad
+B|You don't get seasick? That is what I am afraid of.|qy sd
+A|No.|nn
+B|No, huh.|b^m b
+A|I mean there was, some people did, uh, on that last cruise that we took because they was having a storm come in|% sd
+B|Uh-huh.|b
+A|but that is unusual.|sd
+B|Yeah.|b
+A|Uh, one of my sisters got sick, but the other one didn't|sd sd
+B|Uh-huh.|b
+A|but, uh, it is really nice and they, they just do so many things for you, you know, to make you enjoy the trip and everything.|sd sd
+B|Right, yeah.|b %
+A|So, you will have to do that once. I want to go on another one, but I want to go to Alaska.|ad sd sd
+B|Oh, yes. Now someone I know was on a cruise to Alaska.|b sd
+A|Uh-huh. Uh-huh.|b b
+B|Was it to Alaska? Yeah, I am pretty sure. That is right my hairdresser|t1 % sd sd
+A|Oh, really?|bh
+B|She went last year. She said she went on a cruise. And I was thinking, you know, cruise I am thinking. So on and she is laying on the beach. And I said, well you are not very tan for someone who has been on a cruise She said we went to Alaska|sd sd sd % sd sd sd
+A|Yeah. Right.|b b
+B|And, uh, that, that I would like to go, well Hawaii is my, uh, is number one. I would also like to go to Australia and get a,|sd sd sd %
+A|Oh, I think I would like to, too.|aa
+B|Yeah.|b
+A|I keep hoping to win the lottery where I can do all these things. You know.|sd
+B|Oh, well see, I am, am just in the Publisher's Clearing House and the READER'S DIGEST, because we don't, uh, right now the lottery here,|sd sd

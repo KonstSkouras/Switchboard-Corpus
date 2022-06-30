@@ -1,0 +1,74 @@
+A|Uh, so, uh, what are your benefits like at your job, and how do you feel about them?|qw qo
+B|Uh, pretty good, actually. I work for Hewlett Packard and they have, uh, a pretty good, uh, benefits package. In fact, they're, they're kind of known, uh, for having good benefits. The pay isn't fabulous, although I saw a survey recently and I'm actually making just about as much as, you know, I'm making actually over average, over the average for my career, my experience and all that stuff which kind of surprised me.|sd sd sv sd sv sd sd
+A|Oh, that's good. Uh-huh. What kind of a degree have you got?|ba b qw
+B|I've got a Bachelor's in electrical engineering so,|sd %
+A|Oh.|b
+B|And I'm not, like, a hugely advanced degree or any that|sd
+A|Uh-huh.|b
+B|Uh, anyway, the, our benefits are pretty good. We've got stock purchase program and a, that, that's pretty generous, although you have to hold the stock for two years before you get the company contribution which is, kind of a, a pain,|sv sd sv
+A|Uh-huh.|b
+B|but, uh, there's a four O one K plan uh, for, uh, sheltering some taxable income.|sd
+A|Uh-huh. Uh-huh.|b b
+B|Uh, there's,|%
+A|How long have you been with them?|qw
+B|I've been with them for seven years.|sd
+A|Uh.|%
+B|Yeah.|b
+A|That's good.|ba
+B|And, the best thing, and a lot of the stuff, the best thing is like four years or five years, it's pretty soon, you're completely vested in the retirement plan and everything,|sv
+A|Uh-huh.|b
+B|so, uh, it's not but there's full, uh, there's several medical plans to choose from, uh, that cover pretty much everything. I don't get sick that often, so I don't pay much of it, and I pay five dollars every time I visit the, the hospital that, you know, for a checkup or whatever.|% sd sd sd sd
+A|Uh-huh. Uh-huh.|b b
+B|Uh, they don't cover eyes though, and I, I have contact lenses, so that's kind of a pain.|sd sd sv
+A|Uh-huh.|b
+B|But, you know, I  I can live,|sd
+A|But, for all  practical purpose, you are almost a hundred percent covered.|bf
+B|Oh, yeah, yeah.|aa aa
+A|So that you've got small, small things to gripe about.|sv
+B|Right.|b
+A|Wow.|ba
+B|And,|%
+A|Well, that sounds like you must feel really good about it.|bf
+B|Yeah, yeah, and, and the dental plan is The dental plan, I pay absolutely nothing because, uh|ny ny sv sd
+A|Wow.|ba
+B|I, I guess they would charge a little bit if there was some orthodontia or something for one of my dependents or something like that|sv
+A|Uh-huh.|b
+B|but that's not the case,|sd
+A|Uh-huh.|b
+B|so, I guess nothing. It's fabulous.|sd sv
+A|Wow.|ba
+B|Uh, the, what about you?|% qo
+A|Well, I, uh, work in Washington at the Naval Research Laboratory. I also have a part time job at a law firm and I get no benefits from them, to the part time work although, they pay better per hour than my, my sort of, quote, real job does.|sd sd sd
+B|Uh-huh.|b
+A|Uh, and benefits, through the government are, uh, really, uh, they just, uh, they're not the greatest. Uh, I, before I, I, uh, uh, got my degree I'm, uh, a computer scientist|sd sv sd sd
+B|Uh-huh.|b
+A|and before I got my degree, I had, uh, done paralegal work for law firms here in Washington|sd
+B|Uh-huh.|b
+A|and, uh, at that time, I was in gravy city. Uh, the law firms in this town are not, you know, for a long time were just rolling in the dough in the early eighties|sd sd sd
+B|Yeah.|b
+A|and, uh, benefits were just amazing|sv
+B|Uh-huh.|b
+A|and we had everything paid for, and, uh, anyway, with the government, it's not, uh, quite that nice a deal. Uh, but it's, you know, it's, it's okay. What we have to do is, we have to pay, uh, about twenty percent of our, uh, uh, our costs and it's deducted from our check each month and that sort of thing, and the plans that are available to us, uh, range from kind of mediocre to really sweet and, uh, so I, I think I'm actually involved in a relatively good plan at this point. Uh, but, uh, it could be better, that's for sure, and, uh, but, you know there are other things that you get when you work for the government uh, in, in terms of, uh, more relaxed atmosphere.|sd sv sv sd sd sd sv sv sv sv
+B|Yeah.|b
+A|It's really nice to be, for me, anyway, to be able to work in, uh, a research atmosphere, uh, where I don't have to, uh, uh, you know, worry about, uh, academics or anything like that, and, so I'm, I'm really kind of happy about that end of, of things. It's, uh,|sd sd %
+B|Yeah, one of the things with my company is that they've, uh, got a reputation for a lot of job security and, uh there's a lot of different things that they do, lot of different divisions even this area, in the San Francisco Bay Area that they do,|b sd sd
+A|Uh-huh.|b
+B|so there's, I, myself have moved around quite a bit within the company|% sd
+A|Uh-huh.|b
+B|and it's, and I, and I haven't had to move my residence to do that. You know, I still live in San Jose and,|sd sd %
+A|Wow, that's fabulous.|ba sv
+B|Yeah it,|b %
+A|You see, now that's, that's interesting, because I have a cousin whose husband works for Hewlett Packard up in the Massachusetts area.|sv sd
+B|Oh, yeah? Yeah.|bh b
+A|He, he lives in Andover|sd
+B|Uh-huh.|b
+A|and, uh, the work that he, he's, uh, specifically an engineer and, and does work with, uh, the Hewlett Packard machines that do, uh, uh, sonographic imagining|sd sd
+B|Right, right.|b b
+A|and, uh, I've been over to see his complex over there and it's amazing.|sd sv
+B|Uh-huh.|b
+A|It's, it's all ecologically designed and, and, uh, he seems really, really happy with the, the set up.|sd sd
+B|Yeah, yeah.|b b
+A|And,|%
+B|In fact, I know a guy who works at Andover who used to work, who I used to work with out here|sd
+A|Uh-huh.|b
+B|and he moved his family back east a few years ago to, to take that position. Kind of interesting. Uh, anyhow,|sd sv %

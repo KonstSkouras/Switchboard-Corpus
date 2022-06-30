@@ -1,0 +1,43 @@
+A|Your turn.|fo_o_fw_"_by_bc
+B|Oh, I, I start. Okay. Well, uh, we keep a budget to an extent. Uh, and really, we were really forced into keeping a budget because I'm, I'm paid once a month which sort of, sort of forces some, uh, uh, restrictions and you need to make sure all your bills are paid. Uh, about yourself?|sd aa sd sd sd qo
+A|Well, I have to say I really don't have a budget. Both my wife and I, uh, grew up in, uh, families of rather modest means and, uh, our family income, at this point, is comfortable. Upper middle class I guess you might say. And, uh, we're both so, uh, frugal that, uh, we really don't need a budget, you know. We just sort of invest the money and go on vacations and always never seem to have any money problems which I guess is a comfortable thing.|sd sd sd sd sd
+B|Yeah. Well I guess that really is sort of, uh, keeping a budget, you know. You stay within your, uh  within your means.|b sv bf
+A|Well we stay within our means but we  don't do it, uh, by conscious effort. It just sort of happens automatically.|b^m sd sd
+B|Yeah.|b
+A|Although we just moved to California and, uh, the cost of living here in California is, uh, I would say rather pathological|sd sd
+B|Yes|aa
+A|Uh, housing prices are, you know, like from four to ten times more expensive than, uh, uh, they were where I came from in, uh, Dallas.|sd
+B|Oh, you moved from Dallas to San Francisco.|bf
+A|Yeah. So, uh uh, that presents a, a real shock|aa sd
+B|That is a hugh difference. Yeah.|sv b
+A|actually our standard of living has gone down somewhat since we've moved to California but,|sd %
+B|But you have good sour dough and it's a beautiful place to live|sv sv
+A|Yeah. It's God's country.|aa sv
+B|Yeah.|b
+A|Uh, and one way you know that is that only God can afford it Uh, so budget is not a problem for us. Uh, at least it hasn't been. It may, may be at this point. But, uh, up until this point it really hasn't been When I, uh, was in, uh, undergraduate school a long, long time ago, I, uh, noted that the monthly salary, starting average monthly salary salary for engineers that, you know, in my discipline, was like oh, six hundred ten dollars a month or something like that. And, uh, I noted at that point that I was, you know, if that's what my salary was that I drew then I would be making almost twice as much as my father made during his best year ever. So I stopped worrying about money.|sv sd sd sd sd sd sd sd
+B|Yeah.|b
+A|And it, never have worried about money since then.|% sd
+B|Well, that, that's a system too.|sv
+A|Sometimes, uh, it's a bit of a, a problem, you know, because I guess I don't really manage my money the way I should. But, uh, I suppose I've lost money on not taking good advantage of, of, uh, investments but,|sd sd %
+B|Well then again, you know, you said you, you are able to take trips. And you do, obviously, have enough to live on so I guess you're indirectly budgeting. Uh, just bye-bye the fact that you said you're both very frugal, uh, in spending the money.|sd sd sv
+A|Uh-huh.|b
+B|So, I mean that's, that's a form of budgeting I would think It's, it's kind of a strange topic to, to try to, for two people who don't really have a budget to talk about budgeting and how they manage their money.|sv sv
+A|Well, I guess we're both lucky in that regard then.|sv
+B|Yeah.|b
+A|How big is your family?|qw
+B|Uh, well we're, we have one on the way.|sd
+A|I see.|bk
+B|Uh, my wife, and then, we're, we're having one on the way in, uh, in, uh, September.|sd sd
+A|So how, you, once you get ten children though, you may have,|% sv
+B|No I think it's just going to be one.|ar sd
+A|Oh, all right|bk
+B|How about yourself?|qo
+A|I have two kids. Uh, one  nine and one thirteen|sd sd
+B|Oh.|%
+A|and they are beginning to be a budget problem but, uh, have not been really up until this, up to this point.|sd
+B|Do they budget at all? I mean do you have them on an allowance?|qy qy
+A|I give them a, I give them an allowance and they, uh, I basically give my son ten dollars a week and I put half of it in the bank and I give, give him the other half in cold cash.|sd % sd sd sd
+B|Yeah.|b
+A|And, uh, he has a teller card so he can, uh, do what he do what he wishes with the money that I put in the bank. But, at least, it isn't, you know, burning a hole in his pocket.|sd sd
+B|Yeah.|b
+A|If he wants to use it, he has to go get it and that usually|sd %

@@ -1,0 +1,102 @@
+A|music do you like?|qw
+B|Uh, lots of different kinds I guess. Uh, I like country music, of course|sd sd
+A|Uh-huh.|b
+B|Texas and I listen to Christian music a lot because there's a Christian music station here in in our city. So I listen to it quite a bit.|sd sd sd
+A|Uh-huh.|b
+B|So,|%
+A|I am more into rock and roll myself.|sd
+B|Uh-huh. And I listen cause on Friday nights they have the, uh, they have what they call Saturday Night Alive or they have on Saturday night, Friday night and Saturday night and they have Christian rock and roll.|b sd sd
+A|Uh-huh.|b
+B|So you know, they have that type of music, but they just have different words so, I listen to that too.|% sd sd sd
+A|Do you like any bluegrass?|qy
+B|Uh, no. Not really, huh-uh.|nn sd nn
+A|Oh.|bk
+B|And I like  I like rap music.|sd
+A|Well, at least your,|%
+B|Do you like rap music?|qy
+A|Not really|ng
+B|Not really Well, I can tell we're, we're together here|b^m sv
+A|Yeah.|b
+B|Okay. Uh.|b
+A|Um. Uh, we'll have to, uh|b %
+B|What kind of|%
+A|I have a lot of friends that like country music|sd
+B|What kind of rock music do you listen to? Do you listen to like that really heavy metal stuff or,|qw qy %
+A|No, I'm more into, uh, older rock, like the psychedelic era, like, uh|nn sd
+B|Seventies and like that stuff.|qy^d
+A|late sixties, seventies, uh|arp_nd
+B|Uh-huh.|b
+A|Greatful Dead, Crosby, Stills and Nash.|sd
+B|Yeah, I have friends that like that.|b sd
+A|What|bh
+B|Yeah So you have never heard of like the Christian music that I listen to probably.|b qy^d
+A|Oh, I've heard a little bit of it. I've just,|arp_nd %
+B|Like have you heard of, uh, of Carmen? Have you ever heard of Kim?|qy qy
+A|Uh, now I've heard of Striper. So the only one I can|sd %
+B|Striper, they're the really heavy, yeah  like the heavy metal stuff  I guess.|b qy^d
+A|Uh-huh. Uh-huh. Uh, the first of Amy Grant before|b b sv
+B|Yeah.|b
+A|was, you know, became more mainstream, top forty.|sv
+B|Yeah. Cause she, she plays both secular and Christian so,|aa sd %
+A|Uh-huh.|b
+B|Yeah, I like her too.|b sd
+A|Uh,|b
+B|I have been to a concert a couple of times of hers.|sd
+A|I've never actually seen her in concert. I imagine that she puts on a pretty good show.|sd qy^d
+B|She does.|na
+A|Uh-huh.|b
+B|She's real good. She's real good. So, I like her.|sv sd
+A|Uh-huh Uh, I like some country music. It's just that I like finding a lot of it's,|b sd %
+B|I don't like the country music that's like my wife left me, my dog  left me, everybody's left me.|sd
+A|Yeah Mama got run over by the train.|b ^q
+B|Yeah. I don't like that.|aa sd
+A|Uh-huh.|b
+B|You know, I like Randy Travis|sd
+A|Uh-huh.|b
+B|you know, I like more of the real new ones, you know.|sd
+A|Like Garth Brooks.|qy^d
+B|Garth Brooks, oh yes, you know he's fine.|^h ny sv
+A|Reba MacIntyre.|qy^d
+B|Yeah. I like them. I don't care for the older, you know, like the dog left me stuff.|ny sd sd
+A|You don't like Patsy Cline?|qy
+B|Huh?|br
+A|You don't like Patsy Cline.|qy
+B|No, huh-uh. I don't even really know who she is, you know You know, so. But, have you ever been to any of them concerts that you like? That music that you like to.|nn nn sd qy %
+A|Uh, yeah actually I just went to see the Greatful Dead about, I guess about a week ago.|ny sd
+B|But aren't they done with? I thought that they|qy sd
+A|No, they're they are still on tour. They have been touring, since the late sixties|nn sd sd
+B|And I just thought that they done broke up and  left.|sd
+A|No. They're still together. They're still  making albums.|ar sd sd
+B|Huh. Wow, I didn't know that.|b ba sd
+A|Uh-huh.|b
+B|Huh.|b
+A|Uh,|b
+B|That's interesting.|ba
+A|In fact, I mean there are people you know that basically just follow them around, from city to city on tour selling tie dye and things like that.|sd
+B|Uh-huh.|b
+A|Uh,|b
+B|Cause they are on up there in age, aren't they?|qy
+A|Yeah, they're, they're like late forties, early fifties, but you know like whenever one of them dies off they get a replacement|ny sd sd
+B|Okay. Alright.|bk b
+A|You know, they seem to have a really bad time with keyboard players. They keep on dying and they keep on replacing them and the new one's in this thirties you know. Uh,|sd sd sd sd
+B|Oh, alright.|b
+A|But, uh,|%
+B|Cause they look pretty rough. I mean, I've seen like picture of them and they just,|sv sd %
+A|Yeah. Well, they don't actually look as rough as the Rolling Stones. They just, I don't know if you saw the tour posters of the Rolling Stones when they last toured, but it looked like leather day at the geriatric,|aa sv % qy^d sv
+B|Yeah, I mean cause they just,|aa %
+A|All their faces were just all shriveled,|sv
+B|Uh-huh. Yuck looking, I mean|aa sv
+A|Uh-huh.|b
+B|uh.|b
+A|I mean it just just looked like they, got a bunch of retirees and put them in leather jackets and blue jeans.|sv
+B|Uh-huh. Well are you into that that rock music, you know, all that druggy stuff and all that I mean?|aa qy
+A|Well, uh|%
+B|You know what I am saying like, I mean like they come on the stage and like, you know, you, they don't even know they are there. You know. They are just so out of it.|qh sv % sv sv
+A|Actually, I prefer my, my performers to be pretty sober, you know, just uh, just so that, you know, that if they're jamming, you know, that they don't just lose themselves and you know, go into lala land.|ng
+B|Yeah.|b
+A|Uh-huh.|b
+B|So, I just don't, I just don't like you know.|sd
+A|Uh-huh.|b
+B|That. So, I don't know|% h
+A|So, uh, have you seen any concerts lately?|qy
+B|Um. Uh,|%

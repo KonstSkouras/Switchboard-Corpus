@@ -1,0 +1,67 @@
+A|Oh, I guess, uh, this is a, a topic near and dear to my heart, since I am a, am a healthy eater,|sd
+B|Well, I, I try to be as well,|sd
+A|Well, I'm not, uh, I, there really isn't any kind of particular food that I, I don't, don't like really, and I like a good Italian restaurant or a good, uh, uh,|% sd sd
+B|Uh-huh.|b
+A|especially like good prime rib|sd
+B|Uh-huh.|b
+A|so if it's, uh, nice to get out and find a good restaurant like that, and I live here in, uh, Rome, New York, and there are a lot of good restaurants around here.|sv sd sv
+B|Oh, you're in New York, I was going to, there's a place, if you ever make it to Dallas they have the best prime rib.|sd sd sv
+A|Uh-huh.|b
+B|It's called Lawry's, like Lawry's seasoning salt|sd
+A|Uh-huh.|b
+B|and it is absolutely wonderful.|sv
+A|Really.|b
+B|And, uh, we were there a few months ago, and it, I mean, it's kind of pricey, well, from New York it probably doesn't matter, but|sd sv sv %
+A|Oh, no, I'm in upstate New York, and it's actually very inexpensive, I, there's a there's a place, um, half a mile from me here that, uh, has, uh, fantastic prime rib for, oh, eleven dollars for a whole meal, you know a potato and salad and soup, and the whole, whole nine yards,|ar sd sd % sd
+B|Oh, is it, okay. Wow. Uh-huh.|ba ba b
+A|so that,|%
+B|Yeah, well, I think the cheapest there probably starts at eighteen, and it includes, you know, salad and rolls and, oh, some other stuff, but it is absolutely wonderful.|b sd sd sv
+A|Right.|b
+B|It's the best I have ever had.|sd
+A|Uh, I was going to this place up the street from me is the best I've ever had, so, I'll have to go there when I get to get to Dallas.|sd sd
+B|Yeah Well, Yeah, well, we like, uh, lots of people down here like Mexican food|b % b sv
+A|Uh-huh, sure.|b b
+B|so, um, that's, I, I think Italian and Mexican food are probably my favorites.|% sd
+A|Uh-huh.|b
+B|But, um, I'm not into sushi or any of that kind of stuff.|sd
+A|No, no, I'm not into the, the, don't do the, the raw, raw fish like that, but I do like, uh, like a seafood bar, like a raw, raw bar like oysters and things like that, uh|b b sd sd
+B|Uh-huh.|b
+A|that they, uh, I go on, I'm an officer in the Air Force and travel quite a bit on business|% sd sd
+B|Oh, okay.|b
+A|so I, uh, find myself down in Melbourne, Florida about once, once a month, once every two months or so and, uh, go and hit the, the oyster bars down there quite a bit|sd
+B|Uh-huh. Oh, yeah|b b
+A|but, I love that,|sd
+B|fresh seafood down there,|^2
+A|Yeah, and, um, and, uh, Maryland's great, you get the crabs|aa sv sd
+B|Uh-huh.|b
+A|it's like, I can't go anywhere where I where I don't enjoy myself,|sd
+B|Yeah|b
+A|so,|%
+B|Yeah, seafood seems to be a a little bit more expensive than, than other types of food.|b sv
+A|That's true.|aa
+B|But it sure is good, and it's supposed to be good for you.|sv sd
+A|Yeah, well, uh, it's really strange that, that, that seafood is so expensive, because when you, in reality, uh, uh, I, say that, uh, the oceans have the greatest resource of food on the planet,|b sv
+B|Right.|b
+A|and yet, we haven't, as human beings, haven't figured out a way to harvest it economically|sd
+B|Right.|b
+A|so, we managed to, uh, figure out how to get at just about everything else, but, uh, but not, uh, not seafood.|sd
+B|Uh-huh. Do you like spicy foods or,|b qy %
+A|Yeah, yeah, I like, uh, I make a, a wicked chili and around here the big spicy thing is like, uh, buffalo wings|ny ny sd sd
+B|Oh, uh-huh.|b
+A|and so, uh, it, people, they, you know, you go out to get the chicken wings and those are really hot and the hotter the better,|sv sd sv
+B|Yeah. Yeah. Well, we, uh, we like spicy food down here, especially, uh, the hot sauce, Picante sauce, or salsa whatever you all call it|b b sd
+A|Right. Sure.|b b
+B|and, uh, we, we sure go through a lot of that|sd
+A|Yeah.|b
+B|But I like it hot, but I don't like it real hot because then my nose starts running|sd sd
+A|Uh-huh. My, generally my, my scalp will start, I can feel just the top of my scalp getting hot, the weirdest, weirdest sensation, almost like a tingling, but, uh, I don't know, but, uh, yeah, well, there isn't, isn't too much in the way of restaurants that I don't like.|b sd sd h % % sd
+B|Yeah.|b
+A|Things that are kind of oddball, like, uh, Thai cuisine, I never been really fond of that stuff. You talk about spicy, that'll, that'll literally blow your head off, it's so hot.|sv sd sd sv sd
+B|Uh-huh.|b
+A|And, uh, and I can handle just about any kind of food without, uh, um, well, but that, that stuff is, goes one notch beyond, uh, my tolerances,|sd sd
+B|Uh-huh|b
+A|So. Although I guess on this topic are to talk about the, uh, service in a restaurant is always nice though, too|sv
+B|Oh, yeah,|b
+A|that's one thing,|sd
+B|and the price.  And the price. Make you want to come back.|^2
+A|What's that? Yeah, Well, I find that lately that so many people are working, you know, working waitressing jobs or waiter,|br aa sd

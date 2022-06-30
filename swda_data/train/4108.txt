@@ -1,0 +1,62 @@
+B|Okay.|fo_o_fw_"_by_bc
+A|Uh, so, what do you think, uh, about putting the elderly in a nursing home?|qo
+B|Well, I think that it, it varies on on the individual basis.|sv
+A|Huh.|%
+B|Uh, sometimes it is, there is no alternative.|sv
+A|Uh-huh|b
+B|Uh, you do not have, uh, uh, family available or family that's, uh, you may not even have family that is, uh, uh, in, you know, who are around.|sd sd
+A|That's true. Yeah.|sv aa
+B|So, sometimes it's not an alternative.|sv
+A|Huh|%
+B|And I think, uh, but I think also, sometimes it can be, uh, a benefit if it's for a short time. Sometimes in a nursing home|sv %
+A|Uh-huh.|b
+B|uh, especially if, if it's after an acute illness. To get over a, or to rehab after, uh, an illness.|sv % sv
+A|That's true. I never thought of that. Yeah.|aa sd %
+B|Sometimes you know, sometimes the nursing homes are good for, uh, just short periods of time.|sv
+A|That's true, until they get over that hump of whatever it is they're dealing with.|aa bf
+B|Uh-huh. Because too often the acute hospitals will, are sending them out much faster than what they're really able to.|aa sv
+A|Yes. They really are. They don't like to keep them longer than a week.|aa sv sv
+B|So so there is some good to it.|sv
+A|Yeah.|b
+B|Uh, sometimes too, it's used as a dumb job. You know the well the families do not necessarily uh, know what to do with them|sv sv
+A|What do you mean?|br
+B|and they don't want to take the responsibility so they will put them in a nursing home.|sv sv
+A|Yeah, that's true.|aa sv
+B|So you see, uh, there's both sides to it too. What do you think?|fo_o_fw_"_by_bc sv qo
+A|Yeah and it depends on how, how sick the person is too. What you're capable of, like if you have a family to take care of, you know, of your own|b sv
+B|Yeah.|b
+A|Yeah, uh, I would personally like it if my parents were to get ill, I would like to take care of them at home and if I had the money with some help. That's not always possible.|b^m sd sd sv
+B|That's true.|aa
+A|But, uh, to the best of my ability, I'd like to do it until it gets impossible|sd
+B|I think that's also where you're going to have a lot of people who are going to, it's there's not a choice, it's  because, it's not economically feasible even to  put them in a nursing home.|sv sv
+A|Right. Uh-huh Yeah.|b b b
+B|So that, that option sometimes is not available if they do not have the, uh, either Medicare or insurance to cover it.|sd
+A|That's true. Yeah.|sv aa
+B|So,|%
+A|But I think nursing homes can be good. It just depends on what kind they are. You know, you need to check them out ahead of time.|sv sd sv
+B|Yeah, and then there's also some that are set up for specialties|b sd
+A|Uh-huh.|b
+B|uh, I know some. Unfortunately, some elderly have to go to or have, I guess it's Alzheimer's or where  they wonder or, or, uh, confused or have some mental problem|sd sd
+A|Uh-huh. Yeah, that they're|b b %
+B|And you need a special nursing home for that. You need one that has a unit that's locked where they are not able to get out and roam around|sv sv
+A|Yeah.|b
+B|and you need people who are trained for that type  of problem.|sv
+A|Right. Who know what they're doing with that.|aa bf
+B|Yeah so, so there's different types of nursing homes I think.|aa sv
+A|Yeah well, my, uh, grandmother's not really in a nursing home, but a retirement home that also has a nursing home sort of attached to it. And she really liked the idea of, of moving there. She's not ill yet|b sd sd sd
+B|Uh-huh.|b
+A|but, uh, she worked there as a volunteer for about ten years and then she decided that, uh, she's eighty five years old, that eventually, you know, she she doesn't want her family taking care of her and being a burden. She's very independent. So she's in this nursing home. It's out in the country and, uh, she really enjoys it right now because she doesn't have to wash dishes or cook|sd sd sd sd sd sd
+B|Gives her a little bit of her own independence|bf
+A|Uh-huh.|aa
+B|but she still has, uh, a security there.|bf
+A|Right. Some support. And then there's also, uh, sort of a wing for those people that do get sick and, what I like about it and I think she likes about it is that she knows everybody there now and then, so if she ever does become ill, uh, it will be like family around her.|aa bf sd sd sd
+B|That's right and I  I've seen some of them like that too|ba sd
+A|Yeah.|b
+B|and also they have a lot of, uh, activities going on for the ones  who are more active.|sd
+A|Uh-huh Yeah.|b b
+B|So it's not sort of like, uh, uh  a sick place.|sv
+A|Uh-huh No, she loves it. She has a great social life and she travels and, uh, it's in, in the in the mountains and it's beautiful and, uh, I, I hope that I have something like that when I get older|b aa sd sd sd sd sv sd
+B|Yeah I, I think, I think the, uh I think that the decision that needs to be made though on nursing home has to be a joint one between the, uh, elderly uh, person who's going in and the family that's going to be, uh, effected by it|b sv
+A|Uh-huh Uh-huh. Oh definitely it's,|b b aa
+B|and, uh, you know, sometimes it can, those those choices can be made in advance and sometimes  the choices because of the nature of the illness when they're,|sd sv
+A|Right.|b

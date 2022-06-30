@@ -1,0 +1,145 @@
+A|About how many calls have you made on this system?|qw
+B|Uh, I've originated only a, a few.|sd
+A|Oh, okay, yeah.|bk b
+B|But I've received quite a few.|sd
+A|I, uh, I only started doing it after, uh, I started getting calls and said, oh, heck, that's right, I'm supposed to make a few calls. So I started about a month ago and I,|sd ba sd sd %
+B|Uh-huh.|b
+A|this is getting close to twenty here which is I think is about all, uh, our little gift book goes up to, but I don't really know.|sd sd
+B|Oh, yeah.|b
+A|I've got about twelve tickets in the mail. Do you have, you've a few?|sd qy qy
+B|Yeah, I've been getting mine.|b sd
+A|Okay, medical go ahead, I'm, I'm medical. That's mine.|b sd ad sd sd
+B|Uh, you pushed the record button. We're supposed to be discussing the subject.|sd sd
+A|Yeah. I, I'm benefits. Go ahead, you first.|b sd ad
+B|Yeah, uh, well, I'll tell you, I've been around for quite a few years and worked for a lot of different companies, and, uh, it's hard to beat any of the benefits that, or salaries either,  that we get from T I.|aa sd sd sv
+A|Uh-huh.|b
+B|I'm quite pleased with it. Course there's a few things that, uh, I think I could do better if I was sitting up in the C E O's seat but, uh I think Jerry's doing a pretty good job as it goes.|sd sv sv
+A|Oh, yeah. The one, it's kind of like, uh, automobile insurance, the ones, uh, that I think are the highest and important to me, uh, I hope I never have to use them, really per se, although I've used medical a little bit|b % % sd sd
+B|Uh-huh.|b
+A|that, well that one certainly is high, I, I worry that it's weakening rather than strengthening so I like to reverse that trend and say I'd like to get those to strengthen, you know,  be better and better.|sv sd sd
+B|Well,|%
+A|Then salary continuance, I've never used that one. I hope I never will, but that's kind of like an insurance thing. I sure like that one.|sd sd sd sv
+B|Oh, yes.|b
+A|That's like automobile insurance. You never want to get in an accident but it, you like to have it there.|sv sv % sd
+B|Uh-huh. Well, uh, like I say, I worked for several different companies and there's nothing to compare with, uh, T I here.|b sd sv
+A|Uh-huh.|b
+B|Now I really got caught up back in eighty-five, I got caught up in the oil layoff uh, I wasn't with G S I, but I was connected with, uh, uh, oil, uh,  exploration.|sd sd sd
+A|Right. With T I, or somebody else?|b qy
+B|No, with T I.|nn sd
+A|Uh-huh.|b
+B|But I say, I wasn't connected with G S I.|sd
+A|Oh, right, yeah.|b b
+B|And, I got caught up in a layoff.|sd
+A|Um.|%
+B|Now, uh, course you get six months, uh, unemployment from the State|sd
+A|Yeah.|b
+B|but, what T I did for us is, is, uh, I've never heard of it before. They fixed us up with an office with, uh, telephones, access to long-distance, uh, computers, a secretary to take messages for us or type, uh, letters,  for us.|sd
+A|Right.|b
+B|Uh, they had out of town newspapers and then,|sd %
+A|And outside consultants. Didn't they have an outside consultant, too?|^2 qy
+B|I beg your pardon.|br
+A|Did they have an outside consultant, like a, the|qy
+B|Uh, yes. They did have, uh, seminars every once in a while.|ny sd
+A|Yeah.|b
+B|Uh, course that was not, uh, restricted just to just us.|sd
+A|Right.|b
+B|But the most important thing was that, uh, they had made up the difference between, uh, unemployment pay and seventy-five percent of my net pay. And they then, T I paid me that.|sd % sd
+A|Oh, really?|bh
+B|So, uh, I was able to, uh, not just exist. I mean, I, I lived just as comfortably as I did before I was laid off.|sd sd
+A|Yeah, they seem to be doing a good job of that. I'm in facilities, and our organization built, builds those facilities over in Park Central now.|b sv sd sd
+B|Uh-huh.|b
+A|And I guess they've been using them for six months now. And I've known several engineers that got laid off and they said it's like getting a Ph D almost, they, the much they learn over there, you know, after they've been laid off, uh, one engineer said it was really an education. He, he just learned, like you, he said he learned a tremendous amount that he never would have able to pick up on his own. He was very thankful for that, too.|sd sd sd % sd sd sd sd sd
+B|Well, this was not a learning thing by any means. It was just a, uh,  an assistance trying to find another job.|sd sd
+A|To have an office, yeah. Yeah. Well, he said he learned so much and how, he thought, he thought he had a Ph D in how to get a job after he was,  through the whole process,  for, for several months.|^2 b b sd % sd
+B|Oh. Uh-huh.|b b
+A|He did eventually get a job.|sd
+B|Well, course I went through this, uh, what, about five years ago. They may have improved it considerably.|sd sd
+A|Yeah, apparently. It's very sophisticated. And I guess it may be one of the best, uh, that anyone's doing.|b sv sv
+B|Well, that's one of those little, uh, uh, little extras that you don't see in the, uh, the, the, the handbook, you know.|sd
+A|Right. You're absolutely right. That's a good one.|b ba ba
+B|It,|%
+A|What do you think about pensions? Anything on that or,|qo %
+B|Well, now I have, uh, uh, I'm getting close to retirement.|% sd
+A|Yeah.|b
+B|And, of course I've been looking into it but, uh, since I'm only a yellow badger,  I won't be getting a whole heck of a lot from T I,  as far as retirement is concerned.|sd
+A|Uh-huh. Right. What do you think of a pension that goes from one company to the other like an account like a four O one account. I, I've been thinking about that for years, uh,|b b qo sd
+B|I've never heard of such a thing.|sd
+A|I know. That's what I'm saying that, that pensions, you see, just like you were, you're saying, you've only got, uh, so many years, And then just add the money together like you do with a four O one account, you know.|sd sd sv
+B|Uh-huh. Uh, yeah.|b b
+A|Uh, it's your account, period. It doesn't matter where you go or anything. That's your account to roll over.|sd sd sd
+B|I, that, that sounds like a hell of an idea. I didn't know there was such a thing.|% sd sd
+A|No, no there isn't. I, I'm saying that's the question. What do you think could be better and I'm saying that pensions, say in the year two thousand or more when social security goes away, which it probably will, I think they ought to have a pension at least that you'd never lose. So you work for a company seven years,|ar ar sd sd ^q sv sv sd
+B|Yes, by all means. Well, what would be the difference between that and social security?|b ba qw
+A|Uh, well social security's going to go to way, I think and you can, or you can invest your own money. You have no control over your social security. And it's not paid for by the current, like when, say we retire after the year two thousand, social security's paid for by the twenty-five year olds. it's there.|sv sd sv sv % sv sv
+B|Yeah, yeah.|b b
+A|You don't have to depend on anybody to be putting that money in for you, you know. That's just a thought. I mean, I,|sv sd %
+B|Uh-huh.|b
+A|if they say which,|%
+B|No, I, I like the idea.|aa sd
+A|Yeah.|b
+B|Course, that's, that's, something like an I R A|sd
+A|Yeah, and instead of having a, a socialized pension, it just would be really money that you and your company, maybe you had to put some money in it, too, I don't really know. But I,  I can see where they'd need to do something on that because the statistics are,|aa sv sv h sv
+B|Uh-huh.|b
+A|you don't work for a company twenty years through no fault of your own, you know. You work for five, six, seven, and a lot of people I know, guys,|sv sv % sd
+B|Yeah, that, that's what I've done. I, I've bounced around. About every ten years,  I change.|b sd sd sd
+A|Yeah. I have, too, but not, not quite that often but, uh, yeah, I've only got, uh, I've got, I guess fourteen now here at T I, and I hope to make twenty-five which say if something happened to me, I mean, you know, they lay me off, so, you have a pension but then you'd have to try to get a pension in another one. It would be nice if they could get them together.|b sd sd % sd sd sd sd sd sd sv
+B|Uh-huh.|b
+A|I do worry about medical, though. Again, knock wood that, uh, I haven't used it. I guess you, I'm sorry, you really do use it throughout the year, because you get your teeth fixed and all that, I mean, I, but I'm not, I'm talking about major items I haven't used it for anything major.|sd sd sv fo_o_fw_"_by_bc sv % % sd sd
+B|Uh-huh.|b
+A|I'm glad it's there, though.|sd
+B|Well, knock wood, I haven't used mine for anything major. Just doctor visits and, well, I, I have the, uh, the H O M A. I use H O M A.|sd sd sd sd
+A|Yeah.|b
+B|And I like that, uh, a lot better than AETNA|sd
+A|I have the regular. I, again, I just, I haven't, I can't complain about it because I haven't used it and every time I needed it, it, it, it's, uh, you know,  fallen right in line for the, the, minor things|sd % % sd sd
+B|Uh-huh.|b
+A|I guess I'm the one just supporting most of the others.|sd
+B|Well, doesn't it work, you don't see, uh, uh, anything until you spend the minimum?|qy
+A|Uh,|%
+B|Don't you have to spend the minimum of two, three hundred?|qy
+A|yeah, yeah, I think it's two seventy-five for a family but the dental is right away,  if you,|ny ny sd sd
+B|Yeah.|b
+A|exams. Uh,|%
+B|Well now, I have the same dental you have.|sd
+A|Okay. Yeah, the medical you have to have a deductible.|b b sd
+B|Uh-huh. Now, see I don't have a deductible.|b sd
+A|Yeah, right.|b b
+B|I pay a straight five dollars for anything, a doctor visit or drugs|sd
+A|Well, drugs are okay, now, I'm on that, uh, plan, where I take blood pressure medicine. If you take an allergy medicine, so, anything you need a prescription for, for more than six months, you get it for, used to be six bucks, they just raised it to twelve.|sd sd sd sd
+B|Oh, that one I haven't heard about.|sd
+A|Yeah, that's a typical, that's a typical one that's in there. The forms are right in personnel.|b sd sd
+B|Uh-huh.|b
+A|Fact, you may be able to take care, take advantage of that. It's through Baxter Labs. Uh,|sd sd
+B|Yeah, I have high blood pressure problems myself.|b sd
+A|Maybe you still can do that. Do you, do you buy your pills one at a time?|sv qy
+B|Yeah, thirty days at a time.|ny sd
+A|Well, turn in your forms. Go right to personnel. I don't know whether you have to about an H M O. I don't think so. You turn, you get your doctor to give you a more than six months prescription and, uh, they're twelve dollars, again, they just were six, they just raised them to twelve this year. Twelve dollars for a three months supply. Or whatever, whatever the, the amount is, uh.|sd ad sd sd % sd sd sd sd
+B|Um.|%
+A|I don't want to say three months, but it's a lot cheaper,|sd sv
+B|Uh-huh.|b
+A|allergy medicine's really, uh, expensive and that blood pressure medicine is fairly expensive. I take two.|sd sd sd
+B|Uh-huh.|b
+A|Go right to personnel. They got the forms in personnel and maybe,  maybe I'll tell you go something you didn't know about in benefits|ad ad sd
+B|Yeah, great. Yeah, I just might do that.|b ba b sd
+A|I do it, yeah, you know, it's a very common thing.|sd aa sv
+B|Well thanks,|ft
+A|It's through Baxter Labs, tell,|sd %
+B|thanks for the tip, Jim.|ft
+A|Yeah.|fo_o_fw_"_by_bc
+B|I shall look into it.|sd
+A|Yeah. What else. I'm sure we're getting close to our five minutes whatever, here.|b ^h sv
+B|Yeah Uh, let's see, we discussed, uh, uh, medical and dental,|aa ^h sd
+A|What other benefits,|qw
+B|uh, retirement.|sd
+A|Yeah, salary continuation. I think that's a great one, but again a hope I never use that one.|aa sd sv sd
+B|Uh-huh.|b
+A|That means you're really sick if you have to use that one.|sv
+B|What about vacation?|qo
+A|I'm satisfied with the vacation. I don't know what else, you know, you say, say you get another week and, I'm, well, I only got fourteen years so I'll get another week when I hit fifteen.|sd sd sd sd sd
+B|Uh, yeah, that's right.|b b
+A|So that's, that's fair, I mean, it's reasonable. Four weeks is a lot, I think. I know some people who have twenty-five years and thirty and they want more but, uh, you know,|sv sv sv sd %
+B|Uh-huh.|b
+A|Uh.|%
+B|Well, I'm, uh, I'm here, I've got just eleven years and I don't think I'll ever see a, a silver badge.|sd sd sv
+A|Uh-huh.|b
+B|I won't, I won't be around that long.|sd
+A|Well, the way things go, I think I'm going to have to work till I'm seventy-five whether I quit and, uh, uh, or when I retire get a part-time job,|sd

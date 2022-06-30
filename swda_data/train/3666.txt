@@ -1,0 +1,134 @@
+A|Hello.|fp
+B|Yes, I forgot we had to hit one Our time will be up.|fp sd sd
+A|Well, I hit one and nothing happened. What's going on?|sd qw
+B|Well, just go ahead and talk, that's all.|sd sd
+A|Are you sure?|qy
+B|Yeah.|ny
+A|Don't they usually tell you to say something?|qy
+B|I don't think so.|ng
+A|Oh.|b
+B|Uh-huh.|b
+A|Okay, we're supposed to talk about lawn and garden.|b sd
+B|Yes, I'm, I'm supposed to find out what you do for your lawn and garden.|aa sd
+A|What do I do?|qy
+B|Uh-huh.|ny
+A|Well, I, uh, I cut it occasionally.|sd
+B|Good. Uh-huh, you're ahead of me.|b b sd
+A|Is, uh, is that good? Okay.|qy %
+B|That's better.|na
+A|And I edge it occasionally.|sd
+B|Oh, that's really good.|ba
+A|Yeah, see, am I good, or what?|b qh
+B|Yeah.|b
+A|And, uh, Uh, much beyond that I don't do|sd
+B|I don't do any of that. Really, well, I call my lawn man, Eric, whatever his name is, I can't remember. Who's going to come and build me a fence, too.|sd b sd
+A|Uh-huh. Oh, he is going to build you a fence.|b qy^d
+B|Well, he's giving me an estimate.|no
+A|Uh-huh.|b
+B|And for ten dollars a week, I don't see any reason for me to be doing it.|sv
+A|What, for a fence? Oh, well, I thought, isn't he the same one?|br qy
+B|he is.|sd
+A|Yeah.|b
+B|Yeah, but ten dollars, or what what does he charge, not even that. What does he charge me?|b^m sv qw
+A|Well, my, I don't know.|% sd
+B|It's like next to nothing. it's ten because I, it's forty a month.|sv sd sd
+A|Yeah.|b
+B|But if there's five weeks, I still pay forty.|sd
+A|Yeah, but you know, you ought to get him to pull the weeds.|b ad
+B|Well, he won't pull weeds. He says he'll spray them, but he won't pull them.|sd sd sd
+A|Oh.|b
+B|Uh, he won't cut them is what he won't do. Because he said with the rocks that it's too dangerous for him to take the, the trimmer over the rocks|sd
+A|Uh-huh. Yeah. Uh-huh.|b b b
+B|and he's right.|sv
+A|Yeah.|b
+B|That's true. But he just says to keep spraying them so,|sv sd
+A|Well so,|%
+B|Anyway, Gene sprayed them once or twice for me so that was real,|sd sv
+A|Yeah, so you haven't, you haven't pulled any weeds lately?|b qy^d
+B|No. No. There are two out front I thought I'd grab one of these days, but I haven't bothered as I walk on by.|nn nn sd sd sd
+A|Yeah.|b
+B|I started to pull the weeds in the rocks out front|sd
+A|Uh-huh.|b
+B|and all of a sudden I came cross this big clump of weeds and there was dog dirt in it|sd sd
+A|Oh, oh, goody.|ba
+B|and I threw the gloves in the trash bag that was out there and I left the whole thing and  that was about a month ago.|sd sd sd
+A|I thought you were going to say there  I thought you were going to say there was a snake in the weeds|sd
+B|I would rather a snake, no|sd ar
+A|Oh, God, oh|ba
+B|I just left the whole thing. The bag is still out there because I haven't touched it.|sd sd
+A|Yeah.|b
+B|I haven't gone back over there. It really made me mad.|sd sd
+A|Oh, God.|ba
+B|So anyway but,|%
+A|But, uh, how are your, your flowers, your little things you planted? Did they die or what?|qw qy
+B|Oh, yeah, now they died.|ny sd
+A|Oh, they're all, so they, oh, are they going to come back in the spring?|% % qy
+B|I don't know.|no
+A|Oh.|b
+B|I don't know, and then I got some nice, uh, mums at Thanksgiving that I put in the pots out there|sd sd
+A|Uh-huh.|b
+B|and I thought they were supposed to live through all the cold weather.|sv
+A|Yeah.|b
+B|They looked real pretty until about a week before Christmas, then they started to die, too.|sv sd
+A|Oh.|b
+B|So, I don't think any of it comes back but I don't know,|sv h
+A|Yeah.|b
+B|maybe these, sometimes things do that aren't even supposed to.|sv sd
+A|I don't know, uh,|sd
+B|So,|%
+A|Those flowers, remember those little ones you gave me?|qy
+B|Yeah.|ny
+A|Yeah, well, they're, I know they were still blooming up until about a, a few weeks ago.|b^m sd
+B|Really?|bh
+A|Yeah.|ny
+B|Well, that's good. They're the best kind.|ba sv
+A|Yeah they, They're really pretty.|b sv
+B|They, they're like indestructible. They really grow nice and sometimes, they're not supposed to come back, but lots of times they do.|sv sv sd sd
+A|Uh-huh.|b
+B|So,|%
+A|Yeah|b
+B|We'll see. They're letting us have a lot of time on this aren't they?|sv qy
+A|Yeah, I mean isn't it supposed to be five minutes?|ny qy
+B|But that's because we didn't hit one for a long time.|sd
+A|We didn't disconnect, did we|qy
+B|I hope not Neither one of us is getting paid for this.|sv sv
+A|Boy, I hate to think I hate to think I'd be talking to you without getting paid|sd
+B|Yeah, really, I know it. I can't believe this. I got somebody from Utah and somebody,|b ba sd sd sd
+A|What? Uh-huh.|br b
+B|where was the person last night was from far away.|sd
+A|You're kidding? Really?|ba bh
+B|And we get each other down the street. This is so funny.|sd sv
+A|Well, the, uh, I, I talked to someone woman from Oklahoma City and some woman from Dallas and that was it.|% sd sd
+B|Yeah, I've had Dallas, Arlington. I've had, uh, one Plano and then a lady from Brigham, Utah whose  son lives in Plano on Ranier someplace. And then, uh, another state,|b sd sd
+A|Uh-huh. Wow. Really?|b ba bh
+B|I can't remember, but she told me about the Utah Jazz, we talked about basketball.|sd sd sd
+A|Oh, really|bh
+B|And I don't remember what, what the place was last night, but I'm thinking Colorado,|sd sd
+A|Yeah.|b
+B|but I'm not sure I'd know the place, anyway.|sd sd
+A|Uh-huh.|b
+B|So,|%
+A|I don't know,|h
+B|But mostly they're from the area.|sd
+A|Yeah.|b
+B|It,|%
+A|Well, there isn't really much to talk about as far as lawn and garden goes.|sv
+B|Not for me.|aa
+A|Not for me either.|sd
+B|You know, not not for me because all I have is rocks and weeds.|sd
+A|What do I, Yeah, but I don't, you know, I, what do I do, cut it one, you know, and, and edge it and that's about it.|qw b sd sd sd
+B|I know.|sd
+A|What do I do with it?|qw
+B|I know, we're not typical Texans.|sd sv
+A|No. What's going on, are they going to tell us to stop or what|aa qw qy
+B|I don't know, I hope so. Come on, come on.|no sd ad ad
+A|Isn't it five minutes?|qy
+B|I don't know.|no
+A|I, I mean, I'm all talked out about gardens.|sd
+B|I know. Well, we can talk about something else. It's just a suggested topic.|sd oo_co_cc sd
+A|Oh, oh, it's just suggested?|qy^d
+B|So, how's the baby, do you think|qo
+A|What?|br
+B|How's the,|qw
+A|We could talk, Let's talk about the baby.|oo_co_cc
+B|Let's talk about the baby.|ad

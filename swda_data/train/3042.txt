@@ -1,0 +1,120 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|So, what's it been doing up there?|qw
+A|It's real dry up here.|sd
+B|Oh, really?|bh
+A|Yeah. We need rain really bad.|ny sd
+B|Oh. Well,|b %
+A|All the farmers, you know, well, it's good for hay. You know all the farmers got their first cut of hay and everything, but they're going to need some you know, rain to get the second cut.|sd sd sd sd
+B|Oh.|b
+A|I, I'm working for a lady who has a strawberry field, and if we don't have rain, she's going to lose a lot of money.|sd sd
+B|Oh, my goodness. Well, we have been drenched.|ba sd
+A|Oh|b
+B|We have had so much rain for May and June that we've got all the, uh, weather people down here really confused.|sd
+A|Oh, my.|ba
+B|Uh, we, it's probably, it, it's just,|% % %
+A|It's usually dry down there, isn't it?|qy
+B|Yeah. Right now, by now it's usually, no, you know, it's quit raining, you know, by at least a month.|ny sd sd nn sd
+A|Uh-huh.|b
+B|And it's still, we're still having April showers, for June.|% sd
+A|Oh, I hope they come, this way.|sd
+B|Yeah, uh, I don't know where, where it came from but it's been really, we got a lot of, uh, we're in central Texas and it feels like we live in Houston.|b sd sd sd sd sd
+A|Oh, really?|bh
+B|Yeah, it's, it, it, you know, like it rained today and then it just kind of steamed everything up, you know.|ny % sd sd
+A|Uh-huh.|b
+B|Uh, it's been great because we haven't had to use our sprinkler system, We've had some with really, really high winds that have trashed trees and, everything else.|sd sd
+A|Oh, my.|ba
+B|It's just,|%
+A|Now see, every, everyone up here with their gardens they're not going to have much of a garden this year because it's so dry.|sd
+B|Yeah. Well, I hope you get some of that.|b sd
+A|Yeah.|b
+B|We got enough. We have had plenty, and we're still, uh, forecast for more.|sd sd sd
+A|Really?|bh
+B|Yeah.|ny
+A|Well, gee,|ba
+B|So,|%
+A|uh, does is California getting rain then?|qy
+B|Uh, I'm not real sure. I think a lot of this is coming out of, I think what's of it's coming out of Canada,|h sv % sd
+A|Out of the Gulf?|^2
+B|and it's meeting what's coming out of the Gulf.|sd
+A|Oh.|b
+B|And it's just causing chaos|sv
+A|Yeah.|b
+B|so it's been, it's been, uh, wet.|sd
+A|Uh-huh.|b
+B|And we've moved our yard I think three or four times in the last two or three weeks.|sd
+A|Oh, my gosh.|ba
+B|I mean just because it just keeps growing and growing and growing and, and one, one week it just rained, thunderstormed for a day straight and you couldn't get out there.|sd sd sv
+A|Uh-huh.|b
+B|You just couldn't get out there. By the time you finally got out there where your lawn mower wouldn't sink, we were, you know, yeah, lawn mower broke So,|sv sd % sd %
+A|Oh, well, see, now we need, we could use two days straight of rain.|sd sd
+B|Oh.|b
+A|It's really drying up, up here.|sd
+B|Well, what always works for me is if I water my plants or we wash the car, it usually rains. If not that night, the next day|sd sd
+A|Does it? I was telling everyone, hang your clothes out on the line and it's surely going to rain.|^g sd sd
+B|Yeah, yeah.|b b
+A|Whenever you hang your clothes out on the line it always rains|sv
+B|Yeah.|b
+A|Uh-huh.|b
+B|Um,|b
+A|We've had real hot weather.|sd
+B|Hotter than usual?|qy
+A|Yeah, yes. We, you know, and, uh, let me think. I got out of school in May. In March I was wearing shorts.|ny ny % ^h sd sd
+B|Wow.|ba
+A|I was wearing shorts in March up at college, and, uh, we, what they said is that this area has had its summer weather in the spring.|sd % sd
+B|Huh.|b
+A|Is what they said what happened.|qh
+B|Huh.|b
+A|I hope that, Oh, I don't know. But, I hope that doesn't mean we're going to get an early winter.|sd h % sd
+B|No. I wouldn't think so. I wouldn't, not as early as it came. I mean your talking September, maybe.|nn sv % sd sv
+A|Yeah.|b
+B|That's a little early. Still the,|sv %
+A|Uh-huh. Yeah, I was wearing shorts in March. You know it was nippy|b b sd sd
+B|Uh-huh.|b
+A|but, um, like it was still in the seventies.|sd
+B|Yeah.|b
+A|You know, high sixties low seventies in March.|sd
+B|Yeah. And we were there, we were in New Jersey last October|b sd
+A|Uh-huh.|b
+B|and it was hotter there than it was here.|sd
+A|Yes.|b
+B|It was just like a heat wave.|sd
+A|Uh-huh. Yeah, we haven't,|b b %
+B|and we just died.|sd
+A|Oh, my gosh.|ba
+B|It was really hot, so. But I like it here.|sd sd
+A|Huh.|b
+B|I wouldn't, I wouldn't trade it for snow any day.|sd
+A|Really?|bh
+B|Yeah.|ny
+A|See I like, I like the snow but I like to watch it fall, and I just like it where it's deep enough, you know, but not too deep.|sd sd sd
+B|Right. And I can handle a vacation in it and, you know, but my husband is from New Jersey and he wouldn't go back either. He did all the, shoveling and everything else.|b sd sd sd sd
+A|Really?|bh
+B|He said it was a pain. So,|sd %
+A|Well, isn't it weird at Christmas time without snow?|qy
+B|No. I don't think so. Well, see last year we had snow at Christmas time.|nn sd sd
+A|Oh.|b
+B|So it really wasn't, it was weird because we had snow It's like, wow, it actually fell on the right day. So, uh, no, it's not. In fact, uh, you know, we're used to running around in, you know, spring clothes in December, and so when it throws in a real cool winter, we get broken pipes and, and all that kind of stuff and because Texas is, just isn't built for you know, real cold weather for long periods of time.|sd sd nn sd sd sd
+A|Yeah. Well, it's real dry down there. You don't have the humidity either, do you?|b sd qy
+B|No, not, not were we are. Now in Houston and stuff they've got it, they've got it where no hairsprayer works. It's so humid at times, but here it's, it's just about right. It's, it's pretty dry and, not too dry where, you know you just, it hurts to breathe,|nn sd sd sd sd sd
+A|Uh-huh.|b
+B|but we're just about right.|sd
+A|Yeah.|b
+B|We're just having this, all this rain, and late rain has made it kind of uncomfortable. Made it, the humidity real high.|sd sd sd
+A|Yeah, muggy, huh?|b ^2
+B|But no, I like it. Well, we're right in a good stop because we're, you know, we get over in the, over the hundreds in the summer,|nn sd sd
+A|Uh-huh.|b
+B|but it's, it's not, it's a dry heat and it's not really as hot and muggy as it would be being over a hundred plus ninety degree humidity, ninety percent humidity,|sd sd
+A|Yeah.|b
+B|so.|%
+A|See that's what's bad up here is when we do get the real, you know, hundred and the high nineties, we have the humidity to go with it,|sv
+B|Oh.|b
+A|so you're like real mucky and you, you know, your legs stick together just from walking you know.|sd qy sd
+B|Yeah. Yeah, I know what,|b b ba
+A|So, um,|%
+B|So we like it where we're at. If it's not a whole bunch of everything at once type stuff.|sd sd
+A|Uh-huh. Yeah.|b b
+B|So. But no, it's interesting when it gets really cold here and people forget that they're, live in Texas and they don't know how to drive in snow and, you know. But, uh, I wouldn't trade it for anything|nn sd sd sd sd
+A|Oh, that's good.|ba
+B|I was born in Texas and I visited other areas, and I'm just a sun person I think. I've gotten used to it.|sd sd sd sd
+A|Well, I don't know Well, I guess that's really about all.|h sd
+B|Yeah, weather is not real hard to talk about It doesn't last real long either. I thought the weather is the last thing you talk about, but in this case it's the only thing to talk about. But, well, Michelle, it's great talking to,|b sv sv sd sd fc

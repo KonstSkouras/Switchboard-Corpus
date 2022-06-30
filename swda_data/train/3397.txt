@@ -1,0 +1,90 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|Well, it's not often you get, uh, many women interested in football|sv
+A|Oh well|%
+B|Do you follow football very much?|qy
+A|I'm sorry, what?|br
+B|Do you follow football very much?|qy
+A|I don't, no, I haven't recently, um.|na nn sd
+B|Well we can talk about something else. Do you have any, uh, you married?|sd qy qy
+A|No, I'm not, no.|nn sd nn
+B|No, well, I guess kids are out.|b^m qy^d
+A|What's that?|br
+B|Kids are out.|qy^d
+A|Yep Are you married?|ny qy
+B|Yeah, I, I'm married. Got two boys.|ny sd sd
+A|Oh, really.|bh
+B|Yeah.|ny
+A|Wow. So do you like football?|ba qy
+B|Oh, I follow the, uh, the Cowboys but that's about it, uh.|no sd
+A|The, the same here|sd
+B|Yeah.|b
+A|Do you live in Dallas?|qy
+B|Yeah, I, I, I am a pretty big Dallas fan, been for a long time|ny sd
+A|Yeah.|b
+B|but I haven't been to any games recently. But, uh, I try to catch the game every weekend that I can.|sd sd
+A|Really?|bh
+B|Yeah. Have you ever been to a Cowboy's game?|ny qy
+A|I haven't, huh-uh.|ng nn
+B|Um, it's pretty nice.|sd
+A|We we decided just to watch them at home But.|sd %
+B|That's good. At least you, uh, follow the game a little bit.|ba qy^d
+A|Yeah.|ny
+B|Um, yeah, I'm not a fanatic about it. I don't know who played when and who does what like some guys are. I just like to watch, and, and hopefully they win|b^m sd sd sd sd
+A|Uh-huh.|b
+B|That's about the extent of it.|sd
+A|Yeah. Right now I'm in, um, college, so I'm more into college football than professional, I think.|b sd sd
+B|Oh, I see. What, uh, school are you going to?|b qw
+A|Um, I'm at B Y U.|sd
+B|B Y U, okay.|bk bk
+A|Yeah, so.|b %
+B|Leslie, what are you studying?|qw
+A|Nursing.|sd
+B|Nursing. Great.|b^m ba
+A|Yeah.|b
+B|My mom's an L V N.|sd
+A|Oh, really.|bh
+B|Yeah. So, what are you planning to go into? Do you want to be an R N or,|ny qw qy %
+A|Yeah, yeah. Um, I haven't really picked a field. I haven't, I, I don't know, I've thought a lot about labor and delivery but I don't know.|b b sd sd no
+B|Uh-huh. Try that. That's what my mom does, labor and delivery.|b ad sd
+A|Oh, really. Wow.|bh ba
+B|Yeah, she loves it. She, she really, uh, enjoys.|ny sd sd
+A|Is she a nurse in Dallas?|qy
+B|No, she's a nurse in San Antonio|nn sd
+A|Oh.|bk
+B|but, uh, she's been, she's been working a, uh, on a late shift. She works the, uh, I guess the graveyard's what you'd call it.|sd sd
+A|Uh-huh.|b
+B|She works the graveyard shift. And she's worked that for, oh, years, when I was small.|sd sd
+A|Um.|b
+B|Uh, I guess probably going on twenty years now.|sd
+A|Wow.|ba
+B|And she really enjoys it. She likes the quiet that you have at that time of the night and, uh, and, uh, she's, uh, she just started a new job at a different hospital, closer to where she lives|sd sd sd
+A|Uh-huh.|b
+B|and she's really enjoying herself. She really likes it.|sd sd
+A|Well, that's great.|ba
+B|Well, good luck to you in pursuing your nursing degree.|ba
+A|Oh thanks|ft
+B|Hope you'll like it.|sd
+A|Yeah.|b
+B|Do you plan on staying in, in the Dallas area?|qy
+A|Um, I'd like to come back to Dallas. Right now I'm in Utah, of course.|arp_nd sd
+B|Oh, uh-huh|b
+A|So, um, but, my family's there, so, yeah, I'd like to go back.|% sd % % sd
+B|Yeah, uh, I think Texas, San Antonio in particular, has got a large, uh, base of hospitals. Uh, I don't know about Dallas. I think Dallas is pretty scattered.|b sd sd sd
+A|Are you in San Antonio?|qy
+B|No, I'm, I'm in Dallas|nn sd
+A|Oh, okay.|bk
+B|but I'm originally from San Antonio|sd
+A|Um.|b
+B|and they've got large medical, uh, center down there. They've got the U T Health Science Center out there also.|sd sd
+A|Right.|b
+B|So if ever wanted, you know, pursue anything more than your nursing degree, that, that'd be the place to do it.|sv
+A|Yeah, my brother-in-law, um, is in the medical profession, I mean, he's at medical school in San Antonio right now.|aa sd
+B|Oh, great.|ba
+A|So.|%
+B|Great.|ba
+A|Yeah.|b
+B|Well, like I said, good luck to you.|fc
+A|Thanks.|fc
+B|All right, well, um, take care, and maybe we'll meet up again some time.|fc fc fc
+A|All right.|fc
+B|Okay. Bye-bye.|fc fc

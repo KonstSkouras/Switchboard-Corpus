@@ -1,0 +1,81 @@
+A|What are you guys having for Christmas?|qo
+B|What are we having? Let's see Well, I'm not planning the menu.|^h ^h sd
+A|Oh, you're not.|bh
+B|No We usually go out to either one of our folks, they both live close to|nn sd sd
+A|Yeah.|b
+B|but, um, I don't know, it seems like a, a big thing for Christmas is usually ham.|sd sv
+A|Well, funny you should mention that. I'm a pig farmer|sd sd
+B|Oh, you are|bh
+A|Yeah.|ny
+B|huh.|b
+A|Well, now, it's kind of a hobby more than anything else, but we're going to have, uh, wild boar|sd sd
+B|My goodness.|ba
+A|we, uh, we killed a boar the other day, it was, you know, mating with the sows, and you can't use the piglets, you know, so.|sd sd sd %
+B|Huh.|b
+A|It's about six months of no use, so, we, uh, we shot him and cleaned him out and had him, you know, processed into ham, and, uh, we're also going to have a little roast suckling pig, because I, I've got one that's got a, a hernia|sd sd sd
+B|Oh, really.|bh
+A|and rather than, you know, pay the vet four hundred dollars for surgery, we'll just cook him and eat him|sd
+B|Is that, is that hard?|qy
+A|Well, no, hey, I tell you what, preparing a little pig is, is a snap, I'm telling you, real easy, easier than chicken.|nn sd sd
+B|Oh, really.|bh
+A|Yeah, you just, uh, you kill him, you know, you probably, most guys just shoot them in the head, they go, you know, in a second they're gone|ny % sd % sd sd sd
+B|Oh.|b
+A|and then you just dip the carcass in, uh, boiling water, pull it out, and there's a, we use a little raspy brush, pulls the hair off, and, uh, gut it, and, uh, just stick it down in a pit with some cloves and, uh, some pineapple, about three pineapples, you know, sliced them up, and, uh, cover him up with, uh, wet, uh, sacks, feed sacks is what I usually use *more than one utt??  and then start a charcoal fire on top of him.|sd
+B|Huh. Oh, my goodness.|b ba
+A|And after about six hours, you put the fire out and dig that baby out of there, and it's the best eating you ever had.|sd sd
+B|Oh, well, does a boar taste just like regular ham?|qy
+A|Yep, just like a pig|ny sd
+B|Does it.|bh
+A|I mean, you know, uh, it has a lot less fat.|sd
+B|Huh.|b
+A|This wild boar weighed probably about three hundred and thirty pounds|sd
+B|Oh my.|ba
+A|and he dressed out to almost two hundred and ten pounds.|sd
+B|Oh, my goodness.|ba
+A|Well, you know, we took the skin and the head and the and the feet off, and that was about, you know, a hundred, hundred pounds of just ham.|sd sd
+B|Oh, well, how many people are you planning on serving at Christmas?|qw
+A|Oh, well, we're, you know, we're not going to eat the whole thing|sd
+B|Eat it all, yeah|b^m b
+A|It would take a year. But, uh, you know, we're going to drive up to Kansas City, see my wife's folks, and, uh, she, she, what's, what's what's your mother cooking for Christmas yeah, well her mom's doing brisket.|sd sd % qw % sd
+B|I don't, what is brisket?|sd qw
+A|Brisket? It's a part of the cow that they used to throw away.|bh sd
+B|Huh.|b
+A|It's just tough as a boot|sd
+B|Oh.|b
+A|and, uh, you know, they used to use it for leather, I think|sd
+B|Oh, my goodness.|ba
+A|I mean, no, I was kidding.|ar sd
+B|Yeah.|b
+A|But, uh, it's, it's a part of the loin, you know, the rib cage, and it has a lot of muscle in it and a lot of, gristle where it attaches to the ribs, so it's really, really a tough piece of meat|sd sd sd
+B|Oh, my goodness.|ba
+A|but it's so tasty, you can't stand it.|sd
+B|Huh.|b
+A|So you just take it and you marinate it for a couple of days|sd sd
+B|And that softens it up, huh. Huh.|bf b
+A|And then, uh, you just put it in the oven, takes about four hours to cook one. They weigh about anywhere from ten to twenty pounds.|sd sd sd
+B|Oh, gee.|ba
+A|And, uh, we're going to have that.|sd
+B|Well, what else do you serve with your pig?|qw
+A|Oh, well, we'll have cranberries and hominy and, uh, we, we are, we're big on olives and cucumbers and stuff up here.|sd sd
+B|Huh.|b
+A|We have olives, black olives and cucumbers and, uh, tomatoes, we still have tomatoes|sd sd
+B|Oh, do you?|bh
+A|yeah, fresh tomatoes.|ny sd
+B|Oh, we, we just got lots of snow|sd
+A|Well, it started to freeze up around here, you know, there's nothing between you and us but our barb wire, and half of that's down. I mean it's thirty degrees this morning.|sd sd sd
+B|Oh, really.|bh
+A|Yeah.|ny
+B|Huh.|b
+A|But, uh, it'll go up to fifty or sixty almost.|sd
+B|Oh, my goodness. I didn't know it got that low at night.|ba sd
+A|Oh, yeah. Well, it's desert, you know, where, where we are, it's, it's, it's, uh, the edge of the desert, I mean, it's part of the Great Plains. So in the day time in the summer it goes up to a hundred, hundred and ten|aa sd sd sd sd
+B|Oh, gee.|ba
+A|and at night it goes down to about sixty.|sd
+B|My goodness.|ba
+A|Yeah, we get a fifty degree temperature swing in about four hours.|aa sd
+B|Oh, boy.|ba
+A|So everything that lives around here is real tough|sd
+B|Oh|b
+A|That's trees, you know, we got hundred year old trees that are, you know, twenty feet tall.|sd sd
+B|Oh, gee.|ba
+A|That's all the bigger they get, they, you know, they're just hard as a rock.|sd sd

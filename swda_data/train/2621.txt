@@ -1,0 +1,173 @@
+A|Well a lot of women are as knowledge about football as I am. Can I guess your favorite team, if you had one, might be the Steelers.|sv qy
+B|Yes, uh-huh.|ny ny
+A|Well, I can understand that. I, you know, I kind of like the Cowboys, too.|sd sd
+B|Do you?|qy
+A|They've had some great games in the past.|na
+B|Uh-huh, I, I always enjoy watching the the, Dallas and Pittsburgh together. You know.|b sd
+A|Uh-huh, me too. It wasn't nearly as much fun when Bradshaw was playing for you guys, I'll tell you. He lives in the Dallas area now, as a matter of fact.|b aa sv sd
+B|Does he really?|qy
+A|Well, actually, it's probably closer to Fort Worth, but it's, it's in the same area. He bought, uh, bought a big horse farm out in a little town called Roanoke, Texas.|sd sd sd
+B|Uh-huh.|b
+A|But he pops up on the Dallas scene quite often. As a matter of fact, there was some talk about trying to get him involved with the team management in some sort of a coaching job.|sd sd
+B|Oh, I wonder if he'd ever do that.|ba qy^d
+A|I don't know, he'd be good at it. He's such a motivator, he,  primarily, you know, with the quarterbacks.|no sv sv
+B|Yes. Uh-huh.|aa b
+A|That would be his specialty. I wished, I wished they could work something, I really like him. I really do.|sv sv sd sd
+B|Uh-huh. Well what about the Houston Oilers. Do you like them?|b qo qy
+A|Yeah, okay, I'd love to see Dallas and Houston play in a Super Bowl. That would be really great.|ny fo_o_fw_"_by_bc sd sv
+B|Uh-huh.|b
+A|That may not ever happen, I don't know. Uh, Houston has had some wonderful talent, you know, down through the years and in the earlier years they really had some super teams.|sv h sv sv
+B|Uh-huh. And Warren Moon,  is, is proving himself quite well right now.|b sv
+A|That's right. He certainly is, he's very good.|ba aa sv
+B|Uh-huh.|b
+A|He's very good.|sv
+B|He's one of the few, uh, Black quarterbacks that there are.|sv
+A|That's right. Randall Cunningham was with Philadelphia, I guess last year, but he's no longer with the team. So, you're right, there are very few Black quarterbacks, or at least that are starting anyway.|aa sv sd sv sv
+B|Uh-huh.|b
+A|How do you think the Steelers are going to do this year. You have any idea.|qo qy
+B|I don't know, I hope they, they do better. They, they during the past couple of years they've been doing a little bit better.|no sv % sv
+A|Uh-huh.|b
+B|But, uh, I think they still have a little, I think they're still such a, a young team I think they still have a little bit to go before they reach the potential,  that it did when ever Bradshaw was playing.|sv
+A|Yeah. Oh, yeah, that was just such super team.|b b sv
+B|Or, if they even reach that potential again, you know, they may never reach that again.|sv
+A|Yeah. Well that's a tough, it would be tough to do, it really would.|b ba sv sv
+B|Uh-huh.|b
+A|They have such a super team for years, that won what, four Super Bowls?|qy^d
+B|Yeah, four in a row.|ny sd
+A|Four in a row. I don't know if that could ever be duplicated again or not.|sd sd
+B|Oh, I don't know.|sd
+A|Yeah.|b
+B|Shooting for one for the thumb now is what they were saying.|sd
+A|That's right And,|ba %
+B|But basically everyone that was on the team then is gone now, so.|sd %
+A|That's right.|ba
+B|I think Mike Webster was left but then he, he just left.|sv sd
+A|Uh-huh, yeah.|b b
+B|Uh.|%
+A|He may have been the last of the old guard, I don't know.|sv h
+B|Yeah, I think he is, I think he was.|aa sv sv
+A|Uh-huh, yeah, they had such a super team.|b b sv
+B|Uh-huh.|b
+A|Have you been following the big draft that occurred yesterday?|qy
+B|No, I didn't.|nn sd
+A|I see.|bk
+B|Huh-uh.|b
+A|There's quite a bit of activity now, of course they had so many, you know, nice, uh, choices because their record was so lousy the last few years. They picked up,  you know, quite a few of the,|sv sv sd
+B|Uh.|%
+A|of course you never know. The guys they pick, you know, may never play a game. You never know, it's, it's a gamble, it really is.|sv sv sv sv sv
+B|Yeah, uh-huh.|b b
+A|They may get hurt, or, not be able to participate at that level, if you know,|sd
+B|Well who would you say is your favorite player, or has ever been your favorite player?|qw
+A|Ever been?|qy
+B|Uh-huh.|ny
+A|Probably an old guy that played, probably before you were born his name was Sam Huff. He used to play for the New York Giants.|sd sd sd
+B|Oh.|b
+A|That was one of the toughest guys that I've ever seen in my life,  as far as, you know, dedication.|sd
+B|Really.|b
+A|He just went all out every single play.|sv
+B|Uh-huh.|b
+A|Of course, there have been some other great ones too, Dick Butkis, and Bradshaw, you know, there's been so many.|sv sv
+B|Yeah,|b
+A|But if I had to pick one, I would probably pick Sam Huff, as a matter of fact.|sd
+B|Oh, you know, that's really funny, um, well, I, I come from a large family and, there's quite a few boys so that's kind of how I got in with the football. Either watch that or watch nothing.|sv sd sd sd sd
+A|That's right.|b
+B|And, um, at one time I could name all the players on the Steelers, you know.|sd
+A|Uh-huh.|b
+B|And, but, even when Bradshaw was playing, I, I don't know, I, I didn't particularly care for him,|sd
+A|Uh-huh.|b
+B|I thought he was kind of cocky or something.|sd
+A|He is, he is,|sv sv
+B|Uh-huh.|b
+A|of course a quarterback has a big ego.|sv
+B|Yeah, uh-huh.|b b
+A|They really they have to have, they can't survive.|sv sv
+B|Uh-huh, uh-huh.|b b
+A|They always think they can win, you know, which is the way it should be.|sv
+B|Uh-huh.|b
+A|Boy, he never gave up, I'll tell you.|sd
+B|Yeah him and Franco Harris, I really didn't care for the either two of them.|b sd sd
+A|Uh-huh, uh-huh,|b b
+B|I mean they were good, but, I, you know, you couldn't deny that.|sv sv
+A|Oh yeah.|b
+B|But I didn't, I thought, you know, well I just didn't really care for either one of them.|sd
+A|Uh-huh.|b
+B|Uh, today, my favorites out of those guys were probably, um, Lambert, Ham,  and, uh, Stallworth and Swan.|sd
+A|Uh-huh. Uh-huh. Uh-huh, absolutely, I can't disagree with that. They were super players, they really were.|b b b aa aa sv sv
+B|Uh-huh.|b
+A|They really,|%
+B|I, I, I like, not just with the Pittsburgh, I like watching on Saturday afternoons when they'll have like the plays or the, the best plays from,  you know, from the week or something.|sd
+A|Uh-huh. Yeah, highlights, yeah.|b b sd
+B|Yeah, I love watching that. Then I like watching their bloopers too, you know|b sd sd
+A|Yeah, yeah, that's kind of funny too, as a matter of fact Some of them a, a bit embarrassing. Yeah, well they make mistakes too, I guess.|b b sv sv % sv
+B|Yeah, uh-huh, it's funny that more people don't get hurt. You know, especially, I would say the receivers,  when they're in the air and they get tackled.|b b sv
+A|Absolutely. Uh-huh, oh they,  They take such a beating.|aa b %
+B|Oh, yeah, it's funny some of their necks don't get broken.|aa sv
+A|Absolutely, I don't know how they do it. It's, it must just take a hundred percent concentration, I guess, because they know they're going to get hit, it's just a matter of how hard, you know, or where.|aa sd sv sv
+B|Yeah. An they have to be in ideal physical shape, basically.|b sv
+A|Oh, absolutely. They look like sometimes they're just broken in two like a match stem. Gosh, what a beating, they really do take a beating, they really do.|aa sv sv sv sv
+B|Yeah. Well what did you think of, um. a couple years ago for the Bears, the Refrigerator.|b qo
+A|I think he was just probably a passing phenomena, I think I don't know, I, I'm knowing what, you know, of course, Mike Ditka was in Dallas for years and years as coach, is knowing his, or, you know, knowing of his temperament, I'm just surprised he ever, you know, kept the guy around, I really am. He's such a, he's about a half hot head anyway, such a temper.|sv h % sv sv sv
+B|Oh, you know, and to me he does, um, oh, he's just so big and fat,|sv
+A|Uh-huh.|b
+B|he doesn't even look like he's in shape. He's just so big, no one can move him.|sv sv
+A|That's right, yeah, absolutely. There's just so much mass there, I guess they just can't, I don't know, you know, I, probably the guy is, you know, probably physically strong. I, you know, obviously not very fast.|ba aa sv h % sv % sv
+B|Uh-huh.|b
+A|But I guess it's just, like you say, a mass that nobody can seem to get out of the way. As far as him scoring touch downs, you know, I think that was kind of weird. I don't know, Dallas has a guy, uh, his name is Nate Newton, now he has a real weight problem too. He fights it every single year, but, he manages to still keep playing, but,  he has a terrible weight problem.|sv sv h sd sv sv sd sv
+B|Yeah. Wow.|b ba
+A|They the coaches watch him all year long. They, they weigh him several times a year just to make sure he's not, you know, completely out of control.|% sd sd
+B|Uh-huh.|b
+A|But I guess most every team has has someone like that, I don't,|sv %
+B|Oh, yeah, there's, there are some really big guys playing in football.|b sv
+A|Absolutely they get bigger and bigger, it seems every year.|sv
+B|Uh-huh.|b
+A|I guess you have to to, you know, to stay in the game I guess.|sv
+B|Yeah, you would, uh-huh.|b aa
+A|Yeah.|b
+B|Um, now who, would you say that you have a I mean other than Dallas, would you say that you have, uh, a favorite quarterback. I mean the quarterback's seem to get most of the, the attention, you know.|% qy qy sd
+A|Oh, yeah, sure, well, you'd have to, uh, or I would have to say, you know, someone like Montana, I guess, who's done so well for so many years.|ny sd sv
+B|Yeah, I I, I enjoy watching him play.|b sd
+A|Yeah, his age is about to catch up with him though. He's no Spring chicken anymore.|b sv sv
+B|No, but he's still performing.|b sv
+A|And like you say Warren Moon's an excellent, Warren Moon's an excellent. But he's very exciting to watch.|sv sv sv
+B|Yes he is,|aa
+A|Uh-huh, sure.|b b
+B|I, I, I enjoy watching him also.|sv
+A|Uh-huh, absolutely.|b aa
+B|What about, uh, Marino?|qo
+A|Uh, I'm, obviously he's a very good quarterback, I'd, I never was, you know, too, a whole lot of, a big fan, you know. Yeah, he may, uh-huh. Yes he was, I believe that's right at one point in time. but he's a very young fellow.|% h sd b sv ny sd sv sv
+B|Uh-huh.|b
+A|Yeah, of course a quarterback can look so good if he's got a lot, if he's got a good supporting cast, you know.|b sv
+B|That's true, that's true.|ba ba
+A|If not, he gets beat to death like poor old Troy Aikman has the last couple of years anyway, you Dallas did better last year, hopefully they'll do better this year.|sv % sv sv
+B|to someone else in the Uh, probably around twelve, uh-huh. Yeah, uh, I didn't, I don't know, I, I just think, you know Marino will get better and, uh, his team's not as good as what it was when he went to the Super Bowl,  you know,|t3 b h sv sv
+A|That's right.|ba
+B|so.|%
+A|Yeah, Miami's had some down years, too.|b sv
+B|Yeah.|b
+A|But they all do, I guess,|sv
+B|Uh-huh. Yeah That's true, and with age comes,  you know,|b b ba sv
+A|Yeah, with yeah,|b % %
+B|the, the I'm sure arthritis sets in with them,  you know.|% sv
+A|Oh yes, very much so. Hip injuries and things like that, yeah.|aa ^2
+B|Right, yeah.|b b
+A|Yeah, that, that forces a lot of the guys to get out of the game.|b sv
+B|Uh-huh, and they're so young,|b sv
+A|That's right.|ba
+B|but, they're retired, you know,|sv
+A|Uh-huh, yeah, I read some time, well not too long ago that the average, uh, professional career only lasts seven years. So that's when you think about it, that's really not a very long time, of course.|b b sd sv
+B|Oh yeah, but then you think about how many have been in there longer than that.|b sv
+A|But if the average is seven years that means a lot of guys don't make it seven years, you know.|sd
+B|Yeah, a lot of them would have to get out like in just a couple.|b sd
+A|that's|%
+B|Holy smokes, I didn't that doesn't seem like very long.|sv
+A|That's, that's a pretty short career on average.|sv
+B|Uh-huh.|b
+A|Of course they play their, you know, cards right and do some good investments, they'll, you know, they'll do all right.|sv
+B|Uh-huh.|b
+A|But a lot of them don't, unfortunately.|sv
+B|Yeah. Um, what do you think of the, uh, L A Raiders, used to the, the Oakland?|b qo qy
+A|Yeah, they, they're always branded, you know, as a bunch of outlaws and,  if their, if their, you know, arrest record won't let won't let them play anywhere else, they seem to go to, they seem to go to the Raiders. But that just may be, you know, perceived, you know perception, I don't know.|ny sv sv sv sv h
+B|Yeah.|b
+A|Al Davis is, he's a kind of strange character, strange, strange looking guy. Apparently he's kind of a wild guy, I don't really know for sure. They've had some excellent teams, though, obviously.|sv sv h sv
+B|Yes, they have.|aa sv
+A|I'm not sure they've yet decided where they want to play, they keeping talk about, you know, going,|sv sv

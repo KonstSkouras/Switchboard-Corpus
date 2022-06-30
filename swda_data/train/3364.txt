@@ -1,0 +1,82 @@
+B|What's your favorite T V show?|qw
+A|Oh. You know, I used to like ST. ELSEWHERE.|sd
+B|Uh-huh.|b
+A|That's one of my old favorites. Um, and that's, I'm being beeped, so I'll just ignore it. Um, and now, I, I did like THIRTY SOMETHING|sd % sd sd sd
+B|Uh-huh.|b
+A|oh, yes, my daughter says NINE OH TWO ONE OH. We like that one.|^h sd sd
+B|Yeah, that's one of my favorites.|b sd
+A|Good, and how old are you?|ba qw
+B|I'm twenty-eight.|sd
+A|Oh, so you're little bit younger than I am, but yeah, I think if my seventeen year old, my fourteen year old, my other two children like it, I'm over forty, and I like it. I think it's wonderful.|sd b sd sd sd sd
+B|Yeah, it's a good show. I like MURPHY BROWN and DESIGNING WOMEN, too.|b sv sd
+A|Oh, yeah, now see, I, we are so busy with, all of our kids are in sports, and I hardly ever watch T V, but that's one that, that we watch. And then Sunday nights we watch, uh, LIFE GOES ON.|b sd sd sd sd
+B|Yeah, I like that, that's, that's a good show, too.|b sd sv
+A|Very good. Did you see the one on Sunday?|ba qy
+B|Yes, it was a, uh, uh I did miss that Sunday, no I didn't.|ny % sd nn sd
+A|That one kid that Becca likes he has AIDS.|sd
+B|Yeah, it's a good episode. Yeah, the, the new character on there did.|b sv b sd
+A|Right, right. All the way to North Carolina. What time is it there?|b b sd qw
+B|Uh, it is twenty minutes to nine.|sd
+A|Oh, my gosh. See, I'm twenty minutes to six here|ba sd
+B|Three hours difference.|bf
+A|Yeah, yeah. Okay. What else do you like?|aa aa b qw
+B|Uh, let's see, I like a lot of different shows. Let's see, um, I like MURDER, SHE WROTE. That's, that's,|sd sd %
+A|Oh, I never, I never watched that ever in my entire life.|sd
+B|And MATLOCK is another good one I watch.|sd
+A|Uh-huh.|b
+B|Um, then during daytimes I like, I like ALL MY CHILDREN.|sd
+A|A small bowl will be plenty. Oh, that's mine. That's the only one I watch whenever I, oh, a small bowl will be better because it's pretty fattening. Talk to my daughter. Um, um,|t3 t3 sd t3 sd %
+B|ALL MY CHILDREN, I've watched that for about twelve years.|sd sd
+A|Yeah, I've, I'm sure I watched it for more than that probably. Twenty something. I used to watch GENERAL HOSPITAL when I was a teenager because I,|b sd sd sd
+B|I quit watching GENERAL HOSPITAL when Leslie got killed.|sd
+A|Oh.|b
+B|So that was a long time ago. I used to watch it, was in high school and college when Laura's mother got killed.|sd sd
+A|Right.|b
+B|She was my favorite character on there. I just, I read the reason she got, they, they killed her off was because they couldn't settle a contract, and I said, well, if they're going to do that to her, I won't watch it.|sd % sd sd
+A|Oh, that's great. Well, I do like ALL MY CHILDREN, and I, and I like it, you know, I don't know. I just, I like the people on it, I guess, you know.|ba sd h % sd
+B|I, I, I like it. I just wish they'd bring some of the old characters back.|sd sd
+A|Yeah, well, Tad's going to come back, I bet, do you think?|b qy
+B|Yeah, I'm sure he will.|ny sd
+A|He'll come back, show up at just the right moment.|sd
+B|I kind of wish that, uh, Nina would come back because she because the story, you know,|sd
+A|Oh.|b
+B|just for a brief visit or whatever, because it never has been resolved with Palmer remarrying, and everything,|sd
+A|Yeah, like Daisy, pops in once in a while, and, I forgot about Nina and Cliff, right.|b sd sd
+B|Yeah, Cliff's on THE YOUNG AND THE RESTLESS now.|b sd
+A|Oh, he is. So he's out for good.|b ba
+B|Yeah, he's out for good.|aa sd
+A|Did they marry?|qy
+B|Uh|%
+A|Nina and Cliff?|qy^d
+B|that's how they left the show, but not in real life.|sd
+A|Um.|%
+B|Now she's married to some guy in New York, and she's happily married and that's the reason she left the show. I guess she wanted a private life.|sd sd sd sd
+A|Oh, okay, oh, see I, I, I watch it maybe twice a month, so, I don't watch it everyday like I did when I had babies.|b sd sd
+B|Oh, well, I, I watch.|sd
+A|Because I play lots of tennis and I'm gone a lot, so, I don't get to watch,|sd sd sd
+B|I watch it everyday, religiously. I videotape it when I have to miss it.|sd sd
+A|Oh, no kidding.|ba
+B|Yeah.|aa
+A|I use to be, I used to be like that|sd
+B|I'm that way about a lot of different shows. I'm that way about MURPHY BROWN, DESIGNING WOMEN.|sd sd
+A|Now isn't DESIGNING WOMEN, don't they have a new chick on there instead of the, instead of what's her name?|qy
+B|Uh, yeah, there's two new characters on there. There's, um, uh, Jan Hooks from SATURDAY NIGHT LIFE. I don't know if you know her or not.|ny sd sd qy^d
+A|Huh-uh. That's a show I like.|ny sd
+B|And then, and then, uh, uh, the blond headed girl that used to be on NEWHART.|sd
+A|Oh, yeah, oh.|ba
+B|I don't like her on it, I never have liked her, so.|sv sv %
+A|Well, I, I just know which one she is. I don't, you know.|sd %
+B|She's taken the Suzanne's part, and then Jan Hooks has taken Charlene's part.|sd sd
+A|Charlene was Delta Burke?|qy^d
+B|Charlene was Jean Smart, the blond headed.|ng
+A|Oh, okay, well, see, I never watch that one either. I really don't watch a whole lot of T V, just, you know, on Sunday nights, LIFE GOES ON comes on about the time that we eat dinner, and my whole family's home, because I don't allow the kids out on Sunday night you know, because they've got to go to bed and go to school the next day,|bk sd sd sd sd
+B|Yeah.|b
+A|and so we, we sit around and eat popcorn and, oh, then we watch AMERICA'S FUNNIEST HOME VIDEOS. Those are always pretty cute.|sd sd sv
+B|Well, MURDER, SHE WROTE comes on opposite of that, and so,|sd %
+A|Oh, so you don't watch that one instead of,|qy^d
+B|Yeah I I pick nights pretty much so on T V that I watch different networks, but BEVERLY HILLS NINE OH TWO ONE OH, I, I watch it religiously.|ny sd sd
+A|Sure. Yeah, we like that real well.|b b sd
+B|It, be sure to watch it tomorrow night because somebody's getting killed on it.|% ad
+A|Uh-huh. I know. The kids already know who it is, I don't know who it is, though,|b sd sd sd
+B|Who is it? Ask them|qw ad
+A|Let me ask Nicole. to someone in Nicole.|oo_co_cc t3

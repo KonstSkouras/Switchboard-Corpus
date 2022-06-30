@@ -1,0 +1,184 @@
+A|Okay, yeah, I'm originally from New York and I go visit a lot and their real estate up there is, I mean ridiculous, absolutely ridiculous.|fo_o_fw_"_by_bc % sd sd sv
+B|Oh.|b
+A|An apartment here, like I live in an apartment and my apartment is three fifteen a month and it's just the one,  it's a one bedroom.|sd sd sd sd
+B|And how big is it?|qw
+A|Which is still kind of expensive but I prefer to live in, uh, in a nice part of town because I feel safe here.|sv sd
+B|Yeah.|b
+A|And I, I, I pay more to feel safe, you know.|sd
+B|Right, well what's included in that?|b qw
+A|You mean in a one bedroom?|br
+B|Like washer, dryer or,|qy
+A|Oh, nothing.|sd
+B|Nothing.|b^m
+A|Huh-uh, I mean just nothing, no microwave, we've got, I have ceiling fan,|aa sd sd
+B|Wow.|ba
+A|I guess that's something.|sd
+B|Yeah. Which one is it?|b qw
+A|It's Wood, uh, listen to me I can't even think of the name of my own apartment. Woodhollow,|sd sd sd
+B|Where is|qw
+A|right next to Village Green, it's on,|sd %
+B|Oh, okay, okay.|bk bk
+A|yeah, kind of far north Waco.|b sd
+B|Yeah, I, I used to live in Waco so,|b sd %
+A|Oh, okay, yeah, far north, like on Lake Shore where all those apartments are,|bk b bf
+B|Yeah, yes, yeah.|aa aa aa
+A|it's right up there, so.|sd %
+B|Yeah, uh, we live in a house here,|b sd
+A|Uh-huh.|b
+B|and, uh, it's a three bedroom two bath,|sd
+A|Uh-huh.|b
+B|and, uh, I, it's, it, I don't know I got two numbers today, actually we were talking about mortgage insurance today with my agent,|h sd sd
+A|Uh-huh, uh-huh.|b b
+B|and, uh, it's about sixteen hundred square feet,  which is fine for the two of us.|sd
+A|Uh-huh. Right.|b b
+B|But it, it, you know, we looked at a lot of houses that were, had more square footage,|sd
+A|Uh-huh.|b
+B|but they didn't use it right, you know.|sd
+A|Right, uh-huh.|b b
+B|It was a bunch of empty, you know, hallway and stuff that|sd
+A|that could have been used as yeah, yeah.|^2 aa aa
+B|Yeah, yeah, really. So we've used every bit of it and our house, um, we bought it for sixty-four,|aa aa aa sd sd
+A|Um.|%
+B|and, uh, the neighbors house next door to us sold for seventy-five,|sd
+A|Uh-huh.|b
+B|so, you know, I think we were you know, got a good deal on it.|sd
+A|So that looks good when you all get ready to sell, you'll probably do really well.|sv
+B|Yeah, yeah, yeah.|aa aa aa
+A|My father used to live in Dallas, uh, now, he, he went back to New Jersey, we're originally from the East. But he,|sd sd sd %
+B|Oh really, my husband's from New Jersey|b sd
+A|oh, really, he, uh, well actually right now he lives in Rhode Island, he lived in New Jersey for a while, now he's in Rhode Island. And, uh, he used to like to go, and we used to go, just every weekend just to look at houses, for no reason, we weren't buying one every weekend, but just to look at them. And so I got a pretty good feel of, you know, what I want when I do, you know, get my house, whenever that is, um. What was I going to say about that, I completely lost my train of thought. Um, but we, we enjoy going looking at houses and, and, uh, we now, I kind of have a good idea of what I want. I know I want a big family area,|b sd sd sd sd sd t1 sd sd sd sd sd
+B|Yeah, that's what we were looking for the first thing.|aa sd
+A|uh, yeah, fire, a fireplace, I saw this awesome house the other weekend, it was a great big family room and it was circular and the other side was the patio and the backyard, and it had a built in, uh, grill and every,|b sd sd sd sd sd sd sd
+B|Wow.|ba
+A|I mean, it was, it was just, an the ultimate party room, you know,|sd
+B|Uh-huh, yeah.|b b
+A|I was just going I could have a party in here. But that's pretty nice.|sd sd
+B|But that's what we had, uh, uh, that's what we had looked for, was our main concern was a big living room,  you know, and big closet space, you know.|sd sd
+A|Uh-huh. Right, yeah I like a lot of closet space, I don't like because, I don't like to have a lot of things out, you know, just all over the place,|b aa aa sd sd sd
+B|Yeah, yeah.|b b
+A|I like to have them kind of tucked away.|sd
+B|And, uh, so that's, that's what we went for first and, and it, you know, we, we don't, we just have a big living room an, and a dining room is separate,|sd sd sd
+A|Uh-huh.|b
+B|and, you know, some places have, like the house next door to us that we looked at,  had a living room, a dining room and a den.|sd sd
+A|Uh-huh. Right.|b b
+B|But to stick a wall between two rooms didn't do anything for us just so we could have a living room and a den.|sd
+A|Uh-huh.|b
+B|So, we opted for the just, the whole wide room,  that went from one end of the house to the other, just about.|sd
+A|Uh-huh. My father had, uh, I keep talking about my father because he owned a house, uh, he had the kitchen, kind of a kitchen and a very long family room,|b sd sd sd
+B|Yeah.|b
+A|it's just kind of one room and what he did, he put, uh, a bar right in the center,  and put some, uh, a glass rack down, so you had like wine glasses hanging from the ceiling and then the bar|sd sd
+B|Oh.|b
+A|and it just kind of, it kind of separated it. It was still, you know, together, but it just looked a lot better. Because I personally don't like the combination rooms.|sd sd sd sd
+B|Yeah, right, I, but I, I think for where we are,  um, I think we got a real good deal on it|aa aa sd
+A|Uh-huh.|b
+B|and we, you know, we have a, uh, the backyard is just huge.|sd sd
+A|Uh-huh.|b
+B|It is just really, I think another house could fit back there.|sd sd
+A|Yeah, I'd like a big backyard.|b sd
+B|And, uh, we really liked it, of course, when you have to mow it  You know in, uh, middle of August, it's, it's kind of,  a little hot,|sd sd
+A|Oh really. A little hot.|b ^2
+B|yeah.|aa
+A|Try to do it early in the mornings.|ad
+B|But, uh, it's, it's nice and that was, you know, a big selling point too, and I think another thing that was really nice was that our neighbors on the other side of us bought the lot right next to us.|sd sd sd
+A|Uh-huh.|b
+B|And they've lived there and have it all built up, you know, they've got a whole garden and trees and everything so it's not like, we're, uh,  kind of secluded, you know,|sd sd sd
+A|Wow.|ba
+B|we don't have a neighbor's fence coming up to ours.  You know, right up to our bathroom window or whatever it is.  Like a lot of the little model homes that they you know throw up in three days.|sd
+A|Uh-huh, well that's good. Yeah, yeah. That's true, they do throw those up.|b ba b b aa sv
+B|And, uh.|%
+A|Are you all planning to move anytime, are you looking for a house, or not.|qy qy
+B|No, no, not at all,|nn nn ng
+A|Uh-huh.|b
+B|in fact, uh, we, we talked about that just a little bit, you know,|sd
+A|Uh-huh.|b
+B|we were joking around about, uh, winning a sweepstakes,  and what would we do with the money|sd
+A|Uh-huh.|b
+B|and Steve said we'll I'll buy a bigger house and I said no, I would just fix this one|sd sd
+A|Yeah, really.|b ba
+B|You know, there's, you know cause we, I like where it is and I like how it's laid out and it took us forever to find it.|sd sd sd
+A|To find it, uh-huh.|b^m b
+B|But when we found it, it was, we knew it.|sd
+A|You knew that was it.|bf
+B|Yeah.|aa
+A|Uh-huh, I'll probably, I'll probably move, but I'll probably move to another apartment or something because I'm, I'm, I'm really, uh, what's the word, I move a lot anyway,  because the job I have I only work,|b sd sd t1 sd
+B|Yeah.|b
+A|like here, I'll be here for like a year and then I'll move off, I can move up, and so.|sd sd sd %
+B|Where?|qw
+A|I'm a, I'm a news reporter.|sd
+B|Oh, okay.|bk
+A|I work at Channel Six.|sd
+B|Oh, okay.|bk
+A|and so this is like my first job so I won't be here very long,|sd sd
+B|Right.|b
+A|so I'm not even looking to buy anything as permanent as house, you know,|sd
+B|Right.|b
+A|so I'm staying in an apartment and I'm not married or anything, so. It's no biggie.|sd sd sd
+B|Um. Yeah, and that's, and that's one thing is once you, you know, you get into a house it's like, you get more stuff,|% b sv
+A|Uh-huh.|b
+B|and to put it all back into an apartment would just never work .|sv
+A|Yeah, yeah.|aa aa
+B|God, I can't believe we moved out of an apartment and had this much stuff and it actually fit, you know.|sd sd
+A|Yeah.|b
+B|Of course we got it on, a little bit of more furniture and stuff, but it was just unreal.|sd sd
+A|Yeah, like I'm amazed at how much stuff I've accumulated in my apartment,  because, up to this point I was in school so I'd go home every summer|aa sd
+B|Yeah.|b
+A|and I could take all my stuff home, because I didn't have a bed or a couch or any, any of that,|sd
+B|Yeah.|b
+A|but now I could not move back home. And I just realized this, you know, the other day, I'm going wait a minute, I can't go back home for the summer or anything, I have too much stuff.|sd sd sd ^q
+B|Yeah.|b
+A|So, it was just like a weird transition out of home so I have to move in apartments just because I have so much stuff.|sd sd
+B|Yeah, and that's, actually three fifteen over there's probably not real, real bad.|b % sv
+A|No, it's not, it's not.|aa sv sv
+B|For, for Waco and, and for as many,  gosh as many as apartments and condo's are over there,|sv sd
+A|Yeah. Oh my goodness, yeah.|b ba aa
+B|I mean it, it's just, and, and especially around Lake Shore area, that area's picked up quite a bit since we were there, and, uh.|% sd %
+A|Uh-huh, yeah, uh-huh. There, there are tons of apartments down here, I mean, and it,|b b b sd %
+B|Yeah, because I, I had lived in the, gosh, I'm not sure what they're called now but they were Lake Shore Apartments that are like right next to the baseball field, M C C Baseball field, but. No,|aa sd sd sd ar
+A|M C C, yeah, yeah. I, I think they're called Lake Shore Villa or something.|sd aa aa sd
+B|the ones next door to those, there were Lake Shore,|sd sd
+A|Um.|%
+B|there's a, I don't know what they look like now.|% sd
+A|And it's a nursing there was a nursing home or something right there.|sd sd
+B|Yeah there was a nursing home and then there's an apartment and then there's another apartment.|aa sd sd sd
+A|Uh-huh, uh-huh.|b b
+B|And we lived in those, those third ones and they we moved in when they were brand new,  uh, you know,|sd sd
+A|Uh-huh.|b
+B|we drive by now and think, gosh, you know,  look how much it's changed an.|sd
+A|Yeah. How often do you all come through Waco?|b qw
+B|Oh, every now and then,|sd
+A|Uh-huh.|b
+B|it just, we,|% %
+A|Depends on what's going on.|bf
+B|It's, uh, yeah, and it's not really, now that it's sixty-five it doesn't take hardly anytime to get there, you know, run to the mall or run to Sam's or,  or whatever.|% aa % sd
+A|Uh-huh, uh-huh, yeah.|b b b
+B|We used to run to you know, Red Lobster but now they've got one in Killeen, so,|sd sd %
+A|Uh-huh, all right|b bk
+B|we don't have to run that far So that's, that's about how things are and the, seems like the market here's picking up.|sd sd sv
+A|You think, uh-huh, uh-huh.|bh b b
+B|Yeah, I really think it is.|aa sd
+A|Um.|%
+B|Just for the fact that the, you know, it's, it seemed like as soon as we bought this house we saw all these houses for sale,  you know,|sd sd
+A|Um.|%
+B|and I think now a lot of them are selling and a lot of sellers are getting close to what they want instead of, you know, just having to give it away.|sd sd
+A|Waco to me seems, seems like it's pretty steady. I mean I'm not a real estate person or anything,|sv sd
+B|Yeah.|b
+A|but it, it's a real college town and so you know, you have these apartments and then the, the houses are all, most of the houses are pretty nice,|sd sd sv
+B|Yeah.|b
+A|and I don't, I don't, you know really see a lot on sale or anything and people are pretty stable here.|sd sv
+B|Yeah.|b
+A|You know, I kind of see this as kind of a retirement community, as I always call it.|sd
+B|Yeah, I, I saw, I see that a lot too, there.|aa sd
+A|Yeah.|b
+B|And it's nice too.|sv
+A|Uh-huh.|b
+B|I liked living there.|sd
+A|Nice and quiet, so. I don't think I could live here much longer but  I'll deal with it.|sd sd sd
+B|Well,|%
+A|Well it ,|%
+B|I guess we chewed up the house market, and apartment market for a while.|sv
+A|Yeah. Really, okay well it was very nice talking to you.|aa aa fc
+B|You too, Tanya.|fc
+A|Okay, you take care,|fc fc
+B|All right.|fc
+A|Okay, bye, bye.|fc fc
+B|Bye, bye.|fc

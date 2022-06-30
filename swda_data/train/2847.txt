@@ -1,0 +1,133 @@
+A|Tell me what books you read.|ad
+B|Oh, boy Well, um, I haven't been doing a whole lot of reading for enjoyment lately. I read, uh, one book a friend recommended to me. I can't even remember the guy's name. It was a science fiction, Dean Cole, or something like that. And it was so frightening and it had so much violence in it I just  could hardly stand it|ba sd sd sd sd sd sd sd
+A|Um. I try to avoid the,|% sd
+B|Yeah I didn't think it was so great. She thought it was riveting, you know, but, I couldn't deal with that. But, um, mostly I read, I'm a marriage and family counselor and mostly I read things to do with raising kids, and now I have two little kids,|b sv sd sd sd sd sd sd
+A|Uh-huh.|b
+B|or co-dependency, or, you know, fifty thousand things like John Bradshaw's books on, uh, THE FAMILY and HOMECOMING and INNER CHILD, and so|sd
+A|Uh-huh.|b
+B|I read usually that kind of stuff. If, and right now I'm reading, um, Judith Viorst's book called NECESSARY LOSSES, where she talks about different losses that we've had in our lives that we have to get past if we're going to mature and so,|sd % sd
+A|Uh-huh.|b
+B|in in my spare time with a two and a half and a three and a half year old  I, I read|sd
+A|That does cut into your,  reading time a lot.|sv
+B|Yeah. That's really changed my reading habits, because I used to read so much, especially when I was in school.|b sd
+A|Yeah.|b
+B|You know, but, gosh it's, uh, it's getting pathetic now If,  I get through a magazine, I've been,|sv sd
+A|Well my,  my kids are up, and out of the house now. So, you know, I will, uh, encourage you that you do get a little more time to yourself later on|sd sd
+B|Yeah.|b
+A|I,  won't say what.|sd
+B|Later you're,  probably looking for your kids so you can talk to them when they're out running around with friends|sv sv
+A|Yeah.|b
+B|Yeah. What do you read?|b qw
+A|Oh, uh, well, I read for a living. Uh,  I'm an editor.|sd sd
+B|You do? Who, Oh, well how interesting.|br % ba
+A|And  so, I, I'm at the|sd
+B|What kind of books?|qw
+A|Center for Advanced Study of the Behavioral Sciences and therefore, I read, uh, psychology, sociology, anthropology, political science, philosophy, linguistics, history, uh,|sd
+B|Um. Oh, my goodness.|% ba
+A|yeah, and you name it. I've read some of it.|b ad sv
+B|Yeah. Well that sounds like a fascinating job.|b sv
+A|It really is. It's,  it's a great place to be|aa sv
+B|Yeah.|b
+A|and the, uh, it's nice to work with people uh, who are not required to use your services, and so therefore, are grateful and not arguing with you about them. If they don't, want an editor, they don't come|% sv sd
+B|Yeah. That's true. That's true. Well, you probably, I, I seem to remember that, uh, little byline on a lot of things I've read.|b aa aa sv sv
+A|Um.|%
+B|Um, is, is, is that, um, do they have a mail kind of campaign that they send to professionals in the,  social,|qy qy
+A|No. We, don't.|nn sd
+B|No?|br
+A|Uh, normally we don't publish, uh, things under our own imprint.|sd
+B|Um.|%
+A|Uh, we have books that are written here that are then published by all sorts of different, uh, commercial and academic publishers and university presses.|sd
+B|That sounds so familiar. Uh-huh.|sv b
+A|So, uh, I end up sometimes reading the things that are written here all the way through, sometimes just a few chapters because that's as far as they get|sd
+B|Yeah.|b
+A|But, I also get, of course, lots of references to neat stuff to read about.|sd
+B|Yeah.|b
+A|So, I'm, uh, I was just thinking when they told me the topic, I should just, I should read the, uh, titles of the five books that are sitting on my desk right now that I'm in the middle of.|sd
+B|Yeah. Oh,  that sounds interesting. Yeah. Oh|b ba b b
+A|it causes the, uh, uh  Saint Anthony's Fire Disease, where,  people fell into fits|sd
+B|I thought that was going to be Oh.|sv b
+A|and, There is a, a theory, at least, that a lot of people who were accused of witchcraft were actually under the influence of erga.|sd
+B|Oh, my goodness. Huh.|ba %
+A|And a book called JOB CUES, GENDER CUES, which explains, uh, how certain professions and vocations get, uh, flip flopped from one gender predominance to the other, like uh, nursing,  started out all men and then in the nineteenth century, began to have women.|sd sd
+B|Uh-huh. Nursing or,|b b^m %
+A|And now it's practically all women.|sd
+B|Yeah.|b
+A|And that, uh ,|%
+B|Secretaries. I bet that used to be mostly men who were secretaries of any type for business.|^2 sv
+A|That's right. And the,  thing that changed that was the manual typewriter.|aa sd
+B|Yeah.|b
+A|It then it became, you see, just sort of a clerical task.|sv
+B|Oh. Yeah.|b b
+A|When you wrote it out in long hand you were a,|sd
+B|Then you were important|^2
+A|Yes. You were a confidential assistant to the, person.|aa sd
+B|Yeah. Yeah. Like the scribes who did the old documents, you know, for churches and,|b b bf
+A|Right.|aa
+B|yeah|%
+A|And then, I've got a book called FASHIONS IN SCIENCE, which is a sociology that explains, uh, why certain theories get to be popular in, uh, sociology. And, uh, how difficult it is to swim against the tide if you have a different idea that isn't vatted by your peers|sd
+B|Well, that's interesting. Uh-huh.|sv b
+A|And then I have one novel that's called FIRST LIGHT, that's about, uh, archaeology  the British novel.|sd sd
+B|Um.|%
+A|So, it's really quite interesting. I haven't,  got too, far into it yet.|sv sd
+B|Gosh. Really. So, are you reading these in the form of just like printed manuscripts,  that have not been|ba b qy
+A|Uh, those are,  all books that are out, uh, published and bound now. But, they're just things, that, , pertain to various things I'm working on or were, uh, mentioned prominently and attracted my curiosity.|ng sd
+B|Huh.|%
+A|So I got them out of the library and decided I'd read some more in them.|sd
+B|Yeah. My goodness. Well, that's fascinating. Gosh.|b ba ba ba
+A|So, I read a lot of history and, uh, a few novels, occasional mystery stories, just,  for fun.|sd
+B|Uh-huh. Yeah. Yeah I never have gotten into any of the romantic novels or any of that kind of stuff. My husband reads a lot of the, um, well, he did before we had kids  the STAR TREK, and all those kind of sci-fi kinds of, things, you know|b b b sd sd sd
+A|Uh-huh. Oh, yeah. Yeah.|b b b
+B|But, he's got a, quite a collection of those. But, uh, my stuff uh, revolves around, uh, one one let's see, I've got one called ONE THOUSAND PRACTICAL PARENTING TIPS,  which teaches you to put elastic instead of shoelaces, in your kid's shoes|sd sd sd
+A|Oh, hey. That's, a nifty idea.|ba sv
+B|Hey, I've done that to every pair my three year old has.|ba sd
+A|Great.|ba
+B|You know, really.|b
+A|Oh, I think the,  the boom to parents and the, the shoelace department was those little Velcro tabs|sv
+B|And, uh, Oh, yeah. Yeah,|% b b
+A|I think that's incredibly .|sv
+B|but there's a surprising number that are still around that aren't, that don't have those, so that's an alternate means of dealing with|sv sd
+A|Uh-huh.|b
+B|but, um, I'm trying to think of what else I've got. Uh, since I'm, um, a therapist and all, I've done recently a lot of research into some of the twelve step groups. So, I've got all the different alcoholics, what they call the blue, the blue book, the big book, and all the O A literature and all the CODA literature,|h sd sd
+A|Yeah.|b
+B|so I'm trying to get more familiarized with that because I refer clients and different groups and, uh, well, let's see I'm trying to think of the,|sd ^h
+A|Uh-huh. What do you think is, the most promising, or practical book, uh, of that kind you've read recently?|b qw
+B|Um, Oh, I I have a love affair with John Bradshaw. I just have found everything I've read of his to be fabulous,  um,|^h sv
+A|Um.|%
+B|he started out with one called THE FAMILY, which does the family systems and people's roles in the family. And then he did, uh, HEALING THE SHAME THAT BINDS YOU, about how shame can just be so paralyzing and people isolate and withdraw.|sd sd
+A|Uh-huh.|b
+B|And then the third one that he came out with is now called HOMECOMING Uh, and, uh, there's a subtitle to it, I never can remember what it is. It's something like, um, A JOURNEY IN, IN YOUR INNER, CHILD or something like that.|sd sd sd sd
+A|Yeah. I knew, his literary agent in Houston when she was just, uh, convincing him to write all this down. He was  teaching,|b sd sd
+B|Oh,  he's just great. And now he's had the, the first, the first one and the third one put into a ten session, uh, P B S series.|sv sd
+A|Yeah. I I saw one of those episodes on P B S. Uh,  from time to time out here, we have four different P B S channels that we can get on the cable|b sd sd
+B|Yeah.|b
+A|And, they'll have all ten of those shown back to back, in the middle of the night for people can video tape them.|sd
+B|Oh. I know Yeah, so people can just tape them I guess,  you know|b sd aa bf
+A|Yeah.|b
+B|But, I definitely have gotten a lot out of his lately He's just probably been one of the most, there's an author that's in, um, that's in, uh, Arizona, who used to be in Dallas. It seems like we have a lot of these that have been in  Texas, called P M Melody, who does a lot of writing on co-dependency.|sd sd sd sd
+A|Uh-huh.|b
+B|And she's got some fabulous workbooks out and a whole series of tapes and, uh, a workbook called BREAKING FREE, and just some real, uh, helpful, practical things for co-dependency.|sv
+A|Huh. Uh-huh.|% b
+B|So that's been another one that I've thought was real helpful. But, other than that, uh, my reading centers on PADDINGTON BEAR, and WINNIE THE POOH,  and   DOCTOR SEUSS|sd
+A|Oh, yes. Oh.|b b
+B|But, I really have enjoyed exploring children's literature because there's so much more, uh, new things out that, you know, I, I'd pull out the classics once in a while for my kids, but there's such cute things,  out for kids.|sd sd sv
+A|Oh, there's some,  absolutely wonderful illustrated,  children's books.|sv
+B|Oh, I know. And I just go to the library because I just, they're expensive,|aa sd
+A|Yeah.|b
+B|I mean, it, and they go through them so fast,  you know.|% sv
+A|Uh-huh.|b
+B|So I just, I really have been going to the library and getting my ten books out and they just love to sit and read. And now finally the littlest one is oldest to, to sit, you know, and watch the pictures instead of grabbing it and trying,  to rip the pages out.|sd sd sd
+A|right. Uh , well,|b %
+B|So, that, that has been fun to do do that you,  know, go through the children's literature,  and, uh  uh,|sv
+A|Yeah. I read,  THE PUBLISHER'S WEEKLY, uh, which lists all the upcoming books, forthcoming books, and,  uh, there are so many that look like they would just be absolutely wonderful.|b sd sv
+B|Uh-huh.|b
+A|But I was tickled to see that some publisher is, uh, reprinting the, the James Thurber books for children. THE,  WONDERFUL O and THE THIRTEEN CLOCKS, that have been out of print for about, oh, I think about twenty years.|sd
+B|Oh, wonderful. Gosh. Really? Well, I'm going to have to,  look for those.|ba ba bh sd
+A|Well,  I had those for my kids|sd
+B|Yeah.|%
+A|and they really did, enjoy them.|sd
+B|Oh.|b
+A|Oh, but they were, old copies then.|sd
+B|Yeah. Yeah.|b b
+A|I didn't buy them when my kids were little. And so, they probably were out of print all of, already when my kids were small. But, um, I, was really happy to see that,|sd sv sd
+B|Yeah. Yeah.|b b
+A|yeah, I guess it's in honor of his hundredth,|% sv

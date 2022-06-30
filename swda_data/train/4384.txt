@@ -1,0 +1,70 @@
+A|The only experience I have, I don't have any children but I've, uh, I was a baby-sitter in high school. And then, just recently, after we were married, I baby-sat for a dentist while she worked. And I just, uh ...|sd sd sd sd %
+B|<talking> Yeah. That's the only thing I've ever done also, is baby-sit.|b sd
+A|Is it? ery faint.|qy
+B|But, uh, I've heard people that I work with talk about, you know, child care. Especially, I guess it's even harder on single mothers.|sd sv
+A|Oh, yeah. The expense.|aa sd
+B|Yeah. Having to pick up the kid by, you know, six o'clock or it's five dollars for every minute you're late. And stuff like that|b ^2 sd
+A|Uh-huh.|b
+B|Which is understandable. I mean, these people can't, you know, stay there till eight o'clock because somebody has to work late|sv sv
+A|Just sit around That that's true.|^2 aa
+B|but|%
+A|See the lady I did it for, that's why she picked me is because I would go to her house so she wouldn't have to get her little girl up. So she could sleep in. And, uh, then she could be at home and then I'd bring her to my house for a couple of hours if I wanted too or whatever. But, uh, she paid, I think it was two or, I think it was about two fifty, three dollars a hour and by the time I paid taxes on it, it, I was getting like eighty cents and that wasn't counting food or gas or anything.|sd sd sd sd sd sd sd sd
+B|Oh, no. Yeah. It's hardly worth your time.|ba b sv
+A|Yeah.|b
+B|Yeah. That's pretty bad. The only time I baby-sat was in high school and it, you know, of course you don't I didn't pay taxes on that, so.|b^m sv sd % % sd %
+A|Right.|b
+B|It was easy, you know, go over to some, uh, it was these people that lived in our neighborhood and I'd just go over there. Every Thursday night, they went to the theater. They had permanent tickets and they'd give me, it was supposed to be two dollars an hour for two kids, but they would usually give me like five dollars more at the end of the night.|sv sd sd sd sd sd sd sd
+A|Oh, wow.|ba
+B|And, I mean, they'd, you know, it was great. I'd go over there and there would be like, uh, you know, there's, we have these videos over here. Watch, whatever you want. And there's some Oreos in the, in the cupboard. And there's some Coke and you know, just help yourself to anything. So it was, it was, you know, the best,|% sv sd sd ^q ^q ^q ^q sv
+A|Wow.|ba
+B|that was a long time ago and that was only for a few years. Just once a week.|sd sd sd
+A|Yeah.|b
+B|But I don't know.|h
+A|I think people that treat their baby-sitters like that get a lot better baby-sitters.|sv
+B|Oh, yeah. That's true.|aa aa
+A|And they stick around for longer. Because I mean after I figured out I was getting eighty cents an hour, I said bag it. And I quit you know.|sv sd sd
+B|Yeah.|b
+A|I was just like but I'm wasting my time.|sd
+B|Yeah.|b
+A|I really liked the little girl and everything but I thought ...|sd sd
+B|She does take up, and they do take up a lot of your time. That ...|^2 sv %
+A|Yeah. Yeah, I ...|aa aa %
+B|They're very demanding|sv
+A|Uh-huh. Well, and she was really spoiled. They didn't make her eat anything she didn't want or anything. So, basically, they fed her cookies for breakfast and lunch. And the mom was a dentist and I was just like, we've got to quit this. And she's like no I don't want her to starve. But I don't want to make her eat something she doesn't want to eat|b sd sd sd sd sd sd ^q
+B|Oh, shoot. My mom would be like, uh eat it or don't eat anything.|ba sd
+A|Eat this or <laughter>.|^2
+B|That's right.|aa
+A|So, I can see the concerns on what different people want.|sv
+B|Yeah.|b
+A|Because some, I mean, you know, if I was setting up a daycare, there would be so many needs you would have to customize your service to.|% sv
+B|Yeah. Uh-huh.|b b
+A|Cause some parents won't put up anything. Where others would.|sv
+B|I think, yeah, I think the best way to go would just be to, to be able to do it out of your basement.|% b sv
+A|Uh-huh.|b
+B|And just have like at the most, like ten kids. And all from maybe people that you know type of thing.|sv sv
+A|No.|ar
+B|Instead of trying actually to set up a daycare where you don't know the people coming in and ...|sv
+A|That's true. I, I'd love to do it. But I just don't trust people now. There's too many lawsuits.|aa sd sd sv
+B|Yeah.|b
+A|I just, I think it's a bigger risk than ...|sv
+B|More than what it's worth?|bf
+A|Yeah.|aa
+B|Yeah.|b^m
+A|It would scare me. With, I don't know, cause I'm sure some of them have good reason to sue but I think a lot of them are just, you know, they're negligent and they get happy about money and they just want to sue you.|sd % h sv sv sv sv
+B|Yeah. Well, yeah. That's, yeah, exactly. When you have like a Kindercare or something set up and when they get greedy or whatever, that's when they have maybe one assistant to twenty kids or something|b aa % aa aa sv
+A|Uh-huh. Oh, yeah.|b b
+B|And that's just, you know, you can't watch that many little kids getting into things at one time|% sv
+A|That's impossible.|sv
+B|You know, you never know what they're going to get into.|sv
+A|I have a girlfriend that works at a daycare and she takes her little girl with her and, I mean, she told me about half the people that they hire and half of them she'd like to turn them into the state And that's the people that are working there, you know. And then she would like to turn in half of the parents that drop their kids off because of the condition the kids are in, you know.|sd sd sd sd sd sd
+B|Oh, that's horrible.|ba
+A|Like they'll be in the same clothes they were the day before, the same diaper.|sd
+B|Huh.|b
+A|You know, just awful things. And so I don't know. I don't have kids but I always think man I just don't know if I could trust anybody. I mean, you just don't know.|sd h sd sv sv
+B|Yeah. That's yeah, that's a hard thing about it. If, I mean, I I can't foresee myself getting married but if, you know, if I ever wanted to have a kid, how could I work. I mean, I don't think I could trust somebody with my kid either. Unless it was a friend that, you know, did it in ounds like an airplane their house that I knew well.|b % b sv sv qh sv sv
+A|Oh, yeah. That's true. Yeah.|aa aa b
+B|I just, I couldn't do it I don't think.|sv
+A|It would just rip me apart, I think I don't know.|sv h
+B|Yeah.|b
+A|Just not knowing.|sd
+B|Yeah, just besides the fact that, you know, your, when your child gets out of school at three o'clock and then has to wait.|b sd

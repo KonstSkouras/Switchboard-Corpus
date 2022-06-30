@@ -1,0 +1,105 @@
+B|Does your family normally have a reunion? Do you have one,|qy qy
+A|Well,|%
+B|that's been,|%
+A|on my father's side we've really there, uh,|%
+B|Uh-huh.|b
+A|On my mother's side we've had several, not,  it's not really on a regular basis,|na sd
+B|Uh-huh.|b
+A|but usually sometimes every few summers. Well, all, see, all the family lives in once place, except for a few of us are scattered about.|sd sd
+B|Right.|b
+A|So they're pretty much just reunited always|sd
+B|Uh-huh.|b
+A|so it's, it's just once in a while we get the special gathering with everyone together.|sd
+B|Well, it might be a good time for you to to, to start a tradition.|ad
+A|I know, that's|aa %
+B|You could be responsible for that yourself.|ad
+A|do that, that's true.|% aa
+B|Sure.|b
+A|How about your family?|qo
+B|Well, in my family, let's see, last October was the forty fifth annual  uh, reunion.|sd
+A|Wow, you're,  a pro at this.|ba sv
+B|The first Sunday in October, the Jordan family gets together.|sd
+A|Oh, that's good.|ba
+B|And all of the descendants of the Civil War, I mean, yeah, the Civil War veterans come together, and they come as far away from California, and there's usually oh, between a hundred and fifty and two hundred and fifty people.|sd sd sd
+A|And then where do you meet?|qw
+B|Uh, there's a big community hall in Vernon Texas,|sd
+A|Okay.|bk
+B|and, uh, that seems to be sort of a middle ground for all of the Texas family.|sd
+A|Okay. Do you have relatives in Vernon then?|bk qy
+B|Uh-huh.|ny
+A|Okay.|bk
+B|Right, uh-huh. A lot of the older family lives in Vernon.|na ny sd
+A|Right.|b
+B|Um, all of his direct descendants, descendants have now died and the grandchildren are in their seventies and eighties.|sd sd
+A|Oh.|bk
+B|So we're talking about second and third great children here.|sd
+A|Right.|b
+B|Uh, I take my boys well, I took them up until this year, they're grown and gone from home now|sd sd
+A|Oh.|b
+B|so they, they take their family.|sd
+A|Right.|b
+B|But, uh, let's see, that would make them, grandfather, great grandfather, great great grandfather, okay, so it would be the second great grandchild. And so they,|^h sd % sd %
+A|Okay, so this town hall that you meet in, is that like a, um,|b qy
+B|Well, it's a community center, it's a community hall. It's,  a great big open building that has a wonderful kitchen it in,|arp_nd sd
+A|Okay.|bk
+B|and, uh, you just bring the covered dishes. Every, every family brings a, a dish of some kind, and you get all the wonderful old family recipes,  that have been handed,  down for years|sd sd sd
+A|Potato salad and, uh,|qy^d
+B|Well, we try to stay away from those things which might have, uh, salmonella in them.|arp_nd
+A|Oh, that's good.|ba
+B|And we choose to bring congealed salad. You can bring a congealed vegetable salad,  as opposed to potato salad.|sd sd
+A|Right.|b
+B|And we are very conscious of, most of us are very conscious of, of, uh, sanitation aspects,  whatever you've got to carry for any distance.|sd
+A|Right.|b
+B|I always, take home baked bread.|sd
+A|Oh, that's nice.|ba
+B|Uh, that happens to be my specialty for that family. I do other things very well,|sd sd
+A|Right.|b
+B|but there are others in the family who do them better.|sd
+A|Do they always have the, the one person in the family who knows, or everyone thinks they know how to make this the best,  so that's what they get to cook.|qy
+B|Uh-huh.|ny
+A|Well, that's good. Well , I had a professor in anthropology at school who studied family reunions, so I learned a lot about them. I haven't,  been to a lot,|ba sd sd sd
+B|Uh-huh.|b
+A|but we talked,  a lot about the, the rituals,|sd
+B|Uh-huh.|b
+A|you all equated the family reunions as,  with the Protestant.|sv
+B|Uh-huh.|b
+A|It was the Protestant version of the Catholic pilgrimage.|sv
+B|Uh-huh.|b
+A|It was, it was an interesting theory. She talked about the, uh, the Catholics all, it's a home centered, you know, it's all family centered anyway, so you usually are living where your parents live and it's all, your, you don't have to come home, so the Catholics would make a pilgrimage in older Europe, but when the Protestant ethic happened in America, there were people who ever went out and, you know, went away from the family to seek their fortune, and then had to come back home for their reunion, so that,  became their version of the pilgrimage.|sd sd sv sv % sv sd sd
+B|Uh-huh. Right.|b b
+A|But she had, it was interesting, you know, I don't know how valid it is, but she talked about that and how the, the big picnic table was the symbolic communion of the people gathering together, and, um, you know, about the bread and the ritual placement. Do you have a, a certain way that everything is placed out on the table every, every year? Is there kind of a, you know, salads go first and things like that?|% sd sd sd qy qy qy
+B|Well, it's, uh, we have, uh, uh, kind of a core group that, that serves as, quote, officers of the organization,|% arp_nd
+A|Right.|b
+B|and they plan the reunions, the organize the, you know, who is going to see to it that the coffee pot gets there, who's going to rent the tables, who's going to see to it that the silverware gets turned back to the caterer. Uh, and each year it's done a little bit differently, because different people serve in those roles.|sd sd sd
+A|Well, that's pretty .|ba
+B|We have a biographer who, who continues every year to save clippings on any family member, and they're entered into a, a wonderful, uh, scrap book. And pictures of new babies and new people who have been added and, and obituaries to those who are gone. And it keeps the family alive,  even, you know, even though it's very fluid.|sd sd sd
+A|Sure does. That's wonderful.|aa ba
+B|And they're very dedicated to that, and, uh, it's been really wonderful. It helps you hang onto your roots.|sd sd sv
+A|Yeah. I wish we'd,|aa sd
+B|And it helps you feel a strong sense of belonging. My husband, on the other hand, was not very close to his family. His family was very scattered and very diverse.|sv sd sd
+A|Right.|b
+B|And I asked him, I got to talking to him, I said, well, how is his nephew doing. "Well, I don't know, I haven't,  talked to my brother in three years." I said , "Well, how's your brother doing?" "I don't know." Uh, you know, my son keeps in touch with him, I think, but I don't.|sd sd ^q ^q sd ^q ^q ^q
+A|Right.|b
+B|I said, "Hey, wouldn't you like to know what's happening with these people?" "Yeah, but I'm, you know, it's too much trouble." So I got busy, got together, and put a reunion together for his family. And succeeded in getting all of his brothers and sisters and all of their offspring but one to our place down at Lake Tawakoni.|sd ^q ^q ^q sd
+A|Wow. You're just, uh, Oh, that's incredible.|ba % ba
+B|Liked to kill me, because I it was, I didn't have that group cooperation, I did,  it by myself.|sd sd
+A|Right.|b
+B|And, uh, nobody brought covered dishes. We had a great big fish fry, and, you know, I fixed a salad in a number three tub.|sd sd sd
+A|Right|b
+B|And, and, uh, it was an enormous task to bring all of those people together with just one or two people helping. And, uh, we had to provide sleeping arrangements for all of them and I told him,|sd sd %
+A|Have you, have you done this repetitively, or just once?|qy
+B|We did it that year, and then the following summer, we did not have all of the family there. We sent invitations. We said, "Please let us know if you're coming." It was when, uh, his mother, his step father had died the year before,|sd sd sd sd sd
+A|Oh.|bk
+B|and it, his mother was alone, and so they came to support her, and then one by one, his you know, his sisters, he began to lose family members,|% sd sd
+A|See, that's we've we had a problem with that.|% sd
+B|and it was difficult to hold them together. And then, of course, he died two years ago, so, you know, that family has gone down to one brother and one sister now.|sd sd sd
+A|Oh.|bk
+B|And, uh, it, I think that's what happens when they get scattered, the, the family unit, you know, falls,  into disrepair.|% sv sv
+A|Right. That's our, was our problem. We had, uh, the first reunion, or the first, you know, major reunion was probably six or seven years ago.|aa sd sd
+B|Uh-huh.|b
+A|And then the second reunion, people who maybe, you know, had sacrificed things to come to the first one thought, oh, well, it's not that big a thing this year,|sd
+B|Uh-huh.|b
+A|and so it kind of wound down,|sd
+B|Uh-huh.|b
+A|and then finally, you know, you're lucky to get, you know, you get the Shreveport relatives there, but no one else so that,|sd %
+B|Uh-huh. Well, see, we manage, those people who are at that core group manage to keep, keep the vigor alive. They'll send out news bulletins. Two or three times a year you'll get a news hey, guess who got, you know, elected to the legislature, or guess who our local sheriff,|b sd sd sd ^q ^q

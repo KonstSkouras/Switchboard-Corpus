@@ -1,0 +1,80 @@
+A|Hello, Lynn.|fp
+B|Yes.|b
+A|Okay. Do you have any pets?|b qy
+B|Yes, I have a dog and cat now.|ny sd
+A|Oh, what are their names?|qw
+B|Tibby and Liberty.|sd
+A|Which is the dog and which is the cat?|qw
+B|Tibby is the dog and Liberty is the cat.|sd sd
+A|Uh, wife and I, we have, we have two cats.|sd
+B|Oh.|b
+A|Uh, one's real nice, but the other one is a, well, she's pretty wild.|sd sd sd
+B|Oh Ours are pretty calm.|sd
+A|Yeah, are they, um, just house pets?|b qy
+B|Uh-huh.|b
+A|Yeah, that's, that's what ours are too.|b sd
+B|Yeah. Our cat we got from the pound the day the night she was going to be put to sleep. So that's why we call her Liberty.|b sd sd
+A|Oh, really. Oh, well, that's a nice, nice story. Um.|bh sv
+B|Do you want to hear about my other animals I've had?|qy
+A|Sure, sure.|na na
+B|I've had a skunk|sd
+A|Yeah.|b
+B|I've had a Burmese python, I've had rats, I've had mice|sd sd sd
+A|Wow.|ba
+B|uh, let's see, I've had gerbils, I have, I had a son, he's now gone from the home, that was an animal lover.|^h sd sd
+A|Uh-huh.|b
+B|So at one point I had a snake, skunk, dog and cat running loose in the house.|sd
+A|Wow. Um, do the skunk, uh, was it kind of like a cat to have around the house?|ba qy
+B|Yes|ny
+A|Yeah.|b
+B|it was litter trained|sd
+A|Yeah.|b
+B|and we had it perfumed|sd
+A|Uh-huh.|b
+B|and, uh, it was very aggressive.|sd
+A|Right.|b
+B|But all the, all three of them, dog, cat and skunk, used to chase each other all through the house.|sd
+A|Uh-huh, and the skunk.|b b^m
+B|And the only thing we have with the skunk, he was very, very protective of his territory being the sofa and the blanket on the sofa.|sd
+A|Oh, yeah. Um.|b %
+B|Nobody came near it when he was there.|sd
+A|Oh. Uh, I had, I had a dog one time, and, uh, he chased after a, after a skunk and got sprayed|b sd sd
+B|Oh.|b
+A|so we had to, we had to give him a tomato, tomato juice bath, and, uh, get him cleaned up,|sd
+B|Yeah, they um, ours would still back up to the dog or cat when he got mad and try to perfume them, but the glands had been removed|b sd sd
+A|Uh-huh.|b
+B|so,|%
+A|Right, but I suppose it was still in the instinct of them to to back up and get ready.|b sv
+B|Right.|b
+A|Yeah, why, I don't know, I, I think they're kind of nice to have, they're kind of, you know, just relaxing to, I don't know, to pet and to, I don't know, when they like sit up on your lap and stuff like that, just kind of enjoyable to, you know, have like, I don't know, something giving you some affection as well.|b sd sv sv h sv h sv
+B|Yeah, I always said if I Well, I always said if I died I'd come back as a dog|b sd
+A|What, what do you think? Oh, yeah. Yeah.|qo b b
+B|That'd be the best way to be.|sv
+A|Yeah. Um, do you like big dogs or or little dogs?|b qy
+B|Well we had a German Shepherd and he had dysplasia|sd sd
+A|Uh-huh.|b
+B|and he had it for about three or four years where we just about had to lift him and carry him every place he went.|sd
+A|Really.|b
+B|So, when he died, we got a little one.|sd
+A|Yeah.|b
+B|But our shepherd was almost thirteen years old, and it just, you know, was almost cruel because,|sd sv
+A|Uh-huh almost cruel for him to, to walk.|b ^2
+B|Yeah, he just, he couldn't get up, he couldn't walk, so, he was a hundred and twenty pounds, so it was a chore.|aa sd sd sd sd
+A|Wow, yeah.|ba
+B|So we said the next time around we'd get something little that if something happened, it would be easier to carry.|sd
+A|Sure. Yeah.|b b
+B|And then we've had three cats in our married life, and we've got a calico now.|sd sd
+A|Yeah, we've got a calico cat too.|b sd
+B|Do you?|qy
+A|Yeah, yeah, she's the, she's the nice one. We, uh, we used to live in an apartment and like, our cats never went outside, but, um, the neighbors used to let their dogs out, and our neighbors were, I don't know, kind of slimy, and, uh, our cats wound up getting fleas, uh, from the apartment that we were in|ny ny sd sd sd sd sd sd
+B|Um.|%
+A|so, we had to, we had to flea bath them and it was, uh, it was an experience that they didn't enjoy at all.|sd sd
+B|Yeah, well, don't even talk to me, I, when I was single I had gone away for the weekend,|b ba sd
+A|Yeah.|b
+B|and my husband, then fianc3e, was to keep my cat, and he let her out, and my house was loaded with fleas, I mean, you walked in and your legs were just black.|sd sd sd sd sd
+A|Really.|bh
+B|And we had such a time, and never got the cat back.|sd
+A|Really.|bh
+B|Yeah, I found it, you know, in the street.|ny sd
+A|Oh.|b
+B|I was a social worker at the time, and found it,|sd

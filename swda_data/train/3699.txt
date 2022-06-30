@@ -1,0 +1,88 @@
+A|Okay. Uh, do you live in a home?|fo_o_fw_"_by_bc qy
+B|Yes.|ny
+A|Uh-huh.|b
+B|We, we, it's a house we bought, uh, about two and a half years ago now.|sd
+A|Oh, did you?|bh
+B|Uh-huh.|ny
+A|Uh-huh.|b^m
+B|First house.|sd
+A|We've lived in ours for about six years. We had it built, actually.|sd sd
+B|Uh-huh.|b
+A|And, uh, uh, it's our first home, too.|sd
+B|Uh-huh.|b
+A|Yeah.|b
+B|So what do you think of, of owning a home as opposed to, to renting somebody else's?|qo
+A|Um, well before we built our home we were managing some apartments that we were living in,|sd
+B|Uh-huh.|b
+A|and, um, that was quite an experience I, I much prefer having my own home and, and, uh, just the space and, and more privacy.|sd sd
+B|Uh-huh.|b
+A|Yeah.|b
+B|Do you have, is it a fairly large house?|qy
+A|Um, it's, uh, uh, it's like twenty-four fifty square feet.|sd
+B|Oh, that's pretty good size. Yeah.|ba %
+A|It's a two story.|sd
+B|Uh-huh.|b
+A|Yeah. How about yours?|b qo
+B|It's tiny.|sd
+A|Is it small?|qy
+B|It's not much bigger. Actually we had an apartment, two bedroom apartment that was about as big as this house is. So.|na sd %
+A|Oh, really.|bh
+B|Yeah, it's, uh, it's only like eleven hundred square feet.|ny sd
+A|Oh, uh-huh. Do you, do you have children?|b qy
+B|Just one.|sd
+A|Just one.|b^m
+B|Yeah.|b
+A|Oh.|bk
+B|But, it, it, uh, all the rooms are small, I mean, but it ends up giving us three bedrooms, which we wanted. And, uh. Use an extra one for an office which is handy.|sd sd
+A|Oh, uh-huh. Yeah.|b b
+B|I'd rather have, have more rooms and less space in each one I guess. Rather have lots of rooms and lots of space, but, uh, that ends up costing me.|sd sd
+A|Oh yeah, yeah. Well, like, um, how does it compare to the ones in your neighborhood?|b b qw
+B|Well, they're, it's pretty typical, I mean, it's a very, very middle class neighborhood. Uh, lots of, lots of young couples with, you know, oh, I'm sure that virtually everybody in the neighborhood, that's their first homes|sd sd sd
+A|Oh, uh-huh.|b
+B|and, uh, lots of kids and stuff, and, so it, it fits well, in the neighborhood. It's, it's certainly not a real upscale neighborhood, but on the other hand, it's clean and kind of suburban little bit more than I want.|sd sd sd sd
+A|Yeah. Yeah.|b b
+B|Is, is yours also pretty much in conformance with the neighborhood|qy
+A|Uh. Yeah, it, it,  it, it does, it, it seems about, oh, probably average. Um.|b ny sd
+B|or is it? Uh-huh.|qrr b
+A|But our neighborhood has a, just a wide variety of, of, um, people, and, you know, there's older people here, and, and, um, people that are our, our age, we're in our thirties.|sd sd sd
+B|Uh-huh.|b
+A|And, um, there's a lot of kids, a lot of kids. People across the street have eight.|sd sd
+B|Uh-huh, wow, eight kids?|b bh
+A|Uh-huh.|ny
+B|Oh, my gosh.|ba
+A|Yeah, their home just burned down matter of fact, and, um, last summer,|b sd
+B|Ooh.|b
+A|and they're just rebuilding and, um, their house is going to be really big It's.|sd sd %
+B|I'm sure, with eight, gosh.|aa ba
+A|Yeah, they're building a lot bigger. He's, uh, um, uh, oh, not an obstetrician, an, an orthopedic surgeon.|b sd sd
+B|Uh-huh.|b
+A|And, um, so since the house did burn, they're, they're going, it's quite different than it was before, and it's it's a lot bigger.|sd sd sd
+B|Uh-huh. Yeah.|b b
+A|And, um, but ours is about, it's, you know, it's a nice home, it's definitely not one of the, the smaller ones, and, um, it's not the biggest either. But.|sd sd sd sd %
+B|Yeah, new ones, I mean, they, they tend to, to be real tiny, but that uh, especially in newer neighborhoods, my, my brother just built a new house. He lives in Wichita, Kansas, and the, um, the neighborhood actually fought him on it, because he, he was, um, the house was going to cost less to build than any other house in the neighborhood.|b sv sd sd sd sd
+A|Oh.|b
+B|Now, that's because he was, he's doing a lot of it himself and, you know, for example, landscaping and, and lots of the other stuff,|sd
+A|Yeah.|b
+B|and his house actually ended up being nicer than lots in the neighborhood, but but they were, they were pretty touchy on it.|sd sd
+A|Yeah. You.|b %
+B|He was a little surprised.|sd
+A|You know, that's interesting you say that, because we do have, we have those architectural codes here|ba sd
+B|Uh-huh.|b
+A|and when we, um, put out house in, um, they wanted us to have, there was one, we have part siding on, on the two story part and then on the back,|sd % sd
+B|Uh-huh. Uh-huh.|b b
+A|and, they, there was one side where our chimney was, and just the chimney was going to be brick, and they wanted us to have more brick, so we ended up having to go halfway up|sd sd sd sd
+B|Uh-huh.|b
+A|which, it does look nicer, and, you know, we would have like to have had all brick, but, of course at that point we couldn't afford it, and, but, it's funny that you'd say that, because there were homes in here that didn't have any brick at all.|sd sd sd sd
+B|Right.|b
+A|So it's kind of like, they were.|sv
+B|Kind of depends on when they get in, you know.|sv
+A|Yeah, yeah, and, I, and so it was kind of like it's they, ours is the last street that they built on. So the houses actually on our street are a little bit, they're kind of gone a little bit nicer.|aa aa % sd sd
+B|Oh, they have, it's gotten, yeah.|% % %
+A|Yeah, I mean, just they, you know,|b^m %
+B|Yeah, oh.|b b
+A|it's like the second phase|sd
+B|Uh-huh.|b
+A|and, and so they've kind of changed the, the codes a little bit, and so that's kind of why, I guess, they stuck us with more brick when there were other homes that didn't have any.|sd sd
+B|Um. Well, see, my sister kind of got in the opposite end of that, because they, they moved into a neighborhood and bought a, a real nice stone house down in South Austin.|b sd
+A|Oh, uh-huh.|b
+B|And, uh, and, the, what the builder apparently plans to do, is they, they do phase one, and they kind of give it a very upscale and very tightly controlled, uh, codes and, and, and stuff, and then they come back in, and, and then they sell,|sd sd sd sd

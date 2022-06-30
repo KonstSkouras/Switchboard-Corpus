@@ -1,0 +1,190 @@
+A|Well, what do you think about it?|qo
+B|Well, um, most of the stuff up until now, in the recent months, I, I, I don't have any problem with.|sd
+A|No, I don't either.|aa sd
+B|Uh, I mean it's, you know it,|% %
+A|I don't think it's going to change very much but|sv %
+B|No, I agree with that. As, as far as the, as far as the mess that's developing as a result, um, you know, as a country, the United States, uh, I think our hands are tied as far as, as, as any further involvement,  until the U N sanctions it.|aa aa sv sv
+A|Uh-huh. Yeah.|b b
+B|In fact, it really was to begin with.|sv
+A|Yeah.|b
+B|And, uh, I just, I heard a comment on the radio this morning that, uh, you know, it, it gets to a point where, uh, if enough people are, are going to be slaughtered over there over the, the, the internal problems, um, somebody may step in again.|sd
+A|Uh-huh.|b
+B|But, uh, I really think it's, it's a U N issue,  at that point because it is internal.|sv
+A|Yeah. Well, you know the funny thing I find about American opinion is that when we have gone in to destabilize a government before, the American public goes crazy.|b sv
+B|Uh-huh.|b
+A|And now the fact that we're not interfering with the internal rebellion in, in Iraq, they're going crazy.|sv
+B|That's right, that's right .|aa aa
+A|You know, I mean you can't please them one way or the other.|sv
+B|Absolutely right.|aa
+A|You know, and I, and I think that, I, I agree with you, this is exactly the right course. I mean that's an internal problem to Iraq. It has nothing to do with us.|aa sv sv sv
+B|Uh-huh.|b
+A|And until he starts doing something so inhumane that the U N gets involved, then it's nobody's business.|sv
+B|That's right.|aa
+A|Um,|%
+B|I mean these, these types of internal things go on all over the world all the time.|sv
+A|All the time. I mean, yeah, I mean,|aa aa %
+B|Some of them have been going on for, for tens of years,  if, if I understand it right in places like the Sudan and,|sv
+A|Yeah. Yeah, and it's certainly, and it's certainly been going on over there for hundreds of years.|b aa sv
+B|Yeah.|b
+A|And it's going to continue.|sv
+B|That's right.|aa
+A|As long as you have so many diverse groups that are, that are vying for power, it's going to happen all the time.|sv
+B|Yeah, that's absolutely right.|aa aa
+A|I mean the Kurds have tried it before. They've gotten their butts kicked,|sv sv
+B|Yeah.|b
+A|and this is just another time that it's happening.|sv
+B|That's, that's absolutely right.|aa
+A|You know, they'll regroup out in the mountains and they'll try it again in a couple of years.|sv sv
+B|Yeah, it was just, you know, it was, it's a very opportune moment for them to try. You know you,|aa % sv %
+A|Sure, and, and, and I don't have any doubt that through some back channels that we encouraged it. You know.|aa sv
+B|Oh, yeah. Yeah.|b b
+A|But, I'm not real sure that we promised them anything.|sd
+B|Uh-huh.|b
+A|I, that would have been stupid,|% sv
+B|Yeah.|b
+A|and, and I don't think we did it. Everything else we handled in this seemed to be perfectly right. I don't think they would have done that.|sv sv sv
+B|Yeah, I agree.|aa aa
+A|But it just, it, it really doesn't make any difference. This is just a, a, another chapter in Middle Eastern history.|sv sv
+B|Yeah, and, you know, and it, there are many of them. There's no doubt about it.|aa sv sv
+A|Oh, sure, I mean the, the British occupied the place, the French occupied it, we've done it. It, it's happened so many times, this is, this is really nothing special. Uh,|aa sd sd sd sv sv
+B|Uh-huh. Well, and, and, and so many of the, so many of the conflicts, um, really don't have a basis in, in, uh, politics or, or human rights or anything like that. It,   It's, it's religious based|aa sv sv
+A|That's right, it's it's mostly religious anyway.|aa ^2
+B|and, uh, you know, by, by self-proclamation this is a holy war and it is right.|sv sv
+A|Yeah.|b
+B|And then, uh, we, we go on from there and,|sv %
+A|Yeah, exactly.|aa aa
+B|Yeah, it, it's, it's a mess. It, it's, there's no doubt about it, and, uh,|b sv % sv %
+A|Well, I, I, I think one of the big problems, I mean looking at it from the the American public's standpoints, they don't understand the Middle Easterners.|sv sv
+B|That's right.|aa
+A|They don't understand what, I mean their politics really isn't politics. It's religion couched as politics.|sv sv sv
+B|Uh-huh, uh-huh.|aa aa
+A|And there's a big difference.|sv
+B|Absolutely.|aa
+A|You know, uh, we sit there and, and we think that they think the way we think.|sv sv
+B|Uh-huh.|b
+A|And that's a big mistake,  because they don't.|sv
+B|You bet. You bet. Well, yeah, because there's no, uh, you know, there's, there's, there's a complete different set of values.|ba ba aa sv
+A|Uh-huh.|b
+B|Um, there's, there's different value placed on human life,  and, uh, right down the list, you know, possessions and, and everything else.|sv
+A|Yeah. Yeah.|b b
+B|And, uh, what's right is wrong and what's wrong is right in some cases.|sv
+A|That's, that's it a lot of the time. I, I was stationed in, in Turkey for, for a year and a half.|aa sd
+B|Okay.|b
+A|And it, it was tough,  understanding those folks.|sd
+B|Yeah Yeah.|b b
+A|You know, it, they, they're, they're so completely different culturally and socially and and religiously,|sd
+B|Uh-huh.|b
+A|it's just, it was very strange.|sd
+B|I believe it.|ba
+A|It was very interesting.|sd
+B|Yeah, yeah, I can, I can, I can believe that. Yeah, I, I don't claim to have an in-depth understanding by any means, but, uh,|aa aa ba aa sd %
+A|Now I, shoot, I, I think some of these people that they claim as Middle Eastern experts don't, don't have a clue sometimes.|% sv
+B|That's probably true, that's probably true.|aa aa
+A|You know they, they sit there and, and read their books and then proclaim themselves an expert.|sv
+B|Uh-huh.|b
+A|Well, I'm not real sure that's, that's appropriate.|sv
+B|No, no, that's, that's, uh, a, a little bit of background study has never made an expert in any field.|aa aa % sv
+A|No.|aa
+B|But, uh,|%
+A|Well, I sort, that sort of goes to my pet peeve about the education system in this country, too.|% sd
+B|Yeah.|b
+A|And we make experts by reading books.|sv
+B|That's right.|aa
+A|You know, and the Japanese and the Germans and everybody else make experts by doing.|sv
+B|Uh-huh, absolutely,|aa aa
+A|Yeah.|b
+B|Absolutely.|aa
+A|Yeah. I, uh, I, I guess you work for T I.|b qy^d
+B|That's right, yes.|ny
+A|So you guys are well aware of the problems with the Japanese markets and everything else.|qy^d
+B|Right, right, that's an everyday occurrence.|na na sd
+A|Yeah. It's, it's like our car industry, the only reason our car industry hasn't gone down the tubes is because the Japanese, you know, came into it and helped,  us out.|b sv sv
+B|Uh-huh. Uh-huh. I agree. Yeah, it's, it's, uh, there, there is, there is, it's an overall problem in, in, in this country understanding, uh, foreign cultures,  or even accepting them.|b b aa aa sv
+A|Uh-huh. Uh-huh.|b b
+B|And, uh, it, it, it bites us over and over again, the, the, the,|sv %
+A|Yeah, and until we, until we start changing our educational system, I mean we're, we're going to be, we're, we've already been overtaken, but it's going to get even worse later.|aa sv sv sv
+B|Uh-huh.|b
+A|I mean looks who's, looks who's getting the engineering degrees and the, the math and the science and everything.|sv
+B|That's right.|aa
+A|It's not us.|sv
+B|That's right.|aa
+A|You know, we, we've got folks running around here who get, who get degrees in basket weaving and you know, underwater psychology,  or some, some ridiculous stuff like that.|sv
+B|Uh-huh. Absolutely.|b aa
+A|And, and where are the engineers coming from?|qh
+B|Uh, well, they're, they're coming from various places, and a lot of them are going back there.|sv sv
+A|Yeah, exactly.|aa aa
+B|That's|%
+A|My, uh, my roommate is a, uh, he's getting his doctorate in industrial, well, it's not industrial engineering, it's human factors.|sd sd sd sd
+B|Okay.|b
+A|His degree was in, uh, industrial engineering.|sd
+B|I see.|b
+A|Uh, and he's from the Philippines.|sd
+B|Yeah.|b
+A|And the only reason he came here was because the education is so much better for those who will go after it.|sd
+B|Right.|b
+A|He has no intention of going back to the Philippines because there's no jobs.|sd
+B|Sure, okay.|b b
+A|You know, uh, but I, I see it all too often. I mean we've got loads of foreign students|sd sv
+B|Uh-huh.|b
+A|and they're coming here, going after the hard degrees and then they're going back to Korea and Japan,  and Hong Kong and everywhere else|sv sv
+B|Absolutely.|aa
+A|and they're applying it there.|sv
+B|That's right.|aa
+A|And I don't know, it's, to me it's amazing. I don't know what we're going to do as a country. We're, we're going to become dependent on these other folks sooner or later.|h sv sd sv
+B|Yeah, you know, every, every, the, the country's got a problem with, uh, with quarterly reports and annual statements and things like that.|aa % sv
+A|Uh-huh.|b
+B|And the long, long-range views are, are just kind of, become a thing of the past.|sv
+A|Yeah you,|b %
+B|And, uh,|%
+A|I don't, I don't think there can be anymore long range planning. I think it, it's, it's sticking your finger in the holes in the dike.|sv sv
+B|Uh-huh.|b
+A|You know, it, oh, here's a crisis. Well, let's plug it up.|sv sv
+B|Yeah, yeah.|aa aa
+A|I don't know. I don't know what the answer is. It's far beyond me.|h sd sv
+B|Yeah, that's for sure. That's, that's the way things have gotten.|aa ba sv
+A|Yeah, all we can do is keep plugging.|aa sv
+B|Yeah.|b
+A|You know, I, I wonder, I, I read in the paper just last week, I B M's unveiling their new laptop computer.|sd sd
+B|Uh-huh.|b
+A|Well, at a price tag of six thousand bucks, I don't know if they're going to have a whole lot of takers.|sv
+B|No, absolutely.|aa aa
+A|now I have the I have the I B M, P S two|sd
+B|Okay.|b
+A|but I'm sorry I got it.|sd
+B|Yeah.|b
+A|It's slow, it's, uh, there are many better machines on the market right now for a,|sd sv
+B|Yeah.|b
+A|the only reason I got it is because I got it through an educational purchase plan through the school|sd
+B|Okay. Okay.|b b
+A|and I saved forty-eight percent,|sd
+B|Uh-huh.|b
+A|so I said, yeah, if I can have an I B M for forty-eight percent discount, I'll take it.|sd
+B|Absolutely.|aa
+A|But up to that point I had I had always said I would never have one because I wouldn't pay that kind of money for their name.|sd
+B|That's right.|aa
+A|But|%
+B|That's absolutely right, yeah.|aa aa
+A|now you watch, just sure as anything, the Japanese are going to come out with a laptop at half the price with more stuff on it.|ad sv
+B|Uh-huh. Uh-huh. Yeah, the, the, unfortunately the way the, the way the high tech market goes, by the time you can get, get something in your hands,|b aa aa % sv
+A|Uh-huh.|b
+B|um,|b
+A|It's already outdated.|^2
+B|it, it's, it's obsolete, and, uh we're, we, we fight that battle every day here at work,|sv sd
+A|Yeah. Yeah, yeah, I, I can imagine.|b b b ba
+B|and, uh,|%
+A|I, uh, years ago, I remember when I had a T I ninety-nine. Put all the money into the expansion box and all this, that and the other|sd
+B|Uh-huh.|b
+A|and, uh, things just kept changing so much and I kept getting rid of them, and I finally said, well, you can't do this|sd sd sd
+B|That's right.|aa
+A|You've got to buy something and stick with it, so I so I just,|^q %
+B|That's right.|aa
+A|at an opportune time I got one that, that suited my needs and I've just stuck with it. The only thing I've done to it is just add a, uh, add a mouse and a hard drive.|sd sd sd
+B|Okay, yeah.|b b
+A|And that's all I plan to do. Of course, I'm limited on memory now because I've got the low line. I got the model twenty-five.|sd sd sd
+B|Oh, okay.|b
+A|So I'm stuck with six forty, but I'm not a power user so it doesn't matter.|sd sd sd
+B|Yeah. Well, that, that's, that's the key, you know, whatever works for you.|b sv
+A|Yeah.|b
+B|And, uh, if it does the job, then that's, that's what you need.|sv
+A|Yeah, now my roomie, on the other hand, he is a power user. He's, he's looking now to get rid of his. He's got a three eighty-six and wants to get a four eighty-six. You know, this kind of stuff.|aa sd sd sd
+B|Uh-huh.|b

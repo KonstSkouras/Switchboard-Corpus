@@ -1,0 +1,110 @@
+A|Well, what movies have you seen recently, Valerie?|qw
+B|Let's see, the last one we saw was THELMA AND LOUISE.|^h sd
+A|Oh, we haven't seen that one yet.|sd
+B|Well, don't bother|ad
+A|Oh, it wasn't that good.|qy^d
+B|Well, oh, from a woman's point of view and it was very, uh, chauvinistic as far as women go. Uh, it was, it was entertaining, but, yeah, I don't think the general audience would, would go for it.|sv sd % sv
+A|The most recent one that, uh, my wife and I have seen was the CITY SLICKER.|sv
+B|How was that?|qw
+A|That was excellent. It was just a really, a really funny movie.|sd sd
+B|That is one I've been dying to see.|sd
+A|At the same time, it had a story line about people trying to find themselves. There were parts that were sad. I mean, it just ran the gamut of emotion.|sd sd sd
+B|Uh-huh, uh-huh, and,|b b %
+A|And, but it was just all around entertaining.|sd
+B|How long did that movie run?|qw
+A|Uh, it's still on, to the best of my knowledge.|sd
+B|But, I mean, time wise, how long, was it two hour|qw qy
+A|Oh.|b
+B|or,|%
+A|Uh, it's, I think it's less than two hours.|sd
+B|Uh-huh. Okay, okay.|b bk bk
+A|We, we rented one recently that seemed to go on forever|sd
+B|That always seems to happen when you rent them, you know|sv
+A|Yeah, but this one, it was fairly long. I, I'm guessing probably an hour and forty-five minutes, maybe.|aa sd sd
+B|Uh-huh, uh-huh, and, uh, it,|b b %
+A|But excellent acting by Billy Crystal and Bruno Kirby,|sd
+B|Was it, oh, good. Uh-huh.|ba b
+A|uh, who was the, oh, Jack Palance had an excellent part in there as the old cowboy.|sd sd
+B|Oh, great.|ba
+A|So we really enjoyed that.|sd
+B|Oh, well, I'm looking forward to seeing that one. That was next on our list, so, uh,|sd sd %
+A|Yeah, I think that, uh, I can highly recommend that movie this, to see.|b sd
+B|Okay, okay, good deal|b b ba
+A|Yeah.|b
+B|good deal. Do you rent movies very often, or,|ba qy %
+A|Uh, we generally rent a couple a week. Uh, in order to get a decent movie to have on a weekend, you've got to rent it on Thursday.|sd sv
+B|Right. Right.|b b
+A|They get they get taken up at the store,|sd
+B|That's exactly right.|aa
+A|so,|%
+B|Uh-huh, uh-huh.|b b
+A|We will rent two or three movies on Thursday and, uh, with luck, you'll have one or two that are good.|sd sv
+B|Yeah, right, right.|aa aa aa
+A|Most of them are a coin flip|sv
+B|Oh, gosh. Yeah, yeah. And we usually have, oh, we don't get out as much as we like. We have two children, so we occasionally get out to the movies|ba b b sd sd sd
+A|Yeah.|b
+B|but, uh, it's, it's fun, it's a fun thing to do to get out and be entertained for once.|sd
+A|Yeah, well, Quite frequently, we have our grandchildren on the weekends|b sd
+B|Uh-huh.|b
+A|and, uh, we'll try to rent something that they can see as well as something else that we can see and, Uh, Uh, generally try to stay in the at least P G range.|sd sd
+B|Uh-huh. What ages are they? Have you found trouble finding movies for them or, Right.|b qw qy % b
+A|The, uh, the oldest is nine, the youngest is three. He doesn't really pay attention.|sd sd sd
+B|Yeah, yeah.|b b
+A|The five year old doesn't have the attention span, either.|sd
+B|Uh-huh, uh-huh.|b b
+A|But the, the nine year old will watch anything that's on T V|sd
+B|Uh-oh, uh-oh, yeah.|b
+A|So,|%
+B|They have been doing that. We've been waiting for a, a good movie out this summer for the kids to see. The last one they saw was HOME ALONE and, uh, they enjoyed that, but, uh, I missed that one. My husband took the kids to see that one so,|sd sd sd sd sd sd %
+A|Yeah, my wife took, uh, I think the kids to see that one, but we can generally find something at the store for them to watch.|b sd sd
+B|Uh-huh. Yeah, yeah, well, that's a good deal.|b b b ba
+A|The, uh, oh, we saw this movie, PRESUMED INNOCENT was the one we rented, uh last weekend.|% sd sd
+B|Okay, let me think if I have rented that one.|b ^h
+A|Harrison Ford.|sd
+B|Harrison Ford and, how does the story line go?|qw
+A|It's, uh, he is a prosecuting attorney and, uh, another prosecutor in the, a woman prosecutor in there is murdered|sd sd
+B|Oh, okay, we haven't seen that one.|bk sd
+A|and he's trying to find it, but, course, it's one of these with a twist where it looks like he's the one that wound up killing her so it's, And it's an extremely long movie.|sd sd sd
+B|Uh-huh, uh-huh.|b b
+A|It's, it's over two hours long.|sd
+B|Oh, gosh, oh, gosh.|ba ba
+A|Which, uh, my wife she likes the suspense movies. I enjoy them to a degree.|% sd sd
+B|Uh-huh. I think that's the one I wanted to pick up the other day, and then my husband wasn't going to be able to watch it with me, so I thought I better save that one for another day|b sd sd sd
+A|Save that for another day.|b^m
+B|Yeah, because I think he'd like that one.|aa sd
+A|Yeah.|b
+B|You enjoyed that one, then.|qy^d
+A|Yeah, I think you, it's, uh, it's something I think you would enjoy, yes.|ny sd ny
+B|Uh-huh, okay, well, that's a good one to put on the list.|b bk sd
+A|It, it's like most suspense movies, what was it was on T V recently, uh, FATAL ATTRACTION.|sd qw sd
+B|Uh-huh.|b
+A|It's one that, once you've seen it once and, uh, the suspense there is not really you really can't see it again|sd
+B|Right, okay.|b b
+A|so you know all the story and who did what and when it happened,|sd
+B|Uh-huh.|b
+A|so once, once you seen one that's a suspenseful type movie like that, then it's, it's not good for a second watching particularly.|sv
+B|Uh-huh, okay. Uh-huh, uh-huh|b b b b
+A|At least I don't think so|sd
+B|I don't think too many of them are anymore. It's, it's a shame, but, uh,|sv sv %
+A|I don't know, we've watched WEEKEND AT BERNIE'S any number of times|h sd
+B|I know|aa
+A|It's just slapstick comedy|sd
+B|Oh, no Oh|ba b
+A|Sit there and laugh, and, my one grandson and I, my wife can't understand it, but we like BILL AND TED'S EXCELLENT ADVENTURE which is another funny one|sd sd sd sd
+B|Oh, gosh. Yeah, we've heard about that one, but we haven't seen that one either So, well, it sounds like you and your grandson like the same kinds of movies.|ba aa sd sd sv
+A|Yeah, we like to laugh|aa sd
+B|Oh, God.|ba
+A|I, I have a theory. I like movies for entertainment. I don't want to uh, go away depressed from watching a movie.|sd sd sd
+B|Right. Right, right. I agree, I agree.|b b b aa aa
+A|Life's depressing enough|sv
+B|That's for sure|aa
+A|Well, I've certainly enjoyed talking with you.|fc
+B|Well, you, too, Jim.|fc
+A|Okay, bye.|fc fc
+B|Thanks for punching in and, uh|ft %
+A|Have a nice weekend.|fc
+B|I hope you see a good movie soon.|fc
+A|Okay.|fc
+B|Okay.|fc
+A|Bye.|fc
+B|Bye-bye.|fc

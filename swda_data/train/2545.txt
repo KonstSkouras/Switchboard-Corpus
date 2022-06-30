@@ -1,0 +1,120 @@
+A|Um, so do you have a personal computer?|qy
+B|Uh, well we do have one in, in our home, uh, it's on the fritz right now, because the monitor isn't working properly but, uh, it has been, uh, used tremendously, mostly by my children for, uh, playing games|sd sd sd
+A|Oh|b
+B|However, um, you know, the bane of our existence these days, uh, but it does have a word processing program, which all of us have used for reports and papers and that sort of thing.|sd sd
+A|Yeah, that's what, when this subject was mentioned to us I said, well, I went, gee, that's all I use mine for is a word processor, and I haven't used it since I got out of college, and that was six years ago,|b % sd sd ^q sd
+B|Oh, wow.|ba
+A|but it, it was my sister's who, my sister bought it|sd sd
+B|Uh-huh.|b
+A|and, uh, my father had a small business and she thought that he would incorporate it and use it in the business, and he never did,|sd sd sd
+B|Oh.|b
+A|he always did everything out by hand. He only had three employees,|sd sd
+B|Oh, yeah.|b
+A|so, you know, it wasn't really worth it to him to do, to do it.|sv
+B|Yeah. Actually, it would be worth it, if he were able to get a program that would do something that he normally had to do by hand.|b arp_nd
+A|Yeah, like pay, the payroll and,|aa sv %
+B|Exactly, and there are, lots of them on the market.|aa sd
+A|yeah, basically payroll. Yeah.|b sd b
+B|But you do have to research that, find out what works for your system What kind do you have?|sd qw
+A|Um, it's an I B M, I think it's a Professional Three Hundred, no, that's, that's the digital one. It's an, uh, I B M P C Junior, I think.|sd sd ar sd sd
+B|Oh, well, that's a nice computer.|ba
+A|Yeah she, she, uh, she uses it now, uh, my sister, to, actually, she moved She took it with her, *sd because she needed it to do,|aa sd sd
+B|Uh-huh, so she took it with her Yeah, don't blame her.|b bf b fo_o_fw_"_by_bc
+A|she just finished up her Bachelor's degree|sd
+B|Uh-huh.|b
+A|so I don't know if she's going to even use it anymore. It, it's,|sd %
+B|Yeah Oh, well, well, encourage her to try other things, because, um, I am, uh, I work in a school system, and I teach writing and we use the computers a great deal for word processing, you know, because students really do seem to be freer when they write on the computer, as you probably found out yourself,|b ad % sd sd sd
+A|Yeah.|b
+B|but, um, I also am sponsoring a literary magazine, and we're doing our entire layout on the computer uh, because of the graphics program and a page maker program that we have, a publishing program|sd sd
+A|Oh, yeah, that's, that's neat, that's, a very good use.|b ba ba
+B|So, it is wonderful, once you get into some of the programs that are out now, you can do so much with them, that you don't do until you really make yourself use them.|sv sv
+A|Yeah. Well, I know there, there's got to be a lot of uses, but it's just you have, to have a need.|b sd sv
+B|You have to make yourself do it, yeah.|sv aa
+A|Yeah, but you have to have a need. I really have no need for it at all,|aa sv sd
+B|Yeah.|b
+A|um, I work for Digital Equipment|sd
+B|Uh-huh.|b
+A|and we have a powerful computer down at work.|sd
+B|Oh so, you don't need a personal one|b bf
+A|No, and I, I still really don't do that much, as you say, play games on it|aa sd
+B|Yeah. Yeah, yeah.|b b b
+A|they're great for playing games.|sv
+B|Right.|aa
+A|My brother,|%
+B|Well, my son is, uh, studying electronic technology, and he's been able to do things on uh, on the personal computer here that really have enhanced his, um, reports, and his learning and all because he can lay things out that way.|sd sd
+A|Yeah.|b
+B|Um, and I guess it, if you're doing that sort of thing it's really useful, but, um, unless it is, I guess it's kind of a waste.|% sv sv
+A|I know some people who just, they just went through a course, uh, and took the electronic grafting course, drafting, not grafting, but drafting course,|% sd
+B|Oh, that's, fascinating. Uh-huh. Yeah,|ba b b
+A|the C A D.|sd
+B|I knew what you meant, yeah.|sd b
+A|Yeah, and that's really neat, I mean, yeah, you can do graphs, graphs on it too,|b sv % sd
+B|Yeah.|b
+A|but this is, you know, this is one step above it, but it's actual, um, drafting,|sd sd
+B|Yeah.|b
+A|and I always,|%
+B|Yes, you can do wonderful design. It, it's really, well, especially when anyone who's ever done any kind of drafting or engineering uh, drawing, um, you have to be so precise.|aa sv % sv sv
+A|Yeah, and the computer does it all for you.|b sv
+B|Yeah.|b
+A|So it was really neat. I wanted to go to that course, but my boss wouldn't pay for it,|sv sd sd
+B|Oh, well|ba
+A|I'm like, I'll get a job some day and my boss will pay for it, I'll be needed.|sd ^q
+B|Yeah.|b
+A|Because, um, I, I, I didn't want to go do it myself because I didn't think I was really going to use it.|sd sd
+B|Uh-huh.|b
+A|I got this cough, I've got a cold because it was eighty degrees up here and I went outside with no coat on.|sd sd
+B|Oh, boy|ba
+A|Yeah, it was bad.|aa sd
+B|What a change, huh?|bh
+A|Yes, it was a big change.|ny sd
+B|Yeah.|b
+A|You couldn't really wear a coat because it was so hot, and then, again, I picked up a cold.|sd sd
+B|Right.|b
+A|But I'm doing all right, getting over it.|sd
+B|Well, that's good.|ba
+A|So I don't, I don't even know how much, um, personal computers cost nowadays.|sd
+B|Well, they vary tremendously. Um, because you can get because you're, they're, uh, the ones that were made a few years ago, uh, have come down in price significantly, um, you can get them, I've seen them for five, and six hundred dollars, but they 're much less, um, have much less memory, and capable, of much less.|sd % % sd sd sd
+A|Yeah, they can't do your, um, your drafting and your graphs, and all of that.|aa bf
+B|no, you can't do very much on them. Right. Right. Um, well, it's just that you have to have, uh, you have to be able to get your program in, and, and, many of the programs are so big, uh, they take up so much space that you don't have any place then to work. You don't have any, bytes left|aa sd aa aa sd sd sd sd
+A|Yeah?|bh
+B|but, um, if you, um, if, if you want to go into one that's really useful, you're going to have to go over a thousand dollars, and even for a personal computer it's probably smart to spend that much, and we've, ours is not quite that powerful, and so, you know, we are, we are limited, which may be one reason why,|sd sd % sd sd
+A|You do run you do run into limitations on yours?|qy
+B|Oh, yeah,|ny
+A|Oh, wow.|ba
+B|uh-huh, some things we can't do, but, but then we haven't needed to either, you know, um,|b sd sd
+A|Yeah.|b
+B|but we've been able to do what we can.|sd
+A|Wow, that's neat that you you even reach the limits of yours. I haven't even begun to reach the limits,|ba sd
+B|No, but I, mine is not as good as a P C, uh, uh, Junior,|aa % sd
+A|Junior, yeah.|^2 b
+B|yeah. Yeah, ours is a Commodore One Twenty-eight.|b % sd
+A|Yeah.|b
+B|And it, it's not quite as, um, as useful, not quite as powerful.|sd
+A|Yeah. They, say that Commodore has made a good, um, P C for the price, though.|b sd
+B|So, They did, yeah, that's very true, that's very true, they did.|% aa aa aa aa aa
+A|Very competitive. I don't even, I don't even know much money my sister spent on hers, but I, I just thought I, it's, it's going to be a waste, she's not going to do it, not going to use it. Oh, well.|aa sd sd sd %
+B|Sounds like he, that you were right|bf
+A|Yeah. Well, she likes it, she gets to write her reports, but like I say, she could have bought a much cheaper model and done what she wanted.|aa sd sd sv
+B|Yeah. And she could have bought a typewriter also|b sv
+A|Yeah, a typewriter with memory would, would have been fine,|aa sv
+B|Yeah,|b
+A|it's all she uses it for.|sd
+B|yeah.|b
+A|Um, I think it might have a spelling editor on it, I'm not sure. Yeah. *b|sd sd
+B|Yeah, it, yeah, it if, if it doesn't she could easily put it on.|b % % % sd
+A|Yeah,|b
+B|Yeah, right.|b b
+A|that's one of, the one great thing about it|sv
+B|Right. Which program did you use? Did you use Word Perfect?|b qw qy
+A|Um, no, I, I really don't, it's, it was six years ago.|nn % sd
+B|Oh, yeah.|bk
+A|She pretty much set it up. She goes, here, this is, you make your file, and then you can, uh, edit it. Right? Um, I used the one, the one at work a lot, um, matter of fact, anything I've had to write from now on, I had to God forbid, write a couple of resumes, *listen to this and the previous two utts--same or separate? and I was just great, and all you have to do is just put it in a, uh, the spelling check mode,|sd sd ^g sd sd ba sd sd sd
+B|Uh-huh.|b
+A|And I don't even have to look my, my words up anymore.|sd
+B|Yeah, they're great, you're right Well, I guess we've spent our time.|aa ba aa fc
+A|Oh,|fc
+B|I need to go help my daughter do something, so this has been fun talking to you.|fc fc
+A|Okay, good. Okay.|fc fc fc
+B|Good luck.|fc
+A|Yeah, well, bye.|fc fc
+B|Uh, bye-bye.|fc

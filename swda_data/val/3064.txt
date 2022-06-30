@@ -1,0 +1,132 @@
+A|Do you use credit cards a good bit?|qy
+B|I do, and I wish I didn't|na sd
+A|Uh.|b
+B|Before I got married, uh, about the only credit cards I used were gas cards, because I didn't like carrying, you know  the cash with me all the time,|sd
+A|Uh-huh.|b
+B|but I just never wanted to get into the hang-up of using credit cards and having all those bills hanging over my head.|sd
+A|Uh-huh. Uh-huh.|b b
+B|In fact, I remember getting my first MasterCard, and the only reason I got it was, you know, there was a while years ago when you couldn't cash a check without like a MasterCard or VISA.|sd sd
+A|Okay. Absolutely. Right.|b b b
+B|And so that's why I went ahead and got one.|sd
+A|Uh-huh.|b
+B|It was a mistake|sd
+A|Yeah. Well, actually, I, I have a whole wallet full of credit cards.|b sd
+B|Yeah.|b
+A|I don't use them very often. Um, oh, I may use, I try to use at least one gasoline credit card a week, and try to use a different one, so that, you know, I have, keep those active.|sd sd
+B|Yeah.|b
+A|I have a half a dozen department store credit cards, and I, I'll use those if I need to run in and buy a dozen pair hose right quick or something like that,|sd sd
+B|Yeah.|b
+A|just enough to keep them active. My biggies are the VISA, MasterCard and Discover.|sd sd
+B|Yeah.|b
+A|And for the most part, I had used those for like, uh, charging airline tickets, where I can pay for those, you know, you could make the transaction over the telephone,|sd
+B|Yeah.|b
+A|or I fly Southwest a good little bit, which means I can just run that card through the machine.|sd
+B|That's right.|aa
+A|Uh, and it saves a lot time. And that's what I was using it for. However, we had a, had a, a very pressing financial family crisis, which said you have no alternative, you must have the money to do this with, and you do not have any other options|sd sd sd ^q ^q
+B|Uh-huh.|b
+A|so I charged all three of those cards up, and right now I am paying and praying.|sd sd
+B|I know how that goes|ba
+A|But, uh,|%
+B|and that's exactly what we've, I mean I have to say I have been thankful for them, because there were times when it was just like that when we had to have the money|sd
+A|Uh-huh. Uh-huh Uh-huh. Uh-huh.|b b b b
+B|we had no way around it|sd
+A|Uh-huh.|b
+B|and the only way to do it is go get, you know, an advance on a card|sd
+A|Uh-huh. Uh-huh|b b
+B|and so like you were paying for it, but it's one of those I'm glad it was there.|sd sd
+A|Well, I never did, Right. I never did use it for an advance. Most of my charges were, uh, medications.|sd sd sd
+B|Oh, I see.|b
+A|Didn't have cash for the medications or it was, uh, the doctor would accept MasterCard or VISA.|sd sd
+B|Oh.|b
+A|And, uh, a lot of times you can get by using those for, uh, uh, different labs will use those charge accounts for,|sv sv
+B|What, Do you find now, though, that even some doctors won't? I've found some doctors that say, you know, I was so used to doctors or medical care places taking credit cards, and so many of them don't anymore.|% qy ^h ^h na
+A|Uh-huh|b
+B|So,|%
+A|Well, I have not, like I said, that was just one period in my life where that was critical.|% sd
+B|Yeah.|b
+A|I don't generally charge. I say well, I need a checkup in six months, and I kind of set that aside and just pay for it.|sd sd sd
+B|Right.|b
+A|I'm reimbursed on insurance anyway, and I can handle, you know, paying for it and waiting two or three weeks.|sd sd
+B|Right.|b
+A|Getting into a credit card fiasco is easy.|sv
+B|Oh, it is|aa
+A|It is easy, and it's very difficult to get out. I just cringe every month when I see those interest charges.|sv sv sd
+B|I know.|aa
+A|I say wow, I, I ought to go to the credit union and borrow the money and pay this off. Big deal, I'm saving two percent.|sd ^q ^q ^q
+B|Right. But, you know, the interest, even though it bothered me, it didn't used to bother me so much, because, of course, you could list it on a Schedule A and you got all your interest, you know towards your tax deductions,|b sd sd
+A|Uh-huh. Uh-huh.|b b
+B|and now they've messed that up to where it really is a financial burden to have to pay it.|sv
+A|Right.|b
+B|And but it, but it is easy to get into a credit card problem, and I, I think about young people that think, you know, there's kind of that feeling of hey, it's so neat, I have my first credit card|sv sv sv ^q
+A|Uh-huh.|b
+B|and, and they just don't understand that you still have to be able to make the payments.|sd
+A|Oh, yeah, and it's not just paying back what you've charged,|aa sv
+B|You know.|qh
+A|it's paying that and half again.|sv
+B|That's right. That's right.|aa aa
+A|Uh, you send in, uh, uh, fifty dollars, you're going to pay twenty, twenty-five in interest charges.|sv sv
+B|That's right.|aa
+A|You only get half of that paid for the principal, so I'm looking at three or four years before my balances are cleared on those charge accounts.|sv sd
+B|Right.|b
+A|Now, as the monthly payment, uh, I mean as the monthly payment amount goes down, that will free up more cash where I can continue to make the larger payments.|sd
+B|Right.|b
+A|Uh, as long as I don't have a major disaster where I have to use it again, I can, I can do that.|sd
+B|Right.|b
+A|Meantime, though, I'm not building any reserves.|sd
+B|No, and that's frightening to me.|aa sv
+A|Anything that I could be put aside into savings is going for interest on those cards.|sd
+B|That's right. That's frightening, too.|aa ba
+A|Uh-huh.|b
+B|Uh, I, I just, I, my husband is in business for himself|sd
+A|Uh-huh.|b
+B|I work for T I but he doesn't|sd sd
+A|Uh-huh.|b
+B|and, uh, we're, uh, I, I've kind of got my fingers crossed. I've learned when you're in business for yourself, that, that you don't count on something until it's happened you know,|sd sd
+A|Uh-huh.|b
+B|but he's got some, you know, it's those once in a lifetime cases, and after ten years he's got two of them|sd sd
+A|Uh-huh.|b
+B|and they should pay through next month, and, and we're both just looking at each other every night going man, that will pay off like both of our MasterCards, you know.|sd sd
+A|Oh, right, right.|b b
+B|And, you know, just in one lump, because that's the only way you can do it, is to have a big chunk of money|sd sv
+A|Uh-huh, uh-huh.|aa aa
+B|or it's like you say, you pay forever.|sv sv
+A|Uh-huh, uh-huh.|aa aa
+B|And so I'm really looking forward to that.|sd
+A|Well, you either need a big chunk of money or you need a large reserve so that if you do charge on that account, you can make a single lump sum payment.|sv sv
+B|That's right.|aa
+A|Now, those are very handy|sv
+B|Right.|b
+A|if you have the reserves and you can make lump sum payments, sharp, good no problem|sv
+B|Sure, yeah. I agree.|aa aa aa
+A|because you're living on the other guy's money for a while.|sd
+B|That's right|aa
+A|But I can promise you that those credit card companies are going to ride high on my money|sd
+B|I know and,|aa %
+A|And it just irks me. I say my gosh, I had to work three hours just to pay the interest on this, and I've got three cards. I've lost a whole day of my life to interest.|sd sd sd sd
+B|I know. You're like what am I working for today|aa sv
+A|Yeah, yeah. And that just blows my mind. I, my house is paid for, my car is paid for, I've got some home improvements, but even the payment on that doesn't equal the payment on one of those credit cards.|aa aa sd sd sd sd sd
+B|It's incredible.|ba
+A|Uh-huh.|b
+B|Boy, I wish I could say that my house and, well, my car is paid for now. It was wrecked three weeks ago, but, but you see again the credit cards came in handy.|sd sd sd sd
+A|Uh-huh.|b
+B|I had to have the money to pay rental car, pay this, pay that till the insurance company pays back.|sd
+A|That's right. I think that is a good, healthy, safe use of credit cards.|aa sv
+B|And, uh, Yeah. Because you know that's coming back to pay it off.|% b sd
+A|Uh-huh, uh-huh. Uh, I went to a seminar, they said don't ever use your credit card for consumable items. You only use credit cards for investments.|aa aa sd sd ^q
+B|Right.|b
+A|I said for crying out loud, if I had the money to you know, if I could do some investing, you'd have to invest at better than twenty percent earnings in order to pay for the payments on the credit card.|sd
+B|It's, Sure. That's right.|% b aa
+A|That doesn't make a bit of sense to me. I thought God dang, where is his pencil?|sv sd
+B|That's right. Well, the smart half was don't pay it for consumables, don't, you know, if you can't afford to go to a restaurant and eat out and pay cash, don't put it on a credit card you know,|aa sv sv
+A|That's right.|aa
+B|and, and so that, that is the smart half.|sv
+A|Uh-huh.|b
+B|But, uh, and I can remember before we had kids, we did that a lot, but it was no biggie you know, because we could pay it off,|sd sd
+A|Uh-huh.|b
+B|while after kids, and you're paying child care and other things, all of a sudden it's not so easy to pay off, so we cut that out real quick|sv sd
+A|Uh-huh, uh-huh.|b b
+B|And, uh, but I, I do like having them there. There is a bit of security in having the credit cards and knowing that in times of crisis, they are there to use|sd sv
+A|Uh-huh.|b
+B|but you have to have a very good sense of saving, and or common sense not, not to get yourself in trouble.|sv
+A|Uh-huh. Uh-huh You also have to have that willingness to commit to that because you're committing a good portion of your life and income when you do it.|b b sv
+B|Uh-huh.|b

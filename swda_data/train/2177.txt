@@ -1,0 +1,99 @@
+A|Cindy, have you seen DANCES WITH WOLVES?|qy
+B|No, I haven't. Have you?|nn sd qy
+A|Oh, that is a wonderful movie.|na
+B|Uh-huh, it's not, the length isn't too long?|b % qy
+A|No.|nn
+B|Uh-huh. Well, we all heard different opinions about it.|b
+A|Oh goodness no. You don't even, you don't even realize it, you know.|nn sv
+B|Uh,|%
+A|Really.|bh
+B|Uh-huh, one that, you know, yeah, it was too long and they thought that, you know, at certain points that it was going to end, and it didn't, and it kept going on and, uh-huh.|ny % % sd sd sd sd % %
+A|Oh, I thought it was great.|sd
+B|Really.|bh
+A|Yeah.|ny
+B|Now, I've seen, you know, some different clips of it, um, and it, it looks good, it's just I haven't had the time to go to the movies lately|sd sv sd
+A|Well, yeah, and I heard a story about there's a, there's a certain scene in the movie where there's, um, where they're, they're on a buffalo hunt.|b sd
+B|Uh-huh.|b
+A|And they have a particular child actor, uh, who's, who's being supposedly run down by a buffalo.|sd
+B|Uh-huh.|b
+A|And when they were trying to film that, the buffalo that they used for that scene was Neil Young's buffalo.|sd
+B|Uh-huh.|b
+A|I can't remember what they said his name was. But he has a fetish for Oreo cookies.|sd sd
+B|Uh-huh, oh|b ba
+A|And he got him to run like he was running down the kid by luring him with oreo cookies|sd
+B|Hey, that'd work for me, let me tell you|ba ba oo_co_cc
+A|I thought that was really funny.|sd
+B|Uh-huh, uh-huh. Now I've seen another clip of, um, the guy that plays in MURPHY BROWN, I don't know his name, but he played the, uh, the, the character in it that was very, like, gross, I mean, very dirty,|b b sd h sd
+A|Oh, yeah.|bk
+B|Oh, I saw the one clip of him and ugh, it was first, I guess he was taking Kevin Costner to like the site where he was going to be or whatever.|sd ba % sd
+A|Oh, yeah.|bk
+B|That was rather, um, gross|sv
+A|Yeah, the wagon, the wagon driver.|b sd
+B|Yeah, yeah. But other than that I've heard the, the, you know, the, um, the scenery in it is absolutely beautiful.|aa aa sd
+A|Yeah. And, uh, the costuming *slash error yeah, was, *slash error|aa sv
+B|Uh-huh, really.|b bh
+A|the only thing about the costuming my husband remarked that it didn't, that, that, um, the Indians all appeared to be wearing new things.|sd
+B|Oh really.|b
+A|And they should have taken them out and rolled them in the dirt a little more probably to age, to age the material|sv
+B|Uh-huh. Uh-huh, uh-huh.|b b b
+A|so, they, they did very authentic reproductions of the, of the actual stuff,|sd
+B|The styles, uh-huh.|^2 b
+A|but they didn't, they didn't age it quite enough it seemed.|sv
+B|Uh-huh. Uh-huh.|b b
+A|But it was a very good movie.|sv
+B|Uh-huh. Well, I guess I will have to see it then.|b sv
+A|What have you seen lately?|qw
+B|Um, actually have been to the movies, um, I think the last movie I saw was MISERY.|sd sd
+A|Oh, I didn't see that.|sd
+B|Oh, very suspenseful.|sd
+A|I don't, I don't like Stephen King.|sd
+B|I really don't either, but I went with someone, and once I was there, I couldn't believe. I mean, it's an excellent movie.|aa sd sd sd
+A|Really.|bh
+B|Yeah.|ny
+A|I wasn't sure, because, uh, just generally, you know, that kind of scary stuff I, I just don't want to have anything to do with it.|sd sv
+B|It's not necessarily, it's not necessarily scary as it is suspenseful. I mean it's not.|sd sd
+A|Yeah, I think I heard somebody talking about that she cuts his foot off or something, you know.|b sv
+B|No, in, in the book apparently she cuts his feet off, but in the movie she, she disables him, but not by cutting his feet.|ar sd sd
+A|Um.|b
+B|Um, she, she breaks both of his ankles.|sd
+A|Ugh.|ba
+B|And that I couldn't watch, and, but, you know, you could tell when it was coming.|sd sd
+A|Yeah.|b
+B|So yeah, um, that was so that he couldn't leave her, cause she,|% sd %
+A|It still just seems a little twisted to me|sv
+B|Yeah, yeah Yeah, *b|aa aa
+A|I'm not sure I would have enjoyed that at all.|sv
+B|well, as far as that goes, yeah, I mean, you wouldn't like to see anything happen to anybody, but it was just how she got so caught up, her emotions|% b sv sv %
+A|Yeah.|b
+B|and, you know, and, and she feel madly in love with this writer.|sd
+A|Uh-huh.|b
+B|And there was this, but she was a killer, and the, the character was, you know, prior to that had, had been someone that had killed other people|% sd sd
+A|Yeah.|b
+B|but no one knew that.|sd
+A|Oh, yeah.|ba
+B|So. But. So, yeah, we just haven't had the time to go to the movies lately,|% % sd
+A|I know, we don't see movies at the movies a lot.|aa sd
+B|Uh-huh.|b
+A|The last, we did go see DANCES WITH WOLVES and we went to see NOT WITHOUT MY DAUGHTER, but mostly we wait until they come out on video tape, and then we rent them|% sd sd sd sd
+B|Right, right. Now I want to see SLEEPING WITH THE ENEMY. yeah, *aa|aa aa sd
+A|Oh, yeah that looks really good too.|aa sv
+B|that looks good. And there were a couple others that I just haven't had the time.|sv sd
+A|And SILENCE OF THE LAMBS.|sd
+B|Now see I.|%
+A|I'm, I'm intrigued by it, but I'm not sure I want to go see it yet|sd sd
+B|Yeah, I don't think I want to see that either. I know, I don't think I could.|b sd % sd
+A|I think, uh, well, now, we had some friends that went to see it and they said it was okay.|% sd sd
+B|Really.|b
+A|So, it might not be as, I think they may be playing up um, some aspects of the movie that aren't the main aspects.|% sd
+B|Really. Uh-huh|b b
+A|Now, we went to see the JAGGED EDGE.|sd
+B|Oh, I liked that movie.|sd
+A|Yeah.|bh
+B|Yeah.|ny
+A|So, it's, it seems like, you know, that kind of the thriller suspense and not, not real, um, strange in other ways.|sv
+B|Uh-huh. Uh-huh, um. Well, I guess that's about it. It was nice.|b b fc fc
+A|Okay. Maybe we'll talk to you again.|fc fc
+B|Okay, it was nice talking to you.|fc fc
+A|Alright.|fc
+B|Bye-bye.|fc
+A|Bye-bye.|fc

@@ -1,0 +1,44 @@
+A|All right, I guess our, we're in the process of a home repair right at this point because we're, we're painting the outside of our house. I don't know, I guess you would consider that a home repair.|fo_o_fw_"_by_bc sd sd h sv
+B|Huh-uh.|b
+A|Certainly, uh, uh, and interesting enough, this time we're changing the color which makes it an addition. What is your most recent,|sv sd qw
+B|We just did that, too.|sd
+A|You did that recently too, uh,?|qy
+B|Yes.|ny
+A|Does it make a big difference?|qy
+B|Oh, yes we have brick on the outside and, uh, the colors that were there changed the, and the colors that we painted changed the entire look of the house.|ny sd sd
+A|Huh-uh.|b
+B|Completely.|sd
+A|That's neat isn't it.|qy
+B|Yeah. That was really exciting. It was fun.|ny sd sd
+A|I was really, really tired of the color. That it's, it's helping. We're not quite through, but it's, it really is looking good. Uh, we went through a process of, of, uh, home repairs on a, on a rental house we had, probably the most extensive and, uh, the interesting part of it was how much we learned about what we could do. Um, we didn't have very much money and so we had to do it ourselves in kind of a slow process, but we learned how to do, uh, retile bathtubs and, uh, oh, just all kinds of things that are unusual.|sd sd sd sd sd sd sd sd sd
+B|Huh-uh. So the other thing that we did was the roof of our house.|b sd
+A|Huh-uh.|b
+B|And, uh, we did that a different color also.|sd
+A|Yeah.|b
+B|Of course, uh, being a woman most of these things were done by the men.|sd
+A|Huh-uh.|b
+B|And, uh, so I wasn't directly involved but, uh, they really were helpful, I know, to our house.|sd sd
+A|It's nice to not have a drip through from the roof, isn't it|qy
+B|Yeah Yes|ny ny
+A|That's awful. Um, Howard and I were talking about home repair the other night and, uh, in connection with scouting. We've got a scout coming up and, uh, uh, I think it's neat for young people to learn how to, uh, take care of their, of a household, you know, like, uh, fixing faucets, dripping faucets,  and putting in panes of glass and stuff like that.|ba sd sd sv
+B|Huh-uh. As a matter of fact, one thing, I have a young son and one thing we did, was we had paneling on the inside of our, uh, front of our house, or the hall way of our house, rather, and we were repainting the, the front room in the hall there, and we took down that paneling and he helped me and, and, uh, he was, it was fun to work with him. And, uh, and, uh, help putty up the holes together and, and do things,  like that.|b sd sd sd sd sd sd
+A|Huh-uh. How does the paneling, it looks lots better than, do you like it better?|b qw qy^d qy
+B|Oh, I like it so much better. It makes it so much lighter.|na sd
+A|Yeah.|b
+B|You know, it really does. You know, and people that have been to my house before and then now really have liked,  much better, too.|sd sd
+A|Huh-uh. That's nice.|b ba
+B|It's been fun.|sd
+A|Nice to have it come out positive and look,  look good.|sv
+B|Yeah. Yeah. Exactly.|b aa aa
+A|Well, we have a lot that needs be done. We have, uh, uh, carpeting, and, and we did have a new, uh, floor put in our kitchen. And, um, I have my mother living with us and so she was in a room with a carpet and, of course, she's quite aged, she's ninety-three now, so that meant she had problems now and then and it was really good to get the carpet out of there and put a linoleum down. So it was easier to clean and see where the dirt was and  so that was a really positive, uh, uh,|sd sd sd sd sd sd sd sd sd sd sd
+B|Huh-uh.|b
+A|it was fairly expensive though. I, I was impressed, I think, that, uh, we had somebody do it and it was, it seems to me like it's probably more expensive to put down linoleum almost than it is to put down carpet.|sd sd % sd sv
+B|Huh-uh.|b
+A|Kind of depends on the quality of carpet, I suppose,|sv
+B|Yeah.|b
+A|but, uh, in the case of the linoleum they have to rip up everything and, and fix the floor so it's, uh, I don't know, what ever, but they have to put stuff on the floor and it's, uh, kind of a process. Well, it sounds like you have some pretty good experiences with, uh, with, uh, uh, home repair.|sd % h h sd sd bf
+B|Huh-uh. We have. It's been really fun.|aa aa sd
+A|Yeah. All right. Happy home repairing.|b b fc
+B|Okay. You too|fc fc
+A|Bye-Bye.|fc
+B|Bye-Bye.|fc

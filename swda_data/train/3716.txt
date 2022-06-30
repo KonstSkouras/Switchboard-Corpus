@@ -1,0 +1,93 @@
+A|We could talk about my favorite subject|oo_co_cc
+B|Cooking and food, huh.|qy
+A|Food|arp_nd
+B|What do you like to cook?|qo
+A|Uh, I don't cook a lot actually. I have just started baking, so, uh, I am kind of interested in cakes and, uh, muffins and stuff like that, but I can't seem to get them exactly right. So, I am just trying to perfect some things.|sd sd sd sd sd
+B|Uh-huh.|b
+A|I tried to make an applesauce cake. Which I will never ever try to make again. It was horrible|sd sd
+B|Oh dear.|ba
+A|I don't know if the cake was horrible or if I made it horrible.|sd
+B|Oh, probably not. I, uh, have, uh, a bread recipe that is real easy that everyone always really does like. That, uh, doesn't require kneading the dough.|ar sd
+A|Uh. Oh. Hey|b b ba
+B|And, it is always, it is wonderful. It is, and what is funny is that you use, uh, bran, all bran|sd sd sd
+A|Uh-huh.|b
+B|and it looks like it is a wheat bread.|sd
+A|Uh.|b
+B|But, it is actually all bran flour|sd
+A|Uh-huh.|b
+B|and, uh, you know, it is just regular the type that, you know, yeast and that sort of thing|sd sd
+A|Uh-huh.|b
+B|and you let it rise and you can let it rise in the refrigerator and then punch it down, and then, uh, make your rolls. They really are good|sd sd sd
+A|Wow.|ba
+B|and they are so easy to do.|sd
+A|Uh-huh.|b
+B|That is seems like every time that we have a dinner party, or that we are going some place where everybody is suppose to bring something and they have had my rolls before.  They always ask me to, bring those rolls|% sd
+A|Uh-huh. They request it. I have not gotten any requests yet. Last year, I had a Christmas party, at, uh, my office, and I, uh, made the tuna fish sandwiches. And everyone, uh, I mean, I think, everyone knows how to make tuna fish, so I thought that would be easy for me to make and I can not go wrong with that, and so I made it and, uh, I used celery seed in my, Do you use celery seed in your tuna fish?|b ^2 sd sd sd sd sd sd sd sd qy
+B|No I haven't.|nn sd
+A|And I just thought it was so strange, because I never, I thought that that was what celery seed was for. Was for tuna fish.|sd sd sd
+B|Oh, how funny.|ba
+A|And so, but everyone really, really loved the tuna fish and they just couldn't get over the fact that I used celery in it and it just surprised me. Celery and onion and,|sd sd sd sd
+B|Well, see I, I have always used celery, I mean, I have used celery before.|sd
+A|Uh-huh.|b
+B|But I never used the celery seed in it.|sd
+A|Oh. Yeah.|b b
+B|Well, what else do you put in it besides the celery seed.|qw
+A|Just like, uh, really fine onions and green pepper and the celery seed and I use like, uh, Miracle Whip salad dressing instead of the actual mayonnaise because I really don't like the Helman's Mayonnaise.|sd sd
+B|Uh-huh.|b
+A|But if you use salad dressing with kind of, uh, you know, kind of, I guess a tart taste. Then it comes out real good.|sd
+B|Uh-huh.|b
+A|But, I, uh, it was the first time I have I have ever found out that the, the, nobody else used celery seed. I feel so silly but,|sd sd %
+B|See, I have never put bell pepper in tuna fish either.|sd
+A|Yeah.|b
+B|Isn't that funny? I was brought up with tuna fish, you know, where you put in, uh, oh, chopped hard boiled eggs which is now is a no, no with cholesterol and, uh, you know, chopped up dill pickles. And that sort of thing.|bh sd
+A|Right. Right.|b b
+B|The standard old tuna fish.|sd
+A|Yeah. I would put that too. I just did not have those things.|b sd sd
+B|Uh-huh.|b
+A|Like I don't think I had eggs that night or something, but I would have put eggs. I would have put eggs in there also.|sd sd sd
+B|But isn't that interesting? So you, You, you use bell pepper and onion and celery seed.|bh bf
+A|Uh, strange. Celery seed.|ba ^2
+B|I will have to try that.|sd
+A|Do you use a regular mayonnaise or,  The Miracle Whip.|qy
+B|Sometimes I do and sometimes I use the Miracle Whip. It depends on what I have.|sd sd sd
+A|Yeah.|b
+B|And sometimes, if I am using, like, regular mayonnaise, to spice it up a little bit uh, I will use a little bit of mustard with it.|sd
+A|Uh-huh. Yeah. I do that also.|b b sd
+B|Uh-huh.|b
+A|Just to, to put a little zing in it.|sd
+B|Yeah. But not a bunch.|aa sv
+A|Uh-huh.|b
+B|But enough to, make it have a little bit more flavor.|sv
+A|I love barbecue. Anything barbecued I will eat.|sd sd
+B|I like, uh, to barbecue baby back ribs.|sd
+A|Uh.|b
+B|And, uh, and, and, they are so easy to do if you, uh, have a good barbecue sauce|sv
+A|Uh-huh.|b
+B|and you, uh, just cook them very, very slowly in the oven.|sd
+A|Uh-huh.|b
+B|And it is not hard to cook, like some meals are.|sv
+A|Yeah.|b
+B|And it is not, of course, it is messy to eat. That is the disadvantage.|sv sv
+A|Yeah.|b
+B|And, uh, I make lasagna from scratch and people really like my lasagna|sd sd
+A|Yeah. I like to make that too. I make that once in a while.|b sd sd
+B|and so, uh, sometimes, I am requested to make that. And that is not too hard to do because you can do it in advanced and just bake it.|sd sv
+A|It is not really, once you have all the ingredients|aa
+B|Uh-huh.|b
+A|it is just the layering really. And not breaking the, uh, the, uh, pasta.|sv
+B|Yeah. Uh-huh.|b b
+A|That is the hardest part probably. But, uh,|sv %
+B|Then, I have a wonderful recipe for strawberry pie. It just takes forever|sd sd
+A|Uh.|b
+B|But, it is, uh, when the strawberries are nice, and big and fresh and yummy.|sd
+A|Do you make cheesecake?|qy
+B|Uh, uh-huh. I do. But this one is basically, it is like a normal pie crust.|ny sd sd
+A|Uh-huh.|b
+B|But then you use this sort of, uh, it is a cream cheese, uh, uh, layering, but you, use, uh, thin it out a little bit. Uh, or make it a little fluffier|sd sd sd
+A|Uh.|b
+B|and you put, uh, line the whole pie crust with that|sd
+A|Uh-huh.|b
+B|and so, it is sort of like in a way. Uh, using cheese  cake,|sd
+A|Uh.|b
+B|but, and it is not a real cheese cake and then you,|sd %
+A|And just put the strawberries,|qy^d

@@ -1,0 +1,117 @@
+A|Do you or your husband work for T I, or|qy %
+B|I'm a contract person at T I in fact involved with, uh, Data Switchboard|na
+A|Oh, are you, Oh, I see. Well, that's neat.|bk bk ba
+B|and, uh, do you work for T I?|qy
+A|Uh-huh.|ny
+B|Uh-huh.|bk
+A|So, I've worked for them for several years, like twelve now, I guess.|sd
+B|Oh, you sound very young like just out of college|sd
+A|Right, I try to, I try to think of myself as young, but, uh, well, have you seen any movies recently?|b sd sd sd
+B|Uh, I'm trying to think, we saw, uh, DANCES WITH WOLVES|^h sd
+A|Oh, did you?|bh
+B|and, uh, have you seen that one?|qy
+A|No, I haven't, I have, have a hard time with movies that are real long.|nn sd sd
+B|That was excellent.|sv
+A|I don't know.|%
+B|Well, so oddly enough, I do too, I get tired of sitting there, and so does my husband,|sd sd
+A|Yeah.|b
+B|but we both just thoroughly, you know enjoyed it, just really liked it|sd
+A|Yeah. Well, I've heard a lot of good things about it.|b sd
+B|and, uh, I'm trying to think, we went to see a, uh, a real funny one, I can't think now what the name of it was I've gone blank.|^h sd sd sd
+A|We saw THE NAKED GUN, TWO AND A HALF|sd
+B|Oh, we have not seen that, we want to see that one.|sd sd
+A|and that was, that was pretty funny, and then we saw, what was the spoof on TOP GUN, it's|sv sd fo_o_fw_"_by_bc %
+B|Oh, I haven't seen that one.|sd
+A|oh, I can't think of what that was called. We saw that too, I was pretty disappointed in that one.|sd sd sd
+B|Were you.|bh
+A|Yeah, but, uh, so, you know, through the summer, we have small children, so we don't get to see too many, but we've seen I guess two or three movies this past summer.|aa % sd
+B|My husband doesn't enjoy the shows as much going to them, he likes to rent them|sd sd
+A|Uh-huh.|b
+B|and so we watch a lot of them, you know, at home as they come out,|sd
+A|Right.|b
+B|and, uh,|%
+A|Have you seen GHOSTS yet?|qy
+B|Yes, yes.|ny ny
+A|I really, I enjoyed that movie,|sd
+B|Did you? Now I, I was real disappointed|bh sd
+A|Really.|b
+B|I'm a real big Patrick Swayze fan|sd
+A|Uh-huh.|b
+B|and, uh, I was really disappointed in it, it one, I don't think it was as funny as what I was anticipating, and I guess I was expecting it to be kind of funny and, uh, and it wasn't you know, at all,|sd % % sv sd
+A|Oh, yeah, well, Yeah.|b % b
+B|it was, it was more of a love story|sv
+A|Yeah,|b
+B|and, uh, so I was really disappointed in that because I like him real well.|sd
+A|Uh-huh.|b
+B|We just got through watching one with, uh, uh, is it Claude Van Damme yeah, and, uh, enjoyed it,|sd
+A|Uh, Van Damme, yeah, I think,|^2 aa sd
+B|I can't think what the name of it was a, uh, of course, one of the typical you know, kicking, fighting lots of blood and guts and all that type movie,|sd sv
+A|Right. Right. Uh-huh.|b b b
+B|and, and we enjoyed that, and, uh, the, uh, uh, the one with Jody Foster, did you see it?|sd qy
+A|Oh, SILENCE OF THE LAMBS?|qy
+B|Yes.|ny
+A|Yes, I did.|ny sd
+B|Wasn't that excellent?|qy
+A|Yeah, I really enjoyed that a lot.|ny sd
+B|Yeah, that was one that, that stayed with me you know, for a month,|b sd
+A|Uh-huh.|b
+B|I just, I kept thinking about it, you know,|% sd
+A|Yeah, well, it's amazing, but really, I mean, when you stop and think about it, Anthony Perkins didn't have that big a role in the movie|b sv sv
+B|No.|aa
+A|and yet it was his character that was so intriguing,|sv
+B|Oh, it was excellent, and, and, of course, he's such a, uh, very good actor anyway|sv sv
+A|Yeah.|b
+B|and, I think he made the movie,|sv
+A|Yeah, I do too, I really did|aa aa sd
+B|Yeah,|b
+A|you know, Jody Foster was good, too, but I think, I think Anthony Perkins was the one that, that really made the movie, I agree with you.|sv aa
+B|Is it Anthony Perkins or Anthony Hopkins?|qy
+A|Oh, Hopkins, I'm sorry|sd fa
+B|Hopkins, uh-huh.|b^m b
+A|Hopkins, yeah. I always get those mixed up.|b b sd
+B|I know I know. It, uh, well, I'm not a real big Jody Foster fan, but I thought she was good in that.|b b % sd sd
+A|Well, I well, I haven't been, I'm, I saw her in THE KEYS, and I thought that was a pretty good movie, but I thought she,|% % sd sd sv
+B|Now, I didn't see that one.|%
+A|That was, that was pretty interesting movie, and, uh, but, you know, I, I did, I really liked the SILENCE OF THE LAMBS, that was really intriguing, and it, it didn't scare me all that much, you know, and I, I don't like to go to movies to be scared, that's not why I go|sv % sd sv sd sd sd
+B|No, no|aa aa
+A|so,|%
+B|I like a good suspenseful story,|sd
+A|Right, and that one was.|b sv
+B|and that one very definitely kept you on the edge of the seats, in fact, I want to, uh, rent it when it comes out for my husband to see, because, he didn't|sv sd %
+A|Oh, he didn't see it?|qy
+B|he won't go see that, no,|ng nn
+A|Oh.|bk
+B|I went with, uh, our daughter and, uh, so, you know, saw it with her, and, uh, enjoyed it.|sd
+A|Uh-huh.|b
+B|My all time favorite is WEEKEND AT BERNIE'S.|sd
+A|Oh, really?|bh
+B|Did you see it?|qy
+A|Yeah, I've seen it.|ny sd
+B|Oh, I've seen it, you know, we saw it at the movies, and then we've rented it several times|sd sd sd
+A|Uh-huh.|b
+B|and, we just love it, in fact we have a ten year old grandson that, he and my husband and I, we just sit there and cackle you know, just get hysterical.|sd sd sd
+A|Uh-huh. Yeah, I've seen that. It's pretty, it's pretty cute. I guess, you know, as far as comedies go, probably my favorite is YOUNG FRANKENSTEIN.|b b sd sv sd
+B|Uh, yes, yes,|b b
+A|I love that movie,|sd
+B|My husband liked that|sd
+A|Yeah, so,|b %
+B|uh, he's a big Gene Wilder fan,|sd
+A|Yeah, well, Gene Wilder doesn't do that much for me, but I'm a big, uh, Mel Brooks fan|b sd sd
+B|Uh-huh, uh-huh.|b b
+A|all his movies, I really, really .|%
+B|He has a new one out.|sd
+A|He does?|qy
+B|Yeah, uh-huh. Uh, I have seen it advertised. I don't know what the name of it is.|ny ny sd sd
+A|Oh, is that the one with, that's he's starring in?|qy
+B|Uh-huh, uh-huh.|ny ny
+A|Oh, yeah, that came out, like early in the summer or something like that.|b sd
+B|Yes, yes.|b b
+A|Yeah, I haven't seen that one either.|b sd
+B|Yeah, my husband wants to see that one, and, uh, did you see that one that he made years and years ago about the, uh, the sheriff|b sd qy
+A|Oh, BLAZING SADDLES.|qy^d
+B|BLAZING SADDLES.|na
+A|Yeah, uh-huh.|ny ny
+B|Oh, that's my husband's all time favorite, I think.|sd
+A|Oh, uh-huh. I like, I like that one too, but I thought YOUNG FRANKENSTEIN was better.|bk sd
+B|Did you?|qy
+A|Yeah, that, that was just, you know, had all kinds of things throughout the whole movie, I just really enjoyed it, and, uh, um, I'm trying to think, because we saw another one that we thought was really good, early this summer, that was a suspenseful movie. I'm trying to remember what it was, because it, you know, it's,|ny sv sd ^h sd ^h %

@@ -1,0 +1,81 @@
+B|Yes.|fo_o_fw_"_by_bc
+A|I haven't, uh, talked to anybody outside the Metroplex, so I didn't even think of saying Arlington, Texas. This is a real first|sd sd sd
+B|Yes.|b
+A|Are you at work?|qy
+B|Yes, I am.|ny sd
+A|I, I, I've been trying to get people at five thirty and six thirty in the evening and I thought, well, I'm not having any luck, I'll try the middle of the afternoon.|sd sd ^q
+B|Well, I'm, I'm happy we got through.|sd
+A|I am, too. Well, do you have any, uh, opinion on the subject?|aa qy
+B|Well, I'm, I'm especially interested with what, what's happening in the Soviet Union, uh, the, the move to, uh the, the, the, Ukraine's vote to, uh, basically to secede and set itself up independently uh, is quite a remarkable, counts,|sd sv
+A|Democracy. Oh.|^2 b
+B|is that, is that reported in the Texas papers?|qy
+A|Oh, sure, we, uh, we hear a little of the news Uh, yeah, I have heard about that the last couple of days. How, how big is the Ukraine, the area, do you know?|na sd % sd qw qy
+B|Uh, as an area, it's not,|%
+A|Or a population or anything, I'm really uninformed.|% sd
+B|I, I'm afraid I don't have the statistics in front of me.|sd
+A|Uh-huh.|b
+B|It's a, it's not a tiny area. Uh, if I was looking at a U S map, I would say it was sort of reminds me of, of a, uh, it's not as big as California proportionately.|sv sd sd
+A|Uh-huh, uh-huh.|b b
+B|But, but, but it's, it's more significant, in the sense of, it's a great agricultural region.|sv
+A|Oh, I see, oh, I, I didn't really know that, I know a lot of their, oh, their countries that they had overtaken, or wanted to be independent or several of them, right,|b sd qy
+B|Yeah.|ny
+A|And, uh, what about Astonia, are they,|qw qy
+B|They're completely out now.|sd
+A|Right, I thought they were.|aa sd
+B|Yes, the three, the three Baltic, uh, republics got out as quickly as they could.|aa sd
+A|But, but, the, the Ukraine is especially significant because it, of the agriculture?|qy^d
+B|Right, it's, it's very important for the economics of the whole, of the Soviet Union.|na sv
+A|Uh, so there were probably really fight to keep it in if they could.|qy^d
+B|Right, uh, except they can't fight|na sv
+A|No, they don't,|aa sd
+B|It's done democratically, uh,|sd
+A|And Bush has already given his opinion on it, right?|qy
+B|Yes.|ny
+A|Didn't I read that?|qy
+B|Yes.|ny
+A|So, now, uh, not that they may, that may matter, I don't know, anymore. I, uh, fear for the Russians from what I read, you know, I wonder how they're going to get through the winter. Food wise or any wise,|sv h sd sd
+B|Uh,|%
+A|sounds to me like they'll start rioting soon, or not that that would do any good, but I guess people do that when they're desperate.|sv sv
+B|That, that's true, uh, hasn't happened here for a while, but it, uh,|sv %
+A|Well, that's true, since the Depression, I guess when the veterans went to Washington|aa sd sv
+B|Uh-huh.|b
+A|and well, you know, the war riots, of course. Let's just hope we don't get to that point Things are not so good in Texas job wise.|sv ad sd
+B|No, I've, I've heard they're, I hear you have some problems.|aa sd
+A|Well, we do. We have lots and lots of, uh, layoffs here. Lot of companies folding, lot of layoffs and it's pretty scary.|sd sd sv
+B|Do, do you, do you blame the, the government in Washington for this?|qy
+A|Well, I don't understand economics that well. I don't know, I, I know that we have a terrible situation with foreign trade and that other countries put a lot of restrictions that we don't|sd no sd
+B|Yeah.|b
+A|and so I assume that that has some effect. Or a great effect.|sv
+B|Yeah. Uh-huh.|b b
+A|And I do, uh, I mean, they said during the way, Reagan-Bush years, the rich got richer, the poor got poorer, the statistics prove that so, uh, I, I guess,|sd sd sd %
+B|So then, you think it's, it's, you think it's Reagan and Bush have done this or is it just coincidence it was during this period?|qy qrr
+A|Well, I really don't know. I think maybe they, uh, maybe they contributed to it. Maybe they should pay more attention to these trade, or, you know, to the more equalization of the trade.|no sd sv
+B|Uh-huh.|b
+A|Of course, if somebody in, in China can make something for ten cents and we have to make it for ten dollars because we have unions, well, I don't know what's going to happen then.|sd
+B|Oh, the Chinese use slave labor, too.|aa
+A|Right.|b
+B|That's, that's one of the ways they get away with it.|sv
+A|And child labor.|^2
+B|Yeah.|aa
+A|Right. Well, I don't know. What do you think has caused our horrible situation?|b sd qw
+B|Uh, I don't think there's any one simple answer to the whole thing.|sv
+A|One thing.|^2
+B|I mean it's, that's very complicated.|sv
+A|Right, well, they say, too, that having a democratic congress and republican President is not good. I mean, I've read that is a theory.|b sd sd
+B|So which one are we going to throw out?|qw
+A|Well, I hate to say it, but, I, I'm tending to go straight back into my original democratic party.|sd sd
+B|Uh-huh.|b
+A|Uh,|%
+B|Texas, Texas used to be a democratic state, didn't it?|qy
+A|Oh, I know, it used to, right. Well, you don't want too many democrats anymore and for a while I kind of deserted the party, but now it's looking better to me.|sd sv aa sv sd sd
+B|I like your governor.|sd
+A|Oh, do you? Oh, I'm glad to hear that.|bh sd
+B|She's an impressive woman.|sv
+A|Well, I think so, too. I, I just, admire her a lot.|aa sd
+B|Yeah.|b
+A|And, uh, I I really hope she does well. But she's, uh, you know, probably more popular out of the state than she is here, although she did manage to win.|sd sv
+B|Right|b
+A|But look who she was running against, you know|ad
+B|Well, yeah, anybody could beat Claytie in Texas.|b sv
+A|He shot himself in the foot so many times How did you get on this T I thing?|sv qw
+B|Oh, I, I know some of the people.|sd

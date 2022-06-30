@@ -1,0 +1,79 @@
+A|Doug, you want to start?|ad
+B|Sure.|aa
+A|You don't use any credit cards, I don't imagine.|qy^d
+B|No. Of course I use, credit cards. I have a couple of credit cards and, uh, use them.|nn sd sd
+A|Yeah. Uh-huh, do you use them a lot?|b b qy
+B|Oh, we try not to.|ng
+A|Uh-huh.|b
+B|We're on a pretty strict and tight budget.|sd
+A|Uh-huh.|b
+B|We use the credit cards, however, when we're at a situation where we don't have either the cash or the checkbook handy.|sd
+A|Uh-huh.|b
+B|Or we use credit cards also, if we want to get an extended warranty on an item that we're purchasing. So. So, yes,|sd %
+A|Oh, well, that's an idea, that's a thought, uh-huh.|ba ba b
+B|and basically we use it mainly when we're traveling or out of state or or somewhere where, you know, they don't take local, they don't take out of state checks|sd
+A|Uh-huh. Uh-huh. Uh-huh.|b b b
+B|and so when we're traveling some. Do you use credit cards often?|sd qy
+A|My husband loves them Uh, we do use them. Uh, we try not to, but, he, he's one who believes in credit cards, and he uses them quite a bit.|no sd sd sd sd
+B|Uh-huh.|b
+A|He likes using them and then just pay at the end of the month|sd
+B|Oh, yeah, well that's, that's a good thing, because lot of people don't pay at the end of the month|b sv
+A|He, he likes that, Uh-huh.|sd b
+B|and they just pay the minimum required balance.|sd
+A|And that's when you get into expenses.|sv
+B|Yes, and you get in over your head.|aa sv
+A|Right.|aa
+B|It'll, uh, some people I know also try to use it as float where they buy something now|% sd
+A|Uh-huh.|b
+B|and say, well, I'm going to buy this when it's good and on sale and then I can go ahead and pay for it when I get my check at the end of the month|sd ^q
+A|Uh-huh.|b
+B|when I'm being paid.|^q
+A|Right. Well, sometimes you do come on bargains and that, and it's really useful.|b sd sv
+B|That's true.|aa
+A|And some places won't take, you know, like personal checks or cash, even|sd
+B|Uh-huh.|b
+A|but they would take a credit card.|sd
+B|Right. How how are the laws in Pennsylvania, uh, as, as regard, well not the laws, but the rates, credit card rates in Pennsylvania? For example down here, when you go up to a gas station you get an extra charge for credit cards than you would by paying for cash.|aa qo sd
+A|Uh-huh. Right.|b b
+B|Are they the same there?|qy
+A|We, yeah, we have the same thing up here, so we don't deal where they do that We you know, we go to places where they don't charge extra. Some of them charge five cents a gallon, even, like the gas stations more,|% ny sd sd sd sd sd
+B|That's pretty steep.|ba
+A|And, uh, we just try to avoid, you know, the ones that do that, we just don't, uh, go there because there's enough other ones around that don't charge you anything|sd sd
+B|Yes.|b
+A|extra because actually, to me, credit cards are the same as cash,|sd
+B|Uh-huh, uh-huh.|b b
+A|to me they are, anyway,|sd
+B|Yes, because you make the deduction at the time of the purchase and, and so that the end of the month or when you get your credit card bill are you saying that that way you're not left stranded and high and dry|aa sd qy
+A|Right. Right, yeah. Yes. Yeah, right.|aa aa aa aa ny na
+B|Very good. You're, you're one of the good, I guess, good faithful shoppers that don't get into a problem when it comes to budgeting their money.|ba sd
+A|Well, I can't say we never have. Now we have, you know, at times, made payments on our things,|sd sd
+B|Uh-huh.|b
+A|but we try not to. We try hard,|sd sd
+B|Well, yeah, well, I see that as an advantage to a credit card, also|b sv
+A|Uh-huh.|b
+B|that you can can find yourselves in those situations and use a credit card to to help yourself.|sv
+A|Uh-huh. Right. Right.|b b b
+B|So I think that there's a great advantage to a credit card in those situations.|sv
+A|Uh-huh. Yeah, because sometimes, uh, there's times when you may, maybe couldn't take advantage of something|b b sv
+B|Uh-huh.|b
+A|but with a credit card you can. So.|sv %
+B|Uh-huh, uh-huh. Um, do you have, uh, multiple credit cards?|b b qy
+A|Uh.|%
+B|And do you find that advantageous or,|qy qy
+A|Well, I think we're narrowing it down, actually. Uh, uh, like I said, my husband likes them, and we have quite a few, but we really get, when you get down to the nitty gritty, there's probably three that we use most of the time.|sd sd sd sd
+B|Uh-huh. Right. We're, we're actually in the same boat.|b b sd
+A|Uh-huh.|b
+B|We like to use three, uh, basic credit cards.|sd
+A|Uh-huh.|b
+B|That way we're not confused and we don't have an awful lot of expenses or surprises when it comes the end of the month.|sd sd
+A|Uh-huh, uh-huh.|b b
+B|And, do you find that you get an awful lot of credit card applications through the mail?|qy
+A|Oh, yes.|ny
+B|Once a week, twice a week, or three times a week.|sd sd sd
+A|Well, it's not every week, but you, you do get them. They make it very readily available.|sd sd sd
+B|Yeah.|b
+A|Almost too much so. But I I really don't like it the charges that, you know, we try to limit, look at that also, what they charge per year to use our money, you know|sv sd sd sd
+B|Right, so the annual fee. Right, right,|b bf b b
+A|they're charging us to spend our money, and, I, I'm not real crazy about that, so we try to look at that also.|sd sd sd
+B|Yes, so there is the basic annual fee for the credit card plus they charge any where from seventeen to twenty-three percent uh, based upon what the state will allow,|b sd
+A|Uh-huh, Right.|b b

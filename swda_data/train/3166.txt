@@ -1,0 +1,88 @@
+A|Okay, what kind of fishing do you do?|fo_o_fw_"_by_bc qw
+B|Well, mostly, uh, a, a little fresh water fish, but mostly lake fishing like rainbow trout and stuff because I used to live in Utah.|sd sd
+A|Uh-huh.|b
+B|But, uh, down here I haven't fished much in Texas.|sd
+A|That's one of the few things I've ever fished for is rainbow trout.|sd
+B|Oh, they're really not, I think they're good to eat.|sd sv
+A|What, what kind of bait do you use to catch them?|qw
+B|Oh, just, usually worms, night crawlers. Sometimes fish eggs.|sd sd
+A|Oh, really?|bh
+B|Sometimes|na
+A|Fish eggs?|b^m
+B|Yeah.|ny
+A|Oh, I didn't know that. Huh.|sd b
+B|Just little, just little fish eggs.|sd
+A|Uh-huh.|b
+B|And, uh, there's this one kind of cheese that you can put on the end of a hook and it will stay relatively well|sd sd
+A|Oh, I didn't know that.|sd
+B|Yeah|b
+A|That's a great way.|ba
+B|and, and they really like that.|sd
+A|I think that would probably be a good way to catch catfish,|sv
+B|Now I have never caught catfish.|sd
+A|personally I like to catch large mouth bass and catfish because they fight the best|sd
+B|Uh-huh. Because they fight the best|b sd
+A|But a, a catfish will really just tear into anything like that, like liver or, uh, cheese or anything that smells terrible|sd
+B|Oh, is that right? Now in Amarillo did you fish any of this ?|bh qy
+A|Uh, no. Actually I always used to go to my grandparents' in Oklahoma and they have the, uh, Lake Texoma right next to them. So the, we used to catch some, uh, sand bass off Lake, there's a Roosevelt Bridge and what we'd do is let the line all the way to the bottom and crank up, you know turns on the reel about six to twelve times|nn sd sd % sd sd
+B|Uh-huh. Right.|b b
+A|and the fish would be sitting at different levels.|sd
+B|Oh, how about that.|ba
+A|So, yeah, you just leave it at that level and in no time something would hit it and you could pull them up two and three times in a row, but you had to find out what level, how many cranks they were off the bottom. And if you left it on the bottom, there was a good chance that you'd catch catfish.|b sd sd sd sd sd
+B|Oh.|b
+A|And, of course, depending on how big your bait was, uh, you know, would be depending on what you caught.|sd
+B|Oh, I think that is really interesting.|ba
+A|Yeah, that was a lot of fun. My grandfather used to do that and we used to have a light at the top of the water.|b sd sd sd
+B|Uh-huh.|b
+A|He'd really spoiled me in that respect.|sd
+B|I think they're, see, and I wish I could go fishing here because I don't really know much about the fishing here. I guess it would, if you did it like you were just, uh, saying, that's pretty much like rainbow trout.|% sd % sd
+A|Uh-huh.|b
+B|You bait the hook, you throw it in, you troll it a little bit|sd sd sd
+A|Uh-huh.|b
+B|and then you wait|sd
+A|Yeah.|b
+B|and they troll it a little bit.|sd
+A|Well, if you, do you have any friends with ponds?|% qy
+B|No. I don't|nn sd
+A|I, uh, well, if you can well, or even a lake. If, uh, seems like every time somebody's on the bank, all they want to do is throw it out just as far as they can and, uh, bring it in to you.|% % sd % sv
+B|Yeah.|b
+A|But it's the opposite when you're fishing from a boat. You, you want to make it land right on the shore and then drag like a plastic worm and just have it come into the water like a, a regular animal or, or fish uh, well, you know, something coming off from the bank like they usually do|sd sd
+B|Oh, uh-huh. Uh-huh.|b b
+A|So you don't have to really get, uh, fish from a boat, you know, because they're actually right there at the shore.|sd
+B|Huh.|b
+A|But, I didn't used to be sold on plastic worms, but, uh, if, I am now|sd % sd
+B|You are now.|b^m
+A|Oh, yeah|b
+B|I've never used those. That's really interesting.|sd sd
+A|Yeah. It just, uh, just a slow reel and then let it sit on the bottom, but the key is to always have your line tight.|b sd sd sd
+B|Yeah, yeah.|b b
+A|And that way you can feel when they're hitting it, and believe me you'll know the difference.|sd sd
+B|Uh, what kind of fish do you like the best to eat?|qw
+A|Oh, crappie actually.|sd
+B|Oh, do you|^g
+A|Yeah I've been fishing in the, the ocean. We're about three hours from the ocean. And I also like Spanish mackerel. And you catch blues and, uh, that's a different kind of fishing off the pier, too. Have you ever fished off the pier?|ny sd sd sd sd sd qy
+B|I've done fishing like that but, but, uh, tell me what, uh, where you'd catch crappie. My, my neighbor has gone before and, and done that,|sd qw^d sd
+A|Uh-huh.|b
+B|but,|%
+A|Oh, the best thing for crappie is those little spinner baits and, and jigs. Uh, they have like yellow, uh, fuzz on a hook, you know, that kind of comes out.|sd sd
+B|Oh, oh, I know.|ba
+A|Yeah.|b
+B|Uh, they're sort of like, well, I want to say flies, but not exactly like,|sd sd
+A|Yeah, get, but they're a little heavier and they're bigger.|b % sd sd
+B|Yeah.|b
+A|Get the yellow ones.|ad
+B|The yellow.|b^m
+A|Those are the ticket|aa
+B|Okay|b
+A|And let them drop to the bottom and maybe do a, a kind of a slow reel. You don't even have to have a good rod or anything. Just, just even a regular line|ad sd
+B|Uh-huh.|b
+A|and you throw it out and, uh, the, the other thing that's real good is small, uh, it's a real small rapalla . It's about an inch and a half long and they're pure all silver, something real shiny about that long.|sd sd sd sd sd
+B|Uh-huh.|b
+A|They'll go after that in a heartbeat also. Just anything that really shines or spins.|sd
+B|Yeah, my mom, she just loves to fish and she has a lot of those, those little, uh, they almost look neon. You know, they're just real colorful things on, onto her end.|b b sd sd sd
+A|Oh, yeah, yeah. That's it.|b b sd
+B|Yeah. And she she's really a good fisher woman.|b sd
+A|Oh, really?|bh
+B|Yeah.|ny
+A|That's neat.|ba
+B|Well, you sound like you're a good fisher woman, too.|sv

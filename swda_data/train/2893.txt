@@ -1,0 +1,142 @@
+A|So.|%
+B|Okay, do you exercise regularly.|b qy
+A|Yeah, I sure do.|ny sd
+B|What do you do?|qw
+A|Uh, I ride a bicycle quite a bit and uh, work out with free weights|sd
+B|Okay, I love to ride a bicycle.|bk sd
+A|I live right near White Rock Lake, so I used to, I try to ride, about ten to twenty miles a day. But, I haven't been doing so well this year,|sd sd sd
+B|Oh, that's good.|ba
+A|but,|%
+B|I went an, last year I went an was exercising on a bike for a while and I, when I'd gotten back I had gotten some sun that day, the sweat had built up on me and built up under my skin and caused me to peel. It was the sweating, not the burn|sd sd sd sd
+A|Oh that's weird .|ba
+B|that was wild But, I exercise, I don't exercise now, I just had a baby three months ago, I haven't really gotten back into exercising.|sv sd sd sd
+A|Oh, yeah.|b
+B|But I exercised real good for a couple of years. It was aerobics and lifting weights three nights a week and it was running three nights a week.|sd sd sd
+A|So what's your motivation?|qw
+B|What, what's my motivation?|br
+A|Yeah.|ny
+B|A friend of mine, always pushing me. This was in Louisiana. And she would push, you know, she was, hey, let's go do it, and you know, she wouldn't take no for an answer|sd sd sd sd ^q sd
+A|Was it for health, or, to look good?|qy
+B|Oh, I I just wanted to look good, yeah,|sd %
+A|I was think,|%
+B|it wasn't really health related.|sd
+A|It was just a side benefit.|bf
+B|Yeah, yeah, because I'm not , I'm not big or anything, but I'm not in great shape, so. But when I worked out, I got in pretty good shape. I didn't build up muscle, though, I just got real good and toned.|aa aa sd sd sd sd sd
+A|Yeah.|b
+B|I don't think women look good with muscles.|sd
+A|Up to a point.|aap_am
+B|Up to a point, no, yeah,|sd ar aa
+A|Yeah.|b^m
+B|It's just some of those women that come up there looking like Arnold Schwarzenegger's sister just doesn't get it.|sv
+A|Yeah, so what was, what was the other question, let's see, do you do it as a task or do you enjoy, enjoy working out.|b qw qy qrr
+B|I guess it's a task 'cause I can't make myself do it lately.|sd
+A|Yeah, I think I, uh, I enjoy it sometimes and there's other times when I just get tired of it and, and I feel like I'm obligated to do it, because I've been doing it|bk sd sd sd
+B|Yeah.|b
+A|so I should keep up.|sd
+B|You don't want to lose yourself.|sv
+A|And there's some days it's just like it's the hardest thing in the world to, to get started.|sd
+B|Well how old are you?|qw
+A|I'm, uh, twenty-seven.|sd
+B|Okay, so you're still young.|bk sv
+A|Yeah, still young, getting older.|aa sd
+B|We all are, so.|sd %
+A|Yeah, but, uh,|b %
+B|It's not hard to stay, well if you keep working out when you're young though, when you get older, you know, your body's not going to look as bad. I seen an old woman today, she was about eighty and she looked so good,|sv sv sd sd sd
+A|Yeah.|b
+B|I mean she was standing just as straight and tall and she had a small waist and she didn't have, you know, like, you know, how some older women will get the big bulge right in the middle.|sd sd sd qy^d
+A|Right.|na
+B|she didn't have that at all. She, her lips were a little bit wide, but a lot of, back in her time, they liked women with big hips anyway|sd sd % sd
+A|Right.|b
+B|so she may be keeping that on purpose, so|sd %
+A|Yeah, I notice if you, uh, if you stay in shape you don't age as bad,|b sd
+B|Uh-huh|b
+A|I think, too. I was, I go to school, too, at night and last semester I had stopped working out 'cause I hurt myself and started smoking a lot, and you just, those kind of things age you more.|% sd sd % sv
+B|Well smoking ages you quick,|sv
+A|Right, an|b %
+B|it puts those little wrinkles around your lips.|sd
+A|right an you can't, and then, you know, it just kind of feeds itself. You smoke, and then you don't work out because you,|b % sv sd sd
+B|You get winded.|^2
+A|Right, and so,|aa %
+B|Oh, I smoke a pack a day an,|sd %
+A|I finally quit because, like I just, all I was doing was going down hill fast.|sd
+B|I can't quit smoking, I've tried. I was telling a friend of mine that I'd be almost as bad as being an alcoholic,|sd sd sd
+A|Yeah.|b
+B|I can't quit smoking. I've tried, I just can't do it. I quit when I was pregnant with my kids, but, you know, as soon as I had them, right back to it.|sd sd sd sd sd
+A|Right back to them.|bf
+B|Yeah.|aa
+A|Yeah.|b^m
+B|It was like, you know, that was the only reason I quit. I didn't want to.|% sd sd
+A|Oh that's,|%
+B|And I don't want to quit smoking, I enjoy that. I said I have very few vices, I'll keep this one thank you|sd sd sd ^q
+A|Yeah, yeah.|b b
+B|But, uh, did you ever go to like one of those health clubs or anything?|qy
+A|I went to health club a few years ago, and now I work out at home, because I don't really, my schedule with school and work, I don't have time to get down to one.|na sd
+B|Uh-huh.|bk
+A|There used to be one that was a twenty-four hour that I used to go to but, uh, I actually prefer to work out alone.|sd sd
+B|I like to work out with people,|sd
+A|Really.|bh
+B|I need, like you, I, I need competition, is what I need.|% % sd
+A|Yeah.|b
+B|I've got to have somebody to compete with, or I don't want to do anything.|sd sd
+A|I wouldn't mind having, you know, working out with a friend and, and stuff but when you get into some of these, some of health clubs where you just stand around and wait.|sd sd
+B|Uh-huh, are you,|b %
+A|You know, I like to start, get it done and get out of there.|sd
+B|Uh-huh, are you married or anything?|b qy
+A|No, I'm not.|nn sd
+B|No, well, get your girlfriend to work out with you. A lot of women like that. I'd love it if my husband would ask me to work out with him. He doesn't work out very often. Course, he don't need to. He's small and he works as a laborer on the railroad.|bk sd sv sd sd sd sd sd
+A|Yeah.|b
+B|So, you know, he's building his muscles up all day, he doesn't have to do anything.|sd sd
+A|Right.|b
+B|He can eat like a horse, too. And he don't, you know, he don't gain it like I do. But, uh,|sd sd %
+A|Uh, especially having a kid, I guess, tends to just gain weight because you have to, to, to, uh,|sv
+B|Yeah, you have to. Well you can gain too much weight. I gained a little bit too much, but I looked, with my first little boy, I did gain a lot of weight, I got, I got about fifty pounds overweight with him and I didn't loose it until two years ago and then I got pregnant and, you know, ruined that, so|aa sd sv sd % sd sd sd sd %
+A|Just have to start all over.|bf
+B|Yeah, well, actually, like I say, it ain't as bad this time, because I was in shape when I got pregnant.|aa sd
+A|Right.|b
+B|I wasn't out of I wasn't overweight when I got pregnant with him, I just wasn't in, in shape. I don't know the difference but,|sd sd h %
+A|Yeah, some people are a little bit fanatical about it. You know, I,|b sv %
+B|About weight?|br
+A|Well yeah, and about, working out and fitness, you know,|ny sd
+B|Exercise.|^2
+A|I like to, to work out to look good and stay in shape and, you know, I know it's good for me, but people that live for it and, you know, eat a bunch of different pills, and, all that kind of stuff, it gets a little bit obsessive.|sd sd sv
+B|Well that's what my friend did. Well, she was, she was with the wheat germ and all the vitamins and everything else and really, we was, you know, even with her taking all those expensive vitamins and stuff, we stayed right on the same track with each other, you know, developing and everything.|sd sd % sd
+A|Yeah. Yeah.|b b
+B|Now there, you can take those, uh, what is it?|% ad qw
+A|Steroids.|sd
+B|Steroids, yeah, I couldn't think,|sd aa sd
+A|Yeah, there's really bad for you.|b sv
+B|I was I was trying to say hemorrhoids, no, I was trying to say hormones.|sd ar sd
+A|hormones.|b^m
+B|Yeah, hormones, but yeah, uh, steroids. But, I stay from that crap.|aa sd % aa sd sd
+A|Yeah, it's too dangerous.|b sv
+B|Oh, I wouldn't, I could just see hair start growing out of my upper lip or something.|sd
+A|Yeah, I had a friend whose brother did steroids and as soon as he stopped working out he just ballooned out. It all turned to fat and he just, really looked bad.|b sd sd sd sd
+B|Really. Ugh.|bh ba
+A|But, uh,|%
+B|I didn't know it did that.|sd
+A|I don't know if it does to everybody, he was, it, just that's how it affected him. And he, I don't know, just,|h % sd h
+B|Yeah, but I've been wanting to get me a bicycle, or a bike. I've been wanting to get a ten speed to ride around. I'm scared to run, for dogs. Course I know dogs can get you on a bike too, but, seems like it,|b sd sd sd sd %
+A|Yeah. At least you got a chance to out run them that way.|b sv
+B|Yeah|b
+A|I don't like to run myself. I've thought about it several times and I just, it, I like to move a little faster and cover more ground.|sd sd sd
+B|Well they, yeah, they've come up that running is not as good for you as they thought it was.|% b sd
+A|It's probably, I would think it would be hard on your, your legs and your joints and stuff.|sv
+B|Yeah, it's real hard on your legs and it's hard on women. And it, it just makes stuff move down.|aa sv sv sv
+A|Yeah.|b
+B|And, uh, but I, I, I like jogging, I don't mind that. I can get out and do that, as long as it's not hot.|sd sd sd
+A|Uh, I can't.|sd
+B|If it's hot, you can't do that. But in the rain, oh, I love to run in the rain, just, you know, be careful not to slide.|sv sd sd
+A|Yeah.|b
+B|But you can't ride your bike at all in the rain, can you.|qy
+A|No, you can't, it's dangerous.|nn sd sv
+B|You slide.|sd
+A|At least maybe some of these mountain bikes you could but a regular ten speed with those skinny tires, you slide all over the place.|sv sd
+B|Uh-huh. Yeah. Oh, I, when I did ride my friend's bike, that one time, I had, uh, I don't know what I was trying to do. I was trying to make a U turn and I never could make a U turn in a bike, I can do it in my car, but I tried to do it on that ten speed and wrecked and I told her a dog was chasing me But I wrecked it into the curb. I didn't hurt it too bad. I scratched it on the, the oh, she had some kind of fender thing going over the back tire, I think.|b b sd sd sd sd sd sd sd sd sd sd
+A|Yeah.|b
+B|But oh well. Anyway, it's been nice talking to you.|% fc
+A|Yeah, well.|fc %
+B|And, uh,|%
+A|Well good luck with the, the new kid.|fc
+B|Thank you, she's, it, she's good. Anyway, have fun exercising.|ft sd fc
+A|All right.|fc
+B|All right, bye-bye.|fc fc

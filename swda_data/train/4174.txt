@@ -1,0 +1,50 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|Okay, well, Mark, our situation is that we do have a daughter that is, uh, in the situation of choosing college.|fo_o_fw_"_by_bc sd
+A|Uh-huh.|b
+B|She's actually at Bible College for this current year.|sd
+A|Uh-huh.|b
+B|And, uh, I guess uh, first and foremost, it, really it's a question of what the student wants to have in the way of a career and then, uh, uh, which colleges or universities can best offer that program, and then it comes down to the dollar. You have to, uh, it's whether or not you're a resident for that jurisdiction, you know, it does, *sv|sv sv sv sv
+A|Uh-huh.|b
+B|it comes down to, uh trying to come with a trade off of the costs.|sd
+A|Uh-huh. Uh-huh.|b b
+B|Uh, what do you feel about come of the things that need to,|qo
+A|Damn it , I agree with pretty much with everything you've said. Uh, the one, the one thing that I, you know, I'd advise any parent, uh, you know, or any, or any person looking for a college, uh, is that I think, I think, you know, it's really important for them to actually visit the college and actually try and get away from, you know, the guided tour of the college and try and talk to the, you know, actual students there because, you know, they're just, uh, in my experience, I've talked to people at other colleges, uh, that, you know, the, the, the way, the, you know, the, the, the lifestyle pictured in the catalogs isn't always the whole story.|sd sv sv sd sv
+B|No, the, the college, the, the catalogs are sales material.|aa % sv
+A|Uh-huh.|b
+B|It doesn't matter whether, you know, they're, they're selling school.|sv
+A|Uh-huh. Uh-huh.|b b
+B|And, uh, and, true, it, uh, really is helpful if a parent and the student can get there and see the real character of the school and the real life experiences of the school.|fo_o_fw_"_by_bc sv
+A|Uh-huh.|b
+B|Uh, I guess there's a difference in, here the, at least, the university here in Saskatoon is primarily, uh, off campus resident students. Like, they just live in the community.|sv % sd sd
+A|Uh-huh.|b
+B|Uh, you know, I know that there are a lot of colleges and universities, particularly as they get to be a little bit on the smaller side where dormitory life is, uh, is right on campus as well|sd
+A|Uh-huh.|b
+B|and that, you know, that changes the character of it quite a bit.|sv
+A|Uh-huh. Yeah, I, I go to Georgia Tech which is, you know, primarily an engineering school|b b sd
+B|Uh-huh.|b
+A|and, uh, you know, I think I really do miss the fact, you know, that it's not a university, that there's, there's not, the, the, you know, it tends to be a very conservative school and there, and there doesn't seem to be the diversity of views that a lot of, you know, universities will, will have.|sd sv sv
+B|Yeah. Uh, I guess we're here, this is the university that has, for years had the, the car, that, uh, will travel the farthest on, uh, on a small quantity of gas, *utt 3 & 4 one utt?? our engineering students.|b sd sv fo_o_fw_"_by_bc
+A|Uh-huh.|b
+B|Uh, in competitions and that's the kind of thing that also you see, uh, if you can see the kinds of achievements that have been made by students as well as graduates can give you idea of the character of the school.|sd sv
+A|Uh-huh.|b
+B|Uh, whether you, you know, in one sense, whether you've got a spirit of innovation and excellence or whether you've got a, a spirit of, somewhat unkind, but producing graduates.|sv
+A|Uh-huh. Yeah.|b b
+B|Uh, you know, as sort of some development and some training, uh, like it's easy enough to crank out graduates, but to really challenge them|sv sv
+A|Uh-huh.|b
+B|and, uh, and that can vary between colleges, and faculties even, as to how, you know, what the attitude towards achievement is.|sv
+A|Uh-huh.|b
+B|Uh, do you, uh, have anyone that you're seriously needing to, uh, feed information to? I suppose if you're actually at Georgia Tech as a student, you're a ways away from that.|qy sv
+A|Yeah, uh, I don't really know of anyone that's like that's looking for colleges now, you know, because it, with the exception of, uh, people's younger brothers and sisters. Then the only advise passed down is, don't go to Georgia Tech Uh, but, uh, no, actually I'm, I'm, I'm more interested in, in, in choosing the right job when you graduate type information|b sd sd % sd
+B|Right. Well, that's, that's one of the, really, a valid point that people need to consider as well.|b sv
+A|Uh-huh. Uh-huh.|b %
+B|Uh, you know, to, going to college, university is going to take four to eight years depending on the programs person's involved in|% sd
+A|Program.|^2
+B|and after that, you have to be out in the real world and have to be able to support yourself|sv
+A|Uh-huh.|b
+B|and if you go in an area that there is just not much of a job market|sv
+A|Uh-uh.|b
+B|jeez, if that's,|ba %
+A|Uh-huh, like a fine arts education, I,|b ^2 %
+B|Right. Best training in the world is not going to put food on your table.|aa sv
+A|Uh-huh.|b
+B|But, uh,|%

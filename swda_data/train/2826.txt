@@ -1,0 +1,130 @@
+A|Um, I think life, uh, now I grew up on a farm, I don't, what kind did you grow up in the farm.|% sd % % qy
+B|I grew up in, um, well, at that time I was in a, uh, Trenton , New Jersey so, and it was a suburb of Trenton , so I really had mixture of suburb,  and urban living.|% arp_nd sd sd
+A|Uh-huh.|b
+B|Yeah.|b
+A|I think though it was much slower and, uh, much more self-contained.|sv
+B|I think you're right. It's interesting I'm, um, I work in a high school.|aa sv sd
+A|Uh-huh.|b
+B|So, uh, I'm comparing my life when I was in high school thirty years ago to what I see these children doing.|sd
+A|Yes.|b
+B|And the pressures on the children, uh, you know, you hear this as an excuse, but it's true they are so much greater.|sd sv sv
+A|Unreal, unreal by comparison.|sv
+B|Oh, I cannot believe, uh, what they're doing, uh, academically the demands on them and, uh, and I can see why children do drop out.|sd sd
+A|Yeah, I think that's right.|aa aa
+B|I can see, I can see the, uh, you know,|%
+A|I, I can remember as a child, you know, nobody ever worried about me wondering out at night and going where I wanted to go.|sd
+B|Uh-huh, uh-huh.|b b
+A|It wasn't, it didn't occur to nobody to worry that anything would happen to me they were,|sd %
+B|And you, you didn't, you didn't have to lock your door.|sd
+A|No, no.|aa aa
+B|And, uh, a some of these are urban worries but, uh, it's, uh, it's a lot different all though I guess twenty years a go now, in this area, things were, um, similar because twenty years ago let's see, it was after,|% sd sv ^h %
+A|It's not all that long ago is it|qh
+B|yeah, to twenty, twenty-five years ago is when we had the Washington riots,|b sd
+A|Uh-huh, uh-huh.|b b
+B|the first rights we've been having some problem now and it reminded me of that.|sd sd
+A|Yeah, we were living in New Jersey. Uh, in, twenty years ago.|b sd
+B|Uh-huh. Whereabouts?|b qw
+A|In Allendale .|sd
+B|Uh-huh.|b
+A|And, uh, I use to have to go over to Patterson when those riots were going on,  at sometimes.|sd
+B|Uh-huh.|b
+A|Um, I don't know though it's, it's kind of hard to really know because of though the news media had those riots, uh, kind of blown up out of proportion.|h sd sv
+B|Uh-huh, well,|b %
+A|because I went there many times and,|sd %
+B|the Washington riots weren't, because The Washington riots weren't because I lived right downtown,  Washington and, uh, and what you saw is was what you got I'm telling you.|sd % sd sd sd fo_o_fw_"_by_bc
+A|That's what, yeah, well.|% % %
+B|Yeah, but, you know, it's, it is interesting, uh, they're so many they're different kind of dangers that face young people now and social pressures, uh, the pressures of drug is so much, the prevalence is so much greater,|b sv % sv sv sv
+A|Uh-huh.|b
+B|the, the kinds of diseases that you've got out the, uh, um,|sv
+A|Uh-huh.|b
+B|I mean the consequences is so much of what's going on,  is so much more serious then when we were younger.|sv sv
+A|I think that's true, I think that's true. I think the other thing is that, uh, we have taken some rather drastic turns in our, in our education and the way we approach things as of maybe starting back when, when I'm number one, you know, and, uh, uh, uh, worrying about self and not, uh, seeing the consequences of the disintegration of the family.|aa aa sv
+B|Uh-huh, uh-huh.|aa aa
+A|And, uh, and there have been many things that have happened that have not encouraged closeness of families and, uh, support for young people that the kind of support that they need,  to help them take care of the things,|sv
+B|Yes, and,|aa %
+A|if you don't have some kind of, of basic believe or something down inside of you,  then it's very difficult to, uh, have anything to turn to,  when you got, when you've got something facing you like that.|sv
+B|Uh-huh. That's true. I also being involved in the school system see so many of the problem children coming from their parents, um, children who will lie and cheat and you approach their parents, and their parents are constantly justify them rather then to,|b aa sd sv sv
+A|Uh-huh.|b
+B|uh, you know, they're constantly,  excusing their,   child|sv
+A|Like . Right.|% b
+B|and you can see exactly,  why the child is that way.|sv
+A|Yeah exactly.|aa aa
+B|You can as a teacher, can't hold a child accountable,  if you're not going to get reinforced by,  that at home.|sv
+A|Yeah. That's right. that's right.|b aa aa
+B|And you can't make up in a classroom of one hour a day,  what's not been done for,  fifteen or sixteen years at home,|sv
+A|No. That's right. Oh.|aa aa b
+B|and you're, you get mixed signals so it's, it's not always the school's systems I think a lot of,|sv sv %
+A|No, there's so much more, then that it starts, very much deeper then that|aa sv sv
+B|yeah.|%
+A|I think that too. I see some flickers of, of, uh, of good directions turning,|aa sd
+B|No .|b
+A|but whether they're soon enough and fast enough I don't know, it's just,|sv %
+B|Of course, life is a lot more complicated too in ways, um, the kinds of jobs that people need to be trained,  for now.|sv sv
+A|Right.|b
+B|Uh, you know, with farming being so mechanized,  uh, people working on the family farm which was a traditional American way that becomes less and less likely,|sv
+A|Uh-huh.|b
+B|factory jobs are so much more, um, uh, sophisticated.|sv
+A|Yeah, that's right.|aa aa
+B|And the kinds of knowledge that, uh, you know, it, it's requiring an increasingly sophisticated labor force and,  some people just don't have it.|% sv sv
+A|Right. And there's so much, so, so many people on the lower end of those who, who are going to be the, the drop outs and the,  and the poor and the homeless and whatnot,|b sv
+B|And you worry when,  you know these the sex and drugs on the young children and the unborn children,|sv
+A|Yeah, that's just another,|aa %
+B|uh, in terms of what it's going to mean to a society,  in the future it's a|sv
+A|Yeah.|b
+B|some ways it's rather frightening,|sv
+A|It really is it's just, it just is almost overwhelming sometimes when you think,  of, of the jobs that is out there to be done,  in order to flip things back around the way they needed to be,|aa sv
+B|It certainly is. Well, it sure is. It sure is.|aa aa aa
+A|Uh, not that I really think that they were perfect ten, twenty, or thirty years ago, but,|sd %
+B|It was a little easier though wasn't it?|qy
+A|Uh, yeah, just the volume makes a big difference,|ny sv
+B|Yes.|b
+A|I think as, uh, as, uh, mother you know, I use to think sometimes it's not so much, uh, it's not so much the kids, it's just the volume of it,  to try to keep all wash done and all the things done and, you know, and everything. Right.|sv sv b
+B|uh, I look at my mother's life I mean she, she didn't work, um, um, for a long time when I was very young she didn't drive. Uh, she learned to drive I think when I was, um, a teenager, and her life was a lot simpler,|sd sd sd sd sv
+A|Right and,  and children's lives were simpler because mother was there,|sv
+B|and I sit here,|sd
+A|somebody was there.|sv
+B|That's right.|aa
+A|And, and when there's nobody there,|sv
+B|That's right, that's right.|aa aa
+A|I always thought too that, you know, people worrying about going to work when their child, when their children are little and I, and I think that's sad if they have to because they miss so much, but I, I believed after having a few teenagers that the worst time you could go,  to go work was when they were teenagers.|sv sv sv
+B|They need you more as a teenager . Isn't that true. That's why I'm working in a school system so that I'm home when they're home. Um,|sv qh sd %
+A|Right, it's not so much that they come to you every minute, but it's that you are there when they need you.|aa sv sv
+B|That's isn't that, that's so true,|% % aa
+A|Yeah.|b
+B|uh, uh, I find working in a high school is very helpful because it lets me be a little more tolerant and understanding of what people do,|sd
+A|Yeah.|b
+B|and it keeps me from being the old fogy so, but at the same time,  it also it prevents kids from try to go pull the wool over your eyes,|sd sd
+A|Yes, I think that's true.|aa aa
+B|as to what's but that's the same I'm home in the summers, I'm home with the holidays,|% sv sd sd
+A|Yeah, that's,|b %
+B|I'm home at three o clock when the children are at home or where home,|sd %
+A|Yeah.|b
+B|one is now a senior in high school and the other's in college,|sd
+A|Well,|%
+B|and, uh,|%
+A|But that helps a lot,|qy^d
+B|It's, uh, it, uh, it does,|na
+A|I have a daughter who just had a second job, she needed to work and he opted to go into a day care center where she could have her children with her. And, uh, and looked a long time before she found one that was laid back enough so they she would be able to interact with them,|sd sd sd
+B|Uh-huh, uh-huh. That's right.|b b aa
+A|and, uh, and so I, , you know, good kind of experience as well but, uh,|% sd %
+B|Well I,|%
+A|I think that's really important I don't think people realize how important it is.|sv sv
+B|That's, that is, that is so true,|aa
+A|Yeah, uh,|b
+B|and it's not that always that the children always say something but every once in awhile they'll come up and make a comment,|sv sv
+A|Yeah.|b
+B|and you realize it's important that, uh, and yet, you know, we have to make that choice I think twenty, thirty years ago a lot of women,  just didn't have to make that choice.|sv sv sv
+A|Yeah. I think that's right. What was, what was your name again?|b aa qw
+B|Well, I, Linda Lee.|% sd
+A|Linda.|bk
+B|Uh-huh.|b
+A|Okay.|bk
+B|And your name was?|qw^d
+A|Well I think probably that we've just about|fc
+B|Well I enjoyed,  talking with you.|fc
+A|I'm going to,  change the world but, uh,|fc %
+B|Well, I enjoyed talking with you.|fc
+A|Yes, it's nice talking to you, too.|fc fc
+B|Okay.|fc
+A|Bye now.|fc
+B|Bye-bye.|fc

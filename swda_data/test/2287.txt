@@ -1,0 +1,102 @@
+A|Okay, did you vote in the last, uh, national election?|fo_o_fw_"_by_bc qy
+B|Yes, we, uh, uh, I haven't missed a one since I've been eligible to vote.|ny sd
+A|Oh, that's good.|ba
+B|Did you get to vote at the last one?|qy
+A|I voted in the last national one. Yeah, I'm not sure *slash error; one utt with next if I got the last local one.|na ny sd sd
+B|Oh, uh-huh, yeah, and sometimes the, the local ones aren't as publicized it seems that, uh, they should be.|b b sv
+A|Yeah, you're not sure where to go and vote and all that.|b sv
+B|Right, and, uh, there's usually nobody running against, you know, the incumbents.|b sv
+A|Right, or you don't know what they you know, where they stand or anything like that.|b sv
+B|Right. So, uh, but I, I feel that, uh, a lot of people have gotten lazy about voting.|b sv
+A|Yeah, I think you're right.|aa sv
+B|And, it's, it's, they're, and also they're fed up with the system, and they say, well, why should I even vote.|% sv sv
+A|Yeah, or sometimes they don't like either of the choices for the candidates,|b sv
+B|Right.|b
+A|so they think, well, you know, why vote.|sv
+B|Right. The lesser of the two evils is how we usually look at it.|aa sv
+A|Yeah, really, especially in Texas|aa aa sv
+B|Oh, I know it The last gubernatorial race was, oh it was awful.|b sv
+A|It really was, yeah.|sv aa
+B|So I don't know, I, I, it'll be interesting to see how the next, uh, few years go.|h % sv
+A|Yeah Did they get the serious problem that half the people don't vote.|b qy
+B|Yeah, I think, well, it's, it's definitely a problem, and I think it could get worse.|ny sv sv
+A|Yeah.|b
+B|You know, we get this lackadaisical attitude, and say, huh, you know, why should we vote, then, you know, it could, uh, it could lead to some serious things.|sv sd sv
+A|Yeah. It also seems like maybe another candidate that nobody wants could slip in if, you know, not enough people are voting.|b sv
+B|Uh-huh. Right, uh, yeah, we can get, uh, yeah, if we get someone in there like that, then, you know, they could make all sorts of changes that they were, you know, had enough pull.|b aa aa sv
+A|Yeah, it's kind of like in Louisiana where that, uh, guy that's like a Ku Klux Klan member something got elected.|b sd
+B|Yes. Uh-huh.|aa b
+A|Kind of scary when you think about that.|sv
+B|Yeah, and, uh, who's the other guy, LaRouche that, uh, is sort of the, uh, socialist, not socialist but he's so off the wall that, uh, he's gone in and tried to get into city elections and, uh, but he's got, he's been put away for, uh, credit card fraud, I believe.|b sd sd sd
+A|Oh, gosh.|ba
+B|Yeah, Lyndon LaRouche, that's it.|b sd
+A|Yeah.|b
+B|And, uh, yeah.|% %
+A|Yeah, people will sit home and assume, oh, that guy would never get elected.|b^m sv
+B|Uh-huh.|b
+A|Next thing you know, you've got him.|sv
+B|Right. If you don't go and vote, then, you know, very good chance that they, they will because a lot of the people like that, they'll strike a chord in something, you know, in some of the people, that so will say, look, you know, this guy's got everything together.|aa sv
+A|Yeah.|b
+B|You know, I like what he says, and he'll be so far off the wall that they'll elect him.|^q sv
+A|Right, yeah.|b
+B|And, uh, I think that's sort of what happened with Louisiana because, because, um, the guy did get elected, correct?|qy
+A|Yeah. Right.|b na
+B|That's what I thought.|sd
+A|Yeah, he sure did.|aa sd
+B|And, uh, , but you know, they can always fool us, you know. He might do a good job.|sv sd
+A|Yeah. I think one thing that maybe would help people vote is if the polls were either open more days, or you could mail it in, or something like, if you have, if you have real strict work hours, and you can only go like at seven in the morning or after work and you have to stand in line for so long|b sv
+B|Oh, yeah.|b
+A|I think that discourages a lot of people.|sv
+B|What we do, usually, is, uh, vote, uh, absenteeism|sd
+A|Uh-huh.|b
+B|and, uh, I know, here, you know, you don't have to have any reason, you can just go and vote|sd sd
+A|Right.|b
+B|and the polls are open, what was it, a couple of weeks, the hours are good and they're even open on Saturdays and a couple of Sundays.|sd sv sd
+A|Uh-huh.|b
+B|And so we've got plenty of time to go, because down here in Houston, it's, uh, the lines are long.|sd
+A|Yeah, I'm in Dallas, and they're long here too.|b sd sd
+B|So, uh, but, uh,|%
+A|Yeah, I voted absentee one year. I really was going to be gone. So, I did it, but, uh, it was nice. I would be tempted to do it again.|b sd sd sd sv sd
+B|Well, uh, I recommend it, because you just walk right on in, and there's usually not anybody in line|sd
+A|Right.|b
+B|and, uh, you know, that vote's just as good as, you know, the one on election day.|sd
+A|Yeah. I think they should change the whole system so that it's easier|b sv
+B|Uh-huh, yeah.|b b
+A|I think more people would do it if it wasn't such a hassle.|sv
+B|Um, yeah, I've been involved with, uh, some of the campaigns and the state conventions of the, of the Republican party. And it's really interesting to see the process as far as what goes through as far as the voting and the, uh, how the, uh, the not the ballots, but, uh, my mind has gone blank. I've been all evening How they develop, uh, what the candidate stands for|b sd sv sd sd
+A|Uh-huh,|b
+B|you know, the views, and, uh, you know, everybody gets to vote on, you know, well, should he be for this and on and on and on, and, uh, it's, it's interesting.|sd sv
+A|Yeah, that would be. I usually vote. A lot of times I'll vote a straight party ticket just because I don't take the time to find out what every, you know, other than the major candidates, what they stand for on what issues,|aa sv sd sd
+B|Uh-huh.|b
+A|so I'll just trust well, the party kind of goes along these lines so I'll go ahead and vote.|sd
+B|Right. There for a while, that would, that worked. We've, uh, I know I have, um, I'll stick to uh, to the, you know, sometimes I'll stick to a certain party, depends on the guy.|b sv % sd
+A|Uh-huh.|b
+B|But, uh, if it, uh, gets down between two, then I'll, I'll vote for the party because I know, you know, something about the other guy|sd
+A|Yeah.|b
+B|or, you know, they're both just as bad, and I'll say, Well, I know what this guy stands for as far as for his party, and, um, but yeah. You know, that's not the best way but,|sv sd % % sv %
+A|No, I guess it'd be best if you knew each person and what they stood for and why and everything.|aa sv
+B|But it gets to the point where, I mean, you've got to have the find the time also to read about the guy and, and be able to find the information about what he stands for.|sv sd
+A|Right, and try to determine if what you read was objective or not.|b sv
+B|Right, or what you've heard on T V, which I think is just outrageous.|b sv
+A|Yeah.|b
+B|I, I don't agree with how the media handles elections.|sd
+A|Yeah.|b
+B|I, you know, I'm tired of hearing about the polls, you know, you know, this is how he stands such and such a day the way they break it out,|sd sd
+A|Yeah.|b
+B|it's just, it's just ridiculous.|sv
+A|Yeah, I think it could affect the outcome, you know, could make it unfair.|b sv
+B|Uh-huh, it really could, and, uh, then, how, sometimes, how the media will blow things out of proportion and will run an issue into the ground which is good and dead, and they keep dragging it on, and it could hamper the outcome of an election for the guy that should have won.|aa sv sd sd sv
+A|Oh, yeah.|b
+B|Yeah, so, uh,|b^m %
+A|Yeah, the press has a lot of power.|b sv
+B|They really do. I, I sometimes think that that should be limited more.|aa sv
+A|Yeah, oh, but, boy you try get into that, you'd really open a can of worms.|b sd sv
+B|Oh, yes, or they, I agree with the freedom of the press, you know, and all the amendments, but sometimes it's for the public's own good that we don't hear things.|aa sd sv
+A|Yeah, seems that they should regulate themselves a little bit, and I don't think they ever care to.|b sv sv
+B|No, they don't.|aa sv
+A|Well, I can't think of anything else really about the polls or voting, to talk about.|fc
+B|Well, I enjoyed talking to you.|fc
+A|Well, it was good talking to you.|fc
+B|All right.|fc
+A|Bye.|fc
+B|Bye-bye.|fc

@@ -1,0 +1,50 @@
+B|Well, do you exercise regularly, Judy?|qy
+A|Um, I try to ride the stationary bicycle every day about five miles|na
+B|Uh-huh|b
+A|and I love to walk, so if I have a lunch hour with nice weather I get out and, and walk. What about you?|sd sd qo
+B|Well, um, I, uh, exercise regularly. I work at a university, and I swim almost every day upwards of a mile,|sd sd sd
+A|Uh, very good.|ba
+B|but Washington is one of my favorite places to visit. Uh, my daughter lives in Arlington, and when I go to visit her, I love to get out on that bike trail, and either ride the bike, oh, gosh, you can ride a bike practically all the way to Southern Virginia or just get out and walk, uh, or even jog a little, although I don't do that regularly.|sd sd sd sd
+A|Uh-huh. Uh-huh.|b b
+B|But Washington's a great place to do that.|sd
+A|Yeah, there are, there are lots of bike paths. I know, my son is a biker and he, he's done the whole canal, I think it's a hundred and eighty miles, with the scouts.|b sd sd sd
+B|Uh-huh.|b
+A|And so, but that somehow takes, organization. For me, it's much easier just the stationary bike, you know, it's at home, I can, I can do some of my reading,|sd sd sd
+B|Right.|b
+A|Um, but,|%
+B|Do you live in the District?|qy
+A|No, I live in Maryland.|nn sd
+B|Because I think there're so many parts of the District where it's not very safe to get out and walk.|sv
+A|Right, right, and that's it, um, at work we have a, a nice campus,|b b % sd
+B|Uh-huh.|b
+A|I mean, we're within walking distance of, of stores and shops so I do. Now, I think, um, basically, is your motive simply, um, health or because you enjoy it?|sd sd % qy
+B|Well, it's, uh, it's really both. I'm certainly driven by the desire to maintain my weight and be healthy and be in shape, and, uh, and most of the time I enjoy it. Sometimes I don't, but I feel that, uh, that the discipline it affords me when I do it when I don't want to is also worth something.|no sd sd sd sd
+A|Uh-huh, right. I think pretty much you summed up my, my, my motivations also.|aa aa sd
+B|And I often find that even when I don't feel that much like exercising, like I'll be really tired, and I'll start swimming, and I'll, and I'll actually get energy. And I'll be, have much more energy when I'm done than when I started, I mean, I just feel great. That happens to me probably one in four or five times that I swim.|sd sd sd sd sd sd sd
+A|Oh, well, that's great, that's great.|ba ba
+B|And that's really a terrific feeling, because you just go there at the end of the day, and you figure, God, I'm ready for bed and you exercise and then, it's sort of painful for a while,|sd
+A|Uh-huh.|b
+B|but by the time you get done you feeling really terrific.|sd
+A|Right. And actually in, in summer I like to swim. We don't have facilities for swimming in winter, but, um, and, and that's true, when I go home from work at the end of the day, if I go up for an hour in the pool, I'm much, much more awake, I'm ready to work in the garden or whatever in the evening.|b sd sd sd sd
+B|Yeah, yeah.|b b
+A|So.|%
+B|So, can I just ask you, are you Canadian?|qy
+A|No, I'm not.|nn sd
+B|Philadelphia?|qy
+A|No.|nn
+B|I'm trying to because you have a, you have one funny vowel that's probably going to drive the T I people crazy.|sd
+A|Oh, really.|b
+B|Say out, instead of out you say out. Did you know that?|sd qy
+A|No, I don't know that. But, I, I must say, that, um, when, when I did do a linguistics course in, in school, ages ago, um, the professor had a lot of trouble with my accent.|nn sd sd
+B|Huh.|b
+A|And it's probably because I, I, I was born in the Chicago area and grew up in California, and at that point that was sort of the limit but since then I've been abroad a lot,|sd sd
+B|Huh. I see. I know this isn't on our topic, but where did you grow up in California?|b ba sd qw
+A|In Santa Barbara.|sd
+B|Oh, okay, because I grew up in North Hollywood, California went to U C L A and all that.|bk sd
+A|Oh, I see. Uh-huh. Well, very good, I think we've probably know, know each other's exercise habits|ba b ba sv
+B|Yes.|aa
+A|and, uh, it was nice talking to you.|fc
+B|Well, same here. Thanks for calling.|fc fc
+A|Oh, okay.|fc
+B|Bye.|fc
+A|Bye-bye.|fc

@@ -1,0 +1,99 @@
+A|Go ahead.|ad
+B|Oh, um, uh, I usually don't get to hear any of the current events probably until about the ten o'clock news.|sd
+A|Uh-huh.|b
+B|Uh, you know, being, uh, I mean, by the time you get off work, go by and pick up the, uh, baby from the baby sitter, it's, you know, after six and by the time everything is settled in, it's ten o'clock before I can catch up on anything.|% sd sd sd
+A|Yeah, I guess that's the way I am too. I, sometimes I hear some things on, on the radio.|b sd sd
+B|Uh-huh, oh yeah.|b b
+A|I only get the newspaper on the weekends so|sd %
+B|Oh, uh-huh. Oh, I don't even have, time to read the newspaper except in passing,|b sd
+A|Uh-huh.|b
+B|you know, I'll look over my husband's shoulder and see what's going on.|sd
+A|I,  I guess occasionally I'll hear someone at work say something though.|sd
+B|But, uh, Yeah. We have, uh, a news thing on the computer that, uh, that I'll, I'll try to look at every day.|% b sd
+A|Uh-huh.|b
+B|And, uh, it, it's pretty much headline news.|sd
+A|Yeah.|b
+B|Which isn't, you know, pretty much what we look for anyway.|sv
+A|Uh-huh.|b
+B|But, uh. I, do you think that the quality of the, uh, the, you know, the news events that you get are, what do you think about it?|sv qo
+A|Well I, I guess it's pretty good. And, and like the Dallas area,|sv %
+B|Uh-huh.|b
+A|and I, I guess when you're in a big metropolitan area like this, there's, I guess, a lot of pressure in that business to,  borderline at that.|sv sv
+B|Yeah. Well, you know, there's a lot of competition in the media.|b sv
+A|Uh-huh.|b
+B|And sometimes I think it too much trying to figure out who's going to get the best headlines. And that they'll run a topic into the ground.|sv
+A|Yeah.|b
+B|And, uh. You know, they try to play public's opinion. Which I think is awful, because it usually works.|sv
+A|Uh-huh, true. I'll bet that was the case of the, the war in the Middle East.|aa aa sv
+B|Yes, uh-huh. That, uh, lots of new, uh, newsmen were created during that so, it will be interesting to see what happens.|aa aa % sv sv
+A|Uh-huh, true. Trying to think what else is,  is current.|aa aa ^h
+B|Right. Uh, uh,|b b
+A|Well, um, I don't know what to say Uh, that's a bad one, they, uh, looks like we're going to have an income tax in Texas,|sd ba % sv
+B|Yeah, I hate to see that, but it's, uh, that, you know, if what it's going to take, well, you know, we can deduct that from our income tax, our federal income tax.|aa sd % sv
+A|Uh-huh.|b
+B|But, uh, you know, but we need good schools. Uh, we're more involved in that now. And, I, I, I, I think it's better for everybody if we had better schools.|sv sv sv
+A|Yeah, that's true.|aa aa
+B|So,|%
+A|I would think they could find a better way to fund it though, but they haven't for,|sv %
+B|No. You know, I wish they could have gotten a lottery.|aa sd
+A|Well, they're struggling with it.|sv
+B|Yeah. I think, you know, the lottery could have helped, with that. I mean, it wouldn't have been as painful as what we would've paid in state income tax. I mean, probably would have paid the same amount but, you know, it's not the idea of your paying, uh, income tax.|aa sv sv sv sv
+A|Uh-huh. True.|aa ba
+B|So,|%
+A|I, I'm not sure there's a positive solution for that.|sv
+B|No. It'll be interesting to see what happens.|aa sv
+A|Trying to think what else is current.|^h
+B|I, you know, I haven't seen the news in a couple of days. So it, uh, I'm a little behind on things.|sd % sd
+A|Well, the other thing I can think of is, uh, what is still going on in Iraq and the Kurd refugees.|sd
+B|Yes, that's, that's sad. Yeah. They, uh, yeah, they had to choose between the better of the two, two bad situations, and,  uh, I don't know what I've would have done in the situation.|b ba b sd sd
+A|Uh-huh. Yeah, it begins to make you wonder why we didn't go ahead and go on in and,  finish the job while we were in there.|b b sv
+B|Yeah. Right. But I understand why Bush, you know, doesn't want to go in and, and uh, take sides. I mean, because that would definitely look like another Korea,|b aa sd sv
+A|Uh-huh.|b
+B|and he'd have all these people jumping down his back, even though I'd agree with it. I think he ought to, should've gone in there and blew them away.|sv sv
+A|Seems to have helped him though,  popularity wise.|sv
+B|Yeah, it, it,  it did a lot. He did a real good job I believe. I have, uh, in-laws that live in Saudi Arabia that stayed there during all of it too.|aa sv sd
+A|Hm.|b
+B|It, uh, it, uh, you know, we, so we kept very much abreast of what was going on.|% sd
+A|Yeah. Were, were they in any of the areas where they,  some of the Scuds?|b qy
+B|Yeah, they were on  the, the, near, uh, Dahran. On the,  on the east coast.|ny sd
+A|Um. Um-hum. Yeah.|b b b
+B|They were just north of it. Probably about a hundred fifty miles, hundred miles from uh, the Kuwaiti border.|sd
+A|Um.|b
+B|Uh, and they stayed active was the, uh, the military there. Taking supplies out to them in the desert.|sd
+A|Uh-huh.|b
+B|It was, it was a new situation.|sd
+A|Yeah. I'll bet.|aa ba
+B|I don't really have much more to say|sd
+A|I don't know anything else that's current other than the weather and,|sd %
+B|You're right, and that's, that's awful in Texas|aa sv
+A|Have, have you all been getting rain storms down there?|qy
+B|We got some awful rain, uh, the other morning. And today's just been real drizzly.|na sd
+A|We did, we did last night. Uh, some real massive thunderstorms.|sd
+B|Yeah.|b
+A|Apparently, I, I don't know if it was just the strong winds or some small tornadoes up this way too.|sd
+B|Uh-huh.|b
+A|Caused some damage.|sd
+B|It did?|bh
+A|We may get some more tonight.|sd
+B|Oh, well. We, we've just got slight chances of rain. But, uh, we had the, we had the hard thunderstorms the other morning. Course while everybody was getting ready to go to work. Making nice traffic jams. So|sd sd sd %
+A|Uh-huh. Well the, the ground here is so flat, and it's all saturated now,|b sd sd
+B|Oh|b
+A|we're getting some flooding.|sd
+B|Right, uh, when was it, last week, we had all the rain? But, uh, we, I think we had about eight inches.|b t1 % sd
+A|Hm.|b
+B|It was between six and eight inches here where we are.|sd
+A|Goodness.|ba
+B|And, uh, it, you walk out on the ground, I mean you, I mean, it's awful. It's just so soggy.|sd % sd sd
+A|Yeah. It's a lot more humid down that way.|b sv
+B|Yeah|b
+A|In fact, miserable.|sv
+B|Well, today it was, I mean, the air was just so sticky, so damp.|sd
+A|Yeah, I think there were places around downtown Fort Worth last night they got three inches in a real short period of time, like an hour or so just,  a bunch.|b sd
+B|Goodness.|ba
+A|Well, I guess that's it|fc
+B|Right. Well it's,|fc fc
+A|That's about as much as we can do with current events.|fc
+B|Right. Well, it was nice talking to you.|fc fc
+A|Good talking to you, Michelle.|fc
+B|All right. Bye-bye.|fc fc
+A|Bye-bye.|fc

@@ -1,0 +1,60 @@
+A|So, so what have you seen lately that, um, you think is worthwhile?|qw
+B|Um, the last movie I saw was REGARDING HENRY. Have you seen that yet?|sd qy
+A|No, I, I saw the previews.|nn sd
+B|It's really good. I loved it. Um, it's, um.|sv sd %
+A|Does, does he, does it have a happy ending, or.|qy %
+B|Yeah, really good ending|ny sv
+A|Uh-huh.|b
+B|um, uh, it was the, it's one of the best movies I've seen in a long time. I generally don't get into movies that much, but I saw that one, and then before that one, I saw, um, oh, NAKED GUN TWO AND A HALF.|sd sd sd sd
+A|Oh, that was funny, wasn't it|qy
+B|Yeah, did you, have you seen that one?|ny qy
+A|Yes, and, and, and, and the regular NAKED GUN and AIRPORT and, you know.|ny sd
+B|Yeah, it's exactly like AIRPLANE wasn't it|b qy
+A|Yes.|aa
+B|But it was silly.|sv
+A|Right. So, now these are for two very different movies. One, one, uh, absolutely slapstick comedy and one clearly, you know, serious subject.|b sd sd
+B|Yeah, yeah.|b b
+A|Yeah, I, I guess I have similarly broad tastes. Um, my most recent, um, movie that I, that I liked a lot, not my most recent movie, was HENRY THE FIFTH. I only rented it, you know, maybe a month ago|b^m sd sd sd
+B|Uh-huh.|b
+A|and it's been out for a couple of years, but. Have you seen that?|sd qy
+B|I haven't seen that yet.|ng
+A|Well, it's, it's a, it's an adaptation of the, of the Shakespeare play, and it's beautifully done. Um, I believe that all the language is as Shakespeare wrote it, except it's been shortened a little bit and there might be a word or two changed.|sd sv sd sd
+B|Right.|b
+A|Uh, but it's, it's, it's a glorious movie|sv
+B|Um. Such as|br
+A|um, and I like, as you know, these, these, these silly movies, and I also like just some strange movies. Do you have any. Well, the, the one that comes immediately to mind, I, um, is the THE COOK, THE THIEF, HIS WIFE, HER LOVER. Um, but there are also these various, um, David Lynch movies.|sd sd qy sd sd
+B|Uh-huh.|b
+A|Um, I got, I got hooked on TWIN PEAKS. That made me go out and watch every David Lynch movie I could lay my hands on.|sd sd
+B|Oh, really. I haven't seen any of those.|b sd
+A|Oh. Um well, I don't, I don't especially recommend,|b sd
+B|They're really good?|qy^d
+A|I mean, you have, you have to just sort of like this thing, you have to like, did you see TWIN PEAKS?|sv sv qy
+B|Huh-uh, no.|nn nn
+A|No, so, okay. So, if you weren't, if you weren't drawn to watch that, you, maybe you wouldn't be drawn to these movies, either.|b % sv
+B|Uh-huh.|b
+A|They're, they're just strange.|sv
+B|Are they, I mean, is it, like mystery, or suspense|qy
+A|Well, uh. I think suspense is the right word.|sv
+B|or,|%
+A|Uh, and, but, but, a little bit strange and esoteric and, uh, in the case of TWIN PEAK a little, there's some elements of the supernatural in it, too.|sv sd
+B|Oh really.|b
+A|That was the television show.|sd
+B|Um.|%
+A|Um, there's also a, a a producer of movies in Baltimore called, um, John Walters, who, who puts, puts on even weirder movies. Uh, his most recent ones have actually been fairly mainstream, like HAIR SPRAY. Um, but back in his early days, he, he, he had things, um, um, what, what are the titles, I can't remember the titles any more. But, some really weird ones, uh, with quite a random crew of, of characters. Um, it would have made, you know, these Fellini movies look normal.|sd sd sd t1 sv sv
+B|Right. So do you like, um, movies a lot? See I don't do, I don't.|b qy sd sd
+A|I do, I do like movies a lot.|na
+B|Right. See, I don't do that, I don't go to movies that often, but, just recently I've been to a couple|bk sd sd sd
+A|Do, do you rent them, or.|qy %
+B|Um, no, we, I just go to like the dollar movie theater around here generally,|nn sd
+A|Yes.|b
+B|but, I don't know, I just, I usually fall asleep or I get bored pretty easily so.|h sd sd %
+A|Yeah, that's what my wife does too, um, I mean, she falls asleep|b sd sd
+B|Uh-huh.|b
+A|So we have to, we have to pick just the right kind of movie to, to, to, to appeal.|sd
+B|Yeah. Right, that's exactly right.|b b ba
+A|Well, well it was good talking to you.|fc
+B|Yeah, it's good to talk to you, too.|fc fc
+A|Take care.|fc
+B|Uh-huh.|fc
+A|Okay, bye.|fc fc
+B|Bye-bye.|fc

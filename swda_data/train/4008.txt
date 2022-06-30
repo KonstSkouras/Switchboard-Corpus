@@ -1,0 +1,67 @@
+A|do you have a P C?|qy
+B|Yes, I have a Macintosh S E thirty.|ny sd
+A|Uh-huh. Yeah, a lot of my friends are into Macintoshes. I have a, um, P C, a I B M P C myself.|b b sd sd
+B|Uh-huh.|b
+A|A two eighty-six. I'm probably eventually going to get a three eighty-six. Um.|sd sd
+B|What do you use yours for mostly?|qw
+A|Um, mostly, um, word processing applications and, uh, just as a dumb terminal.|sd
+B|Uh-huh.|b
+A|Um, but I, um, I think eventually I'll start using it for spreadsheets and things like that. Um, what do you find that you use yours mostly for?|sd qw
+B|Well, I do a lot of word processing and spreadsheets and data base, and, uh, about the only thing I am, uh, I'm just starting to get into, uh, a little bit more communications now. I've just today ordered a fax modem so I'll be able to send and receive faxes right over there without using, you know,|sd % sd sd sd
+A|Uh-huh.|b
+B|you don't have to make a hard copy that way.|sd
+A|Uh-huh.|b
+B|Uh, are you using windows?|qy
+A|No, I, I think I, I'm planning on like moving up, getting a three eighty-six before I move up to windows although, you know, I do like the, the graphical user environment.|nn sd
+B|Uh-huh. Uh-huh. Well, it's getting to be more and more like a Macintosh|b b sv
+A|Yeah, it's, um, I want, I want to be able I just want it more for multi tasking, which I suppose is also like a Macintosh.|aa % sd
+B|Uh-huh.|b
+A|Uh.|b
+B|Well, the one thing I used to use a, uh, I've never used an I B M actually. I used to use a, just an Apple two E, which of course is looks pretty primitive now.|sd sd sv
+A|Uh-huh. Yeah, that's what I learned a lot of languages on, was an Apple two E in my high school.|b aa sd
+B|But I don't have any, uh, any real programming capabilities on my, uh, Mac right now.|sd
+A|Uh-huh.|b
+B|I don't have, uh, any compilers|sd
+A|Uh-huh.|b
+B|so I'm, uh.|%
+A|Well, do you use your computer for, um, just things around the house, or in the .|qy
+B|I use it in my business.|sd
+A|Well, see, what do you do?|qw
+B|I, uh, do, uh, consultation and, and testing of various kinds for, uh, English as a second language programs.|sd
+A|Oh, wow. Um, and, uh, are these like, uh, do these programs, um, are, are they based on, on a, on a, um, other language, or are they based, are they based like a lot of the, um, you know, a lot of the English as a second language classes will have people from all sorts of, you know, parts of the world, and the teacher just tries to, tries to teach English, you know, through natural understanding.|ba % qy % sv sv
+B|That's, uh, exactly what, yeah, that's the kind of thing I'm working with exactly.|sd
+A|Uh-huh.|b
+B|You seem to be, uh, better informed than the average person on that.|sv
+A|Well, it was just, uh, when I was high school, I worked for the community school, and they had a English second language class and it always seemed strange to me that, you know, all these, all these people that, you know, spoke English not too well, and spoke, you know, a variety of different languages were all being taught at the same time.|sd sd sd
+B|Uh-huh.|b
+A|I imagine it's a lot harder on a computer because you have to, you know, you don't have as many cues, you can't, don't have hand gestures and things like that.|sv sv
+B|Right. Well, now, we, uh, what I use a computer for is to write materials that are later printed, though.|aa % sd
+A|Uh-huh.|b
+B|Most of the stuff that I do is not, uh, interactive|sd
+A|Uh-huh.|b
+B|and I use it for uh, data analysis on testing, so.|sd %
+A|Uh, to see how well they retain the vocabulary and things like that.|qy^d
+B|Well, just, actually, just, uh, item analysis, statistical analysis of the tests, uh.|arp_nd
+A|Uh-huh.|b
+B|You know, when you write a test you have to look at some data from it and see how the different questions are performing and find out which ones are discriminating well and which ones aren't find out how reliable the test is,|sd
+A|Uh-huh. Uh-huh.|b b
+B|you try correlate it with other tests and things of that sort. So it's, involves a lot of spreadsheet use.|sd sd
+A|Yeah, I would imagine so. Um, so, um, what were you doing when you were using an Apple two E?|b ba qw
+B|Well, I was doing some of the same stuff, but doing it more slowly and with smaller files. I can't believe, you know, I've got, uh, five, uh, megabytes on this one now|sd sd
+A|Uh-huh. It, it's .|b %
+B|and on my two E I had a hundred twenty-eight K|sd
+A|Yes, it's amazing, you know, how, how like in the general user community the expectations have just grown so much. I remember my first computer was a T R S eighty with four K on it|aa sv sd
+B|Yeah.|b
+A|and you know, then, then we, then I started playing with Apples, you know, and those had forty-eight, or, you know, if they were really great they had sixty-four K.|sd sd sd
+B|Oh, the old the old Apple, uh, the, the original Apple had, what, yeah, forty-eight I guess, didn't it.|qy
+A|Uh, I know, I know that in my school they had a bunch that had sixteen K on them, is all, and|sd %
+B|My goodness.|ba
+A|there's, I remember that there was one game that I played that required forty-eight K and there was only one computer that had forty-eight K on it at the time.|sd sd
+B|Uh-huh|b
+A|And you know it's just so amazing that generally, you know, if you, if you, I'm not sure about Macintoshes, but I know I B M you, you generally, you know, you buy a megabyte at a time.|% sd sd
+B|Uh-huh.|b
+A|You know, that's, that's your that's the low end. Uh.|sd
+B|Well the S P thirty goes up to eight|sd
+A|Uh-huh.|b
+B|but I haven't upgraded it quite that far yet. I think probably when I get system seven I may have to do that and, and get another, possibly another hard disk. I don't know. They say that system seven uses a lot of memory.|sd sd h sd
+A|Uh-huh. Yeah, I imagine .|b b ba

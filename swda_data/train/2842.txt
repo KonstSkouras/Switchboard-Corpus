@@ -1,0 +1,61 @@
+A|Okay. Do you have any children?|fo_o_fw_"_by_bc qy
+B|Uh, yes, I have a daughter.|ny sd
+A|Uh-huh. I don't any children so I'm going to have difficulty with this topic.|b sd sv
+B|Oh, okay.|bk
+A|But, uh, what kinds of things do you and your family do?|qo
+B|Um, well, we go out and fly kites and we go fishing. And we go to movies and we go out to the farm. And, and, uh, she likes to pick flowers and look at birds.|sd sd sd sd sd
+A|Um. Then your kind family is probably pretty rare now a days. I don't see a lot of families fishing and doing things like that. That's great.|sv sv ba
+B|Well, I'm divorced, but that's what, when she's with me that's what we do.|sd sd
+A|Yeah.|b
+B|And we color a lot and I read her stories.|sd sd
+A|Uh-huh. That's great.|b ba
+B|Yeah.|b
+A|I think a lot of families now, they probably don't spend enough time together.|sv
+B|Yeah.|b
+A|You know, whether their parents are together or divorced they don't spend enough time together and, and I think that contributes to a lot of why society is going downhill right now is because the basic family unit is being destroyed. Just simply because that time isn't spent just doing things like fishing and, uh, because that I think that when you spend a lot of time with each other you communicate a lot. And the communication helps you build on your, uh, helps just, just build your family.|sv sv sv sv sv
+B|Uh-huh And even, even when I was, when I was, uh, living with her with did stuff then too, Yeah,|b sd
+A|Uh-huh. Yeah. That's pretty, to me that's pretty rare.|b b ba
+B|I know.|sd
+A|I like that. Whenever I do have children I, I'm going to try as hard as I can to see that we spend a lot of time together, you know, maybe just even, if we just rent a movie and watch it together just to make sure that everybody's not going out and doing and their her own thing all the time.|sd sd sd
+B|Uh-huh.|b
+A|You know, that's good sometimes because you need to, you know, get away. But, um, I don't think you, you should spend too much time outside at the detriment of, of losing your the family unit.|sv sv
+B|Yeah, that's right. Because then you never get to know them either.|aa aa sv
+A|Uh-huh.|b
+B|They're all grown up and their,|sd %
+A|Yeah. Yeah. And as I understand it, I don't know, I haven't experienced it,|b b % h sd
+B|Yeah. Uh-huh.|b b
+A|And once they hit like ten or eleven or twelve, you know, you've pretty much lost them|sv
+B|Yeah, they're out doing stuff by that time.|aa bf
+A|Yeah. So, um, do you think that you, do you think that your family is pretty rare in that you do a lot of things or just the relationship between you and your daughter?|aa qy
+B|Yeah, I really do because, because I don't see many others and when, whenever we go to the park or something sometimes on the weekdays, we'll see other families.|ny sd sd
+A|Uh-huh.|b
+B|But, not usually on the weekends we don't see very many in comparison.|sd
+A|What do you think is the key to, to just bringing the American family back together? What kinds of things do you think can?|qo qo
+B|Well, I think they can turn off the T V for one thing. And, and go out and do stuff, you know.|sv
+A|Yeah, that's true. Huh. I think that's the first thing a lot of people do|aa aa
+B|Because she always likes to do things whenever the T V off. You know, she'll forget about the T V completely.|sd sd
+A|and I know I'm guilty of it. Like I came in from work today first thing I did was turn the TV on. Because I taped the stories from earlier today.|sd sd sd
+B|Uh-huh. Right.|b b
+A|And I like to watch 'em but, I think that's that is a big problem. The television and it's, it's too static, you know, it's something that you can do but there's no thinking involved, no motion, you know, and I think, think that's another reason why people are, uh, so health conscious now is because America's becoming really a couch potato society.|sd sv sv sv sv sv
+B|Uh-huh.|b
+A|You know, people aren't doing anything just sitting around, you know, no thinking involved and now, I think I think people are trying to get out of that. At least and that, um, there's a lot of um, it's becoming really health conscious and that people are you know starting to look out for cholesterol and things like that trying to get out and workout more often and jog and walk and different things like that. And that's probably good, you know, if you get your family involved in exercising and maybe playing tennis or something like that, that also helps. That's also something, you know, family oriented that everyone can do.|sv sv % % sv sv sv sv sv
+B|Yeah.|b
+A|Um.|%
+B|Yeah. But when was, uh, when she was here last summer we played tennis but she hasn't brought her tennis racquet over lately.|b sd sd
+A|Uh-huh.|b
+B|When,|%
+A|How, how old is she?|qw
+B|she's five.|sd
+A|Um. Well, she has,|%
+B|We, we just been hitting the ball on the ground.|sd
+A|Yeah, yeah.|bk b
+B|She can't hit it in the air yet, and then we kick the ball. We play like soccer.|sd sd sd
+A|You've still have a lot of time before she gets up in years|sv
+B|Uh-huh.|ny
+A|That's good. That's good.|ba ba
+B|Yeah.|b
+A|Um. Okay. Well it was very nice talking to you.|fo_o_fw_"_by_bc fc
+B|Nice talking to you.|fc
+A|Okay.|fc
+B|Okay. Bye-bye.|fc fc
+A|Bye-bye.|fc

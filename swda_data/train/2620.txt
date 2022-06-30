@@ -1,0 +1,90 @@
+A|All right, I, I think our experience of camping is, I, I am the, the passive member, I get things ready and then I enjoy.|fo_o_fw_"_by_bc sv sd sd
+B|Uh-huh.|b
+A|Uh, because, my, my husband is a good camper and so they, he manages the troops and they do the work and I have fun|sd % sd sd sd
+B|Uh-huh. Well, uh, uh, your, you said your family was uh, all grown up now, how about when they were younger, did you go take them camping?|b sd qo qy
+A|That's when we camped the most.|sd
+B|Uh-huh.|b
+A|When, I thinks it's a marvelous activity for younger families because, uh,  I, it seems like I would go through a period of time where I just, uh, was really overworked, you know, and, and getting out into nature and relaxing,  and having the family do a good share of the work, you know,|% sv sd
+B|Uh-huh.|b
+A|and the part that I did was more fun than, uh, than labor because they did the, the running and toting chores and I just helped cook and kind of organize, you know.|sd
+B|Yeah even cooking over an open fire is a little more fun, isn't it.|b qy
+A|It is, isn't it. It isn't. what kinds of things have you tried? Have you done, uh, uh, uh, the big pot cooking?|na ^g ng qw qy
+B|Oh, oh, uh, well, it was really my ex who did the, the, uh, uh, the cooking back when we first started and we found that the, you know, what was one, one great handy things was this, uh, uh, uh, hamburger helper. Because all you needed was a big frying pan,|no sd
+A|Oh, yeah. Big frying|b sd
+B|you dumped everything in together and it was enough for all five of us, six of us.|sd sd
+A|Oh, that's interesting. You know, interesting enough, uh, the food part was kind of, uh, important thing in our camping. Uh, when my oldest son, uh, always at the beginning I did all the shopping and everything. But the, the neat breakthrough was when my oldest son Mark took his, uh, uh, cooking merit badge in, and, and Mark was the kind of camper who ate beef stroganoff and, uh,  I mean, you know, he did it up really good|ba sd sd sd sd sd sd
+B|Oh.|b
+A|And so, uh, after he took that merit badge, he did all the shopping and preparing, getting ready for it.|sd
+B|Well that's great.|ba
+A|It was, it was a marvelous experience because after that, then all I had to do was, uh, follow the instructions, you know and do. And we did a lot of interesting kinds of things like I would take corn bread and, uh, cook a pan inside of a pan over a, over a camp, uh, stove.|sd sd sd
+B|Uh-huh.|b
+A|And it works real good. It's like an oven.|sd sd
+B|Well,  cooking was our secondary interest,|sd
+A|Just put, uh, put a thing on it.|ad
+B|I mean.|h
+A|What did you like to do most?|qw
+B|Well really just commune with nature.|sd
+A|That's neat isn't it?|qy
+B|We started out, uh, well we were living in Florida at the time and we, early in life, we discovered that six people all going on vacation gets to be very, very expensive.|sd sd sd
+A|Right. I agree.|aa sd
+B|So my ex decided, we're going to try camping and she went out one day on the spur of the moment and bought a tent. And that's how we got started.|sd sd sd
+A|Huh.|b
+B|We did it for years and years, uh.|sd
+A|Well now in Florida, is is there are there times of the year when it's very comfortable to camp or is it always kind of hot.|qy
+B|Well, uh, yes and no. I mean, um, in the winter time yes, it's, it gets kind of chilly or it can get chilly.|arp_nd no sd sd
+A|Uh-huh.|b
+B|But, uh, there's really no time of the year that you can't go.|sd
+A|Oh, is that true?|qy
+B|Uh,|%
+A|Now, now we're, we're in Texas now and you're in Texas, right.|sd qy^d ^g
+B|Yes, I'm in Dallas.|ny sd
+A|Okay, uh, we have not camped a great deal here because, uh, a good share of the time in the Summer time, it's too hot really to be very comfortable camping.|bk sd
+B|Well, it just depends on where you go, for instance,  if you went down to the sea shore, it would be wonderful, a nice breeze blowing in from the water.|sd sv
+A|I Yeah, yeah, we have done that But, but we camped mostly, when the kids were little we were in, we were in New Jersey, and Uh, in, uh, Allendale and, uh, and, uh, Waldwick, it's just about twelve miles south of, the New York border. And we'd go up to the Adirondacks and camp and it was so, you know, pick your own, uh, blueberries and make blueberry pancakes for breakfast|% b b sd sd sd sd sd sd
+B|Oh yes, yes,|aa aa
+A|Uh, also,|%
+B|I  I come from up in that area,|sd
+A|go ahead.|ad
+B|I'm a New Yorker myself.|sd
+A|Oh, are you? Where did you live?|bh qw
+B|A little town called Tuckaho, over by White Plains.|sd
+A|Oh, oh yeah, I know that. I had a cousin who lived in White Plains, that's a, that's a neat area. But it's a, that is a particularly neat area for camping because,|b sd sd sv sv
+B|Well that I wouldn't know I left there when I was quite young.|sd sd
+A|Yeah, it is neat though because there are lots of lakes, fairly near by, you don't have to go very far.|b sv sd
+B|Uh-huh.|b
+A|And, uh, and there's, uh, a lot of trees, lot of mountains, and lot of, uh, hiking sort of things and, and we had, uh, collapsible boat which we, clipper, little clipper sail boat.|sd sd
+B|Uh-huh.|b
+A|And so we would sail and, and, uh, did a lot of camping that way.|sd
+B|Well, uh, me, I outgrew, uh, sleeping bags and, uh, tents, and I now have a motor home.|sd sd
+A|Oh, do you. We've gotten out a time or two on a rented basis and it's fun, too, I think.|bh sd sv
+B|Well I live in mine.|sd
+A|Do you?|bh
+B|Yes.|ny
+A|That's neat, so you kind of, uh, uh, an everyday camper|sv qy^d
+B|Uh, well, yes I consider myself what they call a full-timer.|ny sd
+A|A full time camper.|bf
+B|Yeah|aa
+A|Well now, are you living alone now, or,|qy %
+B|well just me and my dog.|h
+A|You and your dog, huh,|bf
+B|Yeah.|aa
+A|Hey, that sounds great. Well, we don't, we don't camp quite as much as we used to, but, uh, I still think it's a great way to spend a time with your family,  and enjoy nature and, uh, kind of wipe out the stress of everyday life.|ba ba sd sv
+B|Oh yes, definitely.|aa aa
+A|I'd always,|%
+B|Nothing like the fresh outdoors.|bf
+A|right, I'd always come home just relaxed and, uh, comfortable and ready to go at it again, so it was a neat activity. Good to talk to you. Tell me your name again.|aa sd sv fc ad
+B|Jack.|sd
+A|Jack,|b^m
+B|Uh-huh.|b
+A|all right.|bk
+B|Are you, uh, from Dallas too, Beth.|qy
+A|yes, we've been here, we're, we're in Plano,|ny sd sd
+B|Oh!|ba
+A|but we've been here about, uh, eighteen years.|sd
+B|Well that's where we, that's where I am, Plano.|sd sd
+A|Are you, are you, how about that. Well we're all, lots of people from T I up this way.|qy ba sd
+B|Uh-huh.|b
+A|All right, good to talk to you.|fc fc
+B|Nice talking to you too, Beth.|fc
+A|All right, all right, bye-bye.|fc fc fc
+B|Bye.|fc

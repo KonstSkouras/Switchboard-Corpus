@@ -1,0 +1,53 @@
+A|Are you there?|qy
+B|Uh-huh.|ny
+A|Okay, now tell me your favorite team.|b ad
+B|Uh, baseball?|qy
+A|Yes.|ny
+B|Well, I've been kind of been intrigued with the Rangers, uh, more so with, uh, uh, their management than anything else. I, I don't follow baseball that, that closely, but, uh, you know, since I live here so close to Arlington, uh, that's the team that I've been kind of following.|sd sd sd
+A|Okay. I think it's a little bit late in the season for them to assign us where do you think they're headed, so we'll have to talk about the future with the Rangers.|b sv qw ad
+B|Uh-huh. Right.|b aa
+A|What are your thinkings on what they can do, what they'll be able to do?|qo
+B|Well, I think that, uh, you know, with, uh, so much controversy over Ruben Sierra not signing and asking us for so much money, it's, um, you know, I think I'm not real sure about do you know anything about Ruben Sierra's, uh,|sv sd qy
+A|Well, I heard tonight on the news that he is willing to come down.  on his,|arp_nd
+B|Yeah that,  he was willing to come down a little bit and,|b bf
+A|Yes. And the Rangers go up a little bit, uh-huh.|aa b^m b
+B|but a little bit from three, you know, from thirty million dollars or thirty-five that's a lot of money.|sd sv
+A|I think the entire baseball, yeah, they're the ones that probably are paying the highest.|sv % sv
+B|Yeah, they are.|aa sv
+A|And I think this is absolutely ridiculous.|sv
+B|Uh-huh.|b
+A|No.|fo_o_fw_"_by_bc
+B|And I really think, I really think that, uh, that they ought to, I'm not real sure that they should pay him that much money. I think they should, uh, uh, pay him what his salary is going to be, uh, and let him, because he's got one more year before he turns into a free agent.|sv sv sv sd
+A|That's right.|aa
+B|And then, uh, who knows, if he produces next year, they may have to end up paying him anyway, but if he doesn't, then his market value will go down and they can pick him up for, for a lot less than,  than they would, uh, if they paid him the you know, the six million dollars a year this year.|qh sv sv sv
+A|. What I saw on the news today, that Buechele was back just to visit.|% sd sd
+B|Uh-huh.|b
+A|I'm awful sorry he's not still.|sd
+B|Oh, yeah, but you know, what, he, that was a great deal for him.|aa sd sv
+A|Oh, I'm sure it was.|aa
+B|Yeah, it was a great deal for him and, and, uh, he just signed on, uh, I think it was like a five year deal with, uh Pittsburgh.|b sv sd sd
+A|Pittsburgh. Yeah.|^2 b
+B|So, you know, he's real happy there. As far as the Rangers are concerned, I think, I think they need some, definitely need some pitching.|sd sv
+A|Yes, sir.|aa
+B|Uh, and so I, you know I,|%
+A|Well, what do you think of Howse, who is the coach for the pitchers?|qo
+B|The pitching coach?|br
+A|Yes.|aa
+B|Well, you know, I was just looking at the news tonight, and they showed a, a, a black guy that was was helping out, uh, His assistant.|sd sd
+A|His assistant. Uh-huh.|^2 b
+B|And I think that's a, a great addition. I mean, he seemed to know what he was doing and, and, uh,|sv sv %
+A|I really wish they could see fit to get rid of Howse.|sd
+B|Oh, you don't like Howse, huh?|qy
+A|No, no, I really don't. And I'm not going to stand up, you know on my,  soapbox and say that, but I'm, not fond of Howse and I'm not fond of Grieves.|nn nn sd sd sd sd
+B|Oh, Tom Grieve?|br
+A|Yeah.|aa
+B|Yeah. I'm, I'm not sure that, um, that they're ready to get rid of, of, uh, Tom Grieve yet, but Howse might be a different, uh, situation, and I think you're probably right, that they, that they need some, you know, some changes in, uh, pitching coach, maybe and, um,|b sd sd sv %
+A|Well, I'm just gullible enough that I think Bobby Valentine is, um, uh, doing all right and I'm sure,|sd %
+B|You do, huh?|qy
+A|Well|arp_nd
+B|That's contrary to, uh, popular belief, you know|sd
+A|Oh, I know, I know so, but I would like so much for these Rangers to get their act together and give, um, oh, uh, Nolan Ryan the support he needs.|aa sd sd
+B|Oh, I know You know, it's too bad that, uh, it has to be a forty-two year old guy to, to lead the, uh, the Rangers, you know.|aa sv
+A|I understand.|aa
+B|They need to have some, some young guys that can take the lead and, and, uh, Yeah.|sv % %
+A|Well, I just oh, I have so many mixed emotions about all this. But I think with their new stadium, they should go and let,|sd sv

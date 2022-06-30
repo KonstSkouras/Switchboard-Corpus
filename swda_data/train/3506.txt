@@ -1,0 +1,66 @@
+B|Now is it Stacy?|qy
+A|Angie.|sd
+B|Angie, I'm sorry.|b^m fa
+A|Okay.|bd
+B|Well, now, so if you were going to have a dinner party, what would you make?|qw
+A|Um, let's see, uh, I like seafood. Uh, let's see, uh, shrimp, steamed uh, shellfish with maybe herbs. Uh, spicy lobster with linguini.|^h sd ^h sd sd
+B|That sounds good.|sv
+A|Yeah.|b
+B|Now what is, uh, what is, uh, the steamed shellfish you said?|br
+A|Uh-huh.|ny
+B|And what would that be like, a clam or, uh,|qy
+A|Right.|na
+B|Okay.|bk
+A|Yeah. Uh, I think hors d'oeuvres are good, too. Uh, and that way, you can have a variety. Uh,|b sv sd
+B|So if you have a, a dinner party and you're going to serve, uh, seafood for supper, what type of, uh, hors d'oeuvres would you serve prior to the meal?|qw
+A|Uh,|%
+B|Like cheeses or fruits or vegetables or,|qrr
+A|Yeah, fresh vegetables would be good or, uh, just,|b sv %
+B|Probably not nachos and dip, huh?|qy
+A|No.|nn
+B|And would you, uh, would it be appropriate to, uh, drink with the, uh, prior, when you have the hors d'oeuvres?|qy
+A|Yeah, yeah.|ny ny
+B|Okay. And then when you serve the meal, what type of wine would you have with, uh, with the, with seafood?|bk qw
+A|Oh, all these hard questions Uh, what, white wine?|^h qy
+B|That would be my guess.|na
+A|Yeah.|b
+B|And, And then, uh, uh, dessert.|sd
+A|I'm not really a drinker, so I'm not, I don't know a lot about that.|sd sd
+B|Something sweet?|qy^d
+A|Oh, goodness. Uh, chocolate, something chocolate. Uh|ba sd %
+B|You must like chocolate.|qy^d
+A|Yes.|ny
+B|Well, let's see. Usually when we have a dinner party, I always, I like to grill.|^h sd
+A|Oh, you do?|qy^d
+B|So, we might have some cocktails ahead of time and maybe some, uh, some dip, uh, some cheese. One of our favorites is, uh, to take some, let's see Philadelphia cream cheese I think, is that what comes in  those little blocks?  And pour cocktail sauce over the top of it and then get these little canned shrimp and, uh, wash them and cool them and then dump them in the, uh, sauce and then take crackers|sd sd
+A|Uh-huh. Yeah.|b b
+B|and then you just dip the cracker in the sauce with the clams and the cream cheese and you have a real nice dip that goes good with a cocktail. And then I like to barbecue, like steaks or pork chops. And then we have, uh, oh, lot of times we'll have baked potatoes with them and a salad|sd sv sd sd
+A|Uh-huh.|b
+B|and then, uh, I don't know what we usually have for dessert. Cake sometimes, but, uh, that's what we would do for a dinner party, I guess.|sd sd sd
+A|That sounds good, too.|sv
+B|But that's, I guess when you talk about dinner party, that's probably not, uh, that's more for like when friends come over.|sv
+A|Traditional right?|sd ^g
+B|Traditional, yeah.|sd ny
+A|Yeah.|b
+B|I wouldn't be the big, uh, snotty kind.|sv
+A|I just started, I just really started, uh, uh, learning about that and I bought a Martha Stewart, I don't know if you've heard of her.|sd sd qy^d
+B|Huh-uh.|nn
+A|Her cookbook and she talks about catering and, uh, you know, goes into, goes into all that and the different types of, uh, uh, different types of parties, you know, different types of foods.|sd sd
+B|Oh, well, do you work in a, uh, in a setting where you, uh, are in the food business?|qy
+A|Um, my father owns a restaurant.|sd
+B|Oh, in, uh, Is it in Dallas?|qy
+A|It's, it's just a, uh, a cafe, so it's not really anything, you know, that I want to, it's not the same Uh, it's in Lewisville.|sd sd sd sd
+B|Okay, all right. So you graduated from which high school?|bk bk qw
+A|Trinity.|sd
+B|Trinity, okay. And that's a public school or private?|b^m bk qy
+A|That's public.|sd
+B|Huh, okay, I have to get to know this area a little better, I guess. Uh, well, is your father's cafe, uh, one that you could cater out of?|bk sd qy
+A|No, uh-huh, *listen; mistranscription of 'uh-uh'? it's not.|nn nn sd
+B|Um, and he's not interested in letting his twenty-one year old daughter experiment with it probably.|qy^d
+A|Uh.|%
+B|Well, let's see, what else for catering. Uh,|^h ^h
+A|Let's see, what about Hawaiian luau.|t1 qw
+B|Oh, that would be good.|sv
+A|Could have, uh, uh, fruits and, and pineapple, uh, let's see, uh,|sd ^h
+B|And you could actually go with, uh, a chicken if you wanted to.|sv
+A|I think, I think decorating your food is, you know, really,|sv

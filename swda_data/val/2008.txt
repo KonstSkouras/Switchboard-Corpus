@@ -1,0 +1,64 @@
+A|Hi, Cynthia. What did you wear to work today?|fc qw
+B|Um, let's see. What did I wear to work today? Um, actually I wore corduroy shorts with a white blouse, um, and flat shoes.|^h t1 sd
+A|So, can you dress pretty casually?|qy
+B|Um, on occasion. On occasion.|na
+A|Yeah.|b
+B|Um, I do vary. Um, you know, I wear suits, I wear skirts and sweaters. On occasion I can wear jeans. Um, how about you?|sd sd sd sd qo
+A|Well, I, um, run a business out of my home.|sd
+B|Uh-huh.|b
+A|So I tend to get up in the morning, put on, sweats, um, do whatever I want to do with the kids, then whenever I have a meeting with a client, I'll put a suit on. And then come home and get back into regular clothes again|sd
+B|Yes. Uh-huh. Uh-huh. Uh-huh. Um, you know, there's real no, no real dress code where I work. Um, you see people wearing, you know, all different attire. I, um, don't like to wear heels, that really tires me out. I work in a big building.|b b b b sd sd sd sd
+A|Yeah.|b
+B|So, I predominantly wear flat shoes. Um, you know, in the winter I wear sweaters, in summer I, you know, I like one piece dresses, short sleeves, things like that.|sd sd sd
+A|I've recently, um, tried to update my wardrobe, trying to put suits together that I can interchange, the, jackets and the blouses and all that a lot.|sd
+B|Right. Right.|b b
+A|That's helped me a lot with having, I can only have a, a limited wardrobe, since I'm only, working part-time right now.|sd sd
+B|Uh-huh. Uh-huh.|b b
+A|Um, but still, it gives it some variety. Add different blouses and scarves and belts and things like that.|sd
+B|Uh-huh. Right, right, accessories, uh-huh.|b b b b b
+A|What about your casual wear? Do you like to wear jeans most of the time?|qo qy
+B|Um, yeah mostly. I mean, at home I predominantly wear laughs while saying remainder of sweatpants and things like that, also.|ny na sd
+A|Yeah. It's nice you can wear shorts, especially on a day like today when it's so hot.|b sd
+B|Yeah, well, they're, um, you know, they're like|b sd
+A|Dress shorts.|^2
+B|yeah, they're like black corduroy Bermuda shorts.|aa sd
+A|Yeah.|b
+B|And sometimes I wear a blazer with them, and I get really a lot of compliments on them. Um, where I work is predominantly male.|sd sd sd
+A|Yeah.|b
+B|So, you know, they, their attire is always the same, you know. Suits or slacks, you know, jeans, whatever.|% sd
+A|Yeah, but ,|b %
+B|And, um, but I'm really the only woman, I guess, at work that does that, but seems to work for me|sd sd
+A|Yeah, but .|b %
+B|In fact, I just bought, I, I just got a new outfit as a gift that, um, it's one of those skorts, you know, it's shorts but it looks like a skirt.|sd sd % sd
+A|Uh-huh.|b
+B|So, I think that'll be good for work, too.|sd
+A|Oh, yeah. It'll be comfortable.|b sv
+B|Yeah. Yeah. So,|b b %
+A|I guess down here, uh, we just recently moved to Texas, so my wardrobe has changed quite a bit.|% sd sd
+B|Uh-huh.|b
+A|Um, we moved from Colorado where, and I have a closet full of sweaters.|sd sd
+B|Uh-huh.|b
+A|That,|%
+B|Well, see, I live in Virginia.|sd
+A|You live in Virginia, now?|qy^d
+B|Uh-huh.|ny
+A|Oh, that's interesting.|ba
+B|Yeah. Yeah. So, I'm, you know, like right now, today was in about, you know, the fifties.|b b % sd
+A|Uh-huh.|b
+B|But, um, you know, I, I do wear a lot of sweaters and things like sweater dresses.|sd
+A|Yeah. I'd like to be able to wear those here. Today it's eighty-eight degrees.|b sd sd
+B|Oh, my|ba
+A|So|%
+B|Uh-huh.|b
+A|Needless to say, my sweaters have been hung in the closet for quite a while now|sd
+B|Uh-huh.|b
+A|Today was, uh, definitely a shorts day around here.|sd
+B|Uh-huh. Yeah, we're still pretty much, you know, in winter, as far as that goes here.|b b sd
+A|This is pretty unseasonal, but, uh, at least, we, you know, it, it, it feels good, it gets, uh, everybody doesn't have cabin fever today. It's nice to get, out and about.|sd % sd % sd sd
+B|Uh-huh. Uh-huh. I guess we've discussed everything there is about clothing|b b sv
+A|Okay. Sounds good.|b sv
+B|Okay?|bh
+A|It was nice talking to you.|fc
+B|Okay, it was nice talking to you, also.|fc fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

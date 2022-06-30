@@ -1,0 +1,108 @@
+A|I say Arlington, Texas now because I talked one night to somebody in Arlington, Virginia.|sd
+B|Oh, my, yeah. Well, and Plano, Texas rather than Plano, Illinois.|ba % sd
+A|Oh, do they have one?|qy
+B|Yes, they do.|ny sd
+A|Oh, I didn't know that. Well, I learned something already|sd sd
+B|Yeah. Well, let's see, the three questions are what, uh,|b ^h %
+A|How much time do you spend with your children?|qw
+B|Very little. Because they're grown.|sd
+A|Oh What?|bk br
+B|They're grown and gone.|sd
+A|Oh, yeah, well, mine is, uh, down at U T Austin at college and the other one is in high school.|b sd sd
+B|Huh.|b
+A|So you do spend less time then?|qy
+B|Yeah because they don't want to know, they almost don't want to know us.|ny sd
+A|They want to be with their friends. How old are your kids? Are they married or what?|qy^d qw qy
+B|Uh, yes, I have, uh, two married, two and then two almost married and the other two, I'm not sure. Well, Two two, two, uh, uh, for sure are single.|ny sd sd sd
+A|Oh, boy, you have a lot of kids.|sv
+B|Yeah, we have, between the spouse and myself we have six.|aa sd
+A|Oh, well, that's kind of nice, though. You you shouldn't be lonesome on a holiday, huh?|ba qy
+B|Because I came with a split family and she had, Well, no, there is so much of them are gone and they're doing their own things and and a lot of times they, they've got, you know, uh when the holidays,|sd sd nn sd sd sd
+A|Well, that's true. They have to see their other parent, I guess too.|aa qy^d
+B|Yeah and sometimes they want to do their own thing, so sometimes it's just spouse and me.|ny sd sd
+A|I know.|ba
+B|And, and you know what?|qh
+A|What?|qw
+B|Sometimes that's okay.|sd
+A|I know|ba
+B|Because,|%
+A|That's what my mother said one time.|sd
+B|You know, right, because who says that they just must got to come over to see us all the time for the holidays.|b qh
+A|Right. No, that's true, and if they force them to, you know that's not good either.|b aa aa sv
+B|Yeah. That becomes a drudgery|b sv
+A|Well, do they all live in the area?|qy
+B|got, of the six, we've got four around here.|na
+A|Uh-huh, oh, wow.|b ba
+B|Uh, you know, well, we're talking like north Texas.|sd
+A|Uh-huh.|b
+B|And then, one is in Vermont, uh, Montpelier Montpelier, Vermont|sd
+A|Golly.|ba
+B|and the other one is in Everett, Washington.|sd
+A|How did they end up so far away?|qw
+B|Well, that is, that's, the, the, my little pair. And my second marriage.|sd
+A|Uh-huh.|b
+B|Uh, and, uh,|%
+A|Those are the youngest ones?|qy
+B|Yeah, well, the the, the, the, the fourth and fifth child of the of the, of the, uh, six are the two that are scattered like that.|ny % sd
+A|Uh-huh. Boy, that's, those are a long way.|b sv
+B|And, Well, they wanted to go, uh,|sd
+A|How,|%
+B|J R, my, my, my last son or my middle son, excuse me, fell in love with Washington state|sd
+A|Uh-huh. Uh-huh.|b b
+B|and the, the, the, third daughter fell in love with, uh, uh, Vermont.|sd
+A|Vermont.|b^m
+B|So,|%
+A|So they wanted to make their homes there.|bf
+B|Yeah, that's where they've gone to make their homes.|aa sd
+A|My goodness. Are they, are those two married?|ba qy
+B|No.|nn
+A|They, uh, just working up there or going to school or what?|qy
+B|Well, uh, let's see, yeah, I guess you'd say J R is working, going to trying to go to school.|^h ny sd
+A|Uh-huh.|b
+B|I wish to God he would go back.|sd
+A|Oh, they do. Especially if they, if they're meant to, I think.|sv
+B|Yeah. Well, I certainly hope so.|b sd
+A|I mean, I've got a daughter that's a sophomore at U T and I'm, I'm going to U T A right now myself so it's never too late.|sd sd sv
+B|Uh-huh. Well, it's, oh, I agree it's never too late.|b aa
+A|Right.|b
+B|And,|%
+A|Especially in some of these schools around here, I think they have about twenty percent older students.|sv
+B|Yeah, and when you're saying older, we're talking fifty up.|aa sv
+A|Oh, yeah, I've seen some people that are really quite up there you know they look like in their very late sixties|aa sd
+B|Uh-huh.|b
+A|and I say that's great, why not, you know.|sd
+B|Oh, my, uh-huh. Yes, why not because that's a, a lot of times, well, it's, I believe that, uh, we in that category, and I'm not in that category quite yet|ba % aa sv sv sd
+A|No.|aa
+B|but, we are seasoned minds.|sv
+A|Oh, yeah, you're really ready to learn finally.|aa sv
+B|Yes, uh-huh.|aa aa
+A|I mean, I don't know why I even went to college when I was seventeen.|sd
+B|Yeah, it was,|b %
+A|It was a complete waste of money.|sv
+B|Yeah, settle down, we know what we're wanting to, to, uh, study and, uh we know our limitations.|aa % sv sv
+A|Right, right. We, Right and, uh,|aa aa % aa %
+B|And we don't try to burn the candle at both ends and in the middle altogether.|sv
+A|No. We don't go out drinking beer till three and try to go to class in the morning|aa sv
+B|At seven, yeah.|aa aa
+A|We're past, yeah, we're past that age|sv
+B|Yes, we're, we're smarter now.|aa sv
+A|We know what we can do|sv
+B|Yeah, right, uh, so let's see. So mine I don't spend a whole lot of time because they're not here.|aa aa ^h sd
+A|Uh-huh.|b
+B|And so the second question, forgot what the second question,|sd
+A|What was it, uh, what do the trends in families and do we approve what other, families do.|t1 qo qy
+B|Well, uh, the trends in the families were to spread apart, do your own thing.|sv
+A|That's right.|aa
+B|But I have seen  lately, yes, I am seeing, I'm seeing a change that, whoops, government can't do it,|sd
+A|A change? I was going to say the same thing.|qy sd
+B|schools are not able to|sv
+A|Uh-huh. Uh-huh.|b b
+B|and between a person's religion, uh, their, their faith in their maker whether, you know, uh, whether you're Christian or Jewish  or whatever, uh,|sv
+A|Right. Right.|b b
+B|and the family|%
+A|Are going to have to solve some of the problem, huh.|qy
+B|those are the two that can, that, that have the wherewithal and, of course, Judeo-Christianity, uh, and of the Jewish folks, too, believe that the family unit is the one that was given the, uh, uh, mission by the Lord to do this very thing.|sv sv
+A|Uh-huh.|b
+B|So when another group of, of, uh, people step in, try to do it, they're, they're tromping on our territory, so to speak, so|sv %
+A|Oh.|b
+B|I firmly believe that, uh,|sd

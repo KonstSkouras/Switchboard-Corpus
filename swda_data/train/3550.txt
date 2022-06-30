@@ -1,0 +1,113 @@
+A|Okay.|fo_o_fw_"_by_bc
+B|All right.|b
+A|Go ahead.|ad
+B|Well, what kind of car would I want to buy.|qw^d
+A|Yeah.|ny
+B|I don't know. The question is, I mean, would I want to buy, or would I, would I probably actually buy. May be two different things.|no sd sd sv
+A|Oh, well, if you, if you had all your, all the money in the world or something.|qw^d
+B|If I had all the money I wanted, then that's whole different matter. No, in that case, I'd, I'd, I don't know. I, I, my dream car for years was a, was a Porsche Turbo .|sv b no sd
+A|Uh-huh. Uh-huh.|b b
+B|But, uh, I don't know if I'd want one of those now.|sd
+A|Oh, really?|bh
+B|Of course I would want one if somebody was was given to me.|sd
+A|Yeah.|b
+B|But I maybe would buy a B M W. Uh, or, or even a Volvo.|sd
+A|Uh-huh. What do you have now?|b qw
+B|I've got a, uh, a Dodge Daytona.|sd
+A|Uh-huh.|b
+B|It's actually the first car we ever bought new.|sd
+A|Oh, really. Yeah, we just, we, well, I have my car is the first one we ever bought new, too.|b b % sd
+B|Uh-huh.|b
+A|But we just bought another used car, a couple weeks ago, actually.|sd
+B|Uh-huh, yeah me too So what car do you drive? What is it?|b b sd qw qw
+A|Uh, mine is a Honda Accord.|sd
+B|Uh-huh, we almost bought one of those. Do you like it?|b sd qy
+A|Yeah, I do, and, and, um, it's funny because, after I bought it, I was doing a lot of business traveling, and I, some of the cars that I got were like the Toyota Camry and the Nissan Maxima and some of the competitors|ny sd sd % sd
+B|Uh-huh.|b
+A|and, um, I don't like them as well except, it wasn't really a fair comparison because those were automatics, and mine is a standard|sd sd
+B|Yeah.|b
+A|and the reason I got a standard was because I thought it handled a lot better|sd
+B|Uh-huh.|b
+A|it had a lot more pickup and everything.|sd
+B|Yeah, you get a little more control over when when it's doing the things it's doing.|aa sv
+A|Uh-huh.|b
+B|Yeah. Uh, what, what rental agent did you go to to actually rent to rent those kind of cars.|% qw
+A|Um usually AVIS.|b sd
+B|To what, AVIS?|br
+A|AVIS.|na
+B|Really.|bh
+A|Yeah.|ny
+B|Huh. I guess,|b %
+A|It's just because we're on, I think of it, I'm not sure those are AVIS or not, but we have corporate contracts you know, with the various companies|sd % sd sd
+B|I see. Uh-huh.|bk b
+A|so it depends on your destination, too.|sd
+B|Right.|b
+A|Kind of strange|sd
+B|You work for a big company, then.|qy^d
+A|Work for T I. Uh-huh, which is how I heard about this|no
+B|T I, I see. Uh-huh. Um, but yeah, I, I, uh, I don't know, I would probably, if I were to buy a car you know, with the constraints of real money I probably would, would go with something like, you know, like a Honda Accord.|bk b b h sv
+A|Uh-huh. Uh-huh.|b b
+B|Maybe it would, one thing I, I really liked about, about the Dodge Daytona is the fact that they have, uh, this seven year warranty.|% sv
+A|Oh, really.|b
+B|Um, and it really saved us some big money once.|sd
+A|It did, huh.|bh
+B|Yeah, they had a whole bunch of things that, that sort of broke at the same time|ny sd
+A|Oh, my gosh.|ba
+B|and the bill would have been over fifteen hundred dollars, and I had to pay twenty five for the,|sd sd
+A|Oh, that was great.|ba
+B|Yeah, it was.|aa aa
+A|That's unusual to hear, usually, you know something breaks, you look at the warranty and it's excluded.|sv sv sv sv
+B|Well, we, we bought the extended, the the extension and, uh, at the time we bought it it was like, you know, I don't know, four hundred and twenty-five dollars or something extra.|sd
+A|Oh, I see, okay. Oh, you got your money's worth.|b b sv
+B|Yeah, we did, but, you know, we really debated at the beginning, and of course I'm glad I did it.|aa aa sd sd
+A|Yeah. Yeah, that is good.|b b ba
+B|But, um, we still have, we still have like, you know, three years left on it.|sd
+A|Yeah, well, I've been lucky. Mine hasn't had any trouble except last week a shopping cart crashed into it|b sd sd
+B|Oh, no.|ba
+A|but I was real lucky because it just hit the, um the lens to the light.|sd
+B|Bumper? Oh.|qy bk
+A|It didn't actually dent the car or anything. So it cost me twenty-five bucks to replace that,|sd sd
+B|Well, that was good.|ba
+A|and the store will pay for it anyway,|sd
+B|Are you.|%
+A|so. No big deal.|sd
+B|Uh-huh. Um, if you were, if you were going to, uh, buy a new car would you buy another, uh, another Accord?|b qy
+A|Um, I probably wouldn't, just because I already have one|ng
+B|Uh-huh.|b
+A|but, you know, if I had to make the choice again, I, yeah, I, I'm perfectly happy with what I decided um, although we did just buy another car,|sd
+B|Uh-huh.|b
+A|and that's a Legend|sd
+B|Oh, yeah, those are nice .|b sv
+A|um, but it's, it's a used one|sd
+B|Uh-huh.|b
+A|and, um, my husband has really wanted one for a long time, and the fact that, you know, this this car that I have has performed so well, and before that I also had an Accord, it was a real old one|sd sd sd sd
+B|Uh-huh.|b
+A|and, uh, I bought that used. I had absolutely no money to my name and bought that, and it served me real well, too.|sd sd sd
+B|Uh-huh.|b
+A|So he's been impressed with all the Honda cars.|sd
+B|Right.|b
+A|And.|%
+B|Yeah, my sister drives one. She drives a, uh, I don't know, is it Legend|b sd sd
+A|Uh-huh.|b
+B|it's a, I'm not certain, but she's liked it. Um,|% sd sd
+A|Yeah.|b
+B|But, I, I have, I have never had, and we, in fact, what I'm driving right now, we bought a, we only had one car for a long time, and and yet most of our usage of the car was just this little shuttle back and forth, four miles to work and back kind of thing.|sd % sd sd sd
+A|Uh-huh. Uh-huh.|b b
+B|And so, uh, I bought a used Yugo just to be a little, you know, little car that I could care less about|sd
+A|Uh-huh. Yeah. How did it go for you?|b b qw
+B|Oh, well, it's, uh, it's worked.|sd
+A|Hasn't left you stranded.|qy^d
+B|I mean, that's exactly what it is, you know, it's just a, it's a cheap little little car just to go, you know, run around town in|no sd
+A|Yeah I know. Yeah.|aa aa b
+B|and, uh. It's actually kind of fun to drive. I, I, you know, getting back in the Daytona now, I almost don't like it. You know|sd % sd
+A|Really.|b
+B|it's like too, too mushy, and it, you know it's an automatic,|sd sd
+A|Huh.|b
+B|and|%
+A|Well, that's what my husband thinks about my car now, that he's had the Legend|sd
+B|it's too, the steering|% %
+A|it's windy.|^2
+B|you know, you feel like you're in a boat or something, you know, it's kind of,|sd %
+A|I can't drive that, the Legend, it's just so huge.|sd sd
+B|Oh.|b
+A|I, I don't like it, and it's so, uh,|sd %

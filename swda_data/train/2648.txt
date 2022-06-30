@@ -1,0 +1,125 @@
+A|So, well, this is an appropriate topic the day after Earth Day, so.|sv %
+B|Right.|b
+A|Um, well, what do you think is, uh, the pollutants, the main pollutants in the air?|qw
+B|I have trouble with the chemical plants and things like that I just, uh, I think they put off so much and they're not regulated enough.|sd sv
+A|Yeah, well , that's me too. After, um, on channel thirteen, uh, they had some, some programs the day before, and I'm not sure that about yesterday, we didn't really watch it too much yesterday, but the day before they had a lot of programs about the environment and, you know, how we're affecting the Earth and things by what we do, as the people|b sd % sd sd sd
+B|Uh-huh.|b
+A|and, and they mentioned sulfur and carbon dioxide a lot,|sd
+B|Yeah.|b
+A|and that actually, um, as our population increases and, you know, our, of course, our, our cars, you know, our number of cars increase per the population, that's the problem. But also like you said the industry pollution and, you know, their their regulation that's placed on them is, I mean, it's better than it used to be but it's incredible that they still don't have, you know, they don't, they're not made to regulate the amount of pollutants that they put into the air.|sd sd sd
+B|Right.|b
+A|You know, I, I just, I can't stand that and I know for a fact that they get away with a lot that, you know, they're supposed to be regulated because we have a, we have a plant, I don't know about T I but we have a plant, uh, a Pillsbury plant, in, in a town adjacent to ours,|% sd sd sd
+B|Uh-huh.|b
+A|and I know people that work there that, of course, you wouldn't think Pillsbury would put out certain chemicals,|sd sd
+B|No.|aa
+A|but they put out toxic chemicals there just in some of the, um, what they do, uh, to, uh, make their dough and to, clean out the flour and stuff like that,|sd
+B|Really?|bh
+A|yeah,|b
+B|Huh.|b
+A|I mean, it's incredible. And, um, they said that they're, you know, they have a little creek that runs by them and some of the people that work there have told me that when they have inspectors coming they, you know, shut down everything and they clean up their act, but on a normal basis that they're, that they're dumping things, that they're not supposed to be dumping,|sv sd sd sd
+B|Oh.|b
+A|and I'm like, if they're getting away with it, can you imagine,|sd
+B|Right.|b
+A|that's a, that's a Pillsbury plant I can't imagine plants,|sd sd
+B|I wouldn't have thought that Pillsbury could, would, the, I mean, or even had you know, well, those chemicals would not,|sd %
+A|Yeah, they have chemicals that they use to refine their flours with and stuff, you know to, to break the flours down|b sd
+B|Yeah.|b
+A|and then they, they also do testing there, and I don't, you know, when you consider, you know, it's probably not radioactive but toxic can be, can be anything that's uh, classified that can damage the Earth.|sd % sv sv
+B|Right, yeah.|b b
+A|So, there could be a lot of things that they could put, you know, that chemical wise that they use to, uh, that they are testing with, that they're dumping.|sv
+B|Right, you know, like in, In packaging|b sd
+A|Yeah.|b
+B|and, uh, you know, just goodness.|%
+A|Yeah, I don't think they do the packaging at this plant,|b sd
+B|Yeah.|b
+A|but they do, they do a lot of research and they do, um, they do, do a lot of the refining up there or,|sd sd %
+B|Yeah.|b
+A|I'm not really, what's it called when you do flour, I'm not,|% sd %
+B|Uh, only thing I can think is bleaching but, I mean, I, I don't know what's, how they do the flour.|sd sd
+A|Yeah. Yeah.|b b
+B|But, um, we, we're on the southwest side of Houston we don't have that much as far as, uh, aiming in the plants over on this, uh, the east side does.|sd sd
+A|Uh-huh.|b
+B|We've got Imperial sugar but, uh, and they're, you know, they're right there on the creek also and, uh, they've been there for years.|sd sd sd
+A|Yeah.|b
+B|And, uh,|%
+A|But, I mean, you think about it, it, you know, it's probably a lot easier to detect things that go into the ground than it is maybe to just, I'm not really sure but I would think it would be easier to detect those things because you could detect them down or stream or such,|% sd sv h sv
+B|Yeah.|b
+A|or you can, you can, you know, do, uh, testing on the ground itself at that point,|sd
+B|Uh-huh.|b
+A|but when they pollute into the air and you've got, you know, and you've got movement through the air, it's going to move a lot of that off. So, I don't see, you know, how they can do some of the unless it just hangs there like in places where it's a lot of pollution, you know, like in Los Angeles or, or the bigger cities where it, it tends to get stuck there,|sd sd sd
+B|Uh-huh.|b
+A|you know, that you have a lot more particles in the air, you know, per, per, uh, per particles in the surrounding community because it's not moved away,|sd
+B|Right, yeah. Uh-huh.|b b b
+A|but, um,|%
+B|I know that, I worry every now and then, we're still on a well water, we're not on city water,|sd sd sd sd
+A|Uh-huh.|b
+B|and I think, well, what if somebody's dumped something back there in the, and no one knows about it and, you know, it sinked in through the ground and all that,|sd
+A|Yeah, well, I know out in some, I'm not sure, I can't remember the name of the county it's, it's where Stillwater is or, sweet,|b sd h sd sd
+B|Yeah.|b
+A|no I'm not sure, I know it, I think it's, uh, I know we have a piece property there, it's called Dublin,|ar h ^h % sd sd
+B|Uh-huh.|b
+A|it's in Dublin, Texas. I'm not really sure what the county, it's Stephen, no Stephenville.|sd sd sd ar sd
+B|Oh, okay, okay.|b b
+A|Okay, where Stephenville's at, they've had a lot of problems because they've, um, introduced a lot of dairies there,|b sd
+B|Uh-huh. Yeah.|b b
+A|so, they have a lot of cattle in the area, I mean, they've got like per, per, uh, per lot, you know, they've got like a lot of head of cattle because dairies they don't it's not like it was a big ranch where they let the cow roam around free,|sd sd sd sd
+B|Right, uh-huh.|b b
+A|they've got to have them there to be able to milk them. And they, and I read in this article, I couldn't believe it, where, you know, like, one cow produces, like, a day, produces like a hundred or so pounds of manure.|sd % sd
+B|Oh.|b
+A|One cow, I was like, my God, and they, and this thing says that, that, you know, people think, well, cow manure is good for fertilizer but when you get that much manure it says it becomes a real problem because it's not, it's not when, you know, you buy cow manure at the store they've added stuff to it and they've added humus and stuff that, breaks it down,|sd sd % sd sd sd sd
+B|Uh-huh.|b
+A|and, and this, and this article said that they've got a real problem that, um, you've got toxins and, and, uh, bacteria in the manure that is, what it's doing is it's going through, uh, they don't have a very deep, um, you know, their water, their natural water, uh,|sd sd sd sd
+B|Uh-huh.|b
+A|I forget what that's called with, you know, it's like a spring, spring water,|sd sd
+B|Yeah.|b
+A|but it's below the surface it's not very far down,|sd sd
+B|Uh-huh.|b
+A|and all this stuff is seeping through to the water,|sd
+B|Oh.|b
+A|and they're like, they're afraid that, you know, within a certain amount of years, that it's, their they're water in that town will be totally polluted,|sd
+B|It will.|ba
+A|and they won't be able to have any drinking water because they will have, um, polluted, completely polluted, so that they're, you know, there's too many toxins and bacterial growth,|sd
+B|Uh-huh, yeah, and the|b b %
+A|and I'm like my God, you know, just from that one, you know, just from them introducing dairy farms, in that one county.|sd
+B|Right. Right. Yeah, and the, the ground will filter some of it but not all of it.|b b b sd
+A|No, not when you figure, I didn't realize a cow, one cow produces that much manure and they were talking like, thousands of cows, you know, they were talking thousands cows in one little tiny area.|aa sd sd sd
+B|These are well fed . These are,|sd %
+A|You,|%
+B|Good grief, these are well fed cows, uh,|ba
+A|Well, they are evidently. But, um, I mean, evidently a normal cow produces that much too,|aa sd
+B|Uh-huh.|b
+A|but they're just so spread out on ranches and stuff that it's not, you know, a problem,|sd
+B|Right.|b
+A|but when they get them in these tiny little areas, you know, and they've got a real big problem, and they, they said that, that what they were doing was scraping it with bulldozers and stuff, and taking it to, uh, these like ponds that they had to filter it with,|sd sd
+B|Uh-huh.|b
+A|but the ponds because they've had so much rain in the past few years, they just, overflow|sd
+B|Yeah.|b
+A|and they overflow into the, the creeks and stuff in the area. So, that just creates, you know, there, there's, and, oh, it was just disgusting it said the creeks will foam.|sd sd % sv sd
+B|Oh.|b
+A|People, people stand outside their houses and their, watch the creeks foam brown and all,|sd
+B|Oh, now that's bad.|ba
+A|and I'm just like, oh, my gosh, and the smell is really bad they|sd sd
+B|Oh, I was going to say, the air pollution alone there just from a hundred pounds of cow manure was going to be bad.|sd
+A|Yeah, but I, I don't know it really frightens me though as far as the, when you think about the, you know, thinking of just air pollution itself and then, and, channel thirteen they're really, um, emphasizing the problem with acid rain, you know,|b h sd sd
+B|Uh-huh.|b
+A|if we, if we keep putting that stuff into the air and, and, you know, if we keep creating the problem and not doing anything about it that it's really going to be a problem for, um, just the, the Earth, you know, what the Earth is receiving back, you know, because how can you tell where it's going to come down at.|sv
+B|Yeah. Right, right. And then cutting the trees, you know, that bothers me.|b b b sd
+A|Yeah.|b
+B|As far as, you know the|%
+A|The rain forest and all.|^2
+B|yes, uh, we've been wanting to, well, not me but, uh, it's been or suggested that we cut a few of the trees down here, I'm like, no, you know, for what's cut down here, you know, more will be cut down someplace else and it will just take that longer to grow back,|aa sd h sd sd sd sd
+A|Yeah.|b
+B|and trees help so that, uh, I don't,|sd h
+A|Well, they do because, what is it, carbon dioxide, they use that where we can't synthesize it|sd
+B|Uh-huh.|b
+A|and they're synthesizing it for us.|sd
+B|Right, right, believe me it's just so much better.|b b sv
+A|Yeah.|b
+B|So, uh, yeah, I knew, I think there's lots that be, that could be done to, to improve how things are done now.|b % sv
+A|Yeah, I think we just have to, I don't know personally, you know, I suppose, you know, if you just make sure your car is, is working properly|b sv h sv
+B|Uh-huh.|b
+A|and you know, they're nowadays they have the emission controls on them but, uh, I think the only, the main thing is just keep on the, your legislator's back, you know, as far as, seems like they've only just really started as far as the environment saying, okay, we're really going to get involved|% % sd sd sv
+B|Uh-huh.|b
+A|it, it's really becoming a problem. By the year two thousand there will, what, what are we going to have, what kind of results are we going to have for the environment.|sv sd sd sd
+B|Right.|b
+A|And, and what will we ...|%

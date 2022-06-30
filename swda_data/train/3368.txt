@@ -1,0 +1,89 @@
+A|Okay. What type of things do you feel would invade your privacy every day?|fo_o_fw_"_by_bc qw
+B|Um, huh. Well, I don't like it when, uh, people listen to my phone conversations, like if they're outside my door while I'm talking in my room or when people like look through my things in my bedroom|sd
+A|Yeah, that's right. That is really an invasion of privacy.|b sv sv
+B|Yeah.|b
+A|I, I find it very annoying when I've worked all day to come in and my phone to ring constantly, the solicitors, and the carpet cleaning companies and,|sd
+B|Uh-huh.|b
+A|Does that happen in your part of the country?|qy
+B|Yes. Uh-huh.|ny ny
+A|I, uh, I come home|sd
+B|Definitely.|na
+A|and I am trying to get a few things done and I can't do anything but answer the telephone.|sd sd
+B|Right|b
+A|Some evenings are worse than others, but I wish I could put a stop to it, but I don't know what to do to stop it.|sv sd sd
+B|Right. Even, uh, we used to have a sign on our door that said no soliciting, and they would still come to our door and knock and|b sd sd
+A|Uh-huh. They would think it didn't mean them, I guess.|b sv
+B|I guess not, no.|sv aa
+A|Everybody but me|^q
+B|Yeah|b
+A|Oh, goodness. Are you do you live at home with your parents?|ba qy
+B|Yes. Uh-huh.|ny ny
+A|Uh-huh.|b^m
+B|Yeah.|b
+A|So your privacy is invaded probably by other members of the family.|qy^d
+B|Yeah, mostly. Yeah|ny sd b
+A|Now what can you do to stop that?|qw
+B|Oh, I don't know. Well, I am used to it now, but sometimes it sort of gets, gets to me but there is not much I can really do.|sd sd sd sv
+A|No.|aa
+B|No.|b^m
+A|Just have to live with it, I guess.|qy^d
+B|Yeah.|ny
+A|Try to remember to respect their privacy, and maybe they will respect yours and,|ad sv %
+B|Well, I don't know I always,|h %
+A|Do you have brothers?|qy
+B|Uh, no, yes, I do, but they don't live at home.|nn ny sd sd
+A|Oh, okay, I was I had two younger brothers, and they nearly drove me crazy listening to telephone conversations and,|bk % sd sd %
+B|Oh, I used to do that though because I was the youngest, I would pick up the phone and listen to theirs But I,|sd sd %
+A|I would get in the bathroom and lock the door so maybe they couldn't hear me, and then they would go get on the other extension|sd sd
+B|Oh.|b
+A|and I could hear them, but I couldn't get them to hang up, you know.|sd sd
+B|Yeah But I stopped doing that a long time ago, and they still do it to me.|b sd sd
+A|Even it, in the office I, uh, find that people walk up and, and when you're on a conversation instead of walking off or just making themselves busy, they'll stand there and listen to what you say until you hang up.|sd
+B|Oh, like, yeah, this lady does that to me at work when I'm taking an order or something,|% b sd
+A|Uh-huh.|b
+B|and she'll just sit there and listen like I'm doing something wrong, and she just started and, she is nice but. to someone in the Okay. But, you know, it gets annoying when they stand right over you watching everything you do.|sd sd sd % t3 sv
+A|Yeah.|b
+B|But,|%
+A|Let's see, I can't think of anything else I'd really consider an invasion of privacy other than the phone solicitors.|sd
+B|No|b
+A|About the only thing that really bothers me I don't have that many people coming to my door.|sd
+B|Right. Well, occasionally we'll have a person here or there, but not, not as many as the phone calls, you know,|b sd
+A|Uh-huh.|b
+B|so. But,|%
+A|And I guess that's really the thing that really bugs me the most. I can't think, our kids in our neighborhood used to bother me, but they've all gotten grown up now|sd % sd sd
+B|Uh,|%
+A|and we live in a neighborhood where there is not any little kids to bother me, since mine are all grown up,|sd
+B|Oh|b
+A|but. What else would be an annoyance? Well, I guess traffic could be an annoyance.|qw sv
+B|Oh, yeah. Especially when you're in a hurry|aa sd
+A|Do you have a lot of traffic in your area?|qy
+B|Um, it can get busy, yeah. Usually in the week I'm .|na ny %
+A|Uh-huh. Some days it's real, real bad here, and you would like to, feel like it's an invasion of privacy because you can't even ride down the road without people all the way around you, you know.|b sd sd
+B|Yeah, uh-huh.|b b
+A|But,|%
+B|Yeah, I've traveled quiet a bit, and I've been through Dallas, Texas. It's pretty busy|b sd sd sv
+A|It really is, and pretty noisy.|aa sv
+B|Yeah|b
+A|It really is.|sv
+B|Yeah.|b
+A|I live right on a main thoroughfare, so when I first moved here I probably did consider that an invasion of privacy because it, at first you'd hear a lot of noise, especially at night you know, when you go to bed.|sd sd sd
+B|Uh-huh. Oh, yeah.|b b
+A|And every time a, a fire truck or anything went down the road, I would wake up, but I guess I have gotten used to it because I don't even hear it anymore.|sd sv
+B|Oh, yeah, I suppose you do.|aa sv
+A|And, uh, I just close it out, I guess, because I don't, I don't remember waking up in several years at night when I'd hear a fire truck go by, you know.|sd
+B|Uh-huh. Yeah.|b b
+A|I think they would probably have to pull into my drive before it bothered me|sv
+B|Yeah. I am a real solid sleeper though so that probably wouldn't bother me. I'd sleep right through it|b sd sv sd
+A|They would have to chop down the door and get you out, I guess.|qy^d
+B|Yeah. It takes a lot.|ny sd
+A|Let's see. What else is an invasion?|qw
+B|I had an old boyfriend who looked through my notes one time|sd
+A|Oh.|b
+B|I was mad because those were mine ,|sd
+A|Well, did you have has name all over them?|qy
+B|No It was a, a letter from a girlfriend of mine. I, I just, I was upset because those were mine, and, you know, I thought he,|nn sd sd sd
+A|That was yours. Yeah.|bf %
+B|Right. I thought he would respect me more than that, to look through my things and not trust me,|aa sv
+A|Yeah.|b
+B|so that was upsetting. I was mad about that and my privacy there.|sd sd
+A|Yeah.|b

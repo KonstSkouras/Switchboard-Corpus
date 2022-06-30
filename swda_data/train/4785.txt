@@ -1,0 +1,96 @@
+B|kids too?|qy
+A|Yeah .|ny
+B|Oh, you laugh. How many, what ages?|sd qw qw
+A|Well, twenty-seven up.|sd
+B|Uh.|b
+A|And we had five.|sd
+B|You've been through the fun part|qy^d
+A|Oh, yeah. And how about yourself?|ny qo
+B|I have a four and a half and a three.|sd
+A|Oh. well.|bk %
+B|So. It's, I, I'm sure there's a lot of differences in the way, in the way it's done now and then.|% sv
+A|Yeah. Well, when mine were growing up, I did some traveling and but not that extensively but I always just made it a point, you know, to spend about ten minutes with each one of them.|aa sd sd
+B|Yeah.|b
+A|So it was an hour, you know.|sd
+B|Yeah.|b
+A|But whether it was going back and laying in bed with them and just shooting the breeze or whatever, telling them stories or reading to them.|sd
+B|What was the age difference between the youngest and the oldest?|qw
+A|Six years.|sd
+B|So they were all real close?|qy
+A|Yeah.|ny
+B|That's tough. That's a lot of time.|ba sv
+A|Oh, yeah. We look back and wonder how we did it.|aa sd
+B|Did you both work? Your wife too?|qy
+A|No, she never did.|nn sd
+B|Uh, well, qualify that. She worked at home, I'm sure|ba qy^d
+A|Well, yeah, yeah.|ny ny
+B|But that's, uh, well both my husband and I work and sometimes I feel like, you know, by the time I pick them up and get them home and get them fed, I have very little time each evening.|% sd sd
+A|Yeah.|b
+B|Maybe thirty minutes max.|sd
+A|Well that's plenty though.|sv
+B|And well he spends a lot of time with them while I'm cooking and then I spend time with them while, you know, he's doing other stuff. And, and, of course, we try to spend a lot of time on the weekend. You know, there's a lot of times my house may not be as clean as I particularly like it but it's neat, it's straight and I can live with it because  I do stuff with my kids, you know.|sd sd sd sd sd sd sd
+A|Yeah. Right. Well, you know, with kids you're not going to have a neat house.|b b sv
+B|Well, I've accepted that too|aa
+A|And, you know  it, it's tough to find time. especially with both of them working.|sv
+B|That's true. It is. Yeah. That's true.|aa aa aa aa
+A|And you just have to set the time and say, okay this is going to be it.|ad
+B|Well, that's true and, and we do a lot of that on the weekends, you know. We try to spend Saturdays together.|aa sd sd
+A|Right.|b
+B|If my husband golfs, you know, he'll do it during nap time, things like that where they're not really missing the presence, you know.|sd
+A|Right.|b
+B|And, and we do a lot of family things together. We're, we're kind of going the other direction this weekend. We're planning a trip, just he and I. This is the first time we've gone anywhere without the kids  since she was born four and a half years ago.|sd sd sd sd
+A|Well that's good too. Yeah, that's good that way too|ba b ba
+B|Well, I decided that, you know, you need that once in awhile. That you, you need to plan the quality time and, and I do think that if you plan it and spend that and make it quality time you don't have to be there twenty-four hours a day.|sv sv
+A|Yeah. Well, that, they say it, it, all it takes is about five, ten minutes a day.|aa sv
+B|Yeah.|b
+A|And, you know, and as the kids got older I made them, you know, help me cut the grass and kind of made that a project too. Or whatever|sd
+B|Sure. Sure.|b b
+A|and,|%
+B|And they think that's a family activity, you know.|sv
+A|Oh, yeah.|aa
+B|Yeah. That's great fun|b^m sv
+A|And, uh, well, yeah, if,|b %
+B|My daughter's like, Mommy can I help you with the laundry? Of course, you can|sd ^q
+A|Yeah. Just keep them talking that way.|b sv
+B|Absolutely. Yeah|aa aa
+A|But, uh, another thing we used to do is have family councils. Every Sunday night.|sd
+B|Uh-huh. And what would you do, what?|b qw qw
+A|Discuss everything that didn't agree with them. And we'd take turns being president.|sd sd
+B|Oh.|bk
+A|And everyone would get one vote. And I always thought we'd get outvoted five to two|sd sd
+B|Yeah.|b
+A|but it never worked that way.|sd
+B|So they would just pick whatever issue kind of was at a  head that week|bf
+A|Yeah. Well and we could bring up  and we could bring up stuff too.|aa sd
+B|and then, Oh.|% b
+A|And that was always good time. Boy, we really got to know the kids well.|sd sd
+B|I imagine. And I imagine you still have a very close relationship with them.|ba qy^d
+A|Oh, yeah. In  fact, they were all in, uh, over the weekend for Easter.|ny sd
+B|I, Oh, that's wonderful. See I was raised in that type of family where, you know, you don't disobey me, you mind me but if you have a problem with what we did or how we did it, you can always come back and talk to me about it.|% ba sd ^q
+A|Well, we did too.|sd
+B|Yeah.|b
+A|And I remember the one daughter saying, we had a, a friend of hers that used to drive us up a tree|sd
+B|Uh-huh.|b
+A|and she said, hey I don't make fun fun of your friends so why make fun of mine?|sd ^q
+B|Uh well.|%
+A|Kind of kind of hit us between the eyes.|sd
+B|Yeah, yeah. You don't think of it that way do you|b b qy
+A|No. But that, that was always good quality time for us.|nn sd
+B|Now that's good. I like  that idea.|ba sd
+A|And then  never attend, but if, if they missed it, they had to abide by the rules.|% sd
+B|Whatever was voted on, huh.|qy
+A|Yeah and boy, they, they'd show up.|ny sd
+B|Well I think that's great.|ba
+A|And we'd usually take notes|sd
+B|Yeah.|b
+A|and, you know, the younger kids, uh, or maybe all of them needed help at one time or another.|sd
+B|Yeah.|b
+A|And, uh, but they were usually tougher on themselves than they were on us. And they loved it.|sd sd
+B|I, I think that's true. I can remember times my parents would say well what do you think would be a fair punishment.|aa sd
+A|Yeah.|b
+B|And we would always come up with something that was harder than what they would have done you know.|sd
+A|Yeah.|b
+B|So I do think it's right that they're harder on themselves, you know.|sv
+A|Yeah. But, uh, boy, I, I feel for you and your husband.|aa sd
+B|Oh, why is that?|qw
+A|Well, my, my, uh, two of my, uh,|%

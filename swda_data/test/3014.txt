@@ -1,0 +1,141 @@
+A|Are you ready to start?|qy
+B|Yes.|ny
+A|Okay|bk
+B|Have you recently bought a new car Catherine?|qy
+A|Well, I just found out that my car like an old was thirty months old, and it doesn't seem like it's that old.|arp_nd sd
+B|Oh.|bk
+A|Seems like I just bought it.|sd
+B|Oh, wow.|ba
+A|It's an eighty-nine and I bought it, uh, in, uh, eighty-eight so, yeah.|sd sd %
+B|Well, I really, the last car we got was a, was a used car. I really don't prefer buying a new car. I like to let somebody else pay for that|sd sd sd
+A|I know, I really will do that the next time, I buy it too.|aa sd
+B|But, uh mine was a year old,|sd
+A|Uh-huh.|b
+B|and we bought it for very functional purposes,|sd
+A|Uh-huh.|b
+B|and that was we bought a station wagon. We wanted an economical car to operate,|sd sd
+A|Uh-huh.|b
+B|but we wanted one that could carry a lot of equipment. So, we chose a Nissan Stanza wagon.|sd sd
+A|Uh-huh.|b
+B|And I've never been sorry,|sd
+A|Oh, that's wonderful.|ba
+B|however the need for that kind of car has changed now,|sd
+A|Uh-huh. Oh, okay.|b b
+B|and, uh, while it is still good, and it's quite serviceable, and I'll drive it until it no longer is reliable.|sd
+A|Uh-huh. Huh.|b b
+B|And probably then some I'll spend a lot of time praying over it before I give it up.|sd sd
+A|Sure.|b
+B|I think that I would like to, if you know, we all say, if I could have the car I always wanted I would either buy a Nissan Maxima, uh,|sd sd
+A|Right.|b
+B|I'm sold on Nissans.|sd
+A|Uh-huh.|b
+B|I a or, or foreign cars actually. Uh,|sd %
+A|But do you feel though, uh, craftsmanship is much superior to the American abilities?|qy
+B|Uh,|^h
+A|Is that how you, I have never,|qy %
+B|its reliability.|qy
+A|Its|%
+B|Its reliability. And, uh, I, you know, I've read all the CONSUMER REPORTS and things, and they just run head and shoulders above the American made cars. If Ford was a head and the shoulders above it, I'd buy a Ford.|sd sd sd sd
+A|Isn't that a shame.|bh
+B|But I had, uh, had a Ford Escort that absolutely needed taps the day we got it.|sd
+A|My word isn't that sorry. That's sorry.|bh ba
+B|Uh, you know, I mean it was ready for the graveyard.|sd
+A|My word.|ba
+B|And I spent as much on that car in twelve months as I spent for the car.|sd
+A|Oh, mercy.|ba
+B|So,|%
+A|You,|%
+B|and that was just trying to hold us, getting out of that was a used car.|sd sd
+A|Huh.|b
+B|And it was an older car,|sd
+A|Huh.|b
+B|but, you know, Escort is supposed to have a great track record as far as sales.|sv
+A|Huh. Uh-huh.|b b
+B|But it's just, it just was not and you get stung a time or two,|sd sv
+A|Sure.|aa
+B|and you say, no thanks.|sv
+A|No thanks. That's right.|b^m aa
+B|So, I just trusted the CONSUMER REPORTS and the auto, uh, reports|sd
+A|Uh-huh, uh-huh.|b b
+B|had my son who knows a lot about that, study them thoroughly, and he gave me four choices of cars to buy|sd sd
+A|Uh-huh.|b
+B|An Escort definitely was not among them. In fact, there wasn't an American car in there.|sd sd
+A|Wow.|ba
+B|Uh, the Nissan came and, and we bought the Nissan for functional purposes not what the CONSUMER REPORTS said we should get.|sd sd
+A|Uh-huh.|b
+B|But it served our needs. Uh, later on his reports, the reports that he studied showed that, uh, Nissan was head and shoulders above the rest in the in the class that we were looking for. And that, and I'd rather have a Maxima than a Cadillac. I really would. It's not necessarily prestige,|sd sd sd sd sv
+A|Uh-huh.|b
+B|but it's comfort. Uh, there's a lot of features on there that are desirable if you're going to pay that kind of money for a car. Uh,|sv sv %
+A|Who makes that car?|qw
+B|Nissan.|sd
+A|I mean but where are they, where are they, what, what is their location, is it, uh, Asian or is it European or who,|qw qw qy qrr %
+B|No. No, no. Nissan is Japanese.|nn nn nn sd
+A|Oh, it is Japanese.|bh
+B|Uh-huh, uh-huh,|ny ny
+A|Okay,|bk
+B|uh-huh.|b
+A|I didn't know.|sd
+B|Yeah. And, uh, if I couldn't have my luxury Maxima then I'd buy me a fancy little red C R X sports car|b sd
+A|Uh-huh. Okay|b b
+B|I mean, you know, every every one of us have two sides|sv
+A|Yeah, I guess so that's true. Yeah.|aa aa aa aa
+B|Yeah. Now what about you, if you could have the car that you wanted what would you get|b^m qo qw
+A|If, if, if I had the car I wanted.|^h
+B|and why?|qw
+A|Gee.|ba
+B|Uh-huh.|b
+A|Probably, um, uh, let's see, I like the looks of the Lincoln Town car|sd
+B|Uh-huh, uh-huh. Yeah. See there,|b b b %
+A|But I, I don't know the performance of it. That's a, Ford product,|sd sd
+B|Uh-huh. Uh-huh.|b b
+A|and, you know, I would get hung up by my boot straps if I if I ever mentioned the Ford product in my family.|sd
+B|Uh-huh. Uh-huh. Uh-huh. I tell you that's sad too because there one time Ford was the best, that was made.|b b b sv
+A|Yeah, yeah.|b b
+B|Really was.|sv
+A|Uh-huh.|b
+B|And, uh, I, I really have not seen, now a lot of the American cars actually are, are, parts are produced in foreign countries and assembled here or vice versa.|sd sv
+A|Can I put you on hold for one minute?|ad
+B|Of course.|aa
+A|Thank you. Well, that was one minute. They hung up.|ft sd sd
+B|Okay Uh, at any rate do you have color preferences or what would be the features that you would be looking for?|b qy qrr
+A|Um, well, the comfort of a large car that the security of a large car. Um, and the luxuries of a large car.|sd
+B|Uh-huh. Uh-huh.|b b
+A|Uh, now color preferences, I think I would opt to go with a bronze. Which is probably closest to gold that you can get|sd sd
+B|Uh-huh, uh-huh. Yeah. Oh, wow. We like the stuff that glitters|b b b ba bf
+A|Yeah.|aa
+B|Good. There's nothing wrong with that. Actually I think probably if I were going to get if I were going to be practical, which doesn't mean I would be,  I would prefer white. Because, simply because it's more visible at night.|ba sv sv
+A|Right, well, practical yes that's, Uh-huh. Right and it's cooler I believe, too, when you're driving in,|b % % % b aa sv
+B|And, Uh-huh. Uh-huh. Now the interior, okay, I don't care about the interior just as long as it's not black or red.|% b aa sd % sd
+A|Uh-huh, uh-huh.|b b
+B|But if I had the little red C R X , I guess the interior would have to be black leather and I'd have to live with that. And if I got the C R X it would have to have a real good sound system in it because I'd want that too.|sd sd sd
+A|Oh.|b
+B|I'd just go back to my teenage years and just throw all my experience to the wind|sd
+A|Um, can you, uh, hang on again|ad
+B|Uh-huh.|aa
+A|Thanks I've got the phones for lunch hour.|ft sd
+B|Uh-huh.|b
+A|So. Just don't mind me if I bounce back and forth.|% ad
+B|That's okay.|bd
+A|Um, so you like to listen to, uh, a lot of music, or do, is it talk shows.|qy^d qrr
+B|No, no, no. I generally would uh, prefer to listen to, uh, well, I listen to K C B I a lot but I will listen to the news and the, and the traffic and those things at work.|nn nn nn sd sd
+A|Uh-huh, uh-huh.|b b
+B|But if I'm going to be traveling in that car for any period of time, I want some real good classical music.|sd
+A|Uh-huh. Uh-huh.|b b
+B|I love classical music, and you just can't enjoy it unless you've got a good sound system to produce all the, all the characteristics of the instruments.|sd sv
+A|All the, yeah. Uh-huh. That's true.|% % aa aa
+B|So I do love classical music or it or, or, uh, contemporary classical.|sd sd
+A|Do you listen Do you listen to W R R?|qy
+B|Uh-huh.|ny
+A|Huh.|b
+B|Sure do.|sd
+A|Yeah.|b
+B|W R R and the Oasis are the two that I listen to, more than anything else.|sd
+A|Uh-huh. Uh-huh.|b b
+B|And I do like them. And I'd like to have a compact disc player in the car. That would be,  something that I would really like.|sd sd sd
+A|Those are nice, aren't they? Yes, those are nice.|qy ny sv
+B|Those compact discs,  really are good for cars because they don't melt,|sv
+A|Uh-huh.|b
+B|they don't warp.|sv
+A|Uh-huh.|b
+B|You know, there's nothing in there that can wrap around the, the, uh, rollers or anything. It seems like a really good answer to portable music, that you can choose.|sd sv
+A|Huh.|b

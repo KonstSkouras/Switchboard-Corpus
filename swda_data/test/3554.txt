@@ -1,0 +1,80 @@
+B|Well, um, I have a, a, a former exercise program. I'm a graduate student, and this semester, I'll tell you what, I, it's been almost impossible for me to get, you know, back to regular exercise. Um, last summer I was a, a swim instructor all summer and, and life guard, so it was really easy for me to get quite a bit of exercise swimming and, um, and since I worked at a recreation center I could, uh, you know, use those facilities quite often. But, um. Oh, yeah. Oh, yeah.|sd sd sd sd sd sd b b b
+A|and and it's least hard on your body,|sd
+B|Uh-huh, and there's and there's no jarring on the.|b sd
+A|I,|%
+B|Pardon?|br
+A|It's the least hard on your body as far as, uh, impact|sd
+B|Exactly, yeah, um,|aa %
+A|and|%
+B|yeah, fluid resistance.|b bf
+A|Right, right.|aa aa
+B|Uh-huh, uh-huh. How about you?|b b qo
+A|Well, I do, uh, little aerobics, oh, three or four times a week, but it's not enough to, boy if I go, in the summer time I try to jog, jog a couple of miles|sd % sd
+B|Oh, yeah.|b
+A|and, uh, well, you know, even doing that three or four times a week, when summer hits, that's a hard thing to go out and and go jogging for, uh half hour or so,|sd
+B|Yeah. Uh-huh.|b b
+A|but so, I'm not quite getting the level that I need to.|sd
+B|Uh-huh. Yeah. Do you, do you kind of think it's a chore, or do you enjoy it?|b b qy qrr
+A|I like it.|na
+B|Uh-huh.|b
+A|I like it, uh, part of my problem is I have small children, so, uh, to do a whole lot just requires a lot of, oh, coordination as far as scheduling and that type of, uh, deal, you know, uh,|sd sd sd
+B|Uh-huh. Sure, yeah.|b b %
+A|Of course, you got a little different direction going, but, uh.|sv %
+B|Uh-huh, yeah. Uh, I, um, I used to, uh, I used to weigh, uh, two hundred fifteen pounds, and now I weigh only about one, about one seventy-five. Um, so I drastically had to change the way I ate when I, when I first moved to college, and, uh, I had started weight lifting quite regularly, and so I got my weight down, and it's kind of easy for me to forget about it now, because, uh, you know, when I'm not fat like I used to be  I don't worry about it|b % sd sd sd sd sd sd
+A|Right, you don't notice it  as much,|b ^2
+B|, yeah.|%
+A|yeah.|%
+B|Uh-huh. Although lately I have noticed, you know, even if I gain, like two pounds, I start, I start feeling it and,|aa sd %
+A|You feel it, don't you?|qy
+B|Uh-huh.|ny
+A|It's amazing how, uh, how much, uh, it changes, and I weigh probably about the same I weighed for, oh, I don't know how many years, but, uh, it's changed places And things don't fit just quite exactly fit the same.|sd sd sd sd
+B|Yeah. Uh-huh.|b b
+A|But, uh, so, do you do, uh, in Texas, uh, does there, probably quite a few facilities.|qy % qy^d
+B|Yeah, there are. Um, I'm living in a dorm right now, and so right downstairs there's a facility. And I really feel kind of guilty for not working out more than I do because there's a facility right downstairs where all, you know, all we have to do is, is, uh, run down there|ny sd sd sd sd
+A|Do you enjoy it, or is it, uh. If you can have, find the time it's just the.|qy qrr ^2
+B|Uh-huh yeah, I really do, because I like to get, you know, get off alone and just do that for a while, but that's hard, you know.|b aa sd sd
+A|Yeah, it is hard|b sd
+B|Uh-huh.|b
+A|it is hard. It's, uh, like anything else whether or not you want to sacrifice another half hour.|sd sv
+B|Uh-huh.|b
+A|My problem is I don't want to wake up another half hour earlier and do more|sd
+B|Exactly.|aa
+A|Don't get enough sleep as it is, right|sd ^g
+B|Uh-huh, yeah, yeah.|ny ny ny
+A|and, uh, kind of have, if you're having the pressures of school and, uh, everything else, it's kind of, course it's really, you know, as soon as you do it, it's really a release.|% sv sv sv
+B|Oh, yeah.|b
+A|You feel invigorated and you feel oh, you feel in a lot better shape just like eating right foods.|sv sv
+B|Uh-huh. Yeah, ready to go another twelve hours. Yeah, yeah.|b b ^2 b b
+A|If I eat very much sugar, boy, just does something.|sd
+B|Uh-huh. Do you have to watch what you eat pretty regularly?|b qy
+A|I do. I have to be real careful.|na sd
+B|Uh-huh. I stopped eating meat about, oh, uh, must have been eight months ago.|b sd
+A|Did you?|^g
+B|Uh-huh, completely. I mean, any kind of meat or, and I, and I really feel a lot better now.|ny sd sd sd
+A|Makes a lot of difference.|qy^d
+B|Yeah, it really does.|ny sd
+A|Well, there's a lot of fat in meat.|sd
+B|Uh-huh, yeah, that's it, I mean, that's about where almost all of the fat comes from|b % sd
+A|Right.|b
+B|and so. I found that really helps.|sd
+A|And unless you really like, uh, fish. Fish is pretty good for you, but, uh.|sd sd %
+B|Yeah, I eat that, I think I've eaten fish like twice since. I used to eat a lot of fish, too, but I just tried to cut it all out for a while and see what happens.|b sd sd sd sd
+A|Kind of see what happens.|^2
+B|Yeah, and I like it.|aa sd
+A|I've tried to do that with sugar|sd
+B|I don't know if I'm that brave yet .|sd
+A|everything has sugar in it . I mean, if you go, your ketchup has sugar in it.|sv sv sd
+B|Uh-huh, uh-huh.|b b
+A|Course, and I like sugar, too, that's that's a problem,|% sd sd
+B|Uh-huh.|b
+A|but. Anyway, well, it's, uh, nice talking to you. Think we've, uh, covered all the subject.|% fc fc
+B|Okay, yeah, it sounds good.|fc fc fc
+A|Okay.|fc
+B|Well, good luck to you there in Idaho.|fc
+A|Well, you, too. Good luck, uh, enjoy college while you can. Let me tell you it's, uh.|fc fc fc fc
+B|Well, I'm in graduate school now. I, I, I kind of feel like I wish I could have gone back to undergraduate now|fc fc
+A|It's a little different, uh challenge, isn't it?|fc
+B|Yeah. Yeah, it is. Well, it's good talking,|fc fc fc fc
+A|Where are you going studying?|fc
+B|Pardon? I'm studying speech pathology.|fc fc
+A|Right.|fc

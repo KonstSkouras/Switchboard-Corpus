@@ -1,0 +1,69 @@
+B|So how many, um, credit cards do you have?|qw
+A|Um, I think I'm down to one.|sd
+B|Oh, my gosh, I wish I was that way. Is that why you said I had more experience than you?|ba sd qy
+A|Well, no. I was pulling your leg.|nn sd
+B|Oh. Well, how, how do you use your credit card? I mean, do you just keep it in reserve, or.|bk qw qy %
+A|I, I, well, the way I'd like to try and use it is, um, you, you, you make your purchases at, at prime buying time|% sd
+B|Uh-huh.|b
+A|and then you pay that off and don't use it until, uh, it's paid off.|sd
+B|Uh-huh.|b
+A|That's, that's my ideal way|sd
+B|Uh-huh. How, how do you use it?|b qw
+A|Emergencies come along, and I and I use it.|sd sd
+B|Yeah that's understandable, exactly.|b ba
+A|Uh, like, uh, my car, uh, had a major problem, and seven hundred dollars,|sd
+B|Uh-huh.|b
+A|and uh, things just come up|sd
+B|Right, right.|b b
+A|and you just never get to use it the way you'd really like to.|sv
+B|Uh-huh, uh-huh. Well, actually I do have quite a few more credit cards than you have Um, and I use them, you know, like my American Express I use for, you know, gas, things like that, and I pay that off monthly, and then, um, some other credit cards, like store credit cards, you know, I do have them up there a little bit, but, uh.|aa aa sd sd sd sd sd %
+A|Uh-huh.|b
+B|I try not to use them too often. But living in this area, uh, like I live fifteen miles west of Washington, D C|sd sd
+A|Um.|b
+B|it's a very expensive area|sd
+A|Yeah.|b
+B|So, sometimes you have no other choice if you need to buy something.|sv
+A|Yeah. Well, I, I know I was up in there and a lot of credit cards, and I was just starting to get to where it was getting me in trouble|aa sd sd
+B|Right.|b
+A|so we just disposed of them, paid them off, and got out of it.|sd
+B|Uh-huh.|b
+A|I just.|%
+B|Uh-huh, well that was good that you had the opportunity to do that.|b sv
+A|Yeah.|b
+B|Uh-huh. Now are you married, that you both, you and your wife use a credit card, or?|b qy %
+A|Yeah, yeah.|ny ny
+B|Uh-huh.|b
+A|Well, now we pretty much just pay cash for as much as we can there.|sd
+B|Uh-huh. Um. Uh-huh.|b b
+A|Our, our only credit card is Sears, so and I have that for automotive purposes.|sd sd
+B|Uh-huh, um. Right, right. Well, well that's great. Um, everyone I know here uses, um, credit cards like they're going out of business to be honest with you.|b b b ba sd
+A|Yeah. Yeah, it's, it's just too easy, basically, uh, just get yourself in trouble with those.|b b sv
+B|Yeah, yeah. Yeah, the only other one I have, I have like a Diner's Club through my, um, where I work|aa aa aa sd sd
+A|I see.|b
+B|so that I use, because I travel some. So I use that, and I don't really have to worry about that, because I only use it for business, so I automatically have the money to pay it off.|sd sd sd sd
+A|Yeah.|b
+B|But. Um.|%
+A|Uh, I wouldn't mind, uh, you know, getting back into one if they would, you know, you start out at a low limit, and then they just keep wanting you to increase your limit|sd sv sv
+B|Uh-huh.|b
+A|and, and if I can get one that'll keep my limit at five hundred and I can never go over that or something like that, then that's fine,|sd
+B|Uh-huh. Uh-huh.|b b
+A|but they eventually gets up there to five thousand, ten thousand, whatever fifty thousand|% sv
+B|Uh-huh. Yeah.|b b
+A|forget it, I don't want that.|ba sd
+B|Um, the temptation's too great.|sv
+A|Yeah.|b
+B|Um.|b
+A|So, I don't know, just, uh, writing checks is just as easy I guess.|h % sv
+B|Yeah, that's true, that's true, but. So, I guess, uh, we've kind of exhausted this, uh, topic|aa aa aa fc
+A|Yeah, well, really, what, what can you.|fc % %
+B|Yeah, you can't say too much about it really.|fc fc
+A|Other than, you use them or you don't use them. You like them or you don't like them. So.|fc fc fc %
+B|Uh-huh.|fc
+A|I guess, uh, they don't care if we end it early. So, uh, hopefully, uh, you have a good Thanksgiving. That's coming up, and. And, then, uh, maybe we'll talk again.|fc fc fc fc
+B|Okay, you, too. Yeah, may be, you're the furthest person, actually, that I've talked. I've talked to a lot of people in Texas.|fc fc fc fc sv fc
+A|Yeah.|fc
+B|Yeah.|fc
+A|Texas is the big one.|fc
+B|Yeah, so.|fc %
+A|Okay, then. Well, bye now.|fc fc
+B|okay, bye-bye.|fc fc

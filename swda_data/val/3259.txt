@@ -1,0 +1,116 @@
+A|Okay, I'll just go with you first. What kind of eating out do you enjoy?|fo_o_fw_"_by_bc sd qo
+B|Okay. Well, I like dining out. Of course, it means that I don't have to cook.|b sd sd
+A|Right|b
+B|But, um, I'm a divorced woman. I have one child|sd sd
+A|Uh-huh.|b
+B|and, you know, when, when we dine out we go to like medium priced restaurants.|sd
+A|Uh-huh.|b
+B|I don't, I don't particularly, I think it's sort of a waste of money to go real, to a real high priced restaurant.|% sv
+A|Do you go like home cooking, like Black-Eyed Pea and that kind of thing or cafeteria?|qy
+B|Um, Not really. We go more for the, uh, Chinese and Italian and stuff like that. Mexican, stuff that I can't cook|ng sd
+A|Me too Uh-huh. Mexican, uh-huh. Uh, we do too. We do the same.|sd b b^m b sd sd
+B|Yeah.|b
+A|What are your favorite places?|qw
+B|Um, well, I like Chinese food.|sd
+A|Uh-huh.|b
+B|Um, there's a little place down on, what is that? Coit Road, um, Chinese Pavilion or something. That is really good|sd
+A|Uh-huh.|b
+B|and I like it. And, um, I do, I do like Chinese buffets.|sd sd
+A|Oh, yeah. Well, we go, we've gone to August Moon and we think that was real good|b sd sd
+B|Uh-huh.|b
+A|but our favorite when you have a little more to spend, is to go to Taiwan or May Dragon.|sd
+B|Uh-huh.|b
+A|And those are excellent. They're really a nice place you could take someone to eat.|sd sd
+B|Right.|b
+A|It's not the, the rinky Chinese decorations|sd
+B|Uh-huh.|b
+A|but it's a very elegant nice place to eat.|sd
+B|Uh-huh.|b
+A|We go, very, very often we go out for fajitas. That's my husband has just gotten stuck.|sd % sd
+B|Oh|b
+A|And we go to On the Border. And lots of places that have, uh, I think|sd
+B|Uh-huh.|b
+A|and some of those and get fajitas, and he'll just eat chips until we've got three or four baskets coming back.|sd sd
+B|Uh-huh.|b
+A|And then, uh, last weekend we went out for Italian also, and for some reason the cooler weather makes me tend to want to go eat lasagna and garlic bread|sd sd
+B|Right, uh-huh. Uh-huh.|b b b
+A|So, we went to El Sorrento.|sd
+B|yeah, have you ever, um tried Pappasito's?|% qy
+A|It was fun. You know, what? This is, that's real funny you said that because we were coming back Sunday on Central from church and Bob pointed to it and he said, "I keep hearing good things about that place, we're going to have to go."|sd qh sd sd sd ^q
+B|Oh, it is delicious.|sd
+A|That's what he, in fact, you're about the third or fourth person in the last month that said that.|% sd
+B|Uh-huh.|b
+A|So I guess we'll have to do it.|sd
+B|It's, you always stand in line when you go|% sd
+A|That's what it, that's what|%
+B|but it's worth the wait.|sd
+A|D MAGAZINE said that. It said there was always a line.|sd sd
+B|Uh-huh.|b
+A|But that's probably, I mean that's a good, that's a good sign.|sv
+B|Uh-huh. And have you ever tried, um, the Macaroni Grill up on,|aa qy
+A|Yes, we did. Now, my kids didn't like it because they just wanted to get plain old spaghetti or lasagna,|ny sd sd
+B|Uh-huh.|b
+A|and most of those things were a little more northern Italy.|sd
+B|Right.|b
+A|And they like just the traditional. They're not very,|sd sd
+B|they're the Spaghetti Warehouse type.|qy^d
+A|Yes, they are. Exactly Exactly.|ny sd aa aa
+B|Right.|b
+A|The place of the seventies|sv
+B|Yeah, yeah, but my little girl likes, uh, Spaghetti Warehouse real well|aa aa sd
+A|Uh-huh. Yeah, most kids do.|b b sv
+B|It's real entertaining for her.|sd
+A|do you ever go for steak? Just a steak and potato and salad bar, that kind of thing.|qy
+B|Um, not really. That's, a steak is something that I cook at home. You know, that you grill out|ng sd
+A|Uh-huh. Yeah.|b b
+B|and I really don't particularly, um,|%
+A|Well, I'm, I'm real curious to try this one that has such commercials. The uh, that Del Lincoln and, oh, what is that guy's name? They do those real corny commercials.|sd t1 sv
+B|Huh.|b
+A|It's, uh, over, there's one over there in Addison. I can't remember his name. Anyhow it's some,|sd sd %
+B|Steak.|qy
+A|Yeah, it's some famous steak place over in Addison. There's a, there's a second one downtown, and they have these really corny radio commercials|ny sd sd sv
+B|Uh-huh.|b
+A|but but their steak is supposed to be wonderful. So, I I had not tried that. My husband was saying that up north they have such nice restaurants where you can go after a theater or after the movie.|sd sd sd
+B|Uh-huh.|b
+A|And it seems like I've been, we found those one time and then they discontinued. It was over in Addison.|% sd sd sd
+B|Huh.|b
+A|And then they, uh, closed up|sd
+B|Yes.|b
+A|So most of these places are pretty much just, uh, theme restaurants around here.|sv
+B|Right. I think that's what goes, you know, really goes right now in the, in the Dallas area.|aa sv
+A|Uh-huh.|b
+B|Of course, you know, down, next to downtown up around McKinney and everything you know, there's just a, there's a different class of restaurants up there that I can't even touch.|sv
+A|Uh-huh. Well, that's exactly true That's right. That's right. Yeah. That's right.|b aa aa aa aa aa
+B|You know, it would probably take my whole paycheck just to go in and have one meal up there|sv
+A|That's yeah, that's right. Uh-huh.|% aa aa b
+B|but, um,|%
+A|I had a friend who was taken to Lawry's downtown for prime rib|sd
+B|Uh-huh.|b
+A|and I haven't been. We usually don't go for beef really anymore.|sd sd
+B|Uh-huh.|b
+A|Where, we've gotten so used to doing chicken and things at home that that's, that's usually the way we'll go if we're not going lasagna.|% sd
+B|Right. Uh-huh. Yeah, when, when I go out, it's, it's normally to get, um, some specialty type of food|b b b sd
+A|Uh-huh.|b
+B|besides, you know, because chicken and steaks and everything I grill at home.|sd
+A|Uh-huh. I know. Well, I understand.|b ba ba
+B|And, and really it's, they're a lot better than what I get in the restaurant|sd
+A|That's right, and save you some money too|aa sv
+B|That's right.|aa
+A|Well|%
+B|Saves you a little bit money.|aa
+A|now what is your, what's your child's favorite place to eat?|qw
+B|Um, favorite place, uh, she has a lot, Taco Bell|^h sd sd
+A|Oh, yeah They're easy|b sv
+B|Yeah, that's right.|aa aa
+A|Yeah|b
+B|That's right.|aa
+A|Well, mine enjoy that too. They like to go pretty much where we like to go and they'll|sd sd %
+B|Uh-huh.|b
+A|and then our favorite thing on Fridays, we generally order pizza in so not Pizza Inn, but pizza to our house.|sd sd
+B|Right. Right, uh-huh.|b b b
+A|So we've done. Well, um, is there anything else you'd like to discuss about it?|% qy
+B|No, not that I know of.|nn sd
+A|I think we've, I think it's come to an eye conclusion so I'll talk with you later. Thank you.|fc fc fc
+B|Uh-huh, thank you.|fc fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc

@@ -1,0 +1,83 @@
+A|think about this?|fo_o_fw_"_by_bc
+B|Uh, do you have children in school?|qy
+A|I do.|na
+B|Uh, I have two that are, uh, now just about ready to graduate from college|sd
+A|Uh.|b
+B|but I also have two that are just entering school.  Uh, well *sv I think they're just pushing them entirely to fast.|sd
+A|So you see a big difference then in before and  now do you or, A lot of testing?|qy % qy
+B|Uh, well it seems to me that kindergarten is now the equivalent of first grade.|no
+A|Uh-huh.|b
+B|My son leaves the house at seven thirty and doesn't get home until three o'clock.|sd
+A|Uh-huh.|b
+B|And I think that's such a long day for a kindergartner.|sv
+A|I do too, I, oh, I think that's awful.|aa sv
+B|And, uh, I have a preschooler. Uh, I was told by her preschool teacher that she thought maybe she was to immature for kindergarten and I thought well how mature do you have to be|sd sd sd
+A|I know. What's the new criteria, huh.|aa qh
+B|And, uh, there is a, do you have the standardized testing now?|% qy
+A|We have all kinds of testing and it's over and over. It's I T B S or, and, uh, just everything, everything.|na sd sd
+B|Yeah.|b
+A|And they test, test, test. I live in Plano actually and I don't know if you've heard of Plano but  it's a very transient community.|sd sd qy^d sd
+B|No.|nn
+A|A lot of people from everywhere, it's just north of Dallas|sd sd
+B|Uh-huh.|b
+A|and it's grown in leaps and bounds. I, we must have maybe a hundred and fifty thousand people now.|sd sd
+B|Oh.|b
+A|And most of them from other places.|sd
+B|Yeah.|b
+A|Uh, J C Penney's come down from New York and, of course, T I and Xerox from Rochester and we just, have lots of people from everywhere. Lots of industry coming in,|sd sd
+B|Yeah.|b
+A|and it's a very wealthy community. Uh, not that I am but other people seem,  to be and I would love to know why but I mean they do. They have,|sd sd sv % sd %
+B|you would like to know what they're doing right|bf
+A|I, I would, I really would. I mean, they just have beautiful, beautiful homes and they have everything. The kids only wear name brand things to school and it's one of these things,|aa aa sd sd sd sv
+B|Oh me. Well that makes it hard for you, doesn't it.|ba qy
+A|Well it does, you know. It really does because I'm a single mom and I have a thirteen year old now and uh, you know, it does.|na sd sd
+B|Oh, me.|ba
+A|I mean, we do it to a point but  uh, not to where she feels different,|sd sd
+B|Yeah.|b
+A|but  some of them are very rich|sd
+B|It's hard to explain to them why you can't.|bf
+A|and so, uh, we just kind of have, everything here and we have a very goal oriented population because their parents are.|sd sd
+B|Right.|b
+A|And so I don't know how much of it, is us and how much of it is Texas but the kids are expected to excel in, everything.|sv sv
+B|Oh, dear.|ba
+A|And it's almost impossible because you have so many children and just so many activities that everybody can't be first and they're  expected to be.|sv sv
+B|Right.|b
+A|You know, their parents expect it, the teachers expect it, Texas wants very badly to be considered tops in the school system|sv sv sv
+B|Right|b
+A|and if you read national surveys, they're far from it. And so there's just a whole lot of testing and a whole lot of pushing to do well on these tests.|sd sv
+B|How about the kids. How are they coping with it?|qo qw
+A|Well, not very well. They bring home notes that say they have to get a good night's sleep and eat right in the morning before, tests.|sd sd
+B|Huh.|b
+A|I mean they make a big deal. To me, the paper should just be put on the desk that day and say just do this.|sv sv sv
+B|Right.|b
+A|You know, I just feel they do better that way.|sv
+B|Yeah. Rather than  anticipating.|aa bf
+A|And, Yeah. And, and I have older children too that now are out of high school and they've always done this here. I mean it's always been the same but it is, it's getting worse and worse, is more pressure for everything. *listen And I just think it's really awful and I, I'm with you on that. You don't hear too many people say this, but I think it's a very long day.|% b sd sd sv sv sv sv aa fo_o_fw_"_by_bc sv
+B|Oh, it is.|ba
+A|And my feeling is that, you know, you're only a kid once, and you don't want to  spend your whole life in school.|sv
+B|That's right. My son said that, came home and he said, he said Mom, all we do is work.|aa sd sd
+A|Uh-huh, uh-huh.|b b
+B|We hardly ever play and,|^q %
+A|And I don't think that's right. I think we should do what Europe does and include cultural activities in our school system.|sv sv
+B|Oh, likewise.|aa
+A|I don't think I should have to pay for dancing lessons, gymnastics, piano.|sv
+B|Right.|aa
+A|I would like to see those things included in our school system  because I think we should have well-rounded kids not just book smart kids.|sv
+B|Wouldn't that be great. Uh-huh. Right.|ba b aa
+A|And so I just find this a real problem. I think if they're going to be there all day, they should find time. One of my daughters, once, was out of school with Mono in her junior year I think it was. And she had a home teacher for like four hours a week and when she went back in six weeks, she was ahead. So what  does that tell you?|sv sv sd sd sd qh
+B|Is that right?|bh
+A|It tells you there's a whole  lot of wasted time.|sv
+B|Oh, my gosh. Oh, my gosh.|ba ba
+A|And they could be using this time better.|sv
+B|Well, for example, in my son's kindergarten. They're really finished at lunch time. After lunch, they have some, uh, I'm trying to think if they have recess after lunch, and then they have naps or rest period.|sd sd ^h sd
+A|Uh-huh.|b
+B|And, uh, I think either send them home or do something  a little more interesting.|sd
+A|That's a very long day for kindergartners.|ba
+B|I agree.|aa
+A|But I think that working parents have kind of demanded this.|sv
+B|I wouldn't be surprised.|ba
+A|You know, because they don't, they don't want to send them to daycare.|sv
+B|I doubt if they would say it was too long|sv
+A|That's why they want them there because them somebody takes care of them all day|sv
+B|Uh, do you have the before school care, at your school and the after school care?|qy
+A|We have them at one school like,|na

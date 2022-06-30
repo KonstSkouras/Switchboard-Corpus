@@ -1,0 +1,103 @@
+A|Where are you, Bob?|qw
+B|I am in Plano. Where are you?|sd qw
+A|Oh, okay. I am in Waco.|bk sd
+B|Is that right?|bh
+A|Yeah.|ny
+B|Oh, okay.|bk
+A|Right down the street. Oh, credit cards. My favorite subject|sd sd sd
+B|You mean you use credit cards?|qy
+A|Oh, do I.|na
+B|I bet you used them all up over Christmas.|qy^d
+A|Yeah, mostly over Christmas. Uh, I get in a rut with credit cards cause they get me kind of in a vicious cycle. Where you use them a lot one month and then you have to use whatever money you have to pay those off|ny sd sd
+B|And then your are in debt.|sv
+A|and so then you have no money, so you use a credit card.|sv sv
+B|I understand that.|ba
+A|Yeah. Uh, I probably have one of every credit card there is. Do you use them a lot?|b sd qy
+B|Well, uh, it kind of comes and goes, uh, I use uh, Citibank, the, uh, Advantage one pretty much cause you get vantage points for every dollar you spend.|arp_nd sd
+A|Uh-huh.|b
+B|Once a year, I get a free airplane ride that way.|sd
+A|Oh.|bk
+B|So, as long as you pay it off every month, it doesn't cost you anything.|sd
+A|Yeah. Yeah. Well, that is a good idea. Is that  that through a VISA?|b b ba qy
+B|That is what I, Yeah.|% ny
+A|Uh-huh.|b
+B|Yeah.|ny
+A|Huh.|b
+B|But, uh, I got all sorts of credit cards for my business that I use but, uh, If I can get away with paying them off every month, it is alright.|sd sd
+A|Uh-huh.|b
+B|If I don't then it gets expensive|sd
+A|Yeah. That is my problem. I don't try and pay them off. I pay, like the minimum.|aa sd sd sd
+B|Well you shouldn't do that.|ad
+A|I know So I have got myself,|aa sd
+B|You never, you never get out of the hole that way.|sv
+A|Exactly. I have got, that is why I have got myself with all this trouble now. But, I pay most of them on time and everything. It is just the, I always have them. So, it is kind of strange.|aa sd sd % sd sd
+B|Kind of like the federal government right?|qy
+A|Oh, yeah. Exactly like the government In,  In debt.|ny sd sv
+B|Can't never get out of debt. And every time you try to get out of debt, the economy goes to pot because people are spending money, right.|sv qy
+A|Yeah. Have they put the cap on the interest rates?|ny qy
+B|No.|nn
+A|I didn't know if they actually did that or not. I know they were considering it.|sd sd
+B|Just the people who don't need credit get the four and a half percent. The rest of the, uh, and me, we have got to pay fourteen and eighteen percent.|sd sd
+A|Uh-huh. Yeah. Funny how that works, isn't it|b b qy
+B|The, thou who doesn't need credit, gets cheap credit.|sv
+A|I would be interested to find out how many people, or how much, uh, people use credit this year. Say in nineteen ninety-two as opposed to nineteen ninety-one, even nineteen ninety. I think, I think it would be amazing how much, how many more people use it.|sd sv
+B|Well, I think so because the,|aa %
+A|Because of the economy.|sv
+B|That's right.|aa
+A|Yeah.|b
+B|You have got to use everything you have got just to stay where you are at.|sv
+A|Exactly. I would be very, I would like to see some numbers on that. I think that would be interesting.|aa sd sv
+B|Do you, do you have any, uh, credit union where you work or anything like that?|qy
+A|Yeah, I have a credit union.|ny sd
+B|Do they have a Mastercard or VISA card?|qy
+A|Yeah, they do. Uh-huh.|ny sd ny
+B|You have got that one.|qy^d
+A|Yes, I do Yes, I do a matter of fact.|ny sd ny sd
+B|Who, who do you work for?|qw
+A|Uh, I work for Channel six.|sd
+B|Oh.|bk
+A|It's it's an N B C affiliate down here.|sd
+B|I do a lot of work down in Waco, a lot of, I call on a lot of my business is down there.|sd sd
+A|Oh really. Oh, okay. Where do you work? What is your,|b b qw qw
+B|I sell metal fabricating equipment and tooling.|sd
+A|Oh, okay.|bk
+B|Tyme and Mercury and Tempco and all those people down there.|sd
+A|Oh, okay|bk
+B|Uh Gene|%
+A|So you probably work with, uh, uh, what is the boy from here? You ever work with Davis?|qy^d t1 qy
+B|Davis Iron?|qy
+A|Davis Iron Work, yeah.|na ny
+B|Yeah, matter of fact I just saw them last week.|ny sd
+A|Oh, okay. And, uh, what else.|bk ^h
+B|Are you in that part, are you in the south part of town now?|qy
+A|Well, I live actually in Hewett.|arp_nd
+B|Oh, yeah. Okay.|bk bk
+A|Yeah, right outside.|b sd
+B|You know Do you know Parker Machine Tool down there.|qy
+A|So, that is where Davis Iron Works is. Uh.|bf ^h
+B|Bobby Parker and, uh,|qy^d
+A|I don't think I have seen that one. I am sure I pass by it or something, but I am not sure.|ng sd h
+B|There is a place in Hewett, called, it is a new company called Prime Air. That is in Hewett. Just around the corner from Davis Iron Works.|sd sd sd
+A|Huh. Prime Air.|b
+B|They make, uh, humidifiers and uh, filters for air filtration stuff for hospitals, homes, something like that.|sd
+A|Oh, okay. Okay. Have you ever been to Marlin?|b b qy
+B|Uh, yeah.|ny
+A|I think it is Marlin or Mart. They have, uh, uh, a place, I guess that would be similar to Prime Air. It is called H G H or something like K G H or,|sd sd sd
+B|Oh, really. Huh.|b b
+A|I can't think of it. I can't think of the name.|sd sd
+B|Huh.|b
+A|But,|%
+B|I will have to stop in there. I went, I have gone through there, uh, my oldest son goes to A and M.|sd sd sd
+A|Oh yeah.|b
+B|He is working on his Master's. The Navy sent him there for his Master's. Mostly in engineering. So, once and a while we go up six there rather than take forty-five.|sd sd sd
+A|Yeah.|b
+B|That is about the last time I have been through Marlin and Mart|sd
+A|Uh-huh. Oh, I don't like that drive. I make that drive sometimes we have stories out there but, uh,|b sd sd sd %
+B|There is always a state trooper down there.|sv
+A|Huh.|b
+B|You have got to drive careful.|ad
+A|Oh, really I know.|b aa
+B|Between Mart and Marlin, they will nail you if you go over sixty miles an hour.|sv
+A|Oh, goodness. They, they are bad at Hewett too. On eighty-four.|ba sv
+B|Uh-huh.|b
+A|They are real bad. That is where I got my last ticket. So, of course, I couldn't pay that on a credit card.|sv sd sd

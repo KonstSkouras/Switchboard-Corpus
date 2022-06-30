@@ -1,0 +1,142 @@
+A|Well, I personally don't have any problem with, uh, drug testing employees or potential employees, do you?|qy
+B|Um,|b
+A|I mean, basically?|qy
+B|Basically, no.|nn
+A|Okay. I don't, I really can't disagree with it.|bk % sv
+B|I, I, uh, uh, the policy that T I has, I think is, uh, uh, very fair.|% sv
+A|Uh-huh.|b
+B|Um, I, they first had a policy where they, uh, would test new employees and, then since I've been with them the last four years, uh, there's been in the last year, year and a half, um, they're doing random testing of all employees.|% sd sd
+A|Uh-huh. I think that's really the only fair way to do it.|b sv
+B|Yes.|aa
+A|I really think it ought to be you know, Junkins all the way down.|sv sv
+B|And it is, it, and from what I understand it is Jerry Junkins all the way down.|aa % sv
+A|Right, as a matter of fact, I want to think they took the top managers first, isn't that a fact? I've been retired from T I about a year,|b sd ^g sd
+B|Uh-huh.|b
+A|but the program, you know, was still fairly new. I guess it had been going on, maybe almost a year,  before I retired,|sd sd
+B|Uh-huh.|b
+A|so I was not, uh, ever called upon to do a drug test. I certainly wouldn't object to it, and I think random is probably, you know, the only really fair way to do it.|sd sd sv
+B|Yeah. Um, I like it because, um, you know, I, I, I grew up in the sixties,|b sd sd
+A|Uh-huh.|b
+B|and,  and, uh, you know, I, I saw,|sd
+A|Uh-huh.|b
+B|you know, I know my friends who were you know, druggies and,  friends who weren't|sd
+A|Uh-huh.|b
+B|and, and, uh, you know, it's, I think it's a real problem,|sv
+A|Uh-huh. Oh, I, absolutely.|b % aa
+B|and I think it, and I think it's causing us a lot of trouble and,  and a lot of problems.|sv
+A|Yeah. Uh-huh.|b b
+B|And so I'm hoping that, uh, a lot of other companies will, will follow the same path.|sd
+A|I don't think they'll have much choice, do you?|qy
+B|Um, probably not.|ng
+A|Especially if they have anything do with, you know, government contracts, or anything. As matter of fact, I want to believe that the, uh, defense department more or less mandated that people, you know, who work on defense contracts, you know,  do some sort of, you know, drug testing.|sv sv
+B|Uh-huh.|b
+A|I think that's really what maybe prompted T I to do it. I was in the, uh, Defense Electronic Division when I retired. I know it was, a, you know, it was a real hot, hot item there. I think, I want to think maybe they, you know, really got some nudging from, you know, D O D to do this sort of thing.|sv sd sv sv
+B|Yeah,|b
+A|Uh-huh. Yeah. So you you know the atmosphere, then.|b b qy^d
+B|Yep.|ny
+A|So, yeah.|b
+B|Very aware of it.  uh, like, you know, school systems, and that kind of thing.|sd
+A|Uh-huh. Uh-huh. Right, I agree. I,|b b aa aa %
+B|I mean, I'd like, I'd like to know that my child's being taught by a teacher who's not on drugs or,  or, uh, who might be at a point where they're trying to sell my kid drugs.|sv
+A|That's right. That's absolutely. Yeah, I I just can't disagree with you , with you know the basic premise.|aa aa aa aa % sd
+B|Yeah.|b
+A|It's to as far as I know, it's, you know, seems to be a fairly accurate program, as far as, uh, you know, the testing goes. And, uh,|% sv %
+B|And, I like the idea that they have a, uh, system where they allow you to, uh, be retested if for,  some reason there may have been a problem.  or something did show up.|sv
+A|That's right. That's right. And offer you, you know, help if you need help.|aa aa ^2
+B|Yeah, yeah.|b b
+A|Yeah.|aa
+B|Yeah, rather than just, uh put you out on the street and let you fend for yourself.|b sd
+A|Yeah. That's right.|% aa
+B|That's not going to help anybody get over the problem.|sv
+A|No,|aa
+B|I believe it is a, a, a medical problem.|sv
+A|That's right.|aa
+B|Um, of course I also think smoking is the most addictive thing in the world, too|sv
+A|Oh, absolutely. Not to mention alcohol.|aa sv
+B|Yeah, so I mean, there's a lot of things out there|b sd
+A|Yep, yep.|b b
+B|I'm just glad that they, uh, decided not to, uh, tax drugs, otherwise they'd be legal,|sv
+A|Uh-huh.|b
+B|and they'd be getting tax money off it the same way,  they are the alcohol and tobacco|sv
+A|That's right That's right oh, gosh. Well, it's, it's a real problem, I'm sure. I'm sure.|aa aa ba sv sd sd
+B|Yeah. I have friends that work in other companies that are just now adopting the policy,  and, and stuff,|b sd
+A|Uh-huh.|b
+B|and I, uh, uh, I moved to a T I facility that, um, had never had, uh, random drug sampling before,  because they were outside of the military sector.|sd
+A|Uh-huh. Right. Uh-huh.|b b b
+B|It was, uh, an industrial company, and, you know, that T I purchased, and so the people here, a lot of them are real opposed to it.|sd sd
+A|Oh, yeah, uh-huh.|b b
+B|Uh, they were really opposed to it,|sd
+A|Uh-huh.|b
+B|and, you know, there was a few of them that obviously were doing drugs,|sd
+A|Uh-huh.|b
+B|and that's why they were opposed to it.|sv
+A|That's right.|aa
+B|And, uh, it resulted in, in a few people leaving, you know, because they just flat out weren't going to put up with the policy.|sd
+A|Uh-huh. Uh-huh.|b b
+B|You know, they had a life-style and they weren't going to change it.|sd sv
+A|Yeah, right.|b b
+B|And it's,|%
+A|Yeah, I know a lot of people who, when it first or at least began, was in the talking you know, everybody knew it was coming, it just a matter of time, everybody was screaming, you know, invasion of privacy and all this stuff. But a lot of people, I think, after they thought about it for awhile, and you know, weighed the pros and cons, decided, you know, it's really not a bad idea unless you're doing drugs, of course.|b sd sd sd sd sv
+B|Yeah. I mean, uh, you should have no objection to it, it's like, uh, going down to get your license and checking your eyes.|b sv sv
+A|That's right.|aa
+B|I mean, you know, why do I need my eyes checked,|qh
+A|Uh-huh. That's right, yep, yep.|b aa aa aa
+B|You know it's like, why are we doing this? Well, so you don't kill people on the road.|qh sd
+A|That's right. Or yourself or,|aa ^2 %
+B|Uh, it's a I mean, it's the basic premise with,  you know, drug testing.|% sv
+A|Yeah. That's right.|b aa
+B|Especially some of the jobs, um, luckily I've always been in the engineering sector,|sv sd
+A|Uh-huh.|b
+B|and it's very little that anyone could do in the engineering sector as far as, uh, you know, hurting someone, I mean,|sd
+A|Uh-huh.|b
+B|it's hard to imagine somebody misusing a computer and somebody dying from it,|sv
+A|Yeah. That's true.|aa aa
+B|But, uh, in the manufacturing sectors and over in semiconductor,  and down in some of those labs and stuff, yeah, I, darn if I'd want somebody down there that I'm working with side by side, you know, that could kill me, by doing something incorrectly because they were not exactly all there because they were on drugs.|sv
+A|Uh-huh. Yeah, assembly people. That's right. That's absolutely.|b b ^2 aa aa aa
+B|So, there's a, there's a lot of sectors where I think that would, would help out, and I think in the long run, we all benefit.|sv sv
+A|Uh-huh, oh, absolutely, yeah.|aa aa aa
+B|I mean, if you have, uh, you know, if you're not working with someone on drugs, well then you're going to have less accidents,|% sv
+A|Uh-huh.|b
+B|and you have less accidents and you spend less money on medical.|sv sv
+A|Uh-huh.|b
+B|And you spend less money on medical, then the company's more profitable.|sv
+A|Yeah.|b
+B|The company's more profitable,  then maybe they can pay you more.|sv
+A|Sure right .|b b
+B|If they can pay you more, you can buy more,|sv
+A|Uh-huh.|b
+B|and then, and it, and it goes around,  you know, to everywhere.|% sv
+A|Sure. Trickles, trickles up and down.|b bf
+B|Yep, all over.|b sv
+A|Sure does.|aa
+B|And, uh,|%
+A|Yeah, affects a lot of people.|b sv
+B|It certainly does|aa
+A|Yeah. Uh-huh, uh-huh.|b b b
+B|and, and, and start it up.|sd
+A|I think they probably will. You know, if, if they, I'm sure it's a very expensive program to administer. I'm not sure every small company could do it.|sv % sv sd
+B|Well, a lot of companies are, are, coming down in price,|sd
+A|Uh-huh.|b
+B|and I think that the insurance companies are starting to give, uh, benefits.|sv
+A|Uh-huh.|b
+B|You know, reduction in, in medical costs if, you know, they,|sd
+A|Uh-huh, yeah, yeah, it's got to help them too.|b b b sv
+B|Yeah, so, I think everybody will, will benefit from the program.|b sv
+A|Uh-huh, yeah, I do too, that's right.|aa aa aa aa
+B|And I think if, if a lot more insurance companies get on the bandwagon and say,  well if you impose, uh,  mandatory drug testing, we'll reduce your insurance costs by,  you know, twenty per cent.|sv
+A|Uh-huh. Uh-huh. Uh-huh.|b b b
+B|And of course, you know, the company's not going to reduce the employee's cost of insurance twenty per cent, they're going to reduce their own.|sv
+A|No, no. But it'll save in some areas, yeah, right.|ar ar sv % b
+B|Yeah, and that'll cover it. And maybe some insurance companies might start offering it as a, uh, as part of the package.|b sd sv
+A|That's right. That certainly could happen. That's a very very, very competitive business.|aa sd sd
+B|Yeah. So it, I, I think, I think all around it, it's going to help out a lot.|b % sv
+A|Yeah. I do too.|aa aa
+B|Course,|%
+A|I just really can't disagree with you.|sd
+B|Yeah.|b
+A|Okay, well, it's nice to talk to you.|b fc
+B|It was great talking with you.|fc
+A|And you take care.|fc
+B|You do the same.|fc
+A|Okay. Bye-bye.|fc fc
+B|Bye-bye.|fc
